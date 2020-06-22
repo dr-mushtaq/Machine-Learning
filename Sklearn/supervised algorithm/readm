@@ -1,1 +1,2 @@
-Supervised learning is a type of machine learning problem where users are given targets which they need to predict. Classification is a type of supervised learning where an algorithm predicts one output from a list of given classes. It can be a binary classification task where there are 2-classes or multi-class problems where there are more than 2-classes.
+Supervised learning is a type of machine learning problem where users are given targets which they need to predict.
+Classification is a type of supervised learning where an algorithm predicts one output from a list of given classes. It can be a binary classification task where there are 2-classes or multi-class problems where there are more than 2-classes.
