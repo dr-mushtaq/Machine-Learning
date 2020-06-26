@@ -1,4 +1,5 @@
 Supervised learning is a type of machine learning problem where users are given targets which they need to predict.
 Classification is a type of supervised learning where an algorithm predicts one output from a list of given classes.
 It can be a binary classification task where there are 2-classes or multi-class problems where there are more than 2-classes.
+Scikit-Learn - Naive Bayes¶
 https://coderzcolumn.com/tutorials/machine-learning/scikit-learn-sklearn-naive-bayes?fbclid=IwAR2EUHN0XwJlCQ8hxjvYHh9Vl4g0AjllmD1ktHsNd7Mwu5g2bOLZEjdKld4
