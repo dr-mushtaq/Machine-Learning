@@ -3,15 +3,4 @@ https://machinelearningknowledge.ai/semi-supervised-learning-a-gentle-introducti
 Machine Learning with python for everyone
 https://drive.google.com/file/d/16q7D0W0CIGS4qOAjt18BpEquodqpE7EV/view?usp%3Ddrivesdk&fbclid=IwAR0y98UMt5ts7FFCN32AN29o8gUHnTGlB1sMNR_wvqEXV_GCefLqvCVlheE
 
-➥ ./gh-md-toc ~/projects/Dockerfile.vim/README.md
 
-
-Table of Contents
-=================
-
-  * [Dockerfile.vim](#dockerfilevim)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
