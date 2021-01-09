@@ -14,8 +14,9 @@ This is a sample file for our Machine Course
    *  [Linear_Regression](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Linear_Regression_.ipynb)
    *  [Model_Evaluation_&_Scoring_Matrices](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Model_Evaluation_%26_Scoring_Matrices%20(1).ipynb)
    *  [Naive_Bayes](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_.ipynb)
+   *  [Nerual Networks](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Neural_Network.ipynb)
 
-   
+   dfdf
    
    
 
