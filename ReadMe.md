@@ -11,6 +11,11 @@ This is a sample file for our Machine Course
  * [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
    *  [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
    *  [Decision_Trees](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Decision_Trees.ipynb)
+   *  [Linear_Regression](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Linear_Regression_.ipynb)
+   *  [Model Evaluation Scoring matric](Machine-Learning/Sklearn/supervised algorithm/Model_Evaluation_&_Scoring_Matrices (1).ipynb
+)
+   
+   
 
 
 
