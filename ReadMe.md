@@ -1,7 +1,5 @@
-====================================================================================
-## Tabl of Content
-=====================================================================================
 
+## Tabl of Content
 1. [MLAndrew](https://github.com/hussain0048/Machine-Learning/tree/master/ML(Andrew))
 2. [Sklearn](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn)
  * [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
