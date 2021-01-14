@@ -14,6 +14,7 @@
    *  [Model_Evaluation_&_Scoring_Matrices](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Model_Evaluation_%26_Scoring_Matrices%20(1).ipynb)
    *  [Naive_Bayes](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_.ipynb)
    *  [Nerual Networks](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Neural_Network.ipynb)
+   *  [Supervised_learning_with_Sklearn](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Supervised_learning_with_Sklearn.ipynb)
 
    dfdfkk
    
