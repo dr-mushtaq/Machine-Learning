@@ -15,8 +15,9 @@
    *  [Naive_Bayes](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_.ipynb)
    *  [Nerual Networks](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Neural_Network.ipynb)
    *  [Supervised_learning_with_Sklearn](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Supervised_learning_with_Sklearn.ipynb)
-
-   dfdfkk
+* **Model Need to implement**
+  *  [50 Machine Learning Algorithms Explained using Python](https://medium.com/coders-camp/50-machine-learning-algorithms-explained-using-python-8e79b1d89c98)
+   
    
    
 
