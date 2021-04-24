@@ -19,6 +19,7 @@
   *  [50 Machine Learning Algorithms Explained using Python](https://medium.com/coders-camp/50-machine-learning-algorithms-explained-using-python-8e79b1d89c98)
   *  [Interpreting Tree-Based Model's Prediction of Individual Sample](https://coderzcolumn.com/tutorials/machine-learning/treeinterpreter-interpreting-tree-based-models-prediction-of-individual-sample?fbclid=IwAR2-zcjOO-c3XfiDoG6eufSmBaFz9mnrislreMJF6NluNUAwZZWCWtM8kYI)
   * [All Machine Learning Algorithms & Models Explained](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
+  * [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/?fbclid=IwAR2AAOh0PhQU2IjIgPA__4YR_9MnR1rFBCgDVCk2A2Xxi92oDT8zn0qJJ0A)
    
    
    
