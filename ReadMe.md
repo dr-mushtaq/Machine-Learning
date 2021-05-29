@@ -19,7 +19,7 @@
    *  [PyCaret in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/PyCaret_in_Machine_Learning.ipynb)
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
    *  [Apriori_Algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Association%20Mining/Apriori_Algorithm%20(1).ipynb)
-   *  [Naive Bayes Algorithm in Machine Learning] (https://github.com/hussain0048/Machine Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_Algorithm_in_Machine_Learning.ipynb)
+   *  [Naive Bayes Algorithm in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_Algorithm_in_Machine_Learning.ipynb)
 * **Model Need to implement**
   *  [50 Machine Learning Algorithms Explained using Python](https://medium.com/coders-camp/50-machine-learning-algorithms-explained-using-python-8e79b1d89c98)
   *  [Interpreting Tree-Based Model's Prediction of Individual Sample](https://coderzcolumn.com/tutorials/machine-learning/treeinterpreter-interpreting-tree-based-models-prediction-of-individual-sample?fbclid=IwAR2-zcjOO-c3XfiDoG6eufSmBaFz9mnrislreMJF6NluNUAwZZWCWtM8kYI)
