@@ -32,6 +32,7 @@
   * [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/?fbclid=IwAR2AAOh0PhQU2IjIgPA__4YR_9MnR1rFBCgDVCk2A2Xxi92oDT8zn0qJJ0A)
   * [60 Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
   * [ageron/handson-ml2](https://github.com/ageron/handson-ml2)
+  * [All Machine Learning Algorithms & Models with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
    
    
    
