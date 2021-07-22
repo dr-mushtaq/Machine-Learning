@@ -34,7 +34,7 @@
   * [60 Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
   * [ageron/handson-ml2](https://github.com/ageron/handson-ml2)
   * [All Machine Learning Algorithms & Models with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
-  * [Feature Selection Techniqu](https://medium.com/geekculture/feature-selection-techniques-bc0c69e85b85)
+ 
    
    
    
