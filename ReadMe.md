@@ -26,6 +26,7 @@
    *  [Upload_Dataset_from_github_to_Colab.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Upload_Dataset_from_github_to_Colab.ipynb)
    *  [Feature_Selection](https://github.com/hussain0048/Machine-Learning/blob/master/Feature%20Selection/Feature_Selection.ipynb)
    *  [Label_Encoding](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Label_Encoding.ipynb)
+ * [**Data visualization**](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
 * **Model Need to implement**
   *  [50 Machine Learning Algorithms Explained using Python](https://medium.com/coders-camp/50-machine-learning-algorithms-explained-using-python-8e79b1d89c98)
   *  [70+ Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
