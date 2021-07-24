@@ -26,6 +26,7 @@
    *  [Upload_Dataset_from_github_to_Colab.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Upload_Dataset_from_github_to_Colab.ipynb)
    *  [Feature_Selection](https://github.com/hussain0048/Machine-Learning/blob/master/Feature%20Selection/Feature_Selection.ipynb)
    *  [Label_Encoding](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Label_Encoding.ipynb)
+   *  [Create_new_Features_(Faker)](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Create_new_Features_(Faker)_.ipynb)
  * [**Data visualization**](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
    *  [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
  * [**Statistics**](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
