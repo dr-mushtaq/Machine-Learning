@@ -32,6 +32,8 @@
    *  [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
  * [**Statistics**](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
    *   [Exploring_Correlation](https://github.com/hussain0048/Machine-Learning/blob/master/Statistics/Exploring_Correlation_%20(1).ipynb)
+ * [ Deep Learning library]
+ * 
 * **Model Need to implement**
   *  [50 Machine Learning Algorithms Explained using Python](https://medium.com/coders-camp/50-machine-learning-algorithms-explained-using-python-8e79b1d89c98)
   *  [70+ Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
