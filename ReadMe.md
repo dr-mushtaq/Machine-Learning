@@ -10,6 +10,7 @@
    *  [DBSCAN Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/DBSCAN_Clustering_in_Machine_Learning.ipynb)
  * [**Supervised Learning**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
    *  [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
+   *  [Voting_Classifiers.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Voting_Classifiers.ipynb)
    *  [Perceptron in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Perceptron_in_Machine_Learning.ipynb)
    *  [Decision_Trees](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Decision_Trees.ipynb)
    *  [Linear_Regression](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Linear_Regression_.ipynb)
