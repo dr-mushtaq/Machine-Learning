@@ -29,6 +29,7 @@
    *  [Label_Encoding](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Label_Encoding.ipynb)
    *  [Create_new_Features_(Faker)](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Create_new_Features_(Faker)_.ipynb)
    *  [Give_Columns_name_to_dataset_(resize)_using_Python](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Give_Columns_name_to_dataset_(resize)_using_Python.ipynb)
+   *  [Data_representation_in_scikit_learn.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Data_representation_in_scikit_learn.ipynb)
 * [**Model Evaluation**](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
    *  [Bias and Variance using Python](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Bias_and_Variance_using_Python.ipynb)
  * [**Data visualization**](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
