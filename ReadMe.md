@@ -33,6 +33,7 @@
    *  [Data_representation_in_scikit_learn.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Data_representation_in_scikit_learn.ipynb)
 * [**Model Evaluation**](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
    *  [Bias and Variance using Python](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Bias_and_Variance_using_Python.ipynb)
+   *  [hyperparameter_tuning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/hyperparameter_tuning.ipynb)
  * [**Data visualization**](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
    *  [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
  * [**Statistics**](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
