@@ -55,6 +55,7 @@
   * [All Machine Learning Algorithms & Models with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
   * [How to Master Scikit-learn for Data Science](https://towardsdatascience.com/how-to-master-scikit-learn-for-data-science-c29214ec25b0)
   * [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms)
+  * [80+ Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
  
    
    
