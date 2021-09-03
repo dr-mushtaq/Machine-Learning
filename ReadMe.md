@@ -38,6 +38,7 @@
    *  [Bias and Variance using Python](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Bias_and_Variance_using_Python.ipynb)
    *  [hyperparameter_tuning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/hyperparameter_tuning.ipynb)
    *  [What_is_Cross_Validation_in_Machine_Learning_.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/What_is_Cross_Validation_in_Machine_Learning_.ipynb)
+   *  [Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_&_Performance (1).ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_%26_Performance%20(1).ipynb)
  * [**Data visualization**](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
    *  [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
  * [**Statistics**](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
