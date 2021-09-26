@@ -60,6 +60,10 @@
  * 
 * **Model Need to implement**
   *  [50 Machine Learning Algorithms Explained using Python](https://medium.com/coders-camp/50-machine-learning-algorithms-explained-using-python-8e79b1d89c98)
+  *  [Akramz
+/
+Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
+Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow)
   *  [Data Cleaning with Python](https://medium.com/bitgrit-data-science-publication/data-cleaning-with-python-f6bc3da64e45)
   *  [70+ Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
   *  [Interpreting Tree-Based Model's Prediction of Individual Sample](https://coderzcolumn.com/tutorials/machine-learning/treeinterpreter-interpreting-tree-based-models-prediction-of-individual-sample?fbclid=IwAR2-zcjOO-c3XfiDoG6eufSmBaFz9mnrislreMJF6NluNUAwZZWCWtM8kYI)
