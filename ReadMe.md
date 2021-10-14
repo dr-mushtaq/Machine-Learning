@@ -54,7 +54,7 @@
  * [**Data visualization**](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
    *  [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
  * [**Statistics**](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
-   *   [Exploring_Correlation](https://github.com/hussain0048/Machine-Learning/blob/master/Statistics/Exploring_Correlation_%20(1).ipynb)
+   *   [Exploring_Correlation](https://github.com/hussain0048/Machine-Learning/blob/master/Statistics/Exploring_Correlation_10_14_21.ipynb)
  * [**Deep learning library**](https://github.com/hussain0048/Machine-Learning/tree/master/Deep%20Learning%20library)
    *   [FastAI_in_Machine_Learning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Deep%20Learning%20library/FastAI_in_Machine_Learning.ipynb) 
  * 
