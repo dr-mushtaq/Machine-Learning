@@ -3,15 +3,20 @@
 1. [**MLAndrew**](https://github.com/hussain0048/Machine-Learning/tree/master/ML(Andrew))
 2. [**Sklearn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn)
  * [**Graph Algorithms**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
- * [**Unsupervised Learning**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
-   *  [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
-   *  [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
-   *  [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
-   *  [Kmean](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Kmean%20.ipynb)
-   *  [DBSCAN Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/DBSCAN_Clustering_in_Machine_Learning.ipynb)
-   *  [Clus-K-Means-Customer-Seg-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-K-Means-Customer-Seg-py-v1.ipynb)
-   *  [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
-   *  [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
+ 
+ 
+## Module 01 - Unsupervised Learning
+  - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
+  - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
+  - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
+  - [Kmean](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Kmean%20.ipynb)
+  - [DBSCAN Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/DBSCAN_Clustering_in_Machine_Learning.ipynb)
+  - [Clus-K-Means-Customer-Seg-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-K-Means-Customer-Seg-py-v1.ipynb)
+  - [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
+  - [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
+ 
+
+
  * [**Supervised Learning**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
    *  [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
    *  [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
@@ -80,17 +85,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
  
    
    
-   
-## Module 01 - Unsupervised Learning
-  - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
-  - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
-  - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
-  - [Kmean](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Kmean%20.ipynb)
-  - [DBSCAN Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/DBSCAN_Clustering_in_Machine_Learning.ipynb)
-  - [Clus-K-Means-Customer-Seg-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-K-Means-Customer-Seg-py-v1.ipynb)
-  - [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
-  - [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
- 
+
 
 
 
