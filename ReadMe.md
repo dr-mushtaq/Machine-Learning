@@ -6,6 +6,7 @@
  
  
 ## Module 01 - Unsupervised Learning
+  - [Unsupervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
   - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
   - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
   - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
@@ -17,26 +18,29 @@
  
 
 
- * [**Supervised Learning**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
-   *  [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
-   *  [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
-   *  [Supervised_(Classification)_ML_Model_Training_and_Evulation](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb)
-   *  [Reg-NoneLinearRegression-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-NoneLinearRegression-py-v1.ipynb)
-   *  [Reg-Polynomial-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Polynomial-Regression-Co2-py-v1.ipynb)
-   *  [Reg-Simple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Simple-Linear-Regression-Co2-py-v1.ipynb)
-   *  [Clas-Decision-Trees-drug-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Clas-Decision-Trees-drug-py-v1.ipynb)
-   *  [Clas-K-Nearest-neighbors-CustCat-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Clas-K-Nearest-neighbors-CustCat-py-v1.ipynb)
-   *  [Voting_Classifiers.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Voting_Classifiers.ipynb)
-   *  [Perceptron in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Perceptron_in_Machine_Learning.ipynb)
-   *  [Decision_Trees](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Decision_Trees.ipynb)
-   *  [Linear_Regression](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Linear_Regression_.ipynb)
-   *  [XGBoost_in_Machine_Learning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/XGBoost_in_Machine_Learning.ipynb)
-   *  [Model_Evaluation_&_Scoring_Matrices](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Model_Evaluation_%26_Scoring_Matrices%20(1).ipynb)
-   *   [Naive Bayes Algorithm in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_Algorithm_in_Machine_Learning.ipynb)
-   *  [Naive_Bayes](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_.ipynb)
-   *  [Nerual Networks](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Neural_Network.ipynb)
-   *  [Supervised_learning_with_Sklearn](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Supervised_learning_with_Sklearn.ipynb)
-   *  [PyCaret in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/PyCaret_in_Machine_Learning.ipynb)
+## Module 02 - Supervised Learning
+  - [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
+  - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
+  - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
+  -  [Supervised_(Classification)_ML_Model_Training_and_Evulation](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb)
+  - [Reg-NoneLinearRegression-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-NoneLinearRegression-py-v1.ipynb)
+  -  [Reg-Polynomial-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Polynomial-Regression-Co2-py-v1.ipynb)
+  -  [Reg-Simple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Simple-Linear-Regression-Co2-py-v1.ipynb)
+  -  [Clas-Decision-Trees-drug-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Clas-Decision-Trees-drug-py-v1.ipynb)
+  -  [Clas-K-Nearest-neighbors-CustCat-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Clas-K-Nearest-neighbors-CustCat-py-v1.ipynb)
+  - [Voting_Classifiers.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Voting_Classifiers.ipynb)
+  -  [Perceptron in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Perceptron_in_Machine_Learning.ipynb)
+  -  [Decision_Trees](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Decision_Trees.ipynb)
+  -  [Linear_Regression](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Linear_Regression_.ipynb)
+  - [XGBoost_in_Machine_Learning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/XGBoost_in_Machine_Learning.ipynb)
+  -  [Model_Evaluation_&_Scoring_Matrices](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Model_Evaluation_%26_Scoring_Matrices%20(1).ipynb)
+  -   [Naive Bayes Algorithm in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_Algorithm_in_Machine_Learning.ipynb)
+  -  [Naive_Bayes](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_.ipynb)
+  -  [Nerual Networks](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Neural_Network.ipynb)
+  -   [Supervised_learning_with_Sklearn](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Supervised_learning_with_Sklearn.ipynb)
+  -   [PyCaret in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/PyCaret_in_Machine_Learning.ipynb)
+
+
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
    *  [Apriori_Algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Association%20Mining/Apriori_Algorithm%20(1).ipynb)
  * [**Preprocessing**](https://github.com/hussain0048/Machine-Learning/tree/master/Preprocessing)
