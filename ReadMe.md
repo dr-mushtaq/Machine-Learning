@@ -94,10 +94,25 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
    
    
   
-  <!-- Copy-paste in your Readme.md file -->
-<a href = "https://github.com/hussain0048/Machine-Learning/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Hasaankhattak45/Machine-Learning
-"/>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/hussain0048"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Mushtaq hussain</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=mushtaq hussain" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+    
+    <td align="center"><a href="https://github.com/Hasaakhattak45"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Hasaan khaattak</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jfmengels" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajfmengels" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td>
+    
+  
+  </tr>
+</table>
+
+
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://github.com/hussain0048/Machine-Learning/contributors">
+  <img src="https://contrib.rocks/image?repo=Hasaankhattak45/Machine-Learning"/>
 </a>
 
 
