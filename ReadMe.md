@@ -43,30 +43,40 @@
 
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
    *  [Apriori_Algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Association%20Mining/Apriori_Algorithm%20(1).ipynb)
- * [**Preprocessing**](https://github.com/hussain0048/Machine-Learning/tree/master/Preprocessing)
-   *  [Data_Processing_in_Python_.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Data_Processing_in_Python_.ipynb)
-   *  [Upload_Dataset_from_github_to_Colab.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Upload_Dataset_from_github_to_Colab.ipynb)
-   *  [Feature_Selection](https://github.com/hussain0048/Machine-Learning/blob/master/Feature%20Selection/Feature_Selection.ipynb)
-   *  [Create_new_Features_(Faker)](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Create_new_Features_(Faker)_.ipynb)
-   *  [Give_Columns_name_to_dataset_(resize)_using_Python](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Give_Columns_name_to_dataset_(resize)_using_Python.ipynb)
-   *  [StandardScaler in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/StandardScaler_in_Machine_Learning.ipynb)
-   *  [Creating_artificial_datasets.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Creating_artificial_datasets.ipynb)
-   *  [Data_representation_in_scikit_learn.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Data_representation_in_scikit_learn.ipynb)
+
+## Module 03 - [Preprocessing](https://github.com/hussain0048/Machine-Learning/tree/master/Preprocessing)
+  -   [**Preprocessing**](https://github.com/hussain0048/Machine-Learning/tree/master/Preprocessing)
+  -   [Data_Processing_in_Python_.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Data_Processing_in_Python_.ipynb)
+  -   [Upload_Dataset_from_github_to_Colab.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Upload_Dataset_from_github_to_Colab.ipynb)
+  -   [Feature_Selection](https://github.com/hussain0048/Machine-Learning/blob/master/Feature%20Selection/Feature_Selection.ipynb)
+  -   [Create_new_Features_(Faker)](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Create_new_Features_(Faker)_.ipynb)
+  -   [Give_Columns_name_to_dataset_(resize)_using_Python](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Give_Columns_name_to_dataset_(resize)_using_Python.ipynb)
+  -   [StandardScaler in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/StandardScaler_in_Machine_Learning.ipynb)
+  -    [Creating_artificial_datasets.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Creating_artificial_datasets.ipynb)
+  -   [Data_representation_in_scikit_learn.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Data_representation_in_scikit_learn.ipynb)
+
+
 * [**Recommendation System**](https://github.com/hussain0048/Machine-Learning/tree/master/Recommendation%20System)
    *  [ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb)
    *  [ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb)
+
+## Module 04 - [Model Evaluation](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
 * [**Model Evaluation**](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
-   *  [Bias and Variance using Python](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Bias_and_Variance_using_Python.ipynb)
-   *  [hyperparameter_tuning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/hyperparameter_tuning.ipynb)
-   *  [What_is_Cross_Validation_in_Machine_Learning_.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/What_is_Cross_Validation_in_Machine_Learning_.ipynb)
-   *  [Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_&_Performance (1).ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_%26_Performance%20(1).ipynb)
+  -  [Bias and Variance using Python](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Bias_and_Variance_using_Python.ipynb)
+  -   [hyperparameter_tuning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/hyperparameter_tuning.ipynb)
+  -   [What_is_Cross_Validation_in_Machine_Learning_.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/What_is_Cross_Validation_in_Machine_Learning_.ipynb)
+  -  [Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_&_Performance (1).ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_%26_Performance%20(1).ipynb)
+
+
  * [**Data visualization**](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
    *  [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
  * [**Statistics**](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
    *   [Exploring_Correlation](https://github.com/hussain0048/Machine-Learning/blob/master/Statistics/Exploring_Correlation_10_14_21.ipynb)
  * [**Deep learning library**](https://github.com/hussain0048/Machine-Learning/tree/master/Deep%20Learning%20library)
    *   [FastAI_in_Machine_Learning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Deep%20Learning%20library/FastAI_in_Machine_Learning.ipynb) 
- * 
+ 
+ 
+ 
 * **Model Need to implement**
   *  [50 Machine Learning Algorithms Explained using Python](https://medium.com/coders-camp/50-machine-learning-algorithms-explained-using-python-8e79b1d89c98)
   *  [Akramz
