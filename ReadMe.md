@@ -61,8 +61,9 @@
   - [What_is_Cross_Validation_in_Machine_Learning_.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/What_is_Cross_Validation_in_Machine_Learning_.ipynb)
   - [Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_&_Performance (1).ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_%26_Performance%20(1).ipynb)
 
-## Module 05 - [Data visualization](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
+## Module 05 - [Data Visualization and Exploratoration](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
   - [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
+  - [Data_Exploratory_and_Ploting](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Exploratory_and_Ploting.ipynb)
 
 ## Module 06 -  [Statistics](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
   - [Exploring_Correlation](https://github.com/hussain0048/Machine-Learning/blob/master/Statistics/Exploring_Correlation_10_14_21.ipynb)
