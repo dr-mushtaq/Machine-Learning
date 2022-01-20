@@ -63,10 +63,10 @@
 
 ## Module 05 - [Data Visualization and Exploratoration](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
   - [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
-  - [Data_Exploratory_and_Ploting](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Exploratory_and_Ploting.ipynb)
+  - [**Data_Exploratory_and_Ploting**](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Exploratory_and_Ploting.ipynb)
 
 ## Module 06 -  [Statistics](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
-  - [Exploring_Correlation](https://github.com/hussain0048/Machine-Learning/blob/master/Statistics/Exploring_Correlation_10_14_21.ipynb)
+  - [**Exploring_Correlation**](https://github.com/hussain0048/Machine-Learning/blob/master/Statistics/Exploring_Correlation_10_14_21.ipynb)
 
 
  * [**Deep learning library**](https://github.com/hussain0048/Machine-Learning/tree/master/Deep%20Learning%20library)
