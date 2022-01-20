@@ -33,9 +33,8 @@
   - [Naive Bayes Algorithm in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_Algorithm_in_Machine_Learning.ipynb)
   - [Naive_Bayes](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_.ipynb)
   - [Nerual Networks](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Neural_Network.ipynb)
-  - [Supervised_learning_with_Sklearn](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Supervised_learning_with_Sklearn.ipynb)
+  - [**Supervised_learning_with_Sklearn**](https://github.com/hussain0048/Machine-Learning/blob/master/1_28_2020_Supervised_learning_with_Sklearn.ipynb)
   - [PyCaret in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/PyCaret_in_Machine_Learning.ipynb)
-
 
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
    *  [Apriori_Algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Association%20Mining/Apriori_Algorithm%20(1).ipynb)
