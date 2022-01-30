@@ -94,9 +94,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
  
    
    
-## contributor
+## **Contributors**
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
- Assistant Professor VU 
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
 
