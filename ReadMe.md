@@ -94,7 +94,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
   - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms)
   - [80+ Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
   - [5x12themlsbook](https://github.com/5x12/themlsbook)
-  - [edyoda data-science-complete-tutorial(https://github.com/edyoda/data-science-complete-tutorial)
+  - [edyoda data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial)
  
    
    
