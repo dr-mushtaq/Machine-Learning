@@ -50,7 +50,8 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
   - [StandardScaler in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/StandardScaler_in_Machine_Learning.ipynb)
   - [Creating_artificial_datasets.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Creating_artificial_datasets.ipynb)
   - [Data_representation_in_scikit_learn.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Data_representation_in_scikit_learn.ipynb)
-
+## Module 04 - [Anomaly Detection](https://github.com/hussain0048/Machine-Learning/tree/master/Preprocessing)
+ - [**Anomaly_Detection.ipynb**](https://github.com/hussain0048/Machine-Learning/blob/master/Anomaly_Detection.ipynb)
 
 * [**Recommendation System**](https://github.com/hussain0048/Machine-Learning/tree/master/Recommendation%20System)
    *  [ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb)
