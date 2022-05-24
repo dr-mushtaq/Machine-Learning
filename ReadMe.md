@@ -78,6 +78,9 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 
  * [**Deep learning library**](https://github.com/hussain0048/Machine-Learning/tree/master/Deep%20Learning%20library)
    *   [FastAI_in_Machine_Learning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Deep%20Learning%20library/FastAI_in_Machine_Learning.ipynb) 
+
+## Module 07 - [Distance Measure ]
+   - [Distance Measure ](https://github.com/hussain0048/Machine-Learning/blob/master/Distance_Measure_.ipynb)
  
  
  ## Module 06 - Model Need to implement
