@@ -22,7 +22,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
   - [**KNN with Python**](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
-  - - [**Build Machine Learning Pipelines**](https://github.com/hussain0048/Machine-Learning/blob/master/Build_Machine_Learning_Pipelines.ipynb)
+  - [**Build Machine Learning Pipelines**](https://github.com/hussain0048/Machine-Learning/blob/master/Build_Machine_Learning_Pipelines.ipynb)
   - [**Simple_Linear_Regression_using_scikit_learn**](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)
   - [**Linear_Regression_Andrew**](https://github.com/hussain0048/Machine-Learning/blob/master/Linear_Regression_Andrew.ipynb)
   -  [**Supervised_(Classification)_ML_Model_Training_and_Evulation**](https://colab.research.google.com/github/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb#scrollTo=uOu2ttBhIqPr)
