@@ -78,7 +78,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
   
 ## Module 07 - [Machine Learning with Pycaret]()  
   - [**Classification**](https://github.com/hussain0048/Machine-Learning/blob/master/Auto_Model_Training_and_Evaluation_.ipynb)
-
+  - [**Regression**](https://github.com/hussain0048/Machine-Learning/blob/master/Regression_With_Pycaret.ipynb)
 
  * [**Deep learning library**](https://github.com/hussain0048/Machine-Learning/tree/master/Deep%20Learning%20library)
    *   [FastAI_in_Machine_Learning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Deep%20Learning%20library/FastAI_in_Machine_Learning.ipynb) 
