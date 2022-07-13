@@ -75,6 +75,10 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 
 ## Module 06 -  [Statistics](https://github.com/hussain0048/Machine-Learning/tree/master/Statistics)
   - [**Exploring_Correlation**](https://github.com/hussain0048/Machine-Learning/blob/master/Statistics/Exploring_Correlation_10_14_21.ipynb)
+  
+  
+## Module 07 - [Machine Learning with Pycaret] 
+  - [**Classification**](https://github.com/hussain0048/Machine-Learning/blob/master/Auto_Model_Training_and_Evaluation_.ipynb)
 
 
  * [**Deep learning library**](https://github.com/hussain0048/Machine-Learning/tree/master/Deep%20Learning%20library)
