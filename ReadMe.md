@@ -4,7 +4,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 
                               https://coursesteach.com/
 
-## Module 01  - [Unsupervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
+## Module 01  - [**Unsupervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
   - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
   - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
@@ -18,7 +18,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  
 
 
-## Module 02  - [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
+## Module 02  - [**Supervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
   - [**KNN with Python**](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
@@ -46,7 +46,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
    *  [Apriori_Algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Association%20Mining/Apriori_Algorithm%20(1).ipynb)
 
-## Module 03 - [Preprocessing](https://github.com/hussain0048/Machine-Learning/tree/master/Preprocessing)
+## Module 03 - [**Preprocessing with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Preprocessing)
   - [**Data_Processing_in_Python_.ipynb**](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)
   - [Upload_Dataset_from_github_to_Colab.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Preprocessing/Upload_Dataset_from_github_to_Colab.ipynb)
   - [Feature_Selection](https://github.com/hussain0048/Machine-Learning/blob/master/Feature%20Selection/Feature_Selection.ipynb)
@@ -63,13 +63,13 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
    *  [ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb)
    *  [ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb)
 
-## Module 04 - [Model Evaluation](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
+## Module 04 - [**Model Evaluation with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
   - [Bias and Variance using Python](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Bias_and_Variance_using_Python.ipynb)
   - [hyperparameter_tuning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/hyperparameter_tuning.ipynb)
   - [What_is_Cross_Validation_in_Machine_Learning_.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/What_is_Cross_Validation_in_Machine_Learning_.ipynb)
   - [Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_&_Performance (1).ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Scikit_Plot_Visualizing_Machine_Learning_Algorithm_Results_%26_Performance%20(1).ipynb)
 
-## Module 05 - [Data Visualization and Exploratoration](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
+## Module 05 - [**Data Visualization and Exploratoration with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Data%20Visualization)
   - [Automate_Exploratory_Data_Analysis](https://github.com/hussain0048/Machine-Learning/blob/master/Data%20Visualization/Automate_Exploratory_Data_Analysis.ipynb)
   - [**Data_Exploratory_and_Ploting**](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Exploratory_and_Ploting.ipynb)
 
