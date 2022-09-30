@@ -1,6 +1,6 @@
 **About**
 
-This repository is a related to all about Machine Learning - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python), Feature Selection technique in python etc 
+This repository is a related to all about Machine Learning - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python), Feature Selection technique in python etc Follow Coursesteach for more content 😊
 
                               https://coursesteach.com/
 
