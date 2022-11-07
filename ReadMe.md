@@ -61,7 +61,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  - [Anomaly_Detection_using_Using_Python library.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Anomaly_Detection_using_Python_Library_.ipynb)
 
 ## Module -[**Recommendation System**](https://github.com/hussain0048/Machine-Learning/tree/master/Recommendation%20System)
-   *  [ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb)
+   *  [Collaborative-Filtering](https://github.com/hussain0048/Machine-Learning/blob/master/ML0101EN_RecSys_Collaborative_Filtering_movies_py_v1.ipynb)
    *  [ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb)
 
 ## Module 04 - [**Model Evaluation with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
