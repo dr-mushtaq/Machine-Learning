@@ -18,7 +18,9 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
   - [**Hierarchical Clustering-Agglomerative method**](https://github.com/hussain0048/Machine-Learning/blob/master/Agglomerative_Clustering_using_scikit_learn.ipynb)
 
 ## Module 01  - [** Please visit my Medium articles **]()
+  - [Introduction to Artificial Intelligence (AI)](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee)
   - [Understanding the Basics of Machine Learning](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)
+
  
 ## Module 02  - [**Supervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
