@@ -5,8 +5,11 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 
                               https://coursesteach.com/
 
-## Module 0  - [**Introduction**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
+## 📚Chapter: 1  - [**Introduction**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
  - [**Why we used AI(ML Part1)**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee)
+ - [**What is machine learning?(ML Part2)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)
+ - [**Types of Machine Learning?(ML Part3)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)
+ - [**Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)
 
 ## Module 01  - [**Unsupervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
