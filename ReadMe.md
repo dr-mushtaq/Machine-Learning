@@ -5,6 +5,9 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 
                               https://coursesteach.com/
 
+## Module 0  - [**Introduction**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
+ - [**Why we used AI(ML Part1)**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee)
+
 ## Module 01  - [**Unsupervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
   - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
