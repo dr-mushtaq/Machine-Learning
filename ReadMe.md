@@ -4,6 +4,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
                                       Follow Coursesteach for more content 😊
 
                               https://coursesteach.com/
+## Course 01  - [**📚🧑‍🎓📺 Machine Learning**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
 
 ## 📚Chapter: 1  - [**Introduction**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
  - [**Why we used AI(ML Part1)**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee)
