@@ -34,8 +34,10 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
   - [Understanding the Basics of Machine Learning](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)
 
  
-## Course 03  - [** 📚🧑‍🎓📺Supervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
-  ## 📚Chapter: 1-[**📚Classification**]
+## Course 03  - [**📚🧑‍🎓📺Supervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
+  ## 📚Chapter:1-[**📚Classification**]
+  - [**Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)
+  - [**Classification using Scikit-Learn-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-3-c31b01c547f9)
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
   - [**KNN with Python**](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
