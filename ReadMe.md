@@ -16,8 +16,8 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  - [**Simple Linear Regression using sklearn(Lab1))**](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)
  - [**Simple Linear Regression with python-Andrew(Lab2)**](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)
  - [**Understanding the Linear Regression Cost Function(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)
- - [**Understanding Gradient Descent: A Powerful Optimization Algorithm**](https://medium.com/@Coursesteach/machine-learning-part-7-53ecede8ef81)
  - [**What the cost function is doing?(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-6-663e94ab5607)
+ - [**Understanding Gradient Descent: A Powerful Optimization Algorithm**](https://medium.com/@Coursesteach/machine-learning-part-7-53ecede8ef81)
 
 ## Course 02 -[**📚🧑‍🎓Unsupervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
