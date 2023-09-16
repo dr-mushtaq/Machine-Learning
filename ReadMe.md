@@ -18,6 +18,9 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  - [**Understanding the Linear Regression Cost Function(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)
  - [**What the cost function is doing?(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-6-663e94ab5607)
  - [**Understanding Gradient Descent: A Powerful Optimization Algorithm**](https://medium.com/@Coursesteach/machine-learning-part-7-53ecede8ef81)
+ - [**Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)
+ ## 📚Chapter: 3 - [**Linear Algebra**]()
+ - [**Understanding Matrices and Vectors in Linear Algebra**](https://medium.com/@Coursesteach/machine-learning-part-10-1173d7fc1338)
 
 ## Course 02 -[**📚🧑‍🎓Unsupervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
