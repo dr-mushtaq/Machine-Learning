@@ -40,7 +40,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 
  
 ## Course 03  - [📚🧑‍🎓📺**Supervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
-  ## 📚Chapter:1-[**Classification**]()
+  ## 📚Chapter:1-[**Classification**]()[Code](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb)
   - [**Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)
   - [**Classification using Scikit-Learn-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-3-c31b01c547f9)
 ## 📚Chapter:2-[**Regression**]()
