@@ -29,11 +29,12 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  ## 📚Chapter: 3 - [**Linear Algebra**]()
  | Tutorial | Video | Code |
 |---|---|---|
-| Content 1 | Content 2 | Content 3 |
-| Content 4 | Content 5 | Content 6 |
- - [**Understanding Matrices and Vectors in Linear Algebra**](https://medium.com/@Coursesteach/machine-learning-part-10-1173d7fc1338)
- - [**Understanding Addition and Scalar Multiplication of Matrices**](https://medium.com/@Coursesteach/machine-learning-part-11-33d53c690786)
- - [**Matrix-Vector Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-12-9584cdcc5b73)
+| [**1-Understanding Matrices and Vectors in Linear Algebra**](https://medium.com/@Coursesteach/machine-learning-part-10-1173d7fc1338 | Content 2 | Content 3 |
+| - [**2-Understanding Addition and Scalar Multiplication of Matrices**](https://medium.com/@Coursesteach/machine-learning-part-11-33d53c690786) | Content 5 | Content 6 |
+|[3-**Matrix-Vector Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-12-9584cdcc5b73)|---|---|
+|[**4-Matrix-Matrix Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-13-a908e15b7a73)|---|---|
+
+ 
 
 ## Course 02 -[**📚🧑‍🎓Unsupervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
