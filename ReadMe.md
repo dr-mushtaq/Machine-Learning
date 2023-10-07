@@ -7,15 +7,14 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 ## Course 01  - [**📚🧑‍🎓📺 Machine Learning**](https://coursesteach.com/course/view.php?id=6)
 
 ## 📚Chapter: 1  - [**Introduction**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
- - [**What is machine learning?(ML Part2)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)
- - [**Types of Machine Learning?(ML Part3)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)
- - [**Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)
- - [**Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)
-
+ 
 | Tutorial  | Video | Code |
 |---|---|---|
-| [**1- Why we used AI(ML Part1)**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | Content 2 | Content 3 |
-|[**2- What is machine learning?(ML Part2)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)| Content 5 | Content 6 |
+|[**1- Why we used AI(ML Part1)**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | Content 2 | Content 3 |
+|[**2- What is machine learning?)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)| Content 5 | Content 6 |
+|[**3-Types of Machine Learning?(ML Part3)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|---|---|
+|[**4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|---|---|
+|[**5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|---|
    
  ## 📚Chapter: 2 - [**Linear Regression with one Variable**]()
  - [**Simple Linear Regression using sklearn(Lab1))**](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)
