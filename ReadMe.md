@@ -24,7 +24,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |[**Understanding the Linear Regression Cost Function(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)|[Video](https://drive.google.com/file/d/1vSBf6rM-jLTaMOh2R6UttashE3wBLKY9/view)|---|
 |[**What the cost function is doing?(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-6-663e94ab5607)|[Video](https://drive.google.com/file/d/1N7kVZrfcgcEJTuDBwj7HkBMXaqpWMauk/view)|---|
 |[**Understanding Gradient Descent: A Powerful Optimization Algorithm**](https://medium.com/@Coursesteach/machine-learning-part-7-53ecede8ef81)|[video](https://drive.google.com/file/d/1-FRhC1FT0YalQY6sfcV9zneOcx_TtRpD/view)[Video1](https://drive.google.com/file/d/1FGVKKVvgrpz7E7vlgsQKbwARm1QjXQVs/view)|---|
-|[**Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)|(video)[https://drive.google.com/file/d/1V5O7ThKwngM8903xqrg2HOh6_xy_FyJ7/view]|---|
+|[**Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)|[Video](https://drive.google.com/file/d/1V5O7ThKwngM8903xqrg2HOh6_xy_FyJ7/view)|---|
  
  - 
  ## 📚Chapter: 3 - [**Linear Algebra**]()
