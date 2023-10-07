@@ -15,7 +15,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 | Tutorial  | Video | Code |
 |---|---|---|
 | [**1- Why we used AI(ML Part1)**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | Content 2 | Content 3 |
-|[**What is machine learning?(ML Part2)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)| Content 5 | Content 6 |
+|[**2- What is machine learning?(ML Part2)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)| Content 5 | Content 6 |
    
  ## 📚Chapter: 2 - [**Linear Regression with one Variable**]()
  - [**Simple Linear Regression using sklearn(Lab1))**](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)
