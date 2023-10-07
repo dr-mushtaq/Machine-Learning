@@ -21,13 +21,16 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |---|---|---|
 | **1-Simple Linear Regression using sklearn(Lab1)**|  | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb) |
 | **2-Simple Linear Regression with python-Andrew** | Content 5 |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb) |
- - 
- - [**Simple Linear Regression with python-Andrew(Lab2)**](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)
+ 
  - [**Understanding the Linear Regression Cost Function(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)
  - [**What the cost function is doing?(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-6-663e94ab5607)
  - [**Understanding Gradient Descent: A Powerful Optimization Algorithm**](https://medium.com/@Coursesteach/machine-learning-part-7-53ecede8ef81)
  - [**Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)
  ## 📚Chapter: 3 - [**Linear Algebra**]()
+ | Tutorial | Video | Code |
+|---|---|---|
+| Content 1 | Content 2 | Content 3 |
+| Content 4 | Content 5 | Content 6 |
  - [**Understanding Matrices and Vectors in Linear Algebra**](https://medium.com/@Coursesteach/machine-learning-part-10-1173d7fc1338)
  - [**Understanding Addition and Scalar Multiplication of Matrices**](https://medium.com/@Coursesteach/machine-learning-part-11-33d53c690786)
  - [**Matrix-Vector Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-12-9584cdcc5b73)
