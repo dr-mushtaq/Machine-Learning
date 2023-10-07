@@ -20,7 +20,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  | Tutorial | Video | Code |
 |---|---|---|
 | **1-Simple Linear Regression using sklearn(Lab1)**|  | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb) |
-| 2-Simple Linear Regression with python-Andrew(Lab2) | Content 5 | [[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb) |
+| **2-Simple Linear Regression with python-Andrew** | Content 5 |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb) |
  - 
  - [**Simple Linear Regression with python-Andrew(Lab2)**](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)
  - [**Understanding the Linear Regression Cost Function(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)
