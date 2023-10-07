@@ -19,7 +19,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  ## 📚Chapter: 2 - [**Linear Regression with one Variable**]()
  | Tutorial | Video | Code |
 |---|---|---|
-| [**1-Simple Linear Regression using sklearn(Lab1)**](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb) | ![Colab icon](https://raw.githubusercontent.com/<your_username>/<your_repository>/master/<image_filename>.png) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb) |
+| [**1-Simple Linear Regression using sklearn(Lab1)**]() |  | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb) |
 | Content 4 | Content 5 | Content 6 |
  - 
  - [**Simple Linear Regression with python-Andrew(Lab2)**](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)
