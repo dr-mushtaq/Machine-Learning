@@ -21,11 +21,12 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |---|---|---|
 | **1-Simple Linear Regression using sklearn(Lab1)**|  | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb) |
 | **2-Simple Linear Regression with python-Andrew** | Content 5 |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb) |
+|[**Understanding the Linear Regression Cost Function(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)|---|---|
+|[**What the cost function is doing?(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-6-663e94ab5607)|---|---|
+|[**Understanding Gradient Descent: A Powerful Optimization Algorithm**](https://medium.com/@Coursesteach/machine-learning-part-7-53ecede8ef81)|---|---|
+|[**Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)|---|---|
  
- - [**Understanding the Linear Regression Cost Function(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)
- - [**What the cost function is doing?(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-6-663e94ab5607)
- - [**Understanding Gradient Descent: A Powerful Optimization Algorithm**](https://medium.com/@Coursesteach/machine-learning-part-7-53ecede8ef81)
- - [**Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)
+ - 
  ## 📚Chapter: 3 - [**Linear Algebra**]()
  | Tutorial | Video | Code |
 |---|---|---|
