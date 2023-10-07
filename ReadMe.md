@@ -2,10 +2,6 @@
 
 This repository is a related to all about Machine Learning - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python), Feature Selection technique in python etc.
                                       Follow Coursesteach for more content 
-  | Header 1 | Header 2 | Header 3 |
-|---|---|---|
-| Content 1 | Content 2 | Content 3 |
-| Content 4 | Content 5 | Content 6 |
 
                               https://coursesteach.com/
 ## Course 01  - [**📚🧑‍🎓📺 Machine Learning**](https://coursesteach.com/course/view.php?id=6)
@@ -16,6 +12,12 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  - [**Types of Machine Learning?(ML Part3)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)
  - [**Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)
  - [**Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)
+
+| Tutorial  | Video | Code |
+|---|---|---|
+| [**Why we used AI(ML Part1)**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | Content 2 | Content 3 |
+| Content 4 | Content 5 | Content 6 |
+   
  ## 📚Chapter: 2 - [**Linear Regression with one Variable**]()
  - [**Simple Linear Regression using sklearn(Lab1))**](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)
  - [**Simple Linear Regression with python-Andrew(Lab2)**](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)
