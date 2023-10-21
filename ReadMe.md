@@ -11,7 +11,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 | Tutorial  | Video | Code |
 |---|---|---|
 |[**1- Why we used AI(ML Part1)**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | Content 2 | Content 3 |
-|[**2- What is machine learning?)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)| Content 5 | Content 6 |
+|[**2- What is machine learning?)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)| (Video )[https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing] | Content 6 |
 |[**3-Types of Machine Learning?(ML Part3)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|---|---|
 |[**4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|---|---|
 |[**5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|---|
