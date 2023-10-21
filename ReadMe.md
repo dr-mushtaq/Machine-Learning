@@ -12,7 +12,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |---|---|---|
 |[**1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | Content 2 | Content 3 |
 |[**2- What is machine learning?)**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[****Video1****](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[-**Video2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)| Content 6 |
-|[**3-Types of Machine Learning?(ML Part3)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**Video1****](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-Video2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)|---|
+|[**3-Types of Machine Learning?(ML Part3)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**Video1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-Video2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)|---|
 |[**4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|---|---|
 |[**5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|---|
    
