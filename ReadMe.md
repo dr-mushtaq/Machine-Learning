@@ -6,7 +6,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
                               https://coursesteach.com/
 ## Course 01  - **📚🧑‍🎓📺 Machine Learning**
 
-## 📚Chapter: 1  - [**Introduction**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
+## 📚Chapter: 1  - **Introduction**
  
 | Tutorial  | Video | Video |
 |---|---|---|
