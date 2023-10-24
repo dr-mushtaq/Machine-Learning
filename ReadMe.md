@@ -4,7 +4,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
                                       Follow Coursesteach for more content 
 
                               https://coursesteach.com/
-## Course 01  - [**📚🧑‍🎓📺 Machine Learning**](https://coursesteach.com/course/view.php?id=6)
+## Course 01  - **📚🧑‍🎓📺 Machine Learning**
 
 ## 📚Chapter: 1  - [**Introduction**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
  
@@ -16,7 +16,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |[**4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|---|---|
 |[**5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|---|
    
- ## 📚Chapter: 2 - [**Linear Regression with one Variable**]()
+ ## 📚Chapter: 2 -**Linear Regression with one Variable**
  | Tutorial | Video | Code |
 |---|---|---|
 |[**Model Representation**](https://medium.com/@Coursesteach/machine-learning-part-4-97c4b6adcda)|[**Video1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)|---|
@@ -28,7 +28,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |[**Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)|[Video](https://drive.google.com/file/d/1V5O7ThKwngM8903xqrg2HOh6_xy_FyJ7/view)|---|
  
  - 
- ## 📚Chapter: 3 - [**Linear Algebra**]()
+ ## 📚Chapter: 3 -**Linear Algebra**
  | Tutorial | Video | Code |
 |---|---|---|
 | [**1-Understanding Matrices and Vectors in Linear Algebra**](https://medium.com/@Coursesteach/machine-learning-part-10-1173d7fc1338) | [**Video**](https://drive.google.com/file/d/1Dn6rxY22AQ5869wSa0J99BlGsYFWQ2Wp/view) | Content 3 |
