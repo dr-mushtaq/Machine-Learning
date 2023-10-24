@@ -66,8 +66,8 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 ## 📚Chapter:2-**Regression**
 | Tutorial | Video | Code |
 |---|---|---|
-| [**A Comprehensive Guide to Regression in scikit-learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-4-501068cf021) | Content 2 | Content 3 |
-| Content 4 | Content 5 | Content 6 |
+| [**A Comprehensive Guide to Regression in scikit-learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-4-501068cf021) | Content 2 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
+
   - 
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
