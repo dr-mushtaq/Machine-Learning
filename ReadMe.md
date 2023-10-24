@@ -37,9 +37,8 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |[**4-Matrix-Matrix Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-13-a908e15b7a73)| [**Video**](https://drive.google.com/file/d/1TNBDxXUvkxOiIlUEdlieb2Teuaoi0RnU/view?usp=sharing)|---|
 |[**5-Matrix multiplication Properties**](https://medium.com/@Coursesteach/machine-learning-part-14-b8fefd968061)|[**Video**](https://drive.google.com/file/d/1mUe1koBOu90luI8j1Sj-oJSR1xuQJIIj/view)|---|
 
- 
 
-## Course 02 -[**📚🧑‍🎓Unsupervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
+## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
   - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
   - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
@@ -50,10 +49,6 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
   - [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
   - [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
   - [**Hierarchical Clustering-Agglomerative method**](https://github.com/hussain0048/Machine-Learning/blob/master/Agglomerative_Clustering_using_scikit_learn.ipynb)
-
-## Module 01  - [** Please visit my Medium articles **]()
-  - [Introduction to Artificial Intelligence (AI)](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee)
-  - [Understanding the Basics of Machine Learning](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)
 
  
 ## Course 03  - 📚🧑‍🎓📺**Supervised Learning with scikit_learn**
