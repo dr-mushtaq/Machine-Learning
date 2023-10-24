@@ -56,12 +56,12 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
   - [Understanding the Basics of Machine Learning](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)
 
  
-## Course 03  - [📚🧑‍🎓📺**Supervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
+## Course 03  - 📚🧑‍🎓📺**Supervised Learning with scikit_learn**
   ## 📚Chapter:1-**Classification**
 | Tutorial | Video | Code |
 |---|---|---|
-|[**Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)|---|---|
-| [**Classification using Scikit-Learn-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-3-c31b01c547f9)| Content 2 | Content 3 |
+|[**Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
+| [**Classification using Scikit-Learn-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-3-c31b01c547f9)| Content 2 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
 
 ## 📚Chapter:2-**Regression**
 | Tutorial | Video | Code |
