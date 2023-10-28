@@ -36,6 +36,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |[3-**Matrix-Vector Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-12-9584cdcc5b73)|[**Video**](https://drive.google.com/file/d/1iRdhc_kqCI9jvDvR4Y6eVT8zR_-wBNhX/view)|---|
 |[**4-Matrix-Matrix Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-13-a908e15b7a73)| [**Video**](https://drive.google.com/file/d/1TNBDxXUvkxOiIlUEdlieb2Teuaoi0RnU/view?usp=sharing)|---|
 |[**5-Matrix multiplication Properties**](https://medium.com/@Coursesteach/machine-learning-part-14-b8fefd968061)|[**Video**](https://drive.google.com/file/d/1mUe1koBOu90luI8j1Sj-oJSR1xuQJIIj/view)|---|
+|[**6-Matrix multiplication Properties**](https://medium.com/@Coursesteach/machine-learning-part-14-b8fefd968061)|[**Video**](https://drive.google.com/file/d/1CmeQYER6X4yLwwmUEwn7-Upfgz3TQqy1/view)|---|
 
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
