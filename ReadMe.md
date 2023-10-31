@@ -56,7 +56,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
   ## 📚Chapter:1-**Classification**
 | Tutorial | Video | Code |
 |---|---|---|
-|[**Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
+|[**Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)|[**Video1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**-Video2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
 | [**Classification using Scikit-Learn-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-3-c31b01c547f9)| Content 2 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
 
 ## 📚Chapter:2-**Regression**
