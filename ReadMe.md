@@ -38,6 +38,11 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 |[**5-Matrix multiplication Properties**](https://medium.com/@Coursesteach/machine-learning-part-14-b8fefd968061)|[**Video**](https://drive.google.com/file/d/1mUe1koBOu90luI8j1Sj-oJSR1xuQJIIj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**6-Inverse and Transpose**](https://medium.com/@Coursesteach/machine-learning-part-15-inverse-and-transpose-f4cda2687830)|[**Video**](https://drive.google.com/file/d/1CmeQYER6X4yLwwmUEwn7-Upfgz3TQqy1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 
+ ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
+ | Tutorial | Video | Code |
+|---|---|---|
+|[**1-Multiple Features**](https://medium.com/@Coursesteach/machine-learning-part-16-multiple-features-9126a2fff727)|[**Video** (https://drive.google.com/file/d/1Rlp4wdk8gEWPx1IsptP3J6tI2jBEco7w/view)|---|
+
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
