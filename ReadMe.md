@@ -41,7 +41,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
  | Tutorial | Video | Code |
 |---|---|---|
-|[**1-Multiple Features**](https://medium.com/@Coursesteach/machine-learning-part-16-multiple-features-9126a2fff727)|[**Video**](https://drive.google.com/file/d/1Rlp4wdk8gEWPx1IsptP3J6tI2jBEco7w/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**1-Multiple Features(multivariate linear regression)**](https://medium.com/@Coursesteach/machine-learning-part-16-multiple-features-9126a2fff727)|[**Video**](https://drive.google.com/file/d/1Rlp4wdk8gEWPx1IsptP3J6tI2jBEco7w/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
