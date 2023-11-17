@@ -71,12 +71,13 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 | Tutorial | Video | Code |
 |---|---|---|
 | [**Regression in scikit-learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-5-preprocessing-in-machine-learning-fa5b8bcb2d49) | [**Video1**](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[**Video2**](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb) |
-|[**Importing the Data Set Using Scikit-Learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-6-importing-the-dataset-6b7e133fca66)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
+
 
 ## 📚Chapter:3-**Data Preprocessing**
 | Tutorial | Video | Code |
 |---|---|---|
 | [**1-Preprocessing in Machine Learning**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-4-501068cf021) | [**Video1**](https://drive.google.com/file/d/14MyKUWqykavcOp2MNIgQjGVU1TOyqwGg/view)| |
+|[**Importing the Data Set Using Scikit-Learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-6-importing-the-dataset-6b7e133fca66)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 
   - 
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
