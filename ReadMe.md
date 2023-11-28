@@ -45,7 +45,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
  | Tutorial | Video | Code |
 |---|---|---|
 |[**1-Multiple Features(multivariate linear regression)**](https://medium.com/@Coursesteach/machine-learning-part-16-multiple-features-9126a2fff727)|[**Video**](https://drive.google.com/file/d/1Rlp4wdk8gEWPx1IsptP3J6tI2jBEco7w/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**2-Gradient Descent for Multiple Variables)**](https://medium.com/@Coursesteach/machine-learning-part-17-gradient-descent-for-multiple-variables-1048c2ea5301)|**Videos**[**1**](https://drive.google.com/file/d/1j_UwQ4eANaTykSFKhD8EF2bYIg8KAQ7t/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**2-Gradient Descent for Multiple Variables**](https://medium.com/@Coursesteach/machine-learning-part-17-gradient-descent-for-multiple-variables-1048c2ea5301)|**Video**[**1**](https://drive.google.com/file/d/1j_UwQ4eANaTykSFKhD8EF2bYIg8KAQ7t/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
 
 
