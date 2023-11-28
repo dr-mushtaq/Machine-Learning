@@ -72,7 +72,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 ## 📚Chapter:2-**Regression**
 | Tutorial | Video | Code |
 |---|---|---|
-| [**Regression in scikit-learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-5-preprocessing-in-machine-learning-fa5b8bcb2d49) | [**Video1**](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[**Video2**](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb) |
+| [**Regression in scikit-learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-5-preprocessing-in-machine-learning-fa5b8bcb2d49) | [**Video1**](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[**Video2**](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb) |
 
 
 ## 📚Chapter:3-**Data Preprocessing**
