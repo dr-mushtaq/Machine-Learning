@@ -91,6 +91,8 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 |[**🌐4-Data Imbalanced problem**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-8-data-imbalanced-problem-9e307c368a4d)|[1](https://drive.google.com/file/d/1Dcu0uZfT_zFmPrMUS1DkeDNKgA83Nodt/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 </details>
 
+<details> 
+<summary> <h2>Course 01 - 🗞️📚Other Best Free Resources to Learn Machine learning </h2> </summary>
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
   - [**KNN with Python**](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
@@ -183,7 +185,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
   - [5x12themlsbook](https://github.com/5x12/themlsbook)
   - [edyoda data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial)
   - [ageron handson-ml Public](https://github.com/ageron/handson-ml)
- 
+ </details>
    
    
 ## **Contributors**
