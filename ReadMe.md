@@ -91,7 +91,9 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 |[**🌐3-Handling missing data**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-7-handling-missing-data-b1b6263ce996)|[1](https://drive.google.com/file/d/1dN_YRnwuUf8QpUWeSnLEqHm-PtIWoPuF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 |[**🌐4-Data Imbalanced problem**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-8-data-imbalanced-problem-9e307c368a4d)|[1](https://drive.google.com/file/d/1Dcu0uZfT_zFmPrMUS1DkeDNKgA83Nodt/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 </details>
-  - 
+
+
+
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
   - [**KNN with Python**](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
