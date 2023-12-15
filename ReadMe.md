@@ -14,7 +14,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 
 ## 📚Chapter: 1  - **Introduction**
  
-| Tutorial  | Video | Video |
+| Topic Name/Tutorial  | Video | Video |
 |---|---|---|
 |[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10) | Content 3 |
 |[**🌐2- What is machine learning?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| Content 6 |
@@ -23,7 +23,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 |[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|---|
    
  ## 📚Chapter: 2 -**Linear Regression with one Variable**
- | Tutorial | Video | Code |
+ |Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐Model Representation**](https://medium.com/@Coursesteach/machine-learning-part-4-97c4b6adcda)|[**1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)|---|
 | **🌐1-Simple Linear Regression using sklearn(Lab1)**|  | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb) |
