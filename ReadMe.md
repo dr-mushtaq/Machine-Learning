@@ -93,6 +93,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 
 <details> 
 <summary> <h2>Course 01 - 🗞️📚Other Best Free Resources to Learn Machine learning </h2> </summary>
+  
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
   - [**KNN with Python**](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
