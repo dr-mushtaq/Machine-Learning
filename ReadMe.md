@@ -34,7 +34,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 |[**🌐Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)|[1](https://drive.google.com/file/d/1V5O7ThKwngM8903xqrg2HOh6_xy_FyJ7/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
  
  ## 📚Chapter: 3 -**Linear Algebra**
- | Tutorial | Video | Code |
+ | Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [**🌐1-Understanding Matrices and Vectors in Linear Algebra**](https://medium.com/@Coursesteach/machine-learning-part-10-1173d7fc1338) | [**1**](https://drive.google.com/file/d/1Dn6rxY22AQ5869wSa0J99BlGsYFWQ2Wp/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb) |
 | [**🌐2-Understanding Addition and Scalar Multiplication of Matrices**](https://medium.com/@Coursesteach/machine-learning-part-11-33d53c690786) |[**1**](https://drive.google.com/file/d/1PTWX7HtVG0qT3NiCcykFYT6aMiJHteWQ/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb) |
@@ -44,7 +44,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 |[**🌐6-Inverse and Transpose**](https://medium.com/@Coursesteach/machine-learning-part-15-inverse-and-transpose-f4cda2687830)|[**1**](https://drive.google.com/file/d/1CmeQYER6X4yLwwmUEwn7-Upfgz3TQqy1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
- | Tutorial | Video | Code |
+ | Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐1-Multiple Features(multivariate linear regression)**](https://medium.com/@Coursesteach/machine-learning-part-16-multiple-features-9126a2fff727)|[**1**](https://drive.google.com/file/d/1Rlp4wdk8gEWPx1IsptP3J6tI2jBEco7w/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐2-Gradient Descent for Multiple Variables**](https://medium.com/@Coursesteach/machine-learning-part-17-gradient-descent-for-multiple-variables-1048c2ea5301)|[**1**](https://drive.google.com/file/d/1j_UwQ4eANaTykSFKhD8EF2bYIg8KAQ7t/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
@@ -72,18 +72,18 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 <summary> <h2>Course 03 - 📚Supervised Learning with scikit_learn </h2> </summary>
  
   ## 📚Chapter:1-**Classification**
-| Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐1-Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
 | [**🌐2-Classification using Scikit-Learn-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-3-c31b01c547f9)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
 
 ## 📚Chapter:2-**Regression**
-| Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [**🌐1-Regression in scikit-learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-5-preprocessing-in-machine-learning-fa5b8bcb2d49) | [1](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[-2](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb) |
 
 ## 📚Chapter:3-**Data Preprocessing**
-| Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [**🌐-1-Preprocessing in Machine Learning**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-4-501068cf021) | [1](https://drive.google.com/file/d/14MyKUWqykavcOp2MNIgQjGVU1TOyqwGg/view)| |
 |[**🌐2- Importing the Data Set Using Scikit-Learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-6-importing-the-dataset-6b7e133fca66)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
