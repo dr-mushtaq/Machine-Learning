@@ -6,9 +6,9 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 
                                                                  Star this repo if you find it useful ⭐
 
-                                      Follow Coursesteach for more content 
+                                                                 Follow Coursesteach for more content 
 
-                              https://coursesteach.com/
+                                                                 https://coursesteach.com/
 ## Course 01  - **📚🧑‍🎓📺 Machine Learning**
 
 ## 📚Chapter: 1  - **Introduction**
