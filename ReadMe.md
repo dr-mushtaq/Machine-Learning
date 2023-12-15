@@ -4,9 +4,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 
 🙏 Special thanks 🙏 to our Virtual University of Pakistan students, reviewers, and content contributors, notably Dr Said Nabi
 
-                                                                 Star this repo if you find it useful ⭐
-
-                                                                 Follow Coursesteach for more content 
+Star this repo if you find it useful ⭐
 
                                                                  https://coursesteach.com/
 <details> 
