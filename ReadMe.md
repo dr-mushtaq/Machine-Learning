@@ -10,9 +10,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 
                                                                  https://coursesteach.com/
 <details> 
-<summary> <h2>Course 1 - Machine Learning </h2> </summary>
-  
-## Course 01  - **📚🧑‍🎓📺 Machine Learning**
+<summary> <h2>Course 01 - Machine Learning </h2> </summary>
 
 ## 📚Chapter: 1  - **Introduction**
  
@@ -54,6 +52,8 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 |[**🌐4-Gradient Descent in Practice II — Learning Rate**](https://medium.com/@Coursesteach/machine-learning-part-19-gradient-descent-in-practice-ii-learning-rate-92b4b7d64906)|[**1**](https://drive.google.com/file/d/1vsy9X5E8H0K68YcBO1CYsZAFVfaTD1Ao/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 
+<details> 
+<summary> <h2>Course 02 - 📚Unsupervised Learning with scikit_learning </h2> </summary>
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
@@ -66,6 +66,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
   - [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
   - [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
   - [**Hierarchical Clustering-Agglomerative method**](https://github.com/hussain0048/Machine-Learning/blob/master/Agglomerative_Clustering_using_scikit_learn.ipynb)
+</details>
 
  
 ## Course 03  - 📚🧑‍🎓📺**Supervised Learning with scikit_learn**
