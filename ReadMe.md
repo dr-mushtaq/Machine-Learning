@@ -10,7 +10,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 
                                                                  https://coursesteach.com/
 <details> 
-<summary> <h2>Course 01 - Machine Learning </h2> </summary>
+<summary> <h2>Course 01 - 📚Machine Learning </h2> </summary>
 
 ## 📚Chapter: 1  - **Introduction**
  
@@ -68,8 +68,9 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
   - [**Hierarchical Clustering-Agglomerative method**](https://github.com/hussain0048/Machine-Learning/blob/master/Agglomerative_Clustering_using_scikit_learn.ipynb)
 </details>
 
+<details> 
+<summary> <h2>Course 03 - 📚Supervised Learning with scikit_learn </h2> </summary>
  
-## Course 03  - 📚🧑‍🎓📺**Supervised Learning with scikit_learn**
   ## 📚Chapter:1-**Classification**
 | Tutorial | Video | Code |
 |---|---|---|
@@ -89,7 +90,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 |[**🌐2- Importing the Data Set Using Scikit-Learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-6-importing-the-dataset-6b7e133fca66)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 |[**🌐3-Handling missing data**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-7-handling-missing-data-b1b6263ce996)|[1](https://drive.google.com/file/d/1dN_YRnwuUf8QpUWeSnLEqHm-PtIWoPuF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 |[**🌐4-Data Imbalanced problem**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-8-data-imbalanced-problem-9e307c368a4d)|[1](https://drive.google.com/file/d/1Dcu0uZfT_zFmPrMUS1DkeDNKgA83Nodt/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
-
+</details>
   - 
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
