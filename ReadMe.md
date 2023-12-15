@@ -3,7 +3,8 @@
 This repository is related to all about Machine Learning - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (Scikit-learn as a library), Feature Selection techniques in Python, etc.
 
 🙏 Special thanks 🙏 to our Virtual University of Pakistan students, reviewers, and content contributors, notably Dr Said Nabi
-Star this repo if you find it useful ⭐
+
+                                                                 Star this repo if you find it useful ⭐
 
                                       Follow Coursesteach for more content 
 
