@@ -9,6 +9,9 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
                                                                  Follow Coursesteach for more content 
 
                                                                  https://coursesteach.com/
+<details> 
+<summary> <h2>Course 1 - Machine Learning </h2> </summary>
+  
 ## Course 01  - **📚🧑‍🎓📺 Machine Learning**
 
 ## 📚Chapter: 1  - **Introduction**
@@ -51,6 +54,7 @@ This repository is related to all about Machine Learning - an A-Z guide to the w
 |[**🌐3-Gradient Descent in Practice I — Feature Scaling**](https://medium.com/@Coursesteach/machine-learning-part-18-gradient-descent-in-practice-i-feature-scaling-f6d1d9d90060)|[**1**](https://drive.google.com/file/d/16cUqUN_vRLltU7gZNudJH5IGKXp051eg/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐4-Gradient Descent in Practice II — Learning Rate**](https://medium.com/@Coursesteach/machine-learning-part-19-gradient-descent-in-practice-ii-learning-rate-92b4b7d64906)|[**1**](https://drive.google.com/file/d/1vsy9X5E8H0K68YcBO1CYsZAFVfaTD1Ao/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
+<details> 
 
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
