@@ -1,6 +1,6 @@
 **About**
 
-<p align="center"><a href="[https://twitter.com/maximelabonne](https://medium.com/@Coursesteach)">Follow me on Medium</a> • <a https://medium.com/@Coursesteach">Whatsapp</a> • <a href="https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg</a></p>
+<p align="center"><a href="https://medium.com/@Coursesteach">Follow me on Medium</a> • <a href="https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg">Whatsapp</a> • <a href="https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python">Hands-on GNN</a></p>
 
 This repository is related to all about Machine Learning - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (Scikit-learn as a library), Feature Selection techniques in Python, etc.
 
