@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://medium.com/@Coursesteach">Follow me on Medium</a> • <a href="https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg">Whatsapp</a> • <a href="https://www.facebook.com/CourseTeach">Facebook</a></p>
 
-This repository is related to all about Machine Learning - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (Scikit-learn as a library), Feature Selection techniques in Python, etc.
+This repository is related to all about Machine Learning (ML) - an A-Z guide to the world of Machine Learning. This supplement contains the implementation of ML algorithms and technique in Python, etc.
 
 🙏 Special thanks 🙏 to our Virtual University of Pakistan students, reviewers, and content contributors, notably Dr Said Nabi
 
