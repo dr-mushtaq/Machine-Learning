@@ -56,7 +56,7 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter: 5 -**Logistic Regression**
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**🌐1-Classification**](https://medium.com/@Coursesteach/machine-learning-part-4-97c4b6adcda)|[**1**](https://drive.google.com/file/d/1ZTE9BwGg5kvKGPQNxObHJDyeipM6-VL8/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)|
+|[**🌐1-Classification**](https://medium.com/@Coursesteach/machine-learning-part-22-classification-b296f4c7dee4)|[**1**](https://drive.google.com/file/d/1ZTE9BwGg5kvKGPQNxObHJDyeipM6-VL8/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)|
 </details>
 </details>
 
