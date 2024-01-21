@@ -52,6 +52,12 @@ Star this repo if you find it useful ⭐
 |[**🌐4-Gradient Descent in Practice II — Learning Rate**](https://medium.com/@Coursesteach/machine-learning-part-19-gradient-descent-in-practice-ii-learning-rate-92b4b7d64906)|[**1**](https://drive.google.com/file/d/1vsy9X5E8H0K68YcBO1CYsZAFVfaTD1Ao/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐5-Features and Polynomial Regression**](https://medium.com/@Coursesteach/machine-learning-part-20-features-and-polynomial-regression-b999d3ac0226)|[**1**](https://drive.google.com/file/d/1fKO6dIg8FS33ZUig9St2U-BNIHbJ4AnI/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐6-Normal Equation**](https://medium.com/@Coursesteach/machine-learning-part-21-normal-equation-9ab2baebc37b)|[**1**](https://drive.google.com/file/d/17uMIs0mHGrH75iicAG0QYtFav1GXcLhp/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+
+## 📚Chapter: 5 -**Logistic Regression**
+ |Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|[**🌐Model Representation**](https://medium.com/@Coursesteach/machine-learning-part-4-97c4b6adcda)|[**1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)|---|
+| **🌐1-Simple Linear Regression using sklearn(Lab1)**|  | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb) |
 </details>
 </details>
 
