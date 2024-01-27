@@ -4,6 +4,8 @@
 
 This repository is related to all about Machine Learning (ML) - an A-Z guide to the world of Machine Learning. This supplement contains the implementation of ML algorithms and technique in Python, etc.
 
+**Contribution:** We would love your help in making this course even better! If you want to contribute to this course then you are welcome, or if you have any suggestions for improving this repository content, feel free to contact. email:mushtaqmsit@gmail.com, skype Id:themushtaq48
+
 🙏 Special thanks 🙏 to our Virtual University of Pakistan students, reviewers, and content contributors, notably Dr Said Nabi
 
 Star this repo if you find it useful ⭐
