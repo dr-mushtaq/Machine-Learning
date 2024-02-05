@@ -59,6 +59,7 @@ Star this repo if you find it useful ⭐
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐1-Classification**](https://medium.com/@Coursesteach/machine-learning-part-22-classification-b296f4c7dee4)|[**1**](https://drive.google.com/file/d/1ZTE9BwGg5kvKGPQNxObHJDyeipM6-VL8/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)|
+|[**🌐2-Hypothesis Representation of Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-23-hypothesis-representation-of-logistic-regression-055e0b7cd99b)|[**1**](https://drive.google.com/file/d/1nknhstSW9bmgA6lJNo2ealsyabk4i9_x/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)|
 </details>
 </details>
 
