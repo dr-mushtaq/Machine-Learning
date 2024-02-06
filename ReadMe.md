@@ -1,7 +1,5 @@
 ## **About**
 
-<p align="center"><a href="https://medium.com/@Coursesteach">Follow me on Medium</a> • <a href="https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg">Whatsapp</a> • <a href="https://www.facebook.com/CourseTeach">Facebook</a></p>
-
 This repository is related to all about Machine Learning (ML) - an A-Z guide to the world of Machine Learning. This supplement contains the implementation of ML algorithms and technique in Python, etc.
 
 **Contribution:** We would love your help in making this course even better! If you want to contribute to this course then you are welcome, or if you have any suggestions for improving this repository content, feel free to contact. email:mushtaqmsit@gmail.com, skype Id:themushtaq48
