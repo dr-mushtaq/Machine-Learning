@@ -206,6 +206,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
 
                        Together, let's make this the best AI learning hub website! 🚀
+   📬 Contact
+   If you want to contact me, you can reach me through social handles.Skype:themushtaq48
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
