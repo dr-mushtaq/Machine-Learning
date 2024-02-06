@@ -6,6 +6,10 @@ This repository is related to all about Machine Learning (ML) - an A-Z guide to 
 
 **Contribution:** We would love your help in making this course even better! If you want to contribute to this course then you are welcome, or if you have any suggestions for improving this repository content, feel free to contact. email:mushtaqmsit@gmail.com, skype Id:themushtaq48
 
+## **📬 Contact**
+   
+   If you want to contact me, you can reach me through social handles.Skype id:themushtaq48
+
 🙏 Special thanks 🙏 to our Virtual University of Pakistan students, reviewers, and content contributors, notably Dr Said Nabi
 
 Star this repo if you find it useful ⭐
@@ -206,9 +210,6 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
 
                        Together, let's make this the best AI learning hub website! 🚀
-## **📬 Contact**
-   
-   If you want to contact me, you can reach me through social handles.Skype:themushtaq48
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
