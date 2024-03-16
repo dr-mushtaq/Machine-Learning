@@ -1,4 +1,4 @@
-## **About**
+## **Welcome to Machine Learning👋🛒**
 
 This repository is related to all about Machine Learning (ML) - an A-Z guide to the world of Machine Learning. This supplement contains the implementation of ML algorithms and technique in Python, etc.
 
