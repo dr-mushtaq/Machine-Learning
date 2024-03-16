@@ -15,7 +15,6 @@ This repository is related to all about Machine Learning (ML) - an A-Z guide to 
 
 Star this repo if you find it useful ⭐
 
-                                                                 https://coursesteach.com/
 <details> 
 <summary> <h2>Course 01 - 📚Machine Learning </h2> </summary>
 
