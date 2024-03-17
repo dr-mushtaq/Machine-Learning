@@ -1,4 +1,7 @@
 ## **Welcome to Machine Learning👋🛒**
+<p align="center">
+<img src="https://github.com/hussain0048/Natural-language-processing/blob/main/NLP1.png"></a>
+</p>
 
 This repository is related to all about Machine Learning (ML) - an A-Z guide to the world of Machine Learning. This supplement contains the implementation of ML algorithms and technique in Python, etc.
 
