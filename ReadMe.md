@@ -17,7 +17,7 @@ This repository is related to all about Machine Learning (ML) - an A-Z guide to 
 Star this repo if you find it useful ⭐
 
 <details> 
-<summary> <h2>Course 01 - 📚Machine Learning </h2> </summary>
+<summary> <h2>Course 01 - ⚙️Machine Learning </h2> </summary>
 
 ## 📚Chapter: 1  - **Introduction**
  
