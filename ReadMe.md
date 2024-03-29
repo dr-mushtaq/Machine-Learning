@@ -6,23 +6,25 @@
 Welcome to the A-Z Guide to Machine Learning repository! This comprehensive supplement offers a thorough exploration of the world of Machine Learning, providing implementation examples of various ML algorithms and techniques in Python and other relevant languages.
 
 **Overview**
+
 The A-Z Guide to Machine Learning is a comprehensive resource designed to cater to both beginners and experienced practitioners in the field of Machine Learning. Whether you're just starting your journey into ML or seeking to deepen your understanding and refine your skills, this repository has something for everyone.
 
 **Features**
+
 Extensive Algorithm Coverage: Explore a wide range of ML algorithms, including but not limited to linear regression, decision trees, support vector machines, neural networks, clustering techniques, and more.
 
-**Hands-On Implementations:** Dive into practical implementations of these algorithms in Python, alongside explanations and insights into their workings.
+**1- Hands-On Implementations:** Dive into practical implementations of these algorithms in Python, alongside explanations and insights into their workings.
 
-**Code Examples and Jupyter Notebooks**: Access code examples and Jupyter notebooks that provide step-by-step guidance, making it easier to grasp complex concepts and experiment with different techniques.
+**2- Code Examples and Jupyter Notebooks**: Access code examples and Jupyter notebooks that provide step-by-step guidance, making it easier to grasp complex concepts and experiment with different techniques.
 
-**Supplementary Resources**: Discover additional resources, such as articles, tutorials, and datasets, to supplement your learning and enhance your understanding of Machine Learning principles and applications.
+**3- Supplementary Resources**: Discover additional resources, such as articles, tutorials, and datasets, to supplement your learning and enhance your understanding of Machine Learning principles and applications.
 
-**Contents**
+**4- Contents**
 Algorithms: Implementation examples of various ML algorithms, organized for easy navigation and reference.
 
-Techniques: Practical demonstrations of ML techniques, such as feature engineering, model evaluation, hyperparameter tuning, and more.
+**5- Techniques:** Practical demonstrations of ML techniques, such as feature engineering, model evaluation, hyperparameter tuning, and more.
 
-Contributing
+**Contributing**
 We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
 
 ## **📬 Contact**
