@@ -26,7 +26,7 @@ Algorithms: Implementation examples of various ML algorithms, organized for easy
 
 **Contributing**
 
-We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
+We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please contact on my **skype ID: themushtaq48** for guidelines on how to contribute.
 
 ## **📬 Contact**
    
