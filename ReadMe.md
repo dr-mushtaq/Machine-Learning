@@ -98,7 +98,7 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter: 6 -**Regularization**
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**🌐1-The problem of overfitting**](https://medium.com/@Coursesteach/machine-learning-part-30-the-problem-of-overfitting-a957f68d0512)|[**1**](https://drive.google.com/file/d/12fTU40hOBNqeuBRtl-mGenm_bpRGcxH_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐1-The problem of overfitting**](https://medium.com/@Coursesteach/machine-learning-part-30-the-problem-of-overfitting-a957f68d0512)|[**1**](https://drive.google.com/file/d/12fTU40hOBNqeuBRtl-mGenm_bpRGcxH_/view)[-2](https://drive.google.com/file/d/13bQnb9hky0xbbxAq0JseUSaSUilLEvUM/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 </details>
 
