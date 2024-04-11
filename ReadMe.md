@@ -94,6 +94,11 @@ Star this repo if you find it useful ⭐
 |[**🌐6-Advanced Optimization**](https://medium.com/@Coursesteach/machine-learning-part-27-advanced-optimization-a751820111b3)|[**1**](https://drive.google.com/file/d/1KQNr7EHCh7JFsKX3VYfnJ_-JGuFFZJqk/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐7-Multiclass Classification — One-vs-all**](https://medium.com/@Coursesteach/machine-learning-part-28-multiclass-classification-one-vs-all-f9dc5d0febbc)|[**1**](https://drive.google.com/file/d/1aXQ5dWJ-LUK2f5IpObR5I7-caSOqQq-O/view)[-2](https://www.youtube.com/watch?v=E_mN90TYnlg)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐8-Difference Between Linear Regression and Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-29-multiclass-classification-difference-between-linear-regression-and-407ff5be2f29)|[**1**](https://www.youtube.com/watch?v=4Wb1Apftkx4)|--|
+
+## 📚Chapter: 6 -**Regularization**
+ |Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|[**🌐1-The problem of overfitting**](https://medium.com/@Coursesteach/machine-learning-part-30-the-problem-of-overfitting-a957f68d0512)|[**1**](https://drive.google.com/file/d/12fTU40hOBNqeuBRtl-mGenm_bpRGcxH_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 </details>
 
