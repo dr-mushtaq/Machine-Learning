@@ -99,6 +99,7 @@ Star this repo if you find it useful ⭐
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐1-The problem of overfitting**](https://medium.com/@Coursesteach/machine-learning-part-30-the-problem-of-overfitting-a957f68d0512)|[**1**](https://drive.google.com/file/d/12fTU40hOBNqeuBRtl-mGenm_bpRGcxH_/view)[-2](https://drive.google.com/file/d/13bQnb9hky0xbbxAq0JseUSaSUilLEvUM/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐2-Cost Function and Regularization**](https://medium.com/@Coursesteach/machine-learning-part-31-cost-function-and-regularization-4ab26dc6c7eb)|[**1**](https://drive.google.com/file/d/1oEYWClAvVE_QUIkbC0SaLcP1mzvD-Luz/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 </details>
 
