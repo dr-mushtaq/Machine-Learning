@@ -9,6 +9,10 @@ Welcome to the A-Z Guide to Machine Learning repository! This comprehensive supp
 
 The A-Z Guide to Machine Learning is a comprehensive resource designed to cater to both beginners and experienced practitioners in the field of Machine Learning. Whether you're just starting your journey into ML or seeking to deepen your understanding and refine your skills, this repository has something for everyone.
 
+<p align="center">
+<img src="https://github.com/hussain0048/Machine-Learning/blob/master/438058314_3872280102992838_2811757508132819156_n.jpg"></a>
+</p>
+
 **Features**
 
 Extensive Algorithm Coverage: Explore a wide range of ML algorithms, including but not limited to linear regression, decision trees, support vector machines, neural networks, clustering techniques, and more.
