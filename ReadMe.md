@@ -5,7 +5,7 @@
 
 Welcome to the A-Z Guide to Machine Learning repository! This comprehensive supplement offers a thorough exploration of the world of Machine Learning, providing implementation examples of various ML algorithms and techniques in Python and other relevant languages.
 
-**Overview**
+## **Overview👋🛒**
 
 The A-Z Guide to Machine Learning is a comprehensive resource designed to cater to both beginners and experienced practitioners in the field of Machine Learning. Whether you're just starting your journey into ML or seeking to deepen your understanding and refine your skills, this repository has something for everyone.
 
@@ -13,7 +13,7 @@ The A-Z Guide to Machine Learning is a comprehensive resource designed to cater 
 <img src="https://github.com/hussain0048/Machine-Learning/blob/master/438058314_3872280102992838_2811757508132819156_n.jpg"></a>
 </p>
 
-**Features**
+## **Features👋🛒**
 
 Extensive Algorithm Coverage: Explore a wide range of ML algorithms, including but not limited to linear regression, decision trees, support vector machines, neural networks, clustering techniques, and more.
 
@@ -28,7 +28,7 @@ Algorithms: Implementation examples of various ML algorithms, organized for easy
 
 **5- Techniques:** Practical demonstrations of ML techniques, such as feature engineering, model evaluation, hyperparameter tuning, and more.
 
-**Contributing**
+## **Contributing🙌**
 
 We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please contact on my **skype ID: themushtaq48** for guidelines on how to contribute.
 
