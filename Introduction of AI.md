@@ -8,7 +8,7 @@ if you haven’t done it by yourself, requires laying out in excruciating detail
 
 So, basically, this Arthur Samuel had a challenge in 1956. He wanted to teach a computer to beat him at checkers. Like, how do you even do that? Well, he came up with a plan. He had the computer play against itself over and over again, like thousands of times, until it learned how to play checkers really well. And guess what? It actually worked! By 1962, the computer had even beaten the Connecticut state champion. Pretty impressive, right?
 <p align="center">
-<img src="https://github.com/hussain0048/Machine-Learning/blob/master/Machine%20Leanring.png"></a>
+<img src="https://github.com/hussain0048/Machine-Learning/blob/master/1_fzqAsLGKIt3jzstwBLGsJA.png"></a>
 </p>
 
 ## **Features👋🛒**
