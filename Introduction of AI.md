@@ -11,15 +11,12 @@ So, basically, this Arthur Samuel had a challenge in 1956. He wanted to teach a 
 <img src="https://github.com/hussain0048/Machine-Learning/blob/master/1_fzqAsLGKIt3jzstwBLGsJA.png"></a>
 </p>
 
-## **Features👋🛒**
+## **1.2-History of Artificial intelligence👋🛒**
 
-**1- Comprehensive Coverage:** Delve into the vast landscape of Python in Data Science, encompassing fundamental concepts, libraries, tools, and advanced techniques essential for data analysis, visualization, machine learning, and more.
+Even though artificial intelligence, or AI, has only been around for less than a hundred years, the idea of machines that can think goes way back. Even in ancient Greece, people were talking about intelligent robots and artificial beings. The whole idea of AI really starts with asking if machines can think like humans.
 
-**2-Progressive Learning Path:** Follow a structured learning path that starts with foundational Python concepts and gradually progresses to advanced topics, ensuring a smooth and comprehensive learning experience.
-
-**3- Practical Implementations:** Gain practical insights through hands-on implementation examples, exercises, and projects that reinforce theoretical knowledge and foster a deeper understanding of Python's role in Data Science.
-
-**4- Supplementary Resources:** Access additional resources, including articles, tutorials, datasets, and recommended readings, to supplement your learning journey and stay updated with the latest developments in Python and Data Science.
+**1955** 
+In 1955, Allen Newell and Herbert A. Simon made the first computer program meant to act like a smart thinker. They called it the "Logic Theorist." This program tried to prove math ideas using logic symbols. It used a special way of searching for answers that imitated how humans solve problems. [7]. The Logic Theorist was like the first computer tool that could solve lots of different problems, not just one. It was a big deal in the world of smart computer programs. [7].
 
 ## **Contents👋🛒**
 
