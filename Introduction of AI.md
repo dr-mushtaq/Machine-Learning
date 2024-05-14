@@ -16,6 +16,7 @@ So, basically, this Arthur Samuel had a challenge in 1956. He wanted to teach a 
 Even though artificial intelligence, or AI, has only been around for less than a hundred years, the idea of machines that can think goes way back. Even in ancient Greece, people were talking about intelligent robots and artificial beings. The whole idea of AI really starts with asking if machines can think like humans.
 
 **1955** 
+
 In 1955, Allen Newell and Herbert A. Simon made the first computer program meant to act like a smart thinker. They called it the "Logic Theorist." This program tried to prove math ideas using logic symbols. It used a special way of searching for answers that imitated how humans solve problems. [7]. The Logic Theorist was like the first computer tool that could solve lots of different problems, not just one. It was a big deal in the world of smart computer programs. [7].
 
 ## **Contents👋🛒**
