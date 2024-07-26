@@ -107,6 +107,13 @@ Star this repo if you find it useful ⭐
 |[**🌐2-Cost Function and Regularization**](https://medium.com/@Coursesteach/machine-learning-part-31-cost-function-and-regularization-4ab26dc6c7eb)|[**1**](https://drive.google.com/file/d/1oEYWClAvVE_QUIkbC0SaLcP1mzvD-Luz/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐3-Regularized Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-32-regularized-linear-regression-9aaae2f83e1d)|[**1**](https://drive.google.com/file/d/1QF1OSVpHlktZ3O8959n3Qm1tPicPJvzV/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐4-Regularized Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-33-regularized-logistic-regression-72e0c863c5e9)|[**1**](https://drive.google.com/file/d/19v0aIvEysNi0LYhTLI5hYwA0NNv9n7LW/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+
+## 📚Chapter: 7 -**Neural Network Representation**
+ |Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|[**🌐1-Classification**](https://medium.com/@Coursesteach/machine-learning-part-22-classification-b296f4c7dee4)|[**1**](https://drive.google.com/file/d/1ZTE9BwGg5kvKGPQNxObHJDyeipM6-VL8/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐2-Hypothesis Representation of Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-23-hypothesis-representation-of-logistic-regression-055e0b7cd99b)|[**1**](https://drive.google.com/file/d/1nknhstSW9bmgA6lJNo2ealsyabk4i9_x/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐3-Decision Boundary**](https://medium.com/@Coursesteach/machine-learning-part-24-decision-boundary-bb60aff7a67d)|[**1**](https://drive.google.com/file/d/1KwzCccx2rwCBJSahz0sKFiB8hManNwHp/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 </details>
 
