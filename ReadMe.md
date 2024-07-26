@@ -1,4 +1,5 @@
 ## **A-Z Guide to Machine Learning👋🛒**
+<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Machine-Learning"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 <p align="center">
 <img src="https://github.com/hussain0048/Machine-Learning/blob/master/Machine%20Leanring.png"></a>
 </p>
