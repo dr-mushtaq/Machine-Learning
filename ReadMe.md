@@ -165,7 +165,7 @@ Star this repo if you find it useful ⭐
 |---|---|---|
 | [**🌐-1-Introduction of Model Evaluation**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-15-introduction-of-model-evaluation-3906e2b1bb1a) |---|--- |
 |[**🌐2- Confusion Metrix**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-16-confusion-metric-8c0dad493d92)|[1](https://drive.google.com/file/d/1m_Ey2nNr6BCwRFuKsarqBBDkDfzCXAmY/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
-|[**🌐3-Accuracy**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-17-accuracy-0c539a5842ca)|[1](https://drive.google.com/file/d/1dN_YRnwuUf8QpUWeSnLEqHm-PtIWoPuF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
+|[**🌐3-Accuracy**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-17-accuracy-0c539a5842ca)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 </details>
 
 <details> 
