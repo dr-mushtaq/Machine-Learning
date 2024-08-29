@@ -44,6 +44,8 @@ We welcome contributions from the community! Whether it's fixing a bug, adding a
 
 Star this repo if you find it useful ⭐
 
+ Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
+
 <details> 
 <summary> <h2>Course 01 - ⚙️Machine Learning </h2> </summary>
 
