@@ -148,7 +148,7 @@ Star this repo if you find it useful ⭐
 |---|---|---|
 |[**🌐1-Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
 | [**🌐2-Classification using Scikit-Learn-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-3-c31b01c547f9)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
-| [**🌐3-Other Classification metrics**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-19-other-classification-metrics-9d80467e4fa2)|--| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
+
 
 ## 📚Chapter:2-**Regression**
 | Topic Name/Tutorial | Video | Code |
@@ -175,6 +175,7 @@ Star this repo if you find it useful ⭐
 |[**🌐2- Confusion Metrix**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-16-confusion-metric-8c0dad493d92)|[1](https://drive.google.com/file/d/1m_Ey2nNr6BCwRFuKsarqBBDkDfzCXAmY/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 |[**🌐3-Accuracy**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-17-accuracy-0c539a5842ca)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 |[**🌐4-Precision-Recall-F1-score**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-18-precision-recall-f1-score-8f6a45d0d2fd)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
+| [**🌐3-Other Classification metrics**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-19-other-classification-metrics-9d80467e4fa2)|--| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
 </details>
 
 <details> 
