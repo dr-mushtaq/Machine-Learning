@@ -119,7 +119,7 @@ Star this repo if you find it useful ⭐
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐1-Non-linear Hypotheses**](https://medium.com/@Coursesteach/machine-learning-part-34-non-linear-hypotheses-273044b7bfdb)|[**1**](https://drive.google.com/file/d/1Q7RLKVYgekvjejp9l5ooS49Wi3jhrFKQ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐2-Hypothesis Representation of Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-23-hypothesis-representation-of-logistic-regression-055e0b7cd99b)|[**1**](https://drive.google.com/file/d/1nknhstSW9bmgA6lJNo2ealsyabk4i9_x/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐2-The Science Behind Neural Networks: Exploring**](https://medium.com/@Coursesteach/machine-learning-part-35-the-science-behind-neural-networks-exploring-6da2784bcc99)|[**1**](https://drive.google.com/file/d/1m5yVBEYVBFGZPWm5MauNFZbe61M_vp1Q/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐3-Decision Boundary**](https://medium.com/@Coursesteach/machine-learning-part-24-decision-boundary-bb60aff7a67d)|[**1**](https://drive.google.com/file/d/1KwzCccx2rwCBJSahz0sKFiB8hManNwHp/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 </details>
