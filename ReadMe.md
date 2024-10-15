@@ -190,6 +190,11 @@ Star this repo if you find it useful ⭐
 | [**🌐6-Understanding Regression Metrics**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-19-understanding-regression-metrics-36bb60f2182a)|[1](https://www.youtube.com/watch?v=hZ3f94Nj9Jw)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
 | [**🌐7-How to Choose the Right Algorithm**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-20-how-to-choose-the-right-algorithm-e5b6fd8112d6)|---| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
 | [**🌐8-How to Improve the Performance of Machine Learning Model**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-21-how-to-improve-the-performance-of-machine-learning-e6efa0ae364f)|---| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
+
+## 📚Chapter:5-**Fine Tuning your model**
+| Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|[**🌐1- Introduction of Hyperparameter Tuning**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-22-introduction-of-hyperparameter-tuning-c191eb595373)|[1](https://drive.google.com/file/d/1sWZcyfFQpMQ7FBlf6HrWLM0nD2in2w2C/view)[-2](https://drive.google.com/file/d/1n9GHBcBwnRjjklBPT6wTCoy18Coflz5v/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 </details>
 
 <details> 
