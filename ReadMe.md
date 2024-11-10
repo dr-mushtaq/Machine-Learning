@@ -207,7 +207,7 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>Course 02 - 📚Machine Learning in Production </h2> </summary>
 
-## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
+## 📚Chapter:3 -**Apps Deployment**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
   - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
   - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
