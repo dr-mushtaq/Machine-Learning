@@ -210,18 +210,8 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter:3 -**Apps Deployment**
  | Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**🌐1-Multiple Features(multivariate linear regression)**](https://medium.com/@Coursesteach/machine-learning-part-16-multiple-features-9126a2fff727)|[**1**](https://drive.google.com/file/d/1Rlp4wdk8gEWPx1IsptP3J6tI2jBEco7w/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐1-How to Deploy an AI App Locally: Step-by-Step Guide for Beginners)**](https://medium.com/@Coursesteach/how-to-deploy-an-ai-app-locally-step-by-step-guide-for-beginners-ml-in-production-p1-59bef2f36b7f)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
-   - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
-  - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
-  - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
-  - [Kmean](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Kmean%20.ipynb)
-  - [**Unsupervised_learning**](https://github.com/hussain0048/Machine-Learning/blob/master/Unsupervised_learning.ipynb)
-  - [DBSCAN Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/DBSCAN_Clustering_in_Machine_Learning.ipynb)
-  - [Clus-K-Means-Customer-Seg-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-K-Means-Customer-Seg-py-v1.ipynb)
-  - [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
-  - [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
-  - [**Hierarchical Clustering-Agglomerative method**](https://github.com/hussain0048/Machine-Learning/blob/master/Agglomerative_Clustering_using_scikit_learn.ipynb)
 </details>
 
 
