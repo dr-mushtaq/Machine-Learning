@@ -208,6 +208,10 @@ Star this repo if you find it useful ⭐
 <summary> <h2>Course 02 - 📚Machine Learning in Production </h2> </summary>
 
 ## 📚Chapter:3 -**Apps Deployment**
+ | Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|[**🌐1-Multiple Features(multivariate linear regression)**](https://medium.com/@Coursesteach/machine-learning-part-16-multiple-features-9126a2fff727)|[**1**](https://drive.google.com/file/d/1Rlp4wdk8gEWPx1IsptP3J6tI2jBEco7w/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
   - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
   - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
