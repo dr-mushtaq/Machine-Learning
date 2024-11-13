@@ -201,7 +201,8 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter:5-**Fine Tuning your model**
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**🌐1- Introduction of Hyperparameter Tuning**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-22-introduction-of-hyperparameter-tuning-c191eb595373)|[1](https://drive.google.com/file/d/1sWZcyfFQpMQ7FBlf6HrWLM0nD2in2w2C/view)[-2](https://drive.google.com/file/d/1n9GHBcBwnRjjklBPT6wTCoy18Coflz5v/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb)|
+|[**🌐1- Introduction of Hyperparameter Tuning⭐️**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-22-introduction-of-hyperparameter-tuning-c191eb595373)|[1](https://drive.google.com/file/d/1sWZcyfFQpMQ7FBlf6HrWLM0nD2in2w2C/view)[-2](https://drive.google.com/file/d/1n9GHBcBwnRjjklBPT6wTCoy18Coflz5v/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb)|
+|[**🌐2- Grid Search⭐️**](https://medium.com/@Coursesteach/how-to-use-grid-search-cv-for-hyperparameter-tuning-in-python-step-by-step-tutorial-supervised-60a30bd9f795)|[1](https://drive.google.com/file/d/1P2OVeEDyGLI8NeueKNL8LHrdm8Eh3ZnC/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb)|
 </details>
 
 <details> 
