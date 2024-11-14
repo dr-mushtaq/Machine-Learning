@@ -138,7 +138,7 @@ Star this repo if you find it useful ⭐
 # 📚Chapter: 8 -**Neural Network Learning**
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**🌐1-Cost Function**](https://medium.com/@Coursesteach/cost-functions-in-neural-networks-a-beginners-guide-to-binary-and-multiclass-9c4f7a280c48)|[**1**](https://drive.google.com/file/d/1leRyRgHpoWdBoFg1VHiJ1zkvN6FQ9Mo_/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐1-Cost Function⭐️**](https://medium.com/@Coursesteach/cost-functions-in-neural-networks-a-beginners-guide-to-binary-and-multiclass-9c4f7a280c48)|[**1**](https://drive.google.com/file/d/1leRyRgHpoWdBoFg1VHiJ1zkvN6FQ9Mo_/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 </details>
 
