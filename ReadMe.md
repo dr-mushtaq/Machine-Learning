@@ -135,12 +135,13 @@ Star this repo if you find it useful ⭐
 |[**🌐5- Computing Complex Nonlinear Hypotheses**](https://medium.com/@Coursesteach/machine-learning-part-38-understanding-neural-networks-computing-complex-nonlinear-hypotheses-7f602eb2331f)|[**1**](https://drive.google.com/file/d/1XxN_neL9wjyI35a71bk8hWUCStGKakP_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐6-Using Neural Networks for Multiclass Classification**](https://medium.com/@Coursesteach/machine-learning-part-39-using-neural-networks-for-multiclass-classification-1f155ecd831e)|[**1**](https://drive.google.com/file/d/1q5BNkmsqzC98JpGN_f4GNpuLfnNQamb6/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
-# 📚Chapter: 8 -**Neural Network Learning**
+## 📚Chapter: 8 -**Neural Network Learning**
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐1-Cost Function⭐️**](https://medium.com/@Coursesteach/cost-functions-in-neural-networks-a-beginners-guide-to-binary-and-multiclass-9c4f7a280c48)|[**1**](https://drive.google.com/file/d/1leRyRgHpoWdBoFg1VHiJ1zkvN6FQ9Mo_/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐2-Backpropagation⭐️**](https://medium.com/@Coursesteach/understanding-backpropagation-in-neural-networks-a-step-by-step-guide-to-training-and-af9738d2c82a)|[**1**](https://drive.google.com/file/d/1lSh87ZOeZ59sd4roOPB48dbZVyK-KnTE/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐3-Backpropagation intuition⭐️**](https://medium.com/@Coursesteach/breaking-down-backpropagation-intuition-mechanics-and-implementation-ml-p-41-79a5c68b1947)|[**1**](https://drive.google.com/file/d/1X3OOzuiBR8EeLmjXZoehSCl3LsKqA4eW/view)[-2](https://www.youtube.com/watch?v=Ilg3gGewQ5U)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐4-Implementation Note - Unrolling Parameters⭐️**](https://medium.com/@Coursesteach/mastering-parameter-unrolling-in-neural-networks-a-step-by-step-guide-ml-p-42-3661d1055f04)|[**1**](https://drive.google.com/file/d/1Eea2cJyEJH7-2AEQ5QO3rZhTKhZmGr07/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 </details>
 
