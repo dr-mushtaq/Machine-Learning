@@ -217,7 +217,7 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter:3 -**Apps Deployment**
  | Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**🌐1-How to Deploy an AI App Locally: Step-by-Step Guide for Beginners)**](https://medium.com/@Coursesteach/how-to-deploy-an-ai-app-locally-step-by-step-guide-for-beginners-ml-in-production-p1-59bef2f36b7f)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**🌐1-How to Deploy an AI App Locally: Step-by-Step Guide for Beginners)**](https://mushtaqmsit.substack.com/p/how-to-deploy-an-ai-app-locally-step)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
 </details>
 
