@@ -77,7 +77,7 @@ Star this repo if you find it useful ⭐
  ## 📚Chapter: 2 -**Linear Regression with one Variable**
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**🌐Model Representation⭐️**](https://medium.com/@Coursesteach/machine-learning-part-4-97c4b6adcda)|[**1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Vx2DpMgplEM)|---|
+|[**🌐Model Representation⭐️**](https://open.substack.com/pub/mushtaqmsit/p/understanding-linear-regression-in?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[**1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Vx2DpMgplEM)|---|
 | **🌐1-Simple Linear Regression using sklearn(Lab1)**| --- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)|
 | **🌐2-Simple Linear Regression with python-Andrew** | --- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)|
 |[**🌐Understanding the Linear Regression Cost Function⭐️**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)|[1](https://drive.google.com/file/d/1vSBf6rM-jLTaMOh2R6UttashE3wBLKY9/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
