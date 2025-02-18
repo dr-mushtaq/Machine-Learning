@@ -174,7 +174,7 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter:2-**Regression**
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
-| [**🌐1-Regression in scikit-learn⭐️**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-4-501068cf021) | [1](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[-2](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb) |
+| [**🌐1-Regression in scikit-learn⭐️**](https://mushtaqmsit.substack.com/p/regression-analysis-using-scikit) | [1](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[-2](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb) |
 
 ## 📚Chapter:3-**Data Preprocessing and Pipelines**
 | Topic Name/Tutorial | Video | Code |
