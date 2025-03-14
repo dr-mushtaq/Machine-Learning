@@ -145,8 +145,8 @@ Star this repo if you find it useful ⭐
 |**🌐5-Gradient Checking⭐️**|[**1**](https://drive.google.com/file/d/1Ona_bkQ0ZvjbhvyeBs9aJnu83hoZdeKA/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |**🌐6-Random Initialization⭐️**|[**1**](https://drive.google.com/file/d/1AKnUlMGT30WcIYCzCkBBIOAWASx6LqIN/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
-## 📚Chapter: -**Resources- Free Courses**
- |Topic Name/Tutorial | Video | Code |
+## 📚Chapter: -**Resources- Free Courses, Websites, Github**
+ |Course| Website | Github |
 |---|---|---|
 |[**🌐1-Cost Function⭐️**](https://medium.com/@Coursesteach/cost-functions-in-neural-networks-a-beginners-guide-to-binary-and-multiclass-9c4f7a280c48)|[**1**](https://drive.google.com/file/d/1leRyRgHpoWdBoFg1VHiJ1zkvN6FQ9Mo_/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
