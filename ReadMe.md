@@ -144,6 +144,11 @@ Star this repo if you find it useful ⭐
 |[**🌐4-Implementation Note - Unrolling Parameters⭐️**](https://medium.com/@Coursesteach/mastering-parameter-unrolling-in-neural-networks-a-step-by-step-guide-ml-p-42-3661d1055f04)|[**1**](https://drive.google.com/file/d/1Eea2cJyEJH7-2AEQ5QO3rZhTKhZmGr07/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |**🌐5-Gradient Checking⭐️**|[**1**](https://drive.google.com/file/d/1Ona_bkQ0ZvjbhvyeBs9aJnu83hoZdeKA/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |**🌐6-Random Initialization⭐️**|[**1**](https://drive.google.com/file/d/1AKnUlMGT30WcIYCzCkBBIOAWASx6LqIN/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+
+## 📚Chapter: -**Resources- Free Courses**
+ |Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|[**🌐1-Cost Function⭐️**](https://medium.com/@Coursesteach/cost-functions-in-neural-networks-a-beginners-guide-to-binary-and-multiclass-9c4f7a280c48)|[**1**](https://drive.google.com/file/d/1leRyRgHpoWdBoFg1VHiJ1zkvN6FQ9Mo_/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 </details>
 
