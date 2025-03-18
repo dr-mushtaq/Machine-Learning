@@ -338,7 +338,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 ## 👁️ Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
 |---|---|---|
-|[**🌐1-Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good| InProgress|
+|[**🌐1-Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction/?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good| InProgress|
 |[**🌐2-Deep Learning(Yann LeCun & Alfredo Canziani)**](https://atcold.github.io/pytorch-Deep-Learning/)|It is free course and it contain notes and video| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
