@@ -346,7 +346,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | Title| Description | Status |
 |---|---|---|
 |[**🌐1-Roadmap.sh**](https://roadmap.sh/r/llm-engineer-ay1q6)|Provide complet Roadmap about AI Courses|---|
-|[**🌐1-Bolt**](https://bolt.new/)|write softare code and deployed |---|
+|[**🌐2-Bolt**](https://bolt.new/)|write softare code and deployed |---|
+|[**🌐3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT)|write softare code and deployed |---|
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
