@@ -217,6 +217,11 @@ Star this repo if you find it useful ⭐
 |[**🌐4- Bayesian Optimization⭐️**](https://medium.com/@Coursesteach/master-hyperparameter-tuning-bayesian-optimization-with-scikit-learn-and-python-supervised-98666b5b7e26)|[1](https://www.youtube.com/watch?v=CU5R9c3Wc60)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
 |[**🌐5-Particle Swarm Optimization⭐️**](https://medium.com/@Coursesteach/using-particle-swarm-optimization-pso-for-hyperparameter-tuning-in-classification-with-17f482cff028)|[1](https://www.youtube.com/watch?v=51sdLTNP1O8)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
 |[**🌐6-Hyperopt: Distributed Hyperparameter Optimization⭐️**](https://medium.com/@Coursesteach/using-particle-swarm-optimization-pso-for-hyperparameter-tuning-in-classification-with-17f482cff028)|[1](https://www.youtube.com/watch?v=7abiCmKpHP8)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
+
+## 📚Chapter:6-**Feature Selection and Importance**
+| Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|**🌐1- Introduction of Feature Selection⭐️**)|[1](https://www.youtube.com/watch?v=eciABhWBiUc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
 </details>
 
 <details> 
