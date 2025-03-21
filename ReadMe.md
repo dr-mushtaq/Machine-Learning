@@ -367,6 +367,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**🌐2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ)|Github repisotry contain couress| Pending|
 |[**🌐3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
 |[**🌐4-courses & resources**](https://github.com/SkalskiP/courses#cr%C3%A8me-de-la-cr%C3%A8me-of-ai-courses)|Github repisotry contain couress| Pending|
+|[**🌐5-Awesome Machine Learning and AI Courses**](https://github.com/luspr/awesome-ml-courses#awesome-machine-learning-and-ai-courses)|Github repisotry contain couress| Pending|
 
 
 
