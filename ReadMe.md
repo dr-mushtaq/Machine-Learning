@@ -147,13 +147,6 @@ Star this repo if you find it useful ⭐
 |**🌐7-Putting it togather⭐️**|[**1**](https://drive.google.com/file/d/1A0lusuckMI6hYocYm3GlcniIC_ciXgXj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |**🌐8-Autonomous Driving⭐️**|[**1**](https://drive.google.com/file/d/11QXEEUyxYiqm1sAhsTc5c6Ps7DNZoQZg/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
-## 📚Chapter: -**Resources- Free Courses, Websites, Github**
- |Course| Website | Github |
-|---|---|---|
-|[**Machine Learning-Google**](https://techdevguide.withgoogle.com/paths/machine-learning/)|[**100 Days of Machine Learning Challenge**](https://100daysofml.github.io/index.html)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-</details>
-</details>
-
 <details> 
 <summary> <h2>Course 02 - 📚Unsupervised Learning with scikit_learning </h2> </summary>
 
