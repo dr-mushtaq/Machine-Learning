@@ -335,7 +335,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | Title/link| Description | Reading Status |
 |---|---|---|
 |[**✅1-Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction/?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good| InProgress|
-|[**✅2-Machine Learning **](https://techdevguide.withgoogle.com/paths/machine-learning/)|It is free course of google| Pending|
+|[**✅2-Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/)|It is free course of google| Pending|
 |[**✅3-Machine Learning from Scratch - Python**](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)|by Patrick Loeber,Youtube| Pending|
 |[**✅4-Machine Learning Zoomcamp:**](https://github.com/DataTalksClub/machine-learning-zoomcamp)|A Free 4-Month Course on ML Engineering| Pending|
 |[**✅5-Stanford CS229: Machine Learning ):**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|Full Course taught by( Andrew Ng| Pending|
