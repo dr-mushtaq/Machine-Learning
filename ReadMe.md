@@ -367,6 +367,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**✅3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
 |[**✅4-courses & resources**](https://github.com/SkalskiP/courses#cr%C3%A8me-de-la-cr%C3%A8me-of-ai-courses)|Github repisotry contain couress| Pending|
 |[**✅5-Awesome Machine Learning and AI Courses**](https://github.com/luspr/awesome-ml-courses#awesome-machine-learning-and-ai-courses)|Github repisotry contain couress| Pending|
+|[**✅6-Feature-engineering-and-feature-selection**](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)|Github repisotry feature selection in python,byYimeng-Zhang| Pending|
 
 
 
