@@ -217,7 +217,7 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter:6-**Feature Selection and Importance**
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|**🌐1- Introduction of Feature Selection**|[1](https://www.youtube.com/watch?v=eciABhWBiUc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
+|**🌐1- Introduction of Feature Selection**|[1](https://www.youtube.com/watch?v=eciABhWBiUc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 </details>
 
 <details> 
