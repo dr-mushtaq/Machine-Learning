@@ -218,6 +218,7 @@ Star this repo if you find it useful ⭐
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |**🌐1- Introduction of Feature Selection**|[1](https://www.youtube.com/watch?v=eciABhWBiUc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
+|**🌐2-Correlation Coefficient Method**|[1](https://www.youtube.com/watch?v=6oD_zGW7FBQ)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 </details>
 
 <details> 
