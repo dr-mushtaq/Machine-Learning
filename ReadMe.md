@@ -339,13 +339,14 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**✅3-Machine Learning from Scratch - Python**](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)|by Patrick Loeber,Youtube| Pending|
 |[**✅4-Machine Learning Zoomcamp:**](https://github.com/DataTalksClub/machine-learning-zoomcamp)|A Free 4-Month Course on ML Engineering| Pending|
 |[**✅5-Stanford CS229: Machine Learning ):**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|Full Course taught by( Andrew Ng| Pending|
+|[**✅6-Google Machine Learning Education):**](https://developers.google.com/machine-learning)|Full Course taught by( Andrew Ng| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
 |---|---|---|
-|[**🌐1-Roadmap.sh**](https://roadmap.sh/r/llm-engineer-ay1q6)|Provide complet Roadmap about AI Courses|---|
-|[**🌐2-Bolt**](https://bolt.new/)|write softare code and deployed |---|
-|[**🌐3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT)|write softare code and deployed |---|
-|[**🌐4-Deep-ML**](https://www.deep-ml.com/)|Interactive Learning of ML, Solve Ml Problem |---|
+|[**✅1-Roadmap.sh**](https://roadmap.sh/r/llm-engineer-ay1q6)|Provide complet Roadmap about AI Courses|---|
+|[**✅2-Bolt**](https://bolt.new/)|write softare code and deployed |---|
+|[**✅3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT)|write softare code and deployed |---|
+|[**✅4-Deep-ML**](https://www.deep-ml.com/)|Interactive Learning of ML, Solve Ml Problem |---|
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
