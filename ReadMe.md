@@ -361,6 +361,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**✅4-Machine Learning Zoomcamp:**](https://github.com/DataTalksClub/machine-learning-zoomcamp)|A Free 4-Month Course on ML Engineering| Pending|
 |[**✅5-Stanford CS229: Machine Learning ):**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|Full Course taught by( Andrew Ng| Pending|
 |[**✅6-Google Machine Learning Education):**](https://developers.google.com/machine-learning)|Full Course taught by( Andrew Ng| Pending|
+|[**✅5-Machine Learning**](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)|StatQuest,  |Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
 |---|---|---|
@@ -368,6 +369,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**✅2-Bolt**](https://bolt.new/)|write softare code and deployed |---|
 |[**✅3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT)|write softare code and deployed |---|
 |[**✅4-Deep-ML**](https://www.deep-ml.com/)|Interactive Learning of ML, Solve Ml Problem |---|
+
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
