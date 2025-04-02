@@ -362,6 +362,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**✅5-Stanford CS229: Machine Learning ):**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|Full Course taught by( Andrew Ng| Pending|
 |[**✅6-Google Machine Learning Education):**](https://developers.google.com/machine-learning)|Full Course taught by( Andrew Ng| Pending|
 |[**✅5-Machine Learning**](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)|StatQuest,  |Pending|
+|[**✅6-PreCalculus**](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcFN7BoQsgCyS9Wh0JPwttc)|Dr. Trefor Bazett  |Pending|
+
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
 |---|---|---|
