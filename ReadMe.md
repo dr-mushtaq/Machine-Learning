@@ -258,6 +258,16 @@ Star this repo if you find it useful ⭐
 
 </details>
 
+<details> 
+<summary> <h2>Course 04 - 📚Optimize ML Models to Run Them on Tiny Hardware </h2> </summary>
+
+## 📚Chapter:3 -**Apps Deployment**
+ | Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|[**🌐1-How to Deploy an AI App Locally: Step-by-Step Guide for Beginners)**](https://mushtaqmsit.substack.com/p/how-to-deploy-an-ai-app-locally-step)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+
+</details>
+
 
 <details> 
 <summary> <h2>Course 01 - 🗞️📚Other Best Free Resources to Learn Machine learning </h2> </summary>
