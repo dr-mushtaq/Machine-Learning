@@ -394,7 +394,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | Title/link| Description | Status |
 |---|---|---|
 |[**✅1- HELP ME CROWD-SOURCE A MACHINE LEARNING ROADMAP - 2025**](https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsource_a_machine_learning_roadmap/?share_id=Vhs4ll7wCPbA32yvSAOnj&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)|It is reddit group|Pending|
-|[**✅1- Introductory Books to Learn the Math Behind Machine Learning (ML)**](https://www.reddit.com/r/learnmachinelearning/comments/1jtw8p7/introductory_books_to_learn_the_math_behind/)|It is reddit group|Pending|
+|[**✅2- Introductory Books to Learn the Math Behind Machine Learning (ML)**](https://www.reddit.com/r/learnmachinelearning/comments/1jtw8p7/introductory_books_to_learn_the_math_behind/)|It is reddit group|Pending|
+|[**✅3- Industry ML skill**](https://substack.com/home/post/p-156032645)|It is substack group|Pending|
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
