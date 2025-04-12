@@ -381,6 +381,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**✅5-Machine Learning**](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)|StatQuest,  |Pending|
 |[**✅6-PreCalculus**](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcFN7BoQsgCyS9Wh0JPwttc)|Dr. Trefor Bazett  |Pending|
 |[**✅7-Machine Learning with Graphs**](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)|Stanford ,|Pending|
+|[**✅8-MIT RES.LL-005 Mathematics of Big Data and Machine Learning**](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)|Stanford ,|Pending|
+
 
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
