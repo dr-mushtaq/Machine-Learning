@@ -173,7 +173,6 @@ Star this repo if you find it useful ⭐
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |**🌐1-Deciding What to Try Next⭐️**|[**1**](https://drive.google.com/file/d/1a-G6tFdgEBCnHnjJ5FHMaAn9lDXdDxKA/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-</details>
 |**🌐2-Evaluating a Hypothesis⭐️**|[**1**](https://drive.google.com/file/d/1DJq5Ce9Vzwd6YwN4uubvkuiCO9mL1unG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 </details>
 
