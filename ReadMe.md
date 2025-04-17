@@ -390,6 +390,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**✅8-MIT RES.LL-005 Mathematics of Big Data and Machine Learning**](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)|Stanford ,|Pending|MIT|
 |[**✅9-CS294-158 Deep Unsupervised Learning SP19**](https://www.mrdbourke.com/2020-machine-learning-roadmap/)|Stanford ,|Pending|UC Berkeley|
 |[**✅9-Introduction to Machine Learning**](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)|Dmitry |Pending|University of Tübingen’s|
+|[**✅10-Statistical Machine Learning-2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)|Ulrike von Luxburg|Pending|University of Tübingen’s|
+
 
 
 ## 👁️ Chapter2: - **Important Website**
