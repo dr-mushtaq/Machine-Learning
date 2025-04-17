@@ -382,13 +382,13 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**✅2-Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/)|It is free course of google| Pending|	Google|
 |[**✅3-Machine Learning from Scratch - Python**](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)|by Patrick Loeber,Youtube| Pending|YouTube|
 |[**✅4-Machine Learning Zoomcamp:**](https://github.com/DataTalksClub/machine-learning-zoomcamp)|A Free 4-Month Course on ML Engineering| Pending|DataTalks.Club|
-|[**✅5-Stanford CS229: Machine Learning ):**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|Full Course taught by( Andrew Ng| Pending|
-|[**✅6-Google Machine Learning Education):**](https://developers.google.com/machine-learning)|Full Course taught by( Andrew Ng| Pending|
-|[**✅5-Machine Learning**](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)|StatQuest,  |Pending|
-|[**✅6-PreCalculus**](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcFN7BoQsgCyS9Wh0JPwttc)|Dr. Trefor Bazett  |Pending|
-|[**✅7-Machine Learning with Graphs**](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)|Stanford ,|Pending|
-|[**✅8-MIT RES.LL-005 Mathematics of Big Data and Machine Learning**](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)|Stanford ,|Pending|
-|[**✅9-CS294-158 Deep Unsupervised Learning SP19**](https://www.mrdbourke.com/2020-machine-learning-roadmap/)|Stanford ,|Pending|
+|[**✅5-Stanford CS229: Machine Learning ):**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|Full Course taught by( Andrew Ng| Pending|Stanford|
+|[**✅6-Google Machine Learning Education):**](https://developers.google.com/machine-learning)|Full Course taught by( Andrew Ng| Pending|Google|
+|[**✅5-Machine Learning**](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)|StatQuest,  |Pending|StatQuest (YouTube)|
+|[**✅6-PreCalculus**](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcFN7BoQsgCyS9Wh0JPwttc)|Dr. Trefor Bazett  |Pending|YouTube|
+|[**✅7-Machine Learning with Graphs**](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)|Stanford ,|Pending|Stanford|
+|[**✅8-MIT RES.LL-005 Mathematics of Big Data and Machine Learning**](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)|Stanford ,|Pending|MIT|
+|[**✅9-CS294-158 Deep Unsupervised Learning SP19**](https://www.mrdbourke.com/2020-machine-learning-roadmap/)|Stanford ,|Pending|UC Berkeley|
 |[**✅9-Introduction to Machine Learning**](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)|Dmitry |Pending|University of Tübingen’s|
 
 
