@@ -69,6 +69,7 @@ We welcome contributions from the community! Whether it's fixing a bug, adding a
 🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
 
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
+
 🔗 [**Gumroad**](https://gumroad.com/products/antows/edit)
 
 
