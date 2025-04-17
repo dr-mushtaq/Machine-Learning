@@ -376,12 +376,12 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 <summary> <h2>📕 Machine Learning Resources </h2> </summary>
 
 ## 👁️ Chapter1: - **Free Courses**
-| Title/link| Description | Reading Status |University|
+| Title/link| Description | Reading Status |University / Platform|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------|---------|
-|[**✅1-Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction/?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good|InProgress| |
-|[**✅2-Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/)|It is free course of google| Pending|
-|[**✅3-Machine Learning from Scratch - Python**](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)|by Patrick Loeber,Youtube| Pending|
-|[**✅4-Machine Learning Zoomcamp:**](https://github.com/DataTalksClub/machine-learning-zoomcamp)|A Free 4-Month Course on ML Engineering| Pending|
+|[**✅1-Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction/?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good|InProgress|Coursera|
+|[**✅2-Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/)|It is free course of google| Pending|	Google|
+|[**✅3-Machine Learning from Scratch - Python**](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)|by Patrick Loeber,Youtube| Pending|YouTube|
+|[**✅4-Machine Learning Zoomcamp:**](https://github.com/DataTalksClub/machine-learning-zoomcamp)|A Free 4-Month Course on ML Engineering| Pending|DataTalks.Club|
 |[**✅5-Stanford CS229: Machine Learning ):**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|Full Course taught by( Andrew Ng| Pending|
 |[**✅6-Google Machine Learning Education):**](https://developers.google.com/machine-learning)|Full Course taught by( Andrew Ng| Pending|
 |[**✅5-Machine Learning**](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)|StatQuest,  |Pending|
