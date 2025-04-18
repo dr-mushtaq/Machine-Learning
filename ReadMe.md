@@ -392,6 +392,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 12 | [**Introduction to Machine Learning**](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) | By Dmitry (University of Tübingen) | Pending | University of Tübingen |  |
 | 13 | [**Statistical Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) | By Ulrike von Luxburg | Pending | University of Tübingen |  |
 | 14 | [**Probabilistic Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd) | By Philipp Hennig | Pending | University of Tübingen |  |
+| 15 | [**Machine Learning Concepts - 2020**](https://inria.github.io/scikit-learn-mooc/toc.html) |github websit it implement all concept in sklearn| Pending | Github |  |
 
 
 ## 👁️ Chapter 2: Important Websites
