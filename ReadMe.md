@@ -393,8 +393,6 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 13 | [**Statistical Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) | By Ulrike von Luxburg | Pending | University of Tübingen |  |
 | 14 | [**Probabilistic Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd) | By Philipp Hennig | Pending | University of Tübingen |  |
 
-</details>
-
 
 ## 👁️ Chapter 2: Important Websites
 
@@ -404,7 +402,6 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 2-Bolt**](https://bolt.new/)  | Write software code and deploy                      | Completed  |
 | [**✅ 3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT) | Write software code and deploy                      | Completed  |
 | [**✅ 4-Deep-ML**](https://www.deep-ml.com/) | Interactive learning of ML, solve ML problems       | Completed  |
-
 
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
