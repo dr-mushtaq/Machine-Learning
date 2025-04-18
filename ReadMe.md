@@ -396,13 +396,15 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 </details>
 
 
-## 👁️ Chapter2: - **Important Website**
-| Title| Description | Status |
-|---|---|---|
-|[**✅1-Roadmap.sh**](https://roadmap.sh/r/llm-engineer-ay1q6)|Provide complet Roadmap about AI Courses|---|
-|[**✅2-Bolt**](https://bolt.new/)|write softare code and deployed |---|
-|[**✅3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT)|write softare code and deployed |---|
-|[**✅4-Deep-ML**](https://www.deep-ml.com/)|Interactive Learning of ML, Solve Ml Problem |---|
+## 👁️ Chapter 2: Important Websites
+
+| **Title**                         | **Description**                                     | **Status** |
+|-----------------------------------|-----------------------------------------------------|------------|
+| [**✅ 1-Roadmap.sh**](https://roadmap.sh/r/llm-engineer-ay1q6) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 2-Bolt**](https://bolt.new/)  | Write software code and deploy                      | Completed  |
+| [**✅ 3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT) | Write software code and deploy                      | Completed  |
+| [**✅ 4-Deep-ML**](https://www.deep-ml.com/) | Interactive learning of ML, solve ML problems       | Completed  |
+
 
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
