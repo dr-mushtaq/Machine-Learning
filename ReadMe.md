@@ -419,6 +419,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | **Title/Link**                                                                 | **Description**                                   | **Code** |
 |---------------------------------------------------------------------------------|---------------------------------------------------|----------|
 | [**✅ 1- Linear Algebra and Optimization for Machine Learning**](https://macro.com/app/pdf/d885fcad-84b5-4ba4-a03e-6f931d746dc5) | Videos and GitHub resources for learning         | Not provided |
+| [**✅ 2- The-Art-of-Linear-Algebra**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/The-Art-of-Linear-Algebra.pdf) | Videos and GitHub resources for learning         | Not provided |
 
 
 ## 👁️ Chapter 5: Github Repositories
