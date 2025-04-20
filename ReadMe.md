@@ -85,6 +85,19 @@ Star this repo if you find it useful ⭐
  
  [Machine Learning-gumroad](https://mushtaqmind.gumroad.com/)
 
+## 📬 Stay Updated with Weekly Machine Learning Lessons!
+
+Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
+**Join hundreds of Machine Learning learners on Substack.**
+
+👉 [**Subscribe to Our Machine Learning Newsletter**](https://substack.com/@coursesteach) ✨
+
+💡 Optional Badge (to make it pop)
+
+[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
+
+ 
+
 <details> 
 <summary> <h2>Course 01 - ⚙️Machine Learning </h2> </summary>
 
