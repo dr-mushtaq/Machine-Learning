@@ -224,8 +224,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅1-Regression in scikit-learn⭐️**](https://mushtaqmsit.substack.com/p/regression-analysis-using-scikit) | [1](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[-2](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb) |
 
 ## 📚Chapter:3-**Data Preprocessing and Pipelines**
-| Topic Name/Tutorial | Video | Code |
-|---|---|---|
+| Topic Name/Tutorial | Video | Code |Status|
+|---|---|---|---|
 | [**✅-1-Preprocessing in Machine Learning-s**](https://mushtaqmsit.substack.com/p/data-preprocessing-in-python-improve) | [1](https://drive.google.com/file/d/14MyKUWqykavcOp2MNIgQjGVU1TOyqwGg/view) [-2](https://drive.google.com/file/d/19Sx937C_K5JWQYvdv7h2J2aRdiHiucAS/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Ynb6X0KZKxY)| |
 |[**✅2- Importing the Data Set Using Scikit-Learn-s**](https://mushtaqmsit.substack.com/p/how-to-import-datasets-in-machine)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 |[**✅3-Handling missing data-S**](https://mushtaqmsit.substack.com/p/how-to-import-datasets-in-machine-801)|[1](https://drive.google.com/file/d/1dN_YRnwuUf8QpUWeSnLEqHm-PtIWoPuF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
