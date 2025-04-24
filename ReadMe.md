@@ -418,6 +418,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 2-Bolt**](https://bolt.new/)  | Write software code and deploy                      | Completed  |
 | [**✅ 3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT) | Write software code and deploy                      | Completed  |
 | [**✅ 4-Deep-ML**](https://www.deep-ml.com/) | Interactive learning of ML, solve ML problems       | Completed  |
+| [**✅ 5-LeetGPU**](https://leetgpu.com/challenges) | It offers real-time execution and GPU simulation for learning and performance analysis.| InProgress  |
+
 
 
 ## 👁️ Chapter 3: Important Social Media Groups
