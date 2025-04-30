@@ -429,14 +429,14 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 
 
 
-## 👁️ Chapter 3: Important Social Media Groups
+## ➕ Additional Social Media Groups
 
 | **Title/Link**                                                                 | **Description**                                    | **Status** | Platform|
 |---------------------------------------------------------------------------------|----------------------------------------------------|------------|---|
-| [**✅ 1- HELP ME CROWD-SOURCE A MACHINE LEARNING ROADMAP - 2025**](https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsource_a_machine_learning_roadmap/?share_id=Vhs4ll7wCPbA32yvSAOnj&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) | Reddit group focused on crowd-sourcing ML roadmap | Pending    |Reddit
-| [**✅ 2- Introductory Books to Learn the Math Behind Machine Learning (ML)**](https://www.reddit.com/r/learnmachinelearning/comments/1jtw8p7/introductory_books_to_learn_the_math_behind/) | Reddit group discussing ML math books             | Pending    |Reddit|
-| [**✅ 3- Industry ML Skill**](https://substack.com/home/post/p-156032645)         | Substack group focused on industry ML skills      | Pending    |Substack|
-| [**✅ 4- Data School**](https://www.youtube.com/@dataschool)         | Youtube Channel to learn sklearn     | Pending    |Youtube|
+| [**✅ 1- HELP ME CROWD-SOURCE A MACHINE LEARNING ROADMAP - 2025**](https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsource_a_machine_learning_roadmap/?share_id=Vhs4ll7wCPbA32yvSAOnj&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
+| [**✅ 2- Introductory Books to Learn the Math Behind Machine Learning (ML)**](https://www.reddit.com/r/learnmachinelearning/comments/1jtw8p7/introductory_books_to_learn_the_math_behind/) | Community recommendations for foundational ML math books             | Pending    |Reddit|
+| [**✅ 3- Industry ML Skill**](https://substack.com/home/post/p-156032645)         | Substack publication sharing ML skills in industry settings      | Pending    |Substack|
+| [**✅ 4- Data School**](https://www.youtube.com/@dataschool)         | YouTube channel focused on teaching Scikit-learn and data science     | Pending    |Youtube|
 
 
 ## 👁️ Chapter 4: Free Books
