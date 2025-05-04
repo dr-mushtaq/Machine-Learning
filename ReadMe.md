@@ -414,6 +414,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 14 | [**Probabilistic Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd) | By Philipp Hennig | Pending | University of Tübingen |  |
 | 15 | [**Machine Learning Concepts**](https://inria.github.io/scikit-learn-mooc/toc.html) |github websit it implement all concept in sklearn| Pending | Github |⭐️⭐️⭐️  |
 | 16 | [**Singular Value Decomposition**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) |Steve Brunton| Pending | Youtub | |
+| 16 | [**Linear Algebra for Machine Learning**](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) |v| Pending | Youtub |⭐️⭐️⭐️ |
 
 
 
