@@ -271,7 +271,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐2-Correlation Coefficient Method**|[1](https://www.youtube.com/watch?v=6oD_zGW7FBQ)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 |**🌐3-Chi-Square Test Method**|[1](https://www.youtube.com/watch?v=Iw9y6RHczBg)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 |**🌐4-Variance Threshold**|[1](https://www.youtube.com/watch?v=cOCVmJhTqUc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
-|**🌐5=Forward Selection**|[1](https://www.youtube.com/watch?v=0vCXcGJg5Bo)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
+|**🌐5-Forward Selection**|[1](https://www.youtube.com/watch?v=0vCXcGJg5Bo)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 </details>
 
 <details> 
