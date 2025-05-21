@@ -59,7 +59,15 @@ We welcome contributions from the community! Whether it's fixing a bug, adding a
 
 🔧 Implement & Experiment with provided code
 
+🔧Convert lessons into interactive Colab notebooks
+
 🤝 Collaborate with fellow ML enthusiasts
+
+🔧 Add new tutorials 
+
+🔧 Add quizzes or solutions
+
+🔧 suggestion other important website ,repistory,youtube Channel etc
 
 📌 Contribute your own implementations & projects
 
