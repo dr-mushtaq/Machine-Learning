@@ -67,6 +67,8 @@ We welcome contributions from the community! Whether it's fixing a bug, adding a
 
 🔧 Add quizzes or solutions
 
+🔧 Create blog from next topic in our jounrney
+
 🔧 suggestion other important website ,repistory,youtube Channel etc
 
 📌 Contribute your own implementations & projects
