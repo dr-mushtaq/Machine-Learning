@@ -429,7 +429,9 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 16 | [**Singular Value Decomposition**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) |Steve Brunton| Pending | Youtub | |
 | 17 | [**Linear Algebra for Machine Learning**](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) |Jon Krohn| Pending | Youtub |⭐️⭐️⭐️ |
 | 18 | [**Learning from Data**](https://work.caltech.edu/lectures.html) |Taught by Feynman Prize winner Professor Yaser Abu-Mostafa. | Youtub |⭐️⭐️⭐️ |
-| 19| [**UC Berkeley CS188 Intro to AI**](https://ai.berkeley.edu/lecture_videos.html) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 19 | [**UC Berkeley CS188 Intro to AI**](https://ai.berkeley.edu/lecture_videos.html) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 20 | [**Introduction to Algorithms, Spring 2020 by Youtube**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEYl) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+
 
 
 
