@@ -478,6 +478,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 5- Awesome Machine Learning and AI Courses**](https://github.com/luspr/awesome-ml-courses#awesome-machine-learning-and-ai-courses) | GitHub repository featuring a curated list of machine learning and AI courses | Pending    |
 | [**✅ 6- Feature Engineering and Feature Selection**](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection) | GitHub repository focused on feature engineering and selection in Python by Yimeng Zhang | Pending    |
 | [**✅ 7- machine-learning**](https://github.com/ethen8181/machine-learning/tree/master) | This is a continuously updated repository that documents personal journey on learning data science, machine learning related topics basci to advance level implementationm and topic | Pending    |
+| [**✅ 8- Awesome-ai-ml-resources**](https://github.com/armankhondker/awesome-ai-ml-resources) | This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025.| Pending    |
 
 
 
