@@ -490,6 +490,13 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |[**🌐2- Computer Science courses w**]()|It is Videos and github|---|
 </details>
    
+## 🧠 Machine Learning Project Pipeline
+
+This diagram illustrates the complete end-to-end process followed in this project, from raw data preprocessing to model deployment.
+
+![Machine Learning Pipeline](images/machine_learning_pipeline.jpg)
+
+
 ## 💻 Workflow:
 
 - Fork the repository
