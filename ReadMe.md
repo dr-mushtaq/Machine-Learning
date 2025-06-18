@@ -494,7 +494,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 
 This diagram illustrates the complete end-to-end process followed in this project, from raw data preprocessing to model deployment.
 
-![Machine Learning Pipeline](images/machine_learning_pipeline.jpg)
+![Machine Learning Pipeline](https://github.com/dr-mushtaq/Machine-Learning/blob/master/%F0%9F%93%9ADiagrames/Machine%20Learning%20process.jpg)
 
 
 ## 💻 Workflow:
