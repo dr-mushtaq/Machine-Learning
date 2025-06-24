@@ -75,6 +75,17 @@ We welcome contributions from the community! Whether it's fixing a bug, adding a
 
 📌 Share valuable blogs, videos, courses, GitHub repositories, and research websites
 
+## 🎓 **Enrolled Courses**
+
+Please enrolled in the following courses to strengthen knowledge and practical skills in Machine Learning. These courses are designed to provide both theoretical understanding and hands-on experience with real-world ML applications.
+
+🔗 [**Fundmental of Machine Learning**l](https://coursesteach.com/course/view.php?id=6)
+
+1- Covers foundational concepts such as Classification, Regression, Clustering, Recommendation ,Neural network ,Support Vector Machine ETC 
+
+🔗 [**Sklearn in Supervised Learning**](https://coursesteach.com/course/view.php?id=21)
+
+1- Covers foundational concepts such as Classification With sklearn, Regression with sklearn etc.
 
 ## **🌍 Join Our Community**
 
