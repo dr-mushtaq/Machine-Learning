@@ -469,6 +469,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 2- Introductory Books to Learn the Math Behind Machine Learning (ML)**](https://www.reddit.com/r/learnmachinelearning/comments/1jtw8p7/introductory_books_to_learn_the_math_behind/) | Community recommendations for foundational ML math books             | Pending    |Reddit|
 | [**✅ 3- Industry ML Skill**](https://substack.com/home/post/p-156032645)         | Substack publication sharing ML skills in industry settings      | Pending    |Substack|
 | [**✅ 4- Data School**](https://www.youtube.com/@dataschool)         | YouTube channel focused on teaching Scikit-learn and data science     | Pending    |Youtube|
+| [**✅ 5- Scikit-learn Cheatsheet**](https://github.com/thegeekyb0y/sklearn-cheat?tab=readme-ov-file#metrics)         | YouTube channel focused on teaching Scikit-learn and data science     | Pending    |Github|
 
 
 ## 👁️ Chapter 4: Free Books
