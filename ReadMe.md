@@ -240,7 +240,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>Course 03 - 📚Supervised Learning with scikit_learn </h2> </summary>
 
- 🗃️ Lessons
+ ## 🗃️ Lessons
  
   ## 📚Chapter:1-**Classification**
 | Topic Name/Tutorial | Video | Code |Extra Learning|
@@ -250,12 +250,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 ## 📚Chapter:2-**Regression**
-| Topic Name/Tutorial | Video | Code |
-|---|---|---|
+| Topic Name/Tutorial | Video | Code |Extra Learning|
+|---|---|---|---|
 | [**✅1-Regression in scikit-learn⭐️**](https://mushtaqmsit.substack.com/p/regression-analysis-using-scikit) | [1](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[-2](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb) |
 
 ## 📚Chapter:3-**Data Preprocessing and Pipelines**
-| Topic Name/Tutorial | Video | Code |Status|
+| Topic Name/Tutorial | Video | Code |Extra Learning|
 |---|---|---|---|
 | [**✅-1-Preprocessing in Machine Learning-s**](https://mushtaqmsit.substack.com/p/data-preprocessing-in-python-improve) | [1](https://drive.google.com/file/d/14MyKUWqykavcOp2MNIgQjGVU1TOyqwGg/view) [-2](https://drive.google.com/file/d/19Sx937C_K5JWQYvdv7h2J2aRdiHiucAS/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Ynb6X0KZKxY)| |
 |[**✅2- Importing the Data Set Using Scikit-Learn-s**](https://mushtaqmsit.substack.com/p/how-to-import-datasets-in-machine)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
@@ -268,8 +268,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅7-Pipelines in scikit-learn⭐️**](https://mushtaqmsit.substack.com/p/step-by-step-guide-to-scikit-learn)|[1](https://drive.google.com/file/d/1A00SABP9KsLGwET-sSA03G7M3byA2j8u/view)[-2](https://www.youtube.com/watch?v=MuPmbW0ln6g&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=31)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Pipelines_in_scikit_learn.ipynb)|
 
 ## 📚Chapter:4-**Measuring model performance**
-| Topic Name/Tutorial | Video | Code |
-|---|---|---|
+| Topic Name/Tutorial | Video | Code |Extra Learning|
+|---|---|---|---|
 | [**✅-1-Introduction of Model Evaluation⭐️**](https://mushtaqmsit.substack.com/p/a-beginners-guide-to-model-evaluation) |---|--- |
 |[**✅2- Confusion Metrix⭐️**](https://mushtaqmsit.substack.com/p/understanding-the-confusion-matrix)|[1](https://drive.google.com/file/d/1m_Ey2nNr6BCwRFuKsarqBBDkDfzCXAmY/view?usp=sharing)[-2](https://drive.google.com/file/d/1n9GHBcBwnRjjklBPT6wTCoy18Coflz5v/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb)|
 |[**✅3-Accuracy⭐️**](https://mushtaqmsit.substack.com/p/accuracy-in-machine-learning-definition)|[1](https://drive.google.com/file/d/1n9GHBcBwnRjjklBPT6wTCoy18Coflz5v/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb)|
@@ -280,8 +280,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**🌐8-How to Improve the Performance of Machine Learning Model**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-21-how-to-improve-the-performance-of-machine-learning-e6efa0ae364f)|---| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb) |
 
 ## 📚Chapter:5-**Fine Tuning your model**
-| Topic Name/Tutorial | Video | Code |
-|---|---|---|
+| Topic Name/Tutorial | Video | Code |Extra Learning|
+|---|---|---|---|
 |[**🌐1- Introduction of Hyperparameter Tuning⭐️**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-22-introduction-of-hyperparameter-tuning-c191eb595373)|[1](https://drive.google.com/file/d/1sWZcyfFQpMQ7FBlf6HrWLM0nD2in2w2C/view)[-2](https://drive.google.com/file/d/1n9GHBcBwnRjjklBPT6wTCoy18Coflz5v/view)[-2](https://www.youtube.com/watch?v=4zuIPwnQVdM&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=62)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
 |[**🌐2- Grid Search⭐️**](https://medium.com/@Coursesteach/how-to-use-grid-search-cv-for-hyperparameter-tuning-in-python-step-by-step-tutorial-supervised-60a30bd9f795)|[1](https://drive.google.com/file/d/1P2OVeEDyGLI8NeueKNL8LHrdm8Eh3ZnC/view)[-2](https://www.youtube.com/watch?v=TvB_3jVIHhg)[-3](https://www.youtube.com/watch?v=55BweAh6X5o)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
 |[**🌐3- Random Search⭐️**](https://medium.com/@Coursesteach/random-search-made-easy-step-by-step-guide-using-python-and-scikit-learn-supervised-learning-with-a2c6ae6dfedb)|[1](https://www.youtube.com/watch?v=G-fXV-o9QV8)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
@@ -290,8 +290,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**🌐6-Hyperopt: Distributed Hyperparameter Optimization⭐️**](https://medium.com/@Coursesteach/using-particle-swarm-optimization-pso-for-hyperparameter-tuning-in-classification-with-17f482cff028)|[1](https://www.youtube.com/watch?v=7abiCmKpHP8)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
 
 ## 📚Chapter:6-**Feature Selection and Importance**
-| Topic Name/Tutorial | Video | Code |
-|---|---|---|
+| Topic Name/Tutorial | Video | Code |Extra Learning|
+|---|---|---|---|
 |**🌐1- Introduction of Feature Selection**|[1](https://www.youtube.com/watch?v=eciABhWBiUc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 |**🌐2-Correlation Coefficient Method**|[1](https://www.youtube.com/watch?v=6oD_zGW7FBQ)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 |**🌐3-Chi-Square Test Method**|[1](https://www.youtube.com/watch?v=Iw9y6RHczBg)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
