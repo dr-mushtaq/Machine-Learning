@@ -299,6 +299,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐5-Forward Selection**|[1](https://www.youtube.com/watch?v=0vCXcGJg5Bo)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 |**🌐[6-Backward Elimination](https://mushtaqmsit.substack.com/p/backward-elimination-feature-selection)**|[1](https://www.youtube.com/watch?v=aLPptJQvwTw)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 |**🌐7-Lasso Regression (L1 Regularization**|[1](https://www.youtube.com/watch?v=g-8afK81FPc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
+|**🌐8-Tree-Based Feature Selection Methods**|[1](https://www.youtube.com/watch?v=R47JAob1xBY)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 </details>
 
 <details> 
