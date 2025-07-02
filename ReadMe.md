@@ -183,11 +183,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅8-Difference Between Linear Regression and Logistic Regression**](https://mushtaqmsit.substack.com/p/logistic-regression-vs-linear-regression)|[**1**](https://www.youtube.com/watch?v=4Wb1Apftkx4)|--|
 
 ## 📚Chapter: 6 -**Regularization**
- |Topic Name/Tutorial | Video | Code |
-|---|---|---|
+ |Topic Name/Tutorial | Video | Code |Extra Learning|
+|---|---|---|---|
 |[**✅1-The problem of overfitting**](https://mushtaqmsit.substack.com/p/what-is-overfitting-in-machine-learning)|[**1**](https://drive.google.com/file/d/12fTU40hOBNqeuBRtl-mGenm_bpRGcxH_/view)[-2](https://drive.google.com/file/d/13bQnb9hky0xbbxAq0JseUSaSUilLEvUM/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**✅2-Cost Function and Regularization**](https://mushtaqmsit.substack.com/p/cost-function-and-regularization)|[**1**](https://drive.google.com/file/d/1oEYWClAvVE_QUIkbC0SaLcP1mzvD-Luz/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐3-Regularized Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-32-regularized-linear-regression-9aaae2f83e1d)|[**1**](https://drive.google.com/file/d/1QF1OSVpHlktZ3O8959n3Qm1tPicPJvzV/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**✅3-Regularized Linear Regression**](https://mushtaqmsit.substack.com/p/regularized-linear-regression-in)|[**1**](https://drive.google.com/file/d/1QF1OSVpHlktZ3O8959n3Qm1tPicPJvzV/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐4-Regularized Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-33-regularized-logistic-regression-72e0c863c5e9)|[**1**](https://drive.google.com/file/d/19v0aIvEysNi0LYhTLI5hYwA0NNv9n7LW/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
 ## 📚Chapter: 7 -**Neural Network Representation**
@@ -201,8 +201,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**🌐6-Using Neural Networks for Multiclass Classification**](https://medium.com/@Coursesteach/machine-learning-part-39-using-neural-networks-for-multiclass-classification-1f155ecd831e)|[**1**](https://drive.google.com/file/d/1q5BNkmsqzC98JpGN_f4GNpuLfnNQamb6/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
 ## 📚Chapter: 8 -**Neural Network Learning**
- |Topic Name/Tutorial | Video | Code |
-|---|---|---|
+ |Topic Name/Tutorial | Video | Code |Extra Learning|
+|---|---|---|---|
 |[**🌐1-Cost Function⭐️**](https://medium.com/@Coursesteach/cost-functions-in-neural-networks-a-beginners-guide-to-binary-and-multiclass-9c4f7a280c48)|[**1**](https://drive.google.com/file/d/1leRyRgHpoWdBoFg1VHiJ1zkvN6FQ9Mo_/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐2-Backpropagation⭐️**](https://medium.com/@Coursesteach/understanding-backpropagation-in-neural-networks-a-step-by-step-guide-to-training-and-af9738d2c82a)|[**1**](https://drive.google.com/file/d/1lSh87ZOeZ59sd4roOPB48dbZVyK-KnTE/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**🌐3-Backpropagation intuition⭐️**](https://medium.com/@Coursesteach/breaking-down-backpropagation-intuition-mechanics-and-implementation-ml-p-41-79a5c68b1947)|[**1**](https://drive.google.com/file/d/1X3OOzuiBR8EeLmjXZoehSCl3LsKqA4eW/view)[-2](https://www.youtube.com/watch?v=Ilg3gGewQ5U)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
