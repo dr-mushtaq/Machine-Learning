@@ -304,7 +304,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## 📚Chapter:7-**Best Model Selecton**
 | Topic Name/Tutorial | Video | Code |Extra Learning|
 |---|---|---|---|
-|**🌐1-Detect Overfitting and Underfitting in scikit-learn**|[1](https://www.youtube.com/watch?v=4SHIs1nj5lk)[2](https://www.youtube.com/watch?v=xErJGDwWqys)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
+|**🌐1-Detect Overfitting and Underfitting in scikit-learn**|[1](https://www.youtube.com/watch?v=4SHIs1nj5lk)[2](https://www.youtube.com/watch?v=xErJGDwWqys)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Model_Selecton.ipynb)|
 </details>
 
 <details> 
