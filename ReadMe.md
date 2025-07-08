@@ -302,9 +302,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐8-Tree-Based Feature Selection Methods**|[1](https://www.youtube.com/watch?v=R47JAob1xBY)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 
 ## 📚Chapter:7-**Best Model Selecton**
-| Topic Name/Tutorial | Video | Code |Extra Learning|Extra Learning|
-|---|---|---|---|---|
-|**🌐1- How to Detect Overfitting and Underfitting in scikit-learn**|[1](https://www.youtube.com/watch?v=4SHIs1nj5lk)[2](https://www.youtube.com/watch?v=xErJGDwWqys)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
+| Topic Name/Tutorial | Video | Code |Extra Learning|
+|---|---|---|---|
+|**🌐1-Detect Overfitting and Underfitting in scikit-learn**|[1](https://www.youtube.com/watch?v=4SHIs1nj5lk)[2](https://www.youtube.com/watch?v=xErJGDwWqys)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 </details>
 
 <details> 
