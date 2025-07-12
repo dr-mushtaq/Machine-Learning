@@ -1,0 +1,394 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay","Good morning", "Good evening", "What's up?"],
+     "responses": ["Hello! How can I help you today?", "Hi there! Need any assistance?", "Hey! I'm here to help."]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "Catch you later", "Talk to you soon", "See ya", "Later", "I'm off", "Take care"],
+     "responses": ["Goodbye! Hope to see you again soon.", "Take care and come back anytime.", "Farewell! Have a wonderful day.", "Bye for now!", "Until next time!"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+    },
+    {"tag": "about",
+     "patterns": ["Who are you?","What are you?","Who you are?","Can you tell me about yourself?","Are you a chatbot?","Tell me who you are" ],
+     "responses": ["I'm an AI language model developed by the VU Research team. I'm designed to assist you with your queries related to the university's different departments."]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name","what should I call you","whats your name?","do you have a name?","may I know your name?"],
+    "responses": ["I'm an AI language model developed by the VU team. I'm designed to assist you with your queries related to the university's different departments."]
+    },
+    {"tag": "help",
+    "patterns": ["Could you help me?","Give me a hand, please","Can you help?","What can you do for me?","I need support","I need help","Support me, please","Can I get some assistance?","Can you assist me?","Help me please"],
+    "responses": ["Sure! How can I assist you?","Please tell me your problem so I can help you.","Yes, of course. How can I support you?"]
+    },
+    {"tag": "create_account",
+    "patterns": ["I need to create a new account","How to open a new account","I want to create an account","Can you create an account for me?","What is the process to create an account?","How can I register a new account?","Help me create a new account","How do I sign up?","How to make an account"],
+    "responses": ["You can easily create a new account from our website.","Just go to our website and follow the guidelines to create a new account.","Please visit our official website and use the sign-up option to register."]
+    },
+    {"tag": "complaint",
+    "patterns": [ "I have a complaint","I want to raise a complaint","There is a complaint about a service","How can I file a complaint?","I need to report an issue","How do I submit a complaint?","Where can I lodge a complaint?","I am not satisfied with the service","I want to report a problem"],
+    "responses": ["Please provide details of your complaint so we can assist you.","We're sorry for the inconvenience. Kindly mention your complaint and we’ll get back to you shortly.","Please share your issue, and we will address it as soon as possible."]
+    },
+    {"tag": "institution_type",
+    "patterns": ["Is Virtual University private or government?","Is the Virtual University a private or government institution?","VU is private or government?","Is VU a public university?","Is VU a govt university?","Is VU run by the government?","Who runs Virtual University?"],
+    "responses": ["The Virtual University of Pakistan (VU) is the country's first university based entirely on modern Information and Communication Technologies (ICTs). It operates under the Federal Ministry of Information Technology & Telecom (MoITT), Government of Pakistan, to provide affordable world-class education to students across Pakistan and abroad."]
+    },
+    {"tag": "admission_process",
+    "patterns": ["How can I apply for admission?","How to get admission in VU?","What is the admission process at Virtual University?","How to apply for VU admission?","Where can I apply for admission?","Is admission open now at VU?","Can I apply for admission online?"],
+    "responses": ["Admissions at the Virtual University open twice a year—in the Fall and Spring semesters. You can apply ONLINE by logging into the VU website at http://www.vu.edu.pk/Apply/Login.aspx. You may also get further assistance and information from any of the VU campuses or study centers. During admission days, the online admission form is available on the website, where you can upload all required scanned documents."]
+    },
+    {"tag":"contact_admission_department",
+        "patterns":["Contact VU admissions department","How can I contact the admissions department?","How to contact the admission office?","I need to contact the admission department","Admissions department contact info","Who do I contact for admission queries?","How to reach out to VU admissions team?"],
+        "responses":["All candidates, regardless of their location, may contact the University officials via the \"Contact Us\" page: https://www.vu.edu.pk/Contact.aspx.","VU also provides a Support System to facilitate students: https://www.vu.edu.pk/SupportSystem.","For direct queries, you can email the admissions department at admissions@vu.edu.pk."]
+    },
+    {"tag":"education_standards",
+        "patterns":["Does the university have different standards of education?","Are education standards the same in all provinces?","What is the standard of education in VU?","Are VU education standards different across regions?","Is education quality the same throughout the country?","Does VU offer uniform education?"],
+        "responses":["Absolutely not. The Virtual University provides uniform education to all its students regardless of their geographical location. Students from large cities, small towns, or remote areas are all taught by the same professors, receive identical study materials, and take the same examinations across the country."]
+    },
+    {"tag":"uniform_education",
+        "patterns":["How is uniform education possible all over the country?","What is uniform education at VU?","How does VU maintain the same education standards nationwide?","How does uniform education work?","uniform education"],
+        "responses":["The Virtual University ensures uniform education by broadcasting lectures via free-to-air television and the internet. Lectures are also accessible on YouTube and DVDs at a nominal cost. Exams are held in formally proctored environments at designated campuses. VU operates four TV channels (VTV1, VTV2, VTV3, and VTV4), and students attend lectures in virtual classrooms across the country. These campuses provide free internet access for student-teacher interaction."]
+    },
+    {"tag":"vu_professors",
+        "patterns":["Who are the professors at Virtual University of Pakistan?","Professors of VU","Tell me about VU faculty","Who teaches at VU?","Are VU professors qualified?"],
+        "responses":["The Virtual University utilizes the services of the most qualified professors in the country. These faculty members come from top universities and institutions and are recognized experts in their fields. Most of them hold PhD degrees, and even several Vice-Chancellors of major national universities have taught courses at the Virtual University of Pakistan."]
+    },
+    {"tag":"vu_education_cost",
+        "patterns":["VU education must be very expensive!","Is VU education expensive?","How much does it cost to study at VU?","Is studying at Virtual University costly?","What are the tuition fees at VU?"],
+        "responses":["You will be surprised at how affordable the Virtual University programs are. Despite offering world-class education and facilities, the cost of a BS program is only Rs. 750/- per credit hour. Diploma and Master's programs are Rs. 1,150/- per credit hour, while MS programs cost Rs. 2,100/- per credit hour."]
+    },
+    {"tag":"study_location",
+        "patterns":["Where do I study?","Where to study?","Where can I attend VU classes?","Do I need to go to campus to study at VU?","Can I study from home with VU?"],
+        "responses":["If you are a full-time student, you should preferably join one of the 210+ campuses of the Virtual University, located in over 100 cities across Pakistan. The list is available at: http://www.vu.edu.pk/PVCs/Default.aspx. Studying on campus allows interaction with classmates and provides free computer and internet facilities for student-teacher communication.","If you are a working professional or unable to attend campus, you can study from home using cable television, a computer or laptop, or even an Android phone with internet access."]
+    },
+    {"tag":"how_to_study",
+        "patterns":["How do I study?","How to study?","How are lectures delivered at VU?","How can I attend classes?","What is the method of studying at VU?","How does Virtual University teach?"],
+        "responses":["You attend lectures according to the declared timetable through the Virtual University's television network, which operates four channels: VTV1, VTV2, VTV3, and VTV4. The lecture schedule is always available on the VU website.","If you miss a lecture, all Virtual University courses are also available on YouTube and on DVDs at a very nominal cost.","In addition to textbooks, extensive reading material is available online through the University's Learning Management System (LMS)." ]
+    },
+    {"tag":"ask_teacher_question",
+        "patterns":["What if I need to ask a question from my teachers?","How to ask questions from teachers?","How can I contact my teacher?","How do I ask a question on VULMS?","Can I communicate with my teachers?","Where do I post questions for teachers?"],
+        "responses":["You can ask questions anytime using the Virtual University's Learning Management System (LMS) at http://vulms.vu.edu.pk. This system allows students to interact directly with their instructors online. No other university in the country provides such a robust and accessible facility."]
+    },
+    {"tag":"appear for exam",
+        "patterns":["how do i appear for my exam?","how to give exams?"],
+        "responses":["The Virtual University establishes examination centres throughout the country. Examinations are conducted under the supervision of examiners who ensure the sanctity of the process."]
+    },
+    {"tag":"recognized degree",
+        "patterns":["Is vu degree recognized?"],
+        "responses":["The Virtual University has been established by the Government of Pakistan. As such, its degrees are recognized by the Higher Education Commission, Islamabad. Please visit the HEC web-site (https://www.hec.gov.pk/english/universities/pages/recognised.aspx)"]
+    },
+    {"tag":"lecture handouts and dvd",
+        "patterns":["From where can I obtain the lecture handouts and DVDs?","lecture handouts","lectuer handouts and DVD's?"],
+        "responses":["Lecture Handouts and DVDs are easily available through the Virtual University's online bookshop (http://bookshop.vu.edu.pk). Availability of handouts and DVDs is not limited to VU students only; students and faculty from other Universities as well as the public at large can benefit from these courses and associated material."]
+    },
+    {"tag":"operate computer",
+        "patterns":["Can Virtual University help me learn how to operate a computer?","how to operate a computer?"],
+        "responses":["Definitely. You do not need to go to any computer centre\/Campus\/study centre to learn the basics of computers. The Virtual University has developed a very exciting and comprehensive set of interactive DVDs that will lead anybody through the basic IT learning process. No teacher is necessary and all instructions on these DVDs are delivered in Urdu, thereby making them extremely easy to understand and follow for all age groups."]
+    },
+    {"tag":"comparable courses",
+        "patterns":["Are the courses offered by VU comparable to international standards?","standard of VU courses"],
+        "responses":["Yes. Virtual University programs are based on curricula developed by the Higher Education Commission (HEC). The course outlines used in these curricula are based on international demands and standards."]
+    },
+    {"tag":"continue education after completing degree",
+        "patterns":["Will I be able to continue my education in any other University after obtaining a degree from VU?","can i continue my education after completing degree from VU?"],
+        "responses":["Definitely. In fact, VU graduates are already pursuing their MS and higher studies at top Universities both within Pakistan as well as abroad"]
+    },
+    {"tag":"concern certificate",
+        "patterns":["How can I get a \"To whom it may Concern\" certificate?","how to  get concern certificate"],
+        "responses":["The office of the Registrar facilitates its students to get a certificate which shows their current status of study at VU, upon payment of prescribed fee."]
+    },
+    {"tag":"migration certificate",
+        "patterns":["How can I get Migration Certificate/No Objection Certificate?","how do i get NOC?","how to get migration certificate"],
+        "responses":["The students of Virtual University can get Migration certificate\/NOC within a short time upon payment of the prescribed fee."]
+    },
+    {"tag":"course syllabus",
+        "patterns":["How can I get Course Contents\/Syllabus of a Study/Degree program","how to get course content","how to get course syllabus"],
+        "responses":["You can get the signed hard copy of Course Contents\/Syllabus of your study program from office of the Registrar upon payment of prescribed fee within a short time. Further you can get the soft copies of the Course Contents\/Syllabus at VU website (http://www.vu.edu.pk/AcademicPrograms/CoursesCatalogue.aspx)"]
+    },
+    {"tag":"student status updation",
+        "patterns":["How can I get my student status changed(Overseas to Pakistan)?","How can I get my student status changed","student status","overseas to pakistan","pakistan to overseas"],
+        "responses":["You may get your status changed by emailing at (overseas@vu.edu.pk) or using the VU Support System."]
+    },
+    {"tag":"campus change",
+        "patterns":["How can I get my Campus changed?","how to change campus"],
+        "responses":["You can get your campus changed by emailing at (campuschange@vu.edu.pk) or using the VU Support System."]
+    },
+    {"tag":"add or dropcourses",
+        "patterns":["How can I do my Course Selection/to Add or Drop course(s)?","how to do course selection?","add or drop courses"],
+        "responses":["You may select your courses by following the steps as mentioned in https://handbook.vu.edu.pk> Course selection or emailing at (course_selection@vu.edu.pk) to add or drop course (s)."]
+    },
+    {"tag":"freeze account",
+        "patterns":["How can I Freeze\/Unfreeze my Semester?","freeze account","unfreeze account"],
+        "responses":["You can freeze\/unfreeze your semester by following the steps as mentioned in https://handbook.vu.edu.pk>Registrar office > Semester Freeze or https://handbook.vu.edu.pk> Registrar office > Semester UnFreeze or emailing at (semesterfreeze@vu.edu.pk or semesterunfreeze@vu.edu.pk) to get your semester Freeze or Unfreeze."]
+    },
+    {"tag":"duplicateid",
+        "patterns":["How can I get a Duplicate ID card?","duplicate id card"],
+        "responses":["You can get a duplicate ID card by emailing at (idcard@vu.edu.pk) or using the VU Support System."]
+    },
+{"tag": "Dev C++",
+    "patterns": ["Sir dev c++ ki latest version window 10 k liye keise download karien?", "Dev c++", "Dev C++ ki guidlines dy"],
+    "responses": ["Dear StudentPlease download Dev-C++ version 5.11Setup file from the download section of the course website, through VULMS. RUN setup file on your system and then follow the given instructions for the successful installation of Dev-C++."]
+    },
+{"tag": "Credit",
+    "patterns": ["What is credit?", "Credit hours", "Credit hours means", "Credit"],
+    "responses": ["In academic contexts", "credit","refers to a unit of measurement that reflects the amount of work required to complete a course or program of study. It is typically based on the number of class hours, laboratory hours, and independent study hours required. Students must meet certain requirements to earn academic credit, and the numberof credits earned can impact their progress towards completing a degree."]
+    },
+{"tag": "Campus changed",
+    "patterns": ["How can i get campus changed?", "Campus change", "I want Campus change", "Campus change procedure"],
+    "responses": ["Ans. You can get your campus changed by emailing at (campuschange@vu.edu.pk) or using the VU Support System."]
+    },
+{"tag": "student status (Overseas to Pakistan and Vice Versa)",
+    "patterns": ["How can i change my status from overseas to pakistani?", "I want to be overseas student", "I want to be a pakistani student",
+ "can I change my status to overseas student or pakistani student please?"],
+    "responses": [" You may get your status changed by emailing at (overseas@vu.edu.pk) or using the VU Support System."]
+    },
+{"tag": "course selection",
+    "patterns": ["How can I select courses?", "Course selection procedure", "How to do course select?"],
+    "responses": ["You may select your courses by following the steps as mentioned in https://handbook.vu.edu.pk> Course selection or emailing at (course_selection@vu.edu.pk) to add or drop course (s)."]
+    },
+
+{"tag":" Suitability of  VU",
+        "patterns":["Is Virtual University of Pakistan (VUP) eLearning suitable for me?","Suitability of  VU"],
+        "responses":["Click on Link  https://vu.edu.pk/Apply/eLearningQuestionnaire.aspx  to fill questionnaire to see score  "]
+    },
+{"tag":"Fee Structure(Local)",
+        "patterns":["What is the fee structure of Local?","Fee Structure(Local) "],
+        "responses":[" Please click on given link to see fee Structure. https://vu.edu.pk/FeeStructure_Local.aspx    "]
+    },
+{"tag":"Fee Structure(Overseas)",
+        "patterns":["What is the fee structure of Overseas?","Fee Structure(Overseas) "],
+        "responses":[" Please click on given link to see fee Structure. https://vu.edu.pk/FeeStructure_Overseas.aspx     "]
+    },
+{"tag":" Disabled Student Fee structure(Local)",
+        "patterns":["What is the fee structure of Disabled Local students?","Disabled Student Fee Structure(Local) "],
+        "responses":[" Please click on given link to see fee Structure. https://vu.edu.pk/DisabledStudentsFeeStructure_Local.aspx   "]
+    },
+{"tag":" Disabled Student Fee structure(Overseas)",
+        "patterns":["What is the fee structure of Disabled Overseas students?","Disabled Student Fee Structure(Overseas) "],
+        "responses":[" Please click on given link to see fee Structure. https://vu.edu.pk/DisabledStudentsFeeStructure_Overseas.aspx    "]
+    },
+
+{"tag":" Schedule of other Charges",
+        "patterns":["What is the schedule of other charges at VU?","Other charges Schedule"],
+        "responses":["Click on Link  https://vu.edu.pk/Apply/eLearningQuestionnaire.aspx  to see schedule of other charges at VU.  "]
+    },
+
+{"tag":" Prospectus",
+        "patterns":["I want to get prospectus of VU","VU Prospectus","Prospectus"],
+        "responses":["Click on Link  https://drive.google.com/file/d/19Cf2jrDQ6pa9QJ7FJQOJ0pemFL2s9uKk/view   to download prospectus of VU.  "]
+    },
+{"tag":" Recent Advertisements of VU",
+        "patterns":["What are recent advertisements ?","Recent Advertisements","Advertisements"],
+        "responses":["Click on Link  https://vu.edu.pk/RecentAdvertisement/Default.aspx   to see recent advertisements.  "]
+    },
+{"tag":" How to Apply Online",
+        "patterns":["How to apply Online at VU?","Procedure to apply Online"],
+        "responses":["Click on Link  https://vu.edu.pk/Apply/Login.aspx  to apply online. "]
+    },
+{"tag":" New Registration",
+        "patterns":["How to register at  VU website?","New Registration"],
+        "responses":["Click on Link https://vu.edu.pk/Apply/Login.aspx    for new registration. "]
+    },
+{"tag":"Admission through Course Exemption/Transfer of Credit Hour(S)",
+        "patterns":["What is General Policy For Course Exemption?","What is General Policy For Transfer of Credit Hour(S)?","Course Exemption","Transfer of Credit Hours"],
+        "responses":["Click on Link  https://vu.edu.pk/Admissions/TransferStudents.aspx  to see details. "]
+    },
+    {"tag":"Admission through Entry Option",
+        "patterns":["What is Entry Option for BS Program?","How to get admission through entry Option?","Entry option"],
+        "responses":["Click on Link https://vu.edu.pk/Admissions/AdmissionThroughBSEntryRoute.aspx   to see details. "]
+    },
+{"tag":" ADMISSION OF FOREIGN/DUAL NATIONAL",
+        "patterns":["Admission of Foreign/Dual National (Residing Within Pakistan)","What is procedure of Admission of Foreign/Dual National"],
+        "responses":["Click on Link https://vu.edu.pk/pages/AdmissionForeign.aspx   to see details. "]
+    },
+{"tag":" Admission Status",
+        "patterns":["Admitted candidate list","Admission status","How to check admission Status?"],
+        "responses":["Click on Link https://vu.edu.pk/apply/admitlist.aspx   to check admission status. "]
+    },
+{"tag":" Grading Scheme",
+        "patterns":["What is the VU's Grading scheme?","Grading Scheme"],
+        "responses":["Click on Link https://vu.edu.pk/pages/VUGradingScheme.aspx   to view grading scheme. "]
+    },
+{"tag":" Courses Catalogue",
+        "patterns":["What is the courses catalogue?","Courses Catalogue"],
+        "responses":["Click on Link https://vu.edu.pk/AcademicPrograms/CoursesCatalogue.aspx  to view. "]
+    },
+{"tag":" Study Scheme",
+        "patterns":["What is the Study Scheme of VU?","Study Scheme"],
+        "responses":["Click on Link https://vu.edu.pk/StudyScheme/ to view study scheme. "]
+    },
+{"tag":" Faculty of Arts Programs",
+        "patterns":["What programs are offered in faculty of Arts?","Faculty of Arts Programs"],
+        "responses":["Click on Link https://vu.edu.pk/pages/FacultyofArts.aspx to view Programs. "]
+    },
+
+{"tag":" Faculty of Education Programs",
+        "patterns":["What programs are offered in faculty of Education?","Faculty of Education Programs"],
+        "responses":["Click on Link https://vu.edu.pk/pages/FacultyofEducation.aspx to view Programs. "]
+    },
+
+{"tag":" Faculty of Management Programs",
+        "patterns":["What programs are offered in faculty of Management?"," Faculty of Management Programs"],
+        "responses":["Click on Link https://vu.edu.pk/pages/FacultyofManagement.aspx to view Programs. "]
+    },
+    {"tag":" FACULTY OF SCIENCE & TECHNOLOGY Programs",
+    "patterns":["What programs are offered in faculty of Science & Technology?"," Faculty of Science & Technology"],
+    "responses":["Click on Link https://vu.edu.pk/pages/FacultyofScience_Technology.aspx to view Programs. "]
+},
+{"tag":" Short Certificate Course",
+        "patterns":["How to get admission in professional short certificate courses?"," Short Certifucate Courses"],
+        "responses":["Each Certificate Course comprised of one semester duration (18 weeks).Click on Link https://vu.edu.pk/AcademicPrograms/CertificateCourses.aspx to view details. "]
+    },
+{"tag":" Zero Semester",
+        "patterns":["What is zero semester?"," Zero Semester"],
+        "responses":["It has been introduced to provide an opportunity to deprived candidates who have earned their required qualification/ degree as prescribed in admission eligibility criteria of respective programs but do not fulfill minimum marks/ CGPA requirement. Such candidates upon successful completion can become eligible for subsequent admission towards their desired program. Click on Link https://vu.edu.pk/pages/ZeroSemester.aspx to view details. "]
+    },
+    {"tag":" Additional Specialization Certificate",
+        "patterns":["Candidates Holding 16 Year of Education in Any Discipline","  Additional Specialization Certificate"],
+        "responses":["This program has been designed for graduates having 16 year of education in any discipline and intends to sharpen skills and enhance educational, academic and professional qualifications while minimizing the costs of their studies. This will also broaden a student’s knowledge and increase career opportunities available in rapidly changing and competitive business environment. . Click on Link https://vu.edu.pk/pages/AdditionalSpecialization.aspx to view details. "]
+    },
+{"tag":"Academic Calendar",
+        "patterns":["Academic Calendar","What is the academic calender of VU?"],
+        "responses":[" Click on Link https://vu.edu.pk/StudentServices/AcademicCalendar.aspx to view details. "]
+    },
+{"tag":"Lecture Schedule",
+        "patterns":["Lecture Schedule","What is the lecture schedule?","How to check lecture schedule?"],
+        "responses":[" Click on Link https://vu.edu.pk/studentservices/LectureSchedule.aspx to check lecture schedule "]
+    },
+{"tag":"Student Handbook",
+        "patterns":["Student Handbook","How to view student handbook?"],
+        "responses":[" Click on Link https://handbook.vu.edu.pk/ to view student handbook. "]
+    },
+{"tag":"VU Bookshop",
+        "patterns":["VU Bookshop","What is VU bookshop?","How to view VU Bookshop?"],
+        "responses":[" Click on Link https://bookshop.vu.edu.pk/ to view VU Bookshop. "]
+    },
+{"tag":" Life at VU",
+        "patterns":["How is life at VU?","Clubs and Societies"],
+        "responses":[" Click on Link https://societies.vu.edu.pk/pages/Home.aspx to view Clubs and Societies. "]
+    },
+{"tag":"VU Scholarships",
+        "patterns":["How to get Scholarship?","Scholarships"],
+        "responses":[" Click on Link https://vu.edu.pk/pages/VUScholarships.aspx to view details about scholarships. "]
+    },
+{"tag":"Educator Scholarships",
+        "patterns":["How to get Educator Scholarship?","Educator Scholarships"],
+        "responses":[" Click on Link https://www.educator.com/scholarship/  to view details about scholarships. "]
+    },
+
+{"tag":"PAKISTAN BAIT-UL-MAL STIPENDS",
+        "patterns":["How to get Bait ul mal stipend?","Pakistan Bait ul mal Stipend","PAKISTAN BAIT-UL-MAL STIPENDS"],
+        "responses":[" Click on Link https://vu.edu.pk/pages/Bait-ul-Mal-stipend.aspx  to view details about Stipend.  For Further Details please Contact Head / Regional Office of Pakistan Bait-Ul-Mall ( http://www.pbm.gov.pk/downloads/criedu.JPG  and http://www.pbm.gov.pk/downloads/education.pdf) "]
+    },
+{"tag":"NBP Student Loan Scheme",
+        "patterns":["How to get NBP Student loan?","Student loan scheme"],
+        "responses":[" Click on Link  https://vu.edu.pk/Scholarships/Scholarships.aspx to view details about loan scheme. "]
+    },
+{"tag":"Syeda Mubarik Begum Scholarships",
+        "patterns":["How to get Syeda Mubarik Begum Scholarship?","Syeda Mubarik Begum Scholarships"],
+        "responses":[" Click on Link https://vu.edu.pk/pages/SyedaMubarikBegumScholarships.aspx  to view details about Scholarship. "]
+    },
+{"tag":"PUNJAB WORKERS WELFARE BOARD",
+        "patterns":["What is punjab workers welfare board?","Punjab worker welfare board"],
+        "responses":["Punjab Workers Welfare Board has been constituted under the provisions of Workers Welfare Fund Ordinance, 1971. The Workers Welfare Fund is the paymaster of the Boards constituted under the ordinance. The mandate of these Boards is to undertake the efficient disbursement and administration of the allocated money. The Boards under the constituent law are bound to follow the decision taken by the Workers Welfare Fund. Click on Link https://vu.edu.pk/pages/PunjabWorkders.aspx   to view details. "]
+    },
+{"tag":"PUNJAB EDUCATIONAL ENDOWMENT FUND (PEEF) ",
+        "patterns":["How to get PEEF?","Punjab Education Endowment Fund(PEEF)"],
+        "responses":["The Punjab Educational Endowment Fund (PEEF) is an initiative of the Government of Punjab under the leadership of Chief Minister, Mr. Muhammad Shahbaz Sharif. In order to make it more efficient, transparent and autonomous in its functioning; PEEF is registered under section 42 of the Companies Ordinance, 1984. Click on Link https://vu.edu.pk/pages/PEEF.aspx   to view details. "]
+    },
+{"tag":" PROFESSIONAL COURSES DEVELOPMENT",
+        "patterns":["How to develop Professional Courses?","PROFESSIONAL COURSES DEVELOPMENT"],
+        "responses":[" Click on Link https://vu.edu.pk/Opportunities/CourseDevelopmentProfessional.aspx   to see details."]
+    },
+{"tag":" Tender",
+        "patterns":["How to see VU Tenders?","Tenders"],
+        "responses":[" Click on Link https://vu.edu.pk/Opportunities/Tenders.aspx   to see details."]
+    },
+{"tag":" Vendor Registration ",
+        "patterns":["How to register Vendor?","Vendor Registration Form"],
+        "responses":[" Click on Link https://vu.edu.pk/downloads/Vendor%20Registration%20Form.pdf.pdf   to download form."]
+    },
+{"tag":" Exam Superintendent Registration ",
+        "patterns":["How to register for Exam Superintendent?","Exam Superintendent Registration"],
+        "responses":[" Click on Link https://qb.vu.edu.pk/public/ExaminerRegistration.aspx   to download form."]
+    },
+{"tag":" PROTECTION AGAINST HARASSMENT  ",
+        "patterns":["What is the PROTECTION AGAINST HARASSMENT OF WOMEN AT THE WORKPLACE?","PROTECTION AGAINST HARASSMENT "],
+        "responses":[" Click on Link https://www.vu.edu.pk/pages/harassmentProtection.aspx   to view details."]
+    },
+{"tag":" Citizen complaint portal ",
+        "patterns":["How complaint can be registered at VU?","VU Complaint Handling "],
+        "responses":[" Click on Link https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=3143     to register complaint."]
+    },
+{"tag":" RIGHT OF ACCESS TO INFORMATION ",
+        "patterns":["What is RTI?","RTI Act Review "],
+        "responses":[" Click on Link https://www.vu.edu.pk/AboutUs/RTI.aspx    to view details."]
+    },
+{"tag":" Club and Societies ",
+        "patterns":["What are the clubs at VU?"," Club and Societies"],
+        "responses":[" Click on Link https://societies.vu.edu.pk/pages/Home.aspx to view details."]
+    },
+{"tag":" ORIC ",
+        "patterns":["What is ORIC?"," ORIC"],
+        "responses":[" Click on Link https://oric.vu.edu.pk/ to view details."] 
+   },
+ {"tag":" Degree/Transcript Verification ",
+        "patterns":["How to verify Degree?"," Transcript Verification","Degree Verification"],
+        "responses":[" Click on Link https://www.vu.edu.pk/verify/OnlineTranscriptVerification.aspx to verify your degree."]    },
+ {"tag":" Digiskills ",
+        "patterns":["What is Digiskills?"," Digiskills"],
+        "responses":[" Click on Link https://www.digiskills.pk/  to view details."]   
+ },
+ {"tag":"VSpace ",
+        "patterns":["What is VSpace?"," VSpace"],
+        "responses":[" VSpace is a growing collection of Virtual University’s research that includes peer-reviewed articles, technical reports, working papers, theses and more. This electronic repository contains selected theses and dissertations of Masters and PhD students from all VU departments. The end users can search, navigate and download these publications using this website.Click on Link https://vspace.vu.edu.pk/  to view details."]  
+  },
+ {"tag":"QEC ",
+        "patterns":["What is QEC?"," Quality Enhancement Cells"],
+        "responses":[" The Quality Assurance Agency of the Higher Education Commission (HEC) has recommended the establishment of Quality Enhancement Cells (QECs) in all universities and institutes of higher education in order to systematically improve quality in higher education.Click on Link https://qec.vu.edu.pk/  to view details."]  
+  },
+{"tag":" Alumni Association ",
+        "patterns":["What is alumni association?"," Alumni association"],
+        "responses":[" Click on Link https://alumni.vu.edu.pk/  to view details."] 
+   },
+ {"tag":" Student Startup",
+        "patterns":["What is Student Startup?"," Startup"],
+        "responses":[" Student Start Up Business Center is a platform at VU to foster entrepreneurial spirit in the students and to provide them conducive environment to nurture their business ideas into successful business ventures. Click on Link https://ssbc.vu.edu.pk/ to view details."]  
+  },
+ {"tag":"Usefull Links ",
+        "patterns":["Other links","Links"],
+        "responses":[" Click on Link https://vu.edu.pk/PhotoGallery/ImportantLinks.aspx  to view details."] 
+   },
+   {"tag":"Private Institution ",
+   "patterns":["Is the Virtual University a Private or Government institution?","Private"],
+   "responses":[" Virtual University of Pakistan is a Government University chartered by Federal Government working under Federal Ministry of Information Technology & Telecom (MoITT), Government of Pakistan."] 
+},
+{"tag":"HEC Recongnized ",
+        "patterns":["Is the VU degree recognized by HEC?","HEC Recongnized"],
+        "responses":[" Yes, the degrees of Virtual University are recognized by the Higher Education Commission (HEC), Islamabad. Please visit the HEC web-site (https://www.hec.gov.pk/english/universities/pages/ recognised.aspx)"] 
+   },
+   {"tag":"Acceptable abroad ",
+   "patterns": ["If VU degrees are acceptable abroad?","Acceptable abroad"],
+   "responses": [" Yes, VU degrees are acceptable worldwide."] 
+},
+{"tag":"VU Professors ",
+"patterns": ["Who are the Professors at Virtual University of Pakistan?","Professors at VU"," Professors"],
+"responses": [" The Virtual University utilizes the services of the very best Professors that the country has to offer. They belong to the best universities and other institutions of the country and are acknowledged masters of their subjects. Most of the Professors hold PhD degrees and even several Vice-Chancellors of major national universities have taught courses at the Virtual University of Pakistan."] 
+},
+{
+    "tag": "noanswer",
+    "patterns": [],
+    "responses": [
+        "Sorry, can't understand you",
+        "Please give me more info",
+        "Not sure I understand"
+    ],
+    "context": [
+        ""
+    ]
+}
+
+]
+}
