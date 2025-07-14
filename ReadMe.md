@@ -452,9 +452,6 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 19 | [**UC Berkeley CS188 Intro to AI**](https://ai.berkeley.edu/lecture_videos.html) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 20 | [**Introduction to Algorithms, Spring 2020 by Youtube**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEYl) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 
-
-
-
 ## 👁️ Chapter 2: Important Websites
 
 | **Title**                         | **Description**                                     | **Status** |
@@ -467,7 +464,11 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 6-Machine Learning Visualized**](https://ml-visualized.com/index.html) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 7-scikit-learn-mooc**](https://inria.github.io/scikit-learn-mooc/toc.html) | Visualizes Machine Learning Algorithms.| InProgress  |
 
+## 👁️ Chapter 2: Important Youtube Channel,News letter.Blog
 
+| **Title**                         | **Description**                                     | **Status** |
+|-----------------------------------|-----------------------------------------------------|------------|
+| [**✅ 1-ProjectPro Podcast**](https://www.projectpro.io/podcast?utm_source=pawan&utm_medium=reddit) | Comprehensive roadmap for AI courses               | Completed  |
 
 
 ## ➕ Additional Social Media Groups
