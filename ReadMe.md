@@ -302,10 +302,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐8-Tree-Based Feature Selection Methods**|[1](https://www.youtube.com/watch?v=R47JAob1xBY)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Feature_Selection_10_14_21.ipynb)|
 
 ## 📚Chapter:7-**Best Model Selecton**
-| Topic Name/Tutorial | Video | Code |Extra Learning|
-|---|---|---|---|
+| Topic Name/Tutorial | Video | Code |Extra Learning|Note|
+|---|---|---|---|---|
 |**🌐1-Detect Overfitting and Underfitting in scikit-learn**|[1](https://www.youtube.com/watch?v=4SHIs1nj5lk)[2](https://www.youtube.com/watch?v=xErJGDwWqys)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Model_Selecton.ipynb)|
-|**🌐2-Learning and Validation Curves**|[1](https://www.youtube.com/watch?v=rEwiRBdz1us)[2](https://www.youtube.com/watch?v=xErJGDwWqys)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Model_Selecton.ipynb)|
+|**🌐2-Learning and Validation Curves**|[1](https://www.youtube.com/watch?v=rEwiRBdz1us)[2](https://www.youtube.com/watch?v=xErJGDwWqys)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Model_Selecton.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10404&forceview=1)|
 </details>
 
 <details> 
