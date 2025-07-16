@@ -14,8 +14,20 @@ The A-Z Guide to Machine Learning is a comprehensive resource designed to cater 
 <img src="https://github.com/hussain0048/Machine-Learning/blob/master/438058314_3872280102992838_2811757508132819156_n.jpg"></a>
 </p>
 
+## 📚 Table of Contents
 
-## 🔍 What You’ll Learn
+- [What You’ll Learn](#What_You’ll_Learn)
+- [Features](#Features)
+- [Contents](#Contents)
+- [Getting Started](#Getting-Started)
+- [Contributing](#Contributing)
+- [Contact](#Contact)
+- [Getting Started-Course 01](#Getting-Started-Course-01)
+- [Useful Python Resources](#useful-python-resources)
+
+
+
+## What You’ll Learn
 
 - 📊 **Data Preprocessing**: Cleaning, encoding, scaling, handling missing values
 - 📈 **Supervised Learning**: Linear regression, logistic regression, SVMs, decision trees
