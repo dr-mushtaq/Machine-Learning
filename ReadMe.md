@@ -14,6 +14,17 @@ The A-Z Guide to Machine Learning is a comprehensive resource designed to cater 
 <img src="https://github.com/hussain0048/Machine-Learning/blob/master/438058314_3872280102992838_2811757508132819156_n.jpg"></a>
 </p>
 
+
+## 🔍 What You’ll Learn
+
+- 📊 **Data Preprocessing**: Cleaning, encoding, scaling, handling missing values
+- 📈 **Supervised Learning**: Linear regression, logistic regression, SVMs, decision trees
+- 🧠 **Unsupervised Learning**: Clustering with K-Means, PCA, hierarchical clustering
+- 🧪 **Model Evaluation**: Confusion matrix, cross-validation, precision, recall
+- ⚙️ **Scikit-Learn Pipeline**: Automating ML workflows
+- 🧹 **Feature Engineering**: Selection, extraction, and transformation
+- 🛠️ **Project-based learning**: Mini-projects to apply ML to real-world datasets
+
 ## **Features👋🛒**
 
 Extensive Algorithm Coverage: Explore a wide range of ML algorithms, including but not limited to linear regression, decision trees, support vector machines, neural networks, clustering techniques, and more.
