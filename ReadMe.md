@@ -452,6 +452,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 18 | [**Learning from Data**](https://work.caltech.edu/lectures.html) |Taught by Feynman Prize winner Professor Yaser Abu-Mostafa. | Youtub |⭐️⭐️⭐️ |
 | 19 | [**UC Berkeley CS188 Intro to AI**](https://ai.berkeley.edu/lecture_videos.html) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 20 | [**Introduction to Algorithms, Spring 2020 by Youtube**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEYl) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 20 | [**Unsupervised Learning, Recommenders, Reinforcement Learning by Andrew coursera**](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning#modules) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 
 ## 👁️ Chapter 2: Important Websites
 
