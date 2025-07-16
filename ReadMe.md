@@ -19,7 +19,7 @@ The A-Z Guide to Machine Learning is a comprehensive resource designed to cater 
 - [What You’ll Learn](#What_you’ll_learn)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Prerequisites](#Prerequisites)
+- [Prerequisites](#prerequisites)
 - [Contributing](#Contributing)
 - [Contact](#Contact)
 - [Getting Started-Course 01](#Getting-Started-Course-01)
