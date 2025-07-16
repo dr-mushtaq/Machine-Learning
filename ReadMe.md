@@ -16,8 +16,8 @@ The A-Z Guide to Machine Learning is a comprehensive resource designed to cater 
 
 ## 📚 Table of Contents
 
-- [What You’ll Learn](#What_You’ll_Learn)
-- [Features](#Features)
+- [What You’ll Learn](#What_you’ll_learn)
+- [Features](#features)
 - [Contents](#Contents)
 - [Getting Started](#Getting-Started)
 - [Contributing](#Contributing)
