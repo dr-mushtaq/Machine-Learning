@@ -1,10 +1,10 @@
-## **A-Z Guide to Machine Learning👋🛒**
+## **🧠 Machine Learning with Python – Step-by-Step Hands-on Tutorials👋🛒**
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Machine-Learning"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/DALL%C2%B7E%202025-02-20%2009.38.02%20-%20An%20enhanced%20AI-themed%20GitHub%20repository%20banner%20with%20a%20futuristic%20dark%20blue%20and%20black%20background%2C%20incorporating%20glowing%20abstract%20neural%20network%20pattern.webp"></a>
 </p>
 
-Welcome to the A-Z Guide to Machine Learning repository! This comprehensive supplement offers a thorough exploration of the world of Machine Learning, providing implementation examples of various ML algorithms and techniques in Python and other relevant languages.
+Welcome to the **Machine Learning with Python** repository — a hands-on, beginner-to-advanced level guide designed for students, educators, and self-learners. This open-source collection of **Jupyter Notebooks**, exercises, and datasets walks you through real-world machine learning workflows using Python, NumPy, Pandas, and Scikit-learn.
 
 ## **Overview👋🛒**
 
