@@ -236,12 +236,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐8-Autonomous Driving⭐️**|[**1**](https://drive.google.com/file/d/11QXEEUyxYiqm1sAhsTc5c6Ps7DNZoQZg/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 
 ## 📚Chapter: 9 -**Model Selection**
- |Topic Name/Tutorial | Video | Code |Podcast|
-|---|---|---|---|
+ |Topic Name/Tutorial | Video | Code |Podcast|Note|
+|---|---|---|---|---|
 |**🌐1-Deciding What to Try Next⭐️**|[**1**](https://drive.google.com/file/d/1a-G6tFdgEBCnHnjJ5FHMaAn9lDXdDxKA/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |**🌐2-Evaluating a Hypothesis⭐️**|[**1**](https://drive.google.com/file/d/1DJq5Ce9Vzwd6YwN4uubvkuiCO9mL1unG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |**🌐3-Model selection and training/validation/test sets⭐️**|[**1**](https://drive.google.com/file/d/1Dktj28T6KxNwEhFD1zxExVRMGOROEW8d/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |**🌐4-Diagnosing Bias vs. Variance⭐️**|[**1**](https://drive.google.com/file/d/1Dktj28T6KxNwEhFD1zxExVRMGOROEW8d/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|
+|**🌐5-Learning Curves⭐️**|[**1**](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|[Link](https://coursesteach.com/mod/page/view.php?id=4081&forceview=1)|
 </details>
 
 <details> 
