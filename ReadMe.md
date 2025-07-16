@@ -56,7 +56,7 @@ Algorithms: Implementation examples of various ML algorithms, organized for easy
 We believe that the most effective learning and growth happen when people come together to exchange knowledge and ideas. Whether you're an experienced professional or just beginning your machine learning journey, your input can be valuable to the community.
 We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please contact on my **skype ID: themushtaq48** for guidelines on how to contribute.
 
-## 📋 Prerequisites
+## Prerequisites📋 
 
 - Introduction of Python (Variable, Loop etc)
 - Basic Probability Theory (Expectations and Distributions)
