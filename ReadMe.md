@@ -476,7 +476,12 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 18 | [**Learning from Data**](https://work.caltech.edu/lectures.html) |Taught by Feynman Prize winner Professor Yaser Abu-Mostafa. | Youtub |⭐️⭐️⭐️ |
 | 19 | [**UC Berkeley CS188 Intro to AI**](https://ai.berkeley.edu/lecture_videos.html) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 20 | [**Introduction to Algorithms, Spring 2020 by Youtube**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEYl) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
-| 20 | [**Unsupervised Learning, Recommenders, Reinforcement Learning by Andrew coursera**](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning#modules) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 21 | [**OpenAI Academy AI Courses**](https://academy.openai.com/public/content) |OpenAI Academy AI Courses | OpenAI |⭐️⭐️⭐️ |
+| 22 | [**Hugging Face AI Courses**](https://huggingface.co/learn) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 23 | [**LangChain Academy AI Course**](https://academy.langchain.com/collections) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 24 | [**IBM's AI courses**](https://skillsbuild.org/students/course-catalog/artificial-intelligence) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 25 | [**QPT's AI Course**](https://www.blog.qualitypointtech.com/2025/07/learn-ai-for-free-plus-join-my-live-ai.html) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 26 | [**AI For Beginners by Microsoft**](https://microsoft.github.io/AI-For-Beginners/) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 
 ## 👁️ Chapter 2: Important Websites
 
