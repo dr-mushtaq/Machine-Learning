@@ -501,6 +501,12 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |-----------------------------------|-----------------------------------------------------|------------|
 | [**✅ 1-ProjectPro Podcast**](https://www.projectpro.io/podcast?utm_source=pawan&utm_medium=reddit) | Comprehensive roadmap for AI courses               | Completed  |
 
+## 👁️ Chapter 2: Notbok
+
+| **Title**                         | **Description**                                     | **Status** |
+|-----------------------------------|-----------------------------------------------------|------------|
+| [**✅ 1-Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python/tree/master) | Comprehensive roadmap for AI courses               | Completed  |
+
 
 ## ➕ Additional Social Media Groups
 
