@@ -506,6 +506,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | **Title**                         | **Description**                                     | **Status** |
 |-----------------------------------|-----------------------------------------------------|------------|
 | [**✅ 1-Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python/tree/master) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 2-Machine Learning Notebooks**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=EfgADZppbwy-) | Comprehensive roadmap for AI courses               | Completed  |
+
 
 
 ## ➕ Additional Social Media Groups
