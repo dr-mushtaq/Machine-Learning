@@ -494,6 +494,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 5-LeetGPU**](https://leetgpu.com/challenges) | It offers real-time execution and GPU simulation for learning and performance analysis.| InProgress  |
 | [**✅ 6-Machine Learning Visualized**](https://ml-visualized.com/index.html) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 7-scikit-learn-mooc**](https://inria.github.io/scikit-learn-mooc/toc.html) | Visualizes Machine Learning Algorithms.| InProgress  |
+| [**✅ 8-Machine Learning Resources**](https://ml-resources.vercel.app/) | Visualizes Machine Learning Algorithms.| InProgress  |
 
 ## 👁️ Chapter 2: Important Youtube Channel,News letter.Blog
 
