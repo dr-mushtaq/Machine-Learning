@@ -482,6 +482,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 24 | [**IBM's AI courses**](https://skillsbuild.org/students/course-catalog/artificial-intelligence) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 25 | [**QPT's AI Course**](https://www.blog.qualitypointtech.com/2025/07/learn-ai-for-free-plus-join-my-live-ai.html) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 26 | [**AI For Beginners by Microsoft**](https://microsoft.github.io/AI-For-Beginners/) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 26 | [**Introduction to Robotics**](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_XM9cvjLLO_Azt1FkgPhpH) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 
 ## 👁️ Chapter 2: Important Websites
 
@@ -603,6 +604,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
