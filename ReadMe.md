@@ -243,9 +243,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐3-Model selection and training/validation/test sets⭐️**|[**1**](https://drive.google.com/file/d/1Dktj28T6KxNwEhFD1zxExVRMGOROEW8d/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |**🌐4-Diagnosing Bias vs. Variance⭐️**|[**1**](https://drive.google.com/file/d/1Dktj28T6KxNwEhFD1zxExVRMGOROEW8d/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|
 |**🌐5-Learning Curves⭐️**|[**1**](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|[Link](https://coursesteach.com/mod/page/view.php?id=4081&forceview=1)|
-|**🌐6-Model Calibration: Making Probabilities Reliable⭐️**|[**1**](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|[Link](https://coursesteach.com/mod/page/view.php?id=10416&forceview=1)|
-|**🌐7-Permutation Importance: Know What Really Matters⭐️**|[**1**](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|[Link](https://coursesteach.com/mod/page/view.php?id=10416&forceview=1)|
-|**🌐8-FeatureHasher: Handle High-Cardinality Categorical Data⭐️**|[**1**](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|[Link](https://coursesteach.com/mod/page/view.php?id=10416&forceview=1)|
+
 </details>
 
 <details> 
@@ -333,6 +331,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|---|---|
 |**🌐1-Detect Overfitting and Underfitting in scikit-learn**|[1](https://www.youtube.com/watch?v=4SHIs1nj5lk)[-2](https://www.youtube.com/watch?v=xErJGDwWqys)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Model_Selecton.ipynb)|
 |**🌐2-Learning and Validation Curves**|[1](https://www.youtube.com/watch?v=rEwiRBdz1us)[-2](https://www.youtube.com/watch?v=xErJGDwWqys)[-3](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Model_Selecton.ipynb)|[1](https://machinelearningmastery.com/6-lesser-known-scikit-learn-features-that-will-save-you-time/?fbclid=IwY2xjawJKddhleHRuA2FlbQIxMQABHfxTTI79EfQi9MKPN0BIdshPHZ9ptYBK19vcb1kCSZMgxjbh8xScSPFNhg_aem_wsz_RCM9yq7YyCbBPjyAcw)|[Link](https://coursesteach.com/mod/page/view.php?id=10404&forceview=1)|
+|**🌐3-Model Calibration: Making Probabilities Reliable⭐️**|[**1**](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|[Link](https://coursesteach.com/mod/page/view.php?id=10416&forceview=1)|
+|**🌐4-Permutation Importance: Know What Really Matters⭐️**|[**1**](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|[Link](https://coursesteach.com/mod/page/view.php?id=10416&forceview=1)|
+|**🌐5-FeatureHasher: Handle High-Cardinality Categorical Data⭐️**|[**1**](https://drive.google.com/file/d/1ekSsj2Tjtt0_Ug32ySIHlra9veyIuGnc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Podcast](https://drive.google.com/file/d/1a_fLQBH_8jrn7_CMVHRONfQDEUfTWyda/view?usp=sharing)|[Link](https://coursesteach.com/mod/page/view.php?id=10416&forceview=1)|
 </details>
 
 <details> 
@@ -608,6 +609,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
