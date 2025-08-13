@@ -114,7 +114,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
+🔗 [**Bloger Blogs**](https://coursesteach.blogspot.com/)
 
 🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
 
@@ -610,6 +610,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
