@@ -563,6 +563,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | Title| Description | Resources |
 |---|---|---|
 |[**🌐1- scikit-learn**](https://github.com/scikit-learn/scikit-learn)|Simple machine learning in Python for classification, regression, and clustering|---|
+|[**🌐2- Pandas**]([https://github.com/scikit-learn/scikit-learn](https://github.com/pandas-dev/pandas))|Easy data manipulation and analysis with DataFrames|---|
+|[**🌐3- NumPy**]([https://github.com/scikit-learn/scikit-learn](https://github.com/numpy/numpy))|Fundamental array computing and linear algebra operations|---|
 
 </details>
    
@@ -614,6 +616,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
