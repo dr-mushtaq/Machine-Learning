@@ -560,10 +560,10 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 
 
 ## 👁️ Chapter1: - **Important Library and Packages**
-| Title| Description | Code |
+| Title| Description | Resources |
 |---|---|---|
-|[**🌐1- Prompt Library**](https://www.promptly.fyi/library)|Find Prompt|---|
-|[**🌐2- Computer Science courses w**]()|It is Videos and github|---|
+|[**🌐1- scikit-learn**](https://github.com/scikit-learn/scikit-learn)|Simple machine learning in Python for classification, regression, and clustering|---|
+
 </details>
    
 ## 🧠 Machine Learning Project Pipeline
@@ -614,6 +614,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
