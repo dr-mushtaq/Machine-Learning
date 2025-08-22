@@ -162,14 +162,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅5-Best Free Resources to Learn Machine Learning⭐️**](https://mushtaqmsit.substack.com/p/top-free-resources-to-learn-machine)|---|---|
    
  ## 📚Chapter: 2 -**Linear Regression with one Variable**
- |Topic Name/Tutorial | Video | Code |
-|---|---|---|
+ |Topic Name/Tutorial | Video | Code |Extra Reading|
+|---|---|---|---|
 |[**✅Model Representation**](https://open.substack.com/pub/mushtaqmsit/p/understanding-linear-regression-in?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[**1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Vx2DpMgplEM)|---|
 | **✅1-Simple Linear Regression using sklearn(Lab1)**| --- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)|
 | **✅2-Simple Linear Regression with python-Andrew** | --- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)|
 |[**✅Understanding the Linear Regression Cost Function**](https://mushtaqmsit.substack.com/p/understanding-linear-regression-cost)|[1](https://drive.google.com/file/d/1vSBf6rM-jLTaMOh2R6UttashE3wBLKY9/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**✅What the cost function is doing?**](https://mushtaqmsit.substack.com/p/linear-regression-simplified-exploring)|[1](https://drive.google.com/file/d/1N7kVZrfcgcEJTuDBwj7HkBMXaqpWMauk/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**✅Understanding Gradient Descent**](https://mushtaqmsit.substack.com/p/gradient-descent-explained-a-beginners)|[1](https://drive.google.com/file/d/1-FRhC1FT0YalQY6sfcV9zneOcx_TtRpD/view)[-2](https://drive.google.com/file/d/1FGVKKVvgrpz7E7vlgsQKbwARm1QjXQVs/view)[-3](https://www.youtube.com/watch?v=iudXf5n_3ro&list=PLqwozWPBo-FtNyPKLDPTVDOHwK12QbVsM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+|[**✅Understanding Gradient Descent**](https://mushtaqmsit.substack.com/p/gradient-descent-explained-a-beginners)|[1](https://drive.google.com/file/d/1-FRhC1FT0YalQY6sfcV9zneOcx_TtRpD/view)[-2](https://drive.google.com/file/d/1FGVKKVvgrpz7E7vlgsQKbwARm1QjXQVs/view)[-3](https://www.youtube.com/watch?v=iudXf5n_3ro&list=PLqwozWPBo-FtNyPKLDPTVDOHwK12QbVsM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[1](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)|
 |[**✅Gradient Descent For Linear Regression**](https://mushtaqmsit.substack.com/p/gradient-descent-for-linear-regression)|[1](https://drive.google.com/file/d/1V5O7ThKwngM8903xqrg2HOh6_xy_FyJ7/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
 |[**Newton Raphson method**](https://substack.com/home/post/p-143041522)|[1](https://www.youtube.com/watch?v=si1geFmH60s)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
  
@@ -616,6 +616,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
