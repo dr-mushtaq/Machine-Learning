@@ -556,6 +556,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 8- Awesome-ai-ml-resources**](https://github.com/armankhondker/awesome-ai-ml-resources) | This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025.| Pending    |
 | [**✅ 9- best-of-ml-python**](https://github.com/lukasmasuch/best-of-ml-python) | This curated list contains 920 awesome open-source projects with a total of 5M stars grouped into 34 categories..| Pending    |
 | [**✅ 10- Awesome Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning) |This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning | Pending    |
+| [**✅ 11- Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python) |This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning | Pending    |
+
 
 
 
@@ -619,6 +621,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
