@@ -491,6 +491,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 26 | [**AI For Beginners by Microsoft**](https://microsoft.github.io/AI-For-Beginners/) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 27 | [**Introduction to Robotics**](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_XM9cvjLLO_Azt1FkgPhpH) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 28 | [**Notes for: Machine Learning in Computational Biology, Fall 2024**]([https://www.youtube.com/playlist?list=PLyqSpQzTE6M_XM9cvjLLO_Azt1FkgPhpH](https://docs.google.com/document/d/17eG2nS0kM3RyxDZsxpLiSKaNjFLCsXvRXX3CisZvyjY/edit?tab=t.0#heading=h.1q7ssuiiix85)) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 28 | [**CORNELL CS4780 "Machine Learning by Kilian Weinberger**](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 
 ## 👁️ Chapter 2: Important Websites
 
@@ -621,6 +622,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
