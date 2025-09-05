@@ -308,7 +308,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## 📚Chapter:5-**Fine Tuning your model**
 | Topic Name/Tutorial | Video | Code |Extra Learning|
 |---|---|---|---|
-|[**🌐1- Introduction of Hyperparameter Tuning⭐️**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-22-introduction-of-hyperparameter-tuning-c191eb595373)|[1](https://drive.google.com/file/d/1sWZcyfFQpMQ7FBlf6HrWLM0nD2in2w2C/view)[-2](https://drive.google.com/file/d/1n9GHBcBwnRjjklBPT6wTCoy18Coflz5v/view)[-2](https://www.youtube.com/watch?v=4zuIPwnQVdM&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=62)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
+|[**🌐1- Introduction of Hyperparameter Tuning⭐️**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-22-introduction-of-hyperparameter-tuning-c191eb595373)|[1](https://drive.google.com/file/d/1sWZcyfFQpMQ7FBlf6HrWLM0nD2in2w2C/view)[-2](https://drive.google.com/file/d/1n9GHBcBwnRjjklBPT6wTCoy18Coflz5v/view)[-2](https://www.youtube.com/watch?v=4zuIPwnQVdM&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=62)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|[1](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms)|
 |[**🌐2- Grid Search⭐️**](https://medium.com/@Coursesteach/how-to-use-grid-search-cv-for-hyperparameter-tuning-in-python-step-by-step-tutorial-supervised-60a30bd9f795)|[1](https://drive.google.com/file/d/1P2OVeEDyGLI8NeueKNL8LHrdm8Eh3ZnC/view)[-2](https://www.youtube.com/watch?v=TvB_3jVIHhg)[-3](https://www.youtube.com/watch?v=55BweAh6X5o)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
 |[**🌐3- Random Search⭐️**](https://medium.com/@Coursesteach/random-search-made-easy-step-by-step-guide-using-python-and-scikit-learn-supervised-learning-with-a2c6ae6dfedb)|[1](https://www.youtube.com/watch?v=G-fXV-o9QV8)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
 |[**🌐4- Bayesian Optimization⭐️**](https://medium.com/@Coursesteach/master-hyperparameter-tuning-bayesian-optimization-with-scikit-learn-and-python-supervised-98666b5b7e26)|[1](https://www.youtube.com/watch?v=CU5R9c3Wc60)[-2](https://www.youtube.com/watch?v=Kq6_kzlwSUQ)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Fine_Tuning_your_model.ipynb)|
@@ -558,6 +558,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 9- best-of-ml-python**](https://github.com/lukasmasuch/best-of-ml-python) | This curated list contains 920 awesome open-source projects with a total of 5M stars grouped into 34 categories..| Pending    |
 | [**✅ 10- Awesome Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning) |This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning | Pending    |
 | [**✅ 11- Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python) |This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning | Pending    |
+| [**✅ 12-Hyperparameter Optimization of Machine Learning Algorithms**](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
 
 
 
@@ -622,6 +623,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
