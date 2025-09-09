@@ -250,6 +250,26 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>Course 02 - 📚Unsupervised Learning with scikit_learning </h2> </summary>
 
+Target Audience:
+
+Beginners with basic Python knowledge
+
+Data science and ML learners
+
+Professionals looking to strengthen unsupervised learning skills
+
+Learning Outcomes: By the end of this course, learners will be able to:
+✅ Understand the foundations of unsupervised learning
+✅ Apply clustering, dimensionality reduction, and anomaly detection techniques using sklearn
+✅ Evaluate model performance in unsupervised tasks
+✅ Implement real-world unsupervised learning projects
+
+## 📚Chapter: 1  - **Chapter:1: Partitioning methods**
+ 
+| Topic Name/Tutorial  | Video | Video |collaboration doc|
+|---|---|---|----|
+|[**✅1-Suerpvised VS unsupervised learning⭐️**](https://coursesteach.blogspot.com/2025/08/understanding-artificial-intelligence.html)| [1](https://drive.google.com/file/d/1hpzkHnTpYp_JqTIP6BotqJx9jWxHEU3J/view)| Content 3 |[Doc](https://coursesteach.com/course/modedit.php?update=4804&return=1)|
+
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
   - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
@@ -623,6 +643,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
