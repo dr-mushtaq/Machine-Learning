@@ -527,6 +527,35 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 8-Machine Learning Resources**](https://ml-resources.vercel.app/) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 8-Made With ML**](https://madewithml.com/#course) | Visualizes Machine Learning Algorithms.| InProgress  |
 
+## 📚 Chapter: 4 - **Machine Learning Algorithms (Every Data Scientist Must Know)**
+
+| Name | Purpose | Strengths | Category | Sub-Category | Use Cases |
+|---|---|---|---|---|---|
+| **🌐1- Naïve Bayes** | Probabilistic classifier | Simple, fast, works well with small data | Supervised | Classification | Spam filtering, sentiment analysis |
+| **🌐2- Logistic Regression** | Binary/Multiclass classification | Interpretable, efficient for linearly separable data | Supervised | Classification | Medical diagnosis, credit scoring |
+| **🌐3- K-Nearest Neighbor (KNN)** | Instance-based learning | Non-parametric, easy to implement | Supervised | Classification | Pattern recognition, recommendation systems |
+| **🌐4- Random Forest** | Ensemble of decision trees | High accuracy, handles non-linearity | Supervised | Classification | Fraud detection, healthcare analytics |
+| **🌐5- Support Vector Machine (SVM)** | Classification & regression | Effective in high-dimensional spaces | Supervised | Classification | Text categorization, bioinformatics |
+| **🌐6- Decision Tree** | Predictive modeling | Easy to interpret, non-linear decision boundaries | Supervised | Classification | Risk analysis, customer segmentation |
+| **🌐7- Simple Linear Regression** | Predict continuous values | Easy to interpret, fast | Supervised | Regression | Sales prediction, trend analysis |
+| **🌐8- Multivariate Regression** | Multiple input variables | Handles multiple predictors | Supervised | Regression | Forecasting, demand estimation |
+| **🌐9- Lasso Regression** | Regression with feature selection | Reduces overfitting, performs variable selection | Supervised | Regression | Feature selection, sparse modeling |
+| **🌐10- K-Means Clustering** | Group similar data points | Scalable, simple, widely used | Unsupervised | Clustering | Market segmentation, image compression |
+| **🌐11- DBSCAN Algorithm** | Density-based clustering | Finds clusters of arbitrary shape, noise resistant | Unsupervised | Clustering | Anomaly detection, spatial data |
+| **🌐12- Principal Component Analysis (PCA)** | Dimensionality reduction | Reduces complexity, removes redundancy | Unsupervised | Clustering | Image compression, feature extraction |
+| **🌐13- Independent Component Analysis (ICA)** | Signal separation | Extracts independent signals from mixtures | Unsupervised | Clustering | EEG analysis, blind source separation |
+| **🌐14- Frequent Pattern Growth** | Mining frequent itemsets | Efficient association rule mining | Unsupervised | Association | Market basket analysis, recommendation systems |
+| **🌐15- Apriori Algorithm** | Rule-based learning | Easy to understand, classic association mining | Unsupervised | Association | Market basket analysis, cross-selling |
+| **🌐16- Z-Score Algorithm** | Detect outliers | Simple statistical method | Unsupervised | Anomaly Detection | Fraud detection, quality control |
+| **🌐17- Isolation Forest Algorithm** | Tree-based anomaly detection | Scales well to large datasets | Unsupervised | Anomaly Detection | Intrusion detection, anomaly monitoring |
+| **🌐18- Self-Training** | Semi-supervised classification | Uses unlabeled data to improve accuracy | Semi-Supervised | Classification | NLP tasks, medical data with limited labels |
+| **🌐19- Co-Training** | Semi-supervised regression | Works with multiple views of data | Semi-Supervised | Regression | Text classification, weakly labeled datasets |
+| **🌐20- Policy Optimization** | Learn optimal actions | Improves agent strategies | Reinforcement | Model-Free | Robotics, gaming |
+| **🌐21- Q-Learning** | Value-based learning | Off-policy, model-free RL | Reinforcement | Model-Free | Game AI, recommendation systems |
+| **🌐22- Learn the Model** | Model-based planning | Learns transition dynamics | Reinforcement | Model-Based | Robotics, simulations |
+| **🌐23- Given the Model** | Uses known environment | Faster training with known rules | Reinforcement | Model-Based | Chess AI, dynamic programming |
+
+
 ## 👁️ Chapter 2: Important Youtube Channel,News letter.Blog
 
 | **Title**                         | **Description**                                     | **Status** |
@@ -643,6 +672,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
