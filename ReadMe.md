@@ -533,7 +533,9 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 |---|---|---|---|---|---|
 | **🌐1- Naïve Bayes** | Probabilistic classifier | Simple, fast, works well with small data | Supervised | Classification | Spam filtering, sentiment analysis |
 | **🌐2- Logistic Regression** | Binary/Multiclass classification | Interpretable, efficient for linearly separable data | Supervised | Classification | Medical diagnosis, credit scoring |
+| **🌐2- Neural Network** | Binary/Multiclass classification | Interpretable, efficient for linearly separable data | Supervised | Classification | Medical diagnosis, credit scoring |
 | **🌐3- K-Nearest Neighbor (KNN)** | Instance-based learning | Non-parametric, easy to implement | Supervised | Classification | Pattern recognition, recommendation systems |
+| **🌐3- Gradient Boosting Machine(GBM)** | Instance-based learning | Non-parametric, easy to implement | Supervised | Classification | Pattern recognition, recommendation systems |
 | **🌐4- Random Forest** | Ensemble of decision trees | High accuracy, handles non-linearity | Supervised | Classification | Fraud detection, healthcare analytics |
 | **🌐5- Support Vector Machine (SVM)** | Classification & regression | Effective in high-dimensional spaces | Supervised | Classification | Text categorization, bioinformatics |
 | **🌐6- Decision Tree** | Predictive modeling | Easy to interpret, non-linear decision boundaries | Supervised | Classification | Risk analysis, customer segmentation |
@@ -672,6 +674,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
