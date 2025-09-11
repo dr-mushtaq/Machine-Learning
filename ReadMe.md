@@ -515,6 +515,72 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 8-Machine Learning Resources**](https://ml-resources.vercel.app/) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 8-Made With ML**](https://madewithml.com/#course) | Visualizes Machine Learning Algorithms.| InProgress  |
 
+## 📚 Chapter 4: Machine Learning Algorithms (Every Data Scientist Must Know)
+
+This table provides an overview of essential machine learning algorithms, organized by learning paradigm (Supervised, Unsupervised, Semi-Supervised, Reinforcement, Deep Learning), with their key strengths, main limitations, and common use cases.
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category                | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|-----------------------------|----------------------------------------|--------------------------------------|
+| 1  | Naïve Bayes                        | Probabilistic classifier                     | Simple, fast, works with small data         | Supervised       | Classification              | Spam filtering, sentiment analysis     | Assumes feature independence         |
+| 2  | Logistic Regression                | Binary/Multiclass classification             | Interpretable, efficient for linearly separable data    | Supervised       | Classification              | Medical diagnosis, credit scoring      | Not effective for non-linear data    |
+| 3  | Neural Network (MLP)               | Complex pattern recognition, function approximation | Handles non-linearities, scalable          | Supervised       | Classification/Regression    | Image recognition, speech-to-text      | Requires large data, less interpretable |
+| 4  | K-Nearest Neighbor (KNN)           | Instance-based learning                      | Non-parametric, easy to implement           | Supervised       | Classification/Regression    | Pattern recognition, recommendation systems | Sensitive to outliers, slow on large data |
+| 5  | Gradient Boosting Machine (GBM)    | Ensemble boosting method                     | High accuracy, handles mixed data           | Supervised       | Classification/Regression    | Fraud detection, churn prediction      | Prone to overfitting, slower to train|
+| 6  | Random Forest                      | Ensemble of decision trees                   | High accuracy, handles non-linearity        | Supervised       | Classification/Regression    | Fraud detection, healthcare analytics  | Less interpretable than single trees |
+| 7  | Support Vector Machine (SVM)       | Classification & regression                  | Effective in high-dimensional spaces        | Supervised       | Classification/Regression    | Text categorization, bioinformatics    | Not efficient with large datasets    |
+| 8  | Decision Tree                      | Predictive modeling                          | Easy to interpret, non-linear boundaries    | Supervised       | Classification/Regression    | Risk analysis, customer segmentation   | Prone to overfitting                 |
+| 9  | Simple Linear Regression           | Predict continuous values                    | Easy to interpret, fast                     | Supervised       | Regression                  | Sales prediction, trend analysis       | Assumes linearity, sensitive to outliers |
+| 10 | Multivariate Regression            | Multiple input variables                     | Handles multiple predictors                 | Supervised       | Regression                  | Forecasting, demand estimation         | Complex, needs more data             |
+| 11 | Lasso Regression                   | Regression with feature selection            | Reduces overfitting, variable selection     | Supervised       | Regression                  | Feature selection, sparse modeling     | Can eliminate useful variables        |
+| 12 | CatBoost                           | Gradient boosting with categorical support   | Handles categorical features natively       | Supervised       | Classification/Regression    | Credit scoring, e-commerce analytics   | Proprietary, slower than LightGBM    |
+| 13 | LightGBM                           | Fast gradient boosting                      | Very fast, low memory usage                 | Supervised       | Classification/Regression    | Ranking, click prediction             | Sensitive to overfitting, less interpretable |
+
+### Unsupervised Learning
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category               | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------------|----------------------------------------|--------------------------------------|
+| 14 | K-Means Clustering                 | Group similar data points                    | Scalable, simple, widely used               | Unsupervised     | Clustering                 | Market segmentation, image compression | Needs number of clusters, sensitive to scale |
+| 15 | DBSCAN Algorithm                   | Density-based clustering                     | Finds clusters of arbitrary shape, noise resistant | Unsupervised | Clustering                 | Anomaly detection, spatial data        | Struggles with varying densities     |
+| 16 | Principal Component Analysis (PCA) | Dimensionality reduction                     | Reduces complexity, removes redundancy      | Unsupervised     | Dimensionality Reduction   | Image compression, feature extraction  | Assumes linearity, loses interpretability |
+| 17 | Independent Component Analysis (ICA)| Signal separation                            | Extracts independent signals from mixtures  | Unsupervised     | Dimensionality Reduction   | EEG analysis, blind source separation  | Sensitive to noise                   |
+| 18 | Agglomerative Clustering           | Hierarchical grouping of data                | No need to pre-specify clusters, dendrogram visualization | Unsupervised | Clustering                 | Customer segmentation, document clustering | Computationally expensive      |
+| 19 | Frequent Pattern Growth            | Mining frequent itemsets                     | Efficient association rule mining           | Unsupervised     | Association                | Market basket analysis, recommender systems | Needs large data, complex output     |
+| 20 | Apriori Algorithm                  | Rule-based learning                          | Classic association mining, easy to understand | Unsupervised   | Association                | Market basket analysis, cross-selling  | Slow on large datasets               |
+| 21 | Z-Score Algorithm                  | Detect outliers                              | Simple statistical method                   | Unsupervised     | Anomaly Detection          | Fraud detection, quality control       | Assumes normal distribution          |
+| 22 | Isolation Forest Algorithm         | Tree-based anomaly detection                 | Scales well to large datasets               | Unsupervised     | Anomaly Detection          | Intrusion detection, anomaly monitoring| Less interpretable                   |
+
+### Semi-Supervised Learning
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category               | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------------|----------------------------------------|--------------------------------------|
+| 23 | Self-Training                      | Semi-supervised classification               | Uses unlabeled data to improve accuracy     | Semi-Supervised  | Classification             | NLP tasks, medical data with limited labels | May reinforce errors                |
+| 24 | Co-Training                        | Semi-supervised regression                   | Works with multiple views of data           | Semi-Supervised  | Regression                 | Text classification, weakly labeled datasets | Needs multiple independent feature sets |
+
+### Reinforcement Learning
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category               | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------------|----------------------------------------|--------------------------------------|
+| 25 | Policy Optimization                | Learn optimal actions                        | Improves agent strategies                   | Reinforcement    | Model-Free                 | Robotics, gaming                       | Training can be unstable             |
+| 26 | Q-Learning                         | Value-based learning                         | Off-policy, model-free RL                   | Reinforcement    | Model-Free                 | Game AI, recommendation systems        | Needs large training time            |
+| 27 | Learn the Model                    | Model-based planning                         | Learns transition dynamics                  | Reinforcement    | Model-Based                | Robotics, simulations                  | Requires accurate environment model  |
+| 28 | Given the Model                    | Uses known environment                       | Faster training with known rules            | Reinforcement    | Model-Based                | Chess AI, dynamic programming          | Limited to environments with known models |
+
+### Deep Learning / Foundation Models
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category               | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------------|----------------------------------------|--------------------------------------|
+| 29 | Convolutional Neural Network (CNN) | Image/video processing & recognition         | Captures spatial features, excellent for images | Deep Learning  | Supervised/Unsupervised    | Image classification, object detection | Needs large data, computationally heavy |
+| 30 | Recurrent Neural Network (RNN), LSTM, GRU | Sequence modeling, time series                 | Remembers temporal information              | Deep Learning    | Supervised/Unsupervised    | Speech recognition, time series        | Vanishing gradients, slow training   |
+| 31 | Transformer (Attention) Models     | Sequence-to-sequence, context-rich learning  | Handles long data dependencies, parallelizable | Deep Learning  | Supervised/Unsupervised    | NLP, translation, summarization        | Data hungry, requires large compute  |
+| 32 | BERT, RoBERTa, DistilBERT          | Pre-trained language representations         | Powerful for transfer learning in NLP       | Foundation Model | NLP                        | Text classification, Q&A, embeddings   | Large models, inference cost         |
+| 33 | GPT, LLaMA, Falcon, Mistral        | Generative language models                   | Few-shot, zero-shot, strong generative ability | Foundation Model | NLP                        | Text generation, code completion       | Very large, costly to train/infer    |
+| 34 | Vision Transformer (ViT)           | Image understanding with transformer         | Handles large-scale images, robust          | Foundation Model | Vision                     | Image classification, segmentation     | Needs huge data, slow to train       |
+| 35 | Stable Diffusion, DALL-E           | Text-to-image synthesis                      | Generates realistic images from text prompts| Generative Model | Vision                     | Art generation, design, creative apps  | May produce unrealistic images       |
+| 36 | CLIP, BLIP, Flamingo               | Cross-modal (vision+language) representation | Links text and images, multi-modal learning | Foundation Model | Multi-modal                 | Image search, captioning               | Needs large pre-training datasets    |
+
+---
+
+
 ## 📚 Chapter: 4 - **Machine Learning Algorithms (Every Data Scientist Must Know)**
 This table provides an overview of essential machine learning algorithms, organized by learning paradigm (Supervised, Unsupervised, Semi-Supervised, Reinforcement), with their key strengths, main limitations, and common use cases.
 
@@ -681,6 +747,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
