@@ -517,6 +517,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 
 ## 📚 Chapter: 4 - **Machine Learning Algorithms (Every Data Scientist Must Know)**
 
+This table provides an overview of essential machine learning algorithms, organized by learning paradigm (Supervised, Unsupervised, Semi-Supervised, Reinforcement), with their key strengths, main limitations, and common use cases.
+
 | Name | Purpose | Strengths | Category | Sub-Category | Use Cases |
 |---|---|---|---|---|---|
 | **🌐1- Naïve Bayes** | Probabilistic classifier | Simple, fast, works well with small data | Supervised | Classification | Spam filtering, sentiment analysis |
@@ -544,6 +546,54 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | **🌐21- Q-Learning** | Value-based learning | Off-policy, model-free RL | Reinforcement | Model-Free | Game AI, recommendation systems |
 | **🌐22- Learn the Model** | Model-based planning | Learns transition dynamics | Reinforcement | Model-Based | Robotics, simulations |
 | **🌐23- Given the Model** | Uses known environment | Faster training with known rules | Reinforcement | Model-Based | Chess AI, dynamic programming |
+iiii
+
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category         | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------|----------------------------------------|--------------------------------------|
+| 1  | Naïve Bayes                        | Probabilistic classifier                     | Simple, fast, works with small data         | Supervised       | Classification       | Spam filtering, sentiment analysis     | Assumes feature independence         |
+| 2  | Logistic Regression                | Binary/Multiclass classification             | Interpretable, efficient for linearly separable data    | Supervised       | Classification       | Medical diagnosis, credit scoring      | Not effective for non-linear data    |
+| 3  | Neural Network                     | Complex pattern recognition, function approximation | Handles non-linearities, scalable          | Supervised       | Classification/Regression | Image recognition, speech-to-text   | Requires large data, less interpretable |
+| 4  | K-Nearest Neighbor (KNN)           | Instance-based learning                      | Non-parametric, easy to implement           | Supervised       | Classification/Regression | Pattern recognition, recommendation systems | Sensitive to outliers, slow on large data |
+| 5  | Gradient Boosting Machine (GBM)    | Ensemble boosting method                     | High accuracy, handles mixed data           | Supervised       | Classification/Regression | Fraud detection, churn prediction     | Prone to overfitting, slower to train|
+| 6  | Random Forest                      | Ensemble of decision trees                   | High accuracy, handles non-linearity        | Supervised       | Classification/Regression | Fraud detection, healthcare analytics | Less interpretable than single trees |
+| 7  | Support Vector Machine (SVM)       | Classification & regression                  | Effective in high-dimensional spaces        | Supervised       | Classification/Regression | Text categorization, bioinformatics   | Not efficient with large datasets    |
+| 8  | Decision Tree                      | Predictive modeling                          | Easy to interpret, non-linear boundaries    | Supervised       | Classification/Regression | Risk analysis, customer segmentation  | Prone to overfitting                 |
+| 9  | Simple Linear Regression           | Predict continuous values                    | Easy to interpret, fast                     | Supervised       | Regression            | Sales prediction, trend analysis      | Assumes linearity, sensitive to outliers |
+| 10 | Multivariate Regression            | Multiple input variables                     | Handles multiple predictors                 | Supervised       | Regression            | Forecasting, demand estimation        | Complex, needs more data             |
+| 11 | Lasso Regression                   | Regression with feature selection            | Reduces overfitting, variable selection     | Supervised       | Regression            | Feature selection, sparse modeling    | Can eliminate useful variables        |
+
+### Unsupervised Learning
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category         | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------|----------------------------------------|--------------------------------------|
+| 12 | K-Means Clustering                 | Group similar data points                    | Scalable, simple, widely used               | Unsupervised     | Clustering           | Market segmentation, image compression | Needs number of clusters, sensitive to scale |
+| 13 | DBSCAN Algorithm                   | Density-based clustering                     | Finds clusters of arbitrary shape, noise resistant | Unsupervised | Clustering           | Anomaly detection, spatial data        | Struggles with varying densities     |
+| 14 | Principal Component Analysis (PCA) | Dimensionality reduction                     | Reduces complexity, removes redundancy      | Unsupervised     | Dimensionality Reduction | Image compression, feature extraction | Assumes linearity, loses interpretability |
+| 15 | Independent Component Analysis (ICA)| Signal separation                            | Extracts independent signals from mixtures  | Unsupervised     | Dimensionality Reduction | EEG analysis, blind source separation | Sensitive to noise                   |
+| 16 | Agglomerative Clustering           | Hierarchical grouping of data                | No need to pre-specify clusters, dendrogram visualization | Unsupervised | Clustering           | Customer segmentation, document clustering | Computationally expensive            |
+| 17 | Frequent Pattern Growth            | Mining frequent itemsets                     | Efficient association rule mining           | Unsupervised     | Association           | Market basket analysis, recommender systems | Needs large data, complex output     |
+| 18 | Apriori Algorithm                  | Rule-based learning                          | Classic association mining, easy to understand | Unsupervised   | Association           | Market basket analysis, cross-selling  | Slow on large datasets               |
+| 19 | Z-Score Algorithm                  | Detect outliers                              | Simple statistical method                   | Unsupervised     | Anomaly Detection      | Fraud detection, quality control       | Assumes normal distribution          |
+| 20 | Isolation Forest Algorithm         | Tree-based anomaly detection                 | Scales well to large datasets               | Unsupervised     | Anomaly Detection      | Intrusion detection, anomaly monitoring| Less interpretable                   |
+
+### Semi-Supervised Learning
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category         | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------|----------------------------------------|--------------------------------------|
+| 21 | Self-Training                      | Semi-supervised classification               | Uses unlabeled data to improve accuracy     | Semi-Supervised  | Classification        | NLP tasks, medical data with limited labels | May reinforce errors                |
+| 22 | Co-Training                        | Semi-supervised regression                   | Works with multiple views of data           | Semi-Supervised  | Regression            | Text classification, weakly labeled datasets | Needs multiple independent feature sets |
+
+### Reinforcement Learning
+
+| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category         | Use Cases                              | Main Limitation / Note               |
+|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------|----------------------------------------|--------------------------------------|
+| 23 | Policy Optimization                | Learn optimal actions                        | Improves agent strategies                   | Reinforcement    | Model-Free           | Robotics, gaming                       | Training can be unstable             |
+| 24 | Q-Learning                         | Value-based learning                         | Off-policy, model-free RL                   | Reinforcement    | Model-Free           | Game AI, recommendation systems        | Needs large training time            |
+| 25 | Learn the Model                    | Model-based planning                         | Learns transition dynamics                  | Reinforcement    | Model-Based          | Robotics, simulations                  | Requires accurate environment model  |
+| 26 | Given the Model                    | Uses known environment                       | Faster training with known rules            | Reinforcement    | Model-Based          | Chess AI, dynamic programming          | Limited to environments with known models |
+
+---
 
 
 ## 👁️ Chapter 2: Important Youtube Channel,News letter.Blog
@@ -662,6 +712,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
