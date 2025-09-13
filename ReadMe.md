@@ -365,6 +365,26 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>Course 04 - 📚Machine Learning in Production </h2> </summary>
 
+## 📚Chapter: 1  - **Serverless Deep Learning**
+Deploy deep learning models using serverless technologies like AWS Lambda.
+ 
+| Topic Name/Tutorial  | Video | Code |Extra Reading|
+|---|---|---|----|
+|**✅1- Serverless concepts**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅2- Deploying Scikit-Learn models with AWS Lambda**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅3- Deploying TensorFlow and PyTorch models with AWS Lambda**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅4- API Gateway**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+
+## 📚Chapter: 2 - **Kubernetes & TensorFlow Serving**
+Learn to serve ML models at scale using Kubernetes and TensorFlow Serving.
+| Topic Name/Tutorial  | Video | Code |Extra Reading|
+|---|---|---|----|
+|**✅1- Kubernetes basics**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅2- TensorFlow Serving**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅3- Model deployment and scaling**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅4- Load balancing**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+
+
 ## 📚Chapter:3 -**Apps Deployment**
  | Topic Name/Tutorial | Video | Code |
 |---|---|---|
@@ -711,6 +731,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
