@@ -250,6 +250,21 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>Course 01 - ⚙️ Tree Base Machine Learning </h2> </summary>
+
+## 📚Chapter: 1  - **Introduction**
+ 
+| Topic Name/Tutorial  | Video | Code |Extra Reading|
+|---|---|---|----|
+|**✅1- Decision trees**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅2- Random Forest**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅3- Gradient boosting (XGBoost)**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅4- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅5- Hyperparameter tuning**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+
+</details>
+
+<details> 
 <summary> <h2>Course 02 - 📚Unsupervised Learning with scikit_learning </h2> </summary>
 
 ## 📚Chapter: 1  - **Chapter:1: Partitioning methods**
@@ -696,6 +711,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
