@@ -273,6 +273,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|----|---|
 |[**✅1-Suerpvised VS unsupervised learning⭐️**](https://coursesteach.blogspot.com/2025/08/understanding-artificial-intelligence.html)| [1](https://drive.google.com/file/d/1hpzkHnTpYp_JqTIP6BotqJx9jWxHEU3J/view)| Content 3 |[Doc](https://coursesteach.com/course/modedit.php?update=4804&return=1)|
 |**✅2-Partition-Based Unsupervised Learning⭐️**| [1](https://www.youtube.com/watch?v=190xjQHVdrE)| Content 3 |[Note](https://coursesteach.com/mod/page/view.php?id=10461&forceview=1)|[Doc](https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models/1-introduction)|
+|**✅3-K-Means Clustering**|[1](https://drive.google.com/file/d/1hpzkHnTpYp_JqTIP6BotqJx9jWxHEU3J/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=10467&forceview=1)|
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
@@ -733,6 +734,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
