@@ -62,6 +62,12 @@ We welcome contributions from the community! Whether it's fixing a bug, adding a
 - Basic Probability Theory (Expectations and Distributions)
 - Multivariate Calculus
 
+## Quick Start Checklist with Links
+
+- Subscribe to [Couresesteach on YouTube](https://www.youtube.com/watch?v=A6KWIhgiyKc) and review the [course playlist](https://www.youtube.com/watch?v=A6KWIhgiyKc).
+- Read and Contribute in Machine Learning Notes [ Machine Learning Notes](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing).
+- Enroll in Complete Machine Learning Courese [Machine Learning!](https://coursesteach.com/course/view.php?id=6) to Solve quiz and find extr resources.   
+
 ## Why Contribute?
 
 1- **Share Your Expertise**: If you have knowledge or insights in machine learning or TinyML, your contributions can assist others in learning and applying these concepts.
@@ -735,6 +741,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
