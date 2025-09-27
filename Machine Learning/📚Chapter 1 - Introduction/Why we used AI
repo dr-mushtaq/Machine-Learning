@@ -1,0 +1,38 @@
+# 1.1 – Why We Used AI  
+
+Artificial Intelligence (AI) is an exciting scientific discipline that studies how computers can exhibit intelligent behavior, performing tasks that human beings are naturally good at doing.  
+
+Originally, computers were conceived by Charles Babbage in the 19th century to perform operations on numbers using a well-defined procedure—an algorithm. Even though modern computers are far more advanced than Babbage’s original model, they still operate on the same principle of controlled computations. This means that computers can be programmed to perform specific tasks **only if** we know the exact sequence of steps needed to achieve the goal.  
+
+However, not all problems can be solved by explicitly coding step-by-step instructions. For example, **estimating the age of a person from a photograph** is a task we humans perform intuitively, after observing countless faces over time. Yet, we cannot easily define the exact rules that lead to our judgment, nor can we write down a precise algorithm for a computer to follow. This is exactly the type of challenge that falls within the scope of Artificial Intelligence.  
+
+---
+
+## Why AI is Needed  
+
+- **Traditional programming** relies on hard-coded instructions such as *if-then-else* statements. Each new functionality requires a separate set of rules, making it difficult to scale or generalize.  
+- **AI, on the other hand, learns patterns from data**. Instead of explicitly coding the steps, we provide examples, and the system “learns” to perform the task.  
+
+If you were to program a system using only conventional programming, you would need to specify every single step in exhaustive detail. But when the problem itself is not well understood—or is too complex to define in rules—this becomes impossible. Hence, we need **generalized approaches like AI**, which can make decisions and adapt, rather than relying solely on predefined instructions.  
+
+---
+
+## Early Example: Arthur Samuel’s Checkers Program  
+
+A famous demonstration of AI came from **Arthur Samuel in 1956**. He aimed to teach a computer to play checkers at a competitive level. Instead of hard-coding every possible move, Samuel designed the program to **play against itself thousands of times**, improving gradually by learning from past games.  
+
+Remarkably, by 1962, his program was strong enough to defeat the Connecticut state champion in checkers. This milestone showed that computers could **learn through experience**, much like humans do.  
+
+---
+
+## Applications of AI Today  
+
+AI is now transforming numerous fields by tackling problems beyond the reach of traditional programming:  
+
+- **Finance**: Fraud detection, algorithmic trading, and customer service chatbots.  
+- **Medicine**: Disease diagnosis from medical images, personalized treatment recommendations, and drug discovery.  
+- **Arts and Creativity**: Music and painting generation, content recommendation, and film editing assistance.  
+
+---
+
+✅ **Think about it:** What tasks in your own life or work could you offload to a computer if it could “learn” instead of requiring you to spell out every instruction?  
