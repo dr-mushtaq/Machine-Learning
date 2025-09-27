@@ -1,14 +1,12 @@
-# 1.1 – Why We Used AI  
+#1.1 – Why We Used AI 
 
 Artificial Intelligence (AI) is an exciting scientific discipline that studies how computers can exhibit intelligent behavior, performing tasks that human beings are naturally good at doing.  
-
 Originally, computers were conceived by Charles Babbage in the 19th century to perform operations on numbers using a well-defined procedure—an algorithm. Even though modern computers are far more advanced than Babbage’s original model, they still operate on the same principle of controlled computations. This means that computers can be programmed to perform specific tasks **only if** we know the exact sequence of steps needed to achieve the goal.  
 
 However, not all problems can be solved by explicitly coding step-by-step instructions. For example, **estimating the age of a person from a photograph** is a task we humans perform intuitively, after observing countless faces over time. Yet, we cannot easily define the exact rules that lead to our judgment, nor can we write down a precise algorithm for a computer to follow. This is exactly the type of challenge that falls within the scope of Artificial Intelligence.  
 
----
 
-## Why AI is Needed  
+##Why AI is Needed  
 
 - **Traditional programming** relies on hard-coded instructions such as *if-then-else* statements. Each new functionality requires a separate set of rules, making it difficult to scale or generalize.  
 - **AI, on the other hand, learns patterns from data**. Instead of explicitly coding the steps, we provide examples, and the system “learns” to perform the task.  
