@@ -88,6 +88,80 @@ Widely used, and a wealth of tutorials and code snippets are available
 
 5-[-Essential Python Libraries for Machine Learning and Data Science](https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning-and-data-science/?utm_campaign=DLAI+Blog&utm_content=248986290&utm_medium=social&utm_source=facebook&hss_channel=fbp-1027125564106325)
 
+# Machine Learning Quiz
+
+---
+
+### 1. What is the primary characteristic that distinguishes supervised learning from unsupervised learning?
+
+A. The presence of labeled data with a known target variable.  
+B. The interaction with an environment through rewards and punishments.  
+C. The use of Python's scikit-learn library.  
+D. The goal of grouping data points into clusters.  
+
+---
+
+### 2. A financial institution wants to build a model to predict whether a loan application should be approved or denied based on historical application data. What type of machine learning task is this?
+
+A. Reinforcement learning  
+B. Clustering  
+C. Regression  
+D. Classification  
+
+---
+
+### 3. According to the source material, which of the following is NOT a core dependency or foundational library for scikit-learn?
+
+A. NumPy  
+B. Matplotlib  
+C. SciPy  
+D. TensorFlow  
+
+---
+
+### 4. In the context of a supervised learning dataset like the iris dataset, what are the measurements such as sepal length and petal width referred to?
+
+A. Response variables  
+B. Data points or samples  
+C. Target variables  
+D. Predictor variables or features  
+
+---
+
+### 5. Which machine learning approach is best suited for a scenario where an agent must learn to navigate a maze by receiving a 'reward' for moving closer to the exit and a 'punishment' for hitting a wall?
+
+A. Supervised learning  
+B. Reinforcement learning  
+C. Classification  
+D. Unsupervised learning  
+
+---
+
+### 6. A data scientist is trying to predict the future stock price of a company. This is an example of what kind of supervised learning task?
+
+A. Dimensionality reduction  
+B. Regression  
+C. Clustering  
+D. Classification  
+
+---
+
+### 7. According to the provided text, which statement accurately describes machine learning?
+
+A. It is exclusively focused on grouping customers into distinct categories.  
+B. It is the science of giving computers the ability to learn from data to make decisions.  
+C. It primarily involves using libraries like TensorFlow and Keras to build models.  
+D. It is the process of explicitly programming a computer for every possible decision.  
+
+---
+
+### 8. What is a key feature of the scikit-learn library highlighted in the text?
+
+A. It is designed specifically for reinforcement learning tasks.  
+B. It is written exclusively in C++ for maximum performance.  
+C. It provides a unified API to simplify the use of different machine learning algorithms.  
+D. It was primarily developed and is maintained by Google.  
+
 
 <p align="center">
   <a href="#previous-section" style="text-decoration:none;">
@@ -102,6 +176,7 @@ Widely used, and a wealth of tutorials and code snippets are available
     </button>
   </a>
 </p>
+
 
 
 
