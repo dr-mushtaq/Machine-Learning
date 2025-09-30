@@ -48,21 +48,28 @@ A note on naming conventions: out in the wild, you will find that what we call a
 
 There are many ways to perform supervised learning in Python. In this course, we will use scikit-learn, or sklearn, one of the most popular and user-friendly machine-learning libraries for Python. It also integrates very well with the SciPy stack, including libraries such as NumPy. There are a number of other ML libraries out there, such as TensorFlow and Keras, which are well worth checking out once you got the basics down.
 
-1- **Acquiring an image**
+1- **What is scikit -Learn?**
 
-Images, even large sets, can be acquired in real-time through video, photos or 3D technology for analysis.
+What is it:In simple terms, Scikit Learn is an open source and one of the most useful libraries for machine learning in Python. It has tools for predictive data analysis [6]. Scikit learn is a library that is written in Python and built upon Scipy, Matplotlib and Numpy provides a set of useful and efficient tools for machine learning and statistical modeling including regression, classification, clustering, predictive data analysis and dimensionality reduction etc and known as the most robust and useful library for Machine Learning .
 
-2- **Processing the image**
+Background: A developer named David Cournapeau originally released scikit-learn as a student in 2007. The open source community quickly adopted it and has updated it numerous times over the years [5]. This library, which is largely written in Python, is built upon NumPy, SciPy and Matplotlib [2].The library provides a unified API (Application Programming Interface) for practitioners to ease the use of machine learning algorithms with only writing a few lines to accomplish the predictive or classification task [3].The package is written heavily in python, and it incorporates C++ libraries like LibSVM and LibLinear for support vector machines and generalized linear model implementation [3]
 
-Deep learning models automate much of this process, but the models are often trained by first being fed thousands of labeled or pre-identified images. Computer vision algorithms are based on pattern recognition. We train our model on a massive amount of visual(images) data. Our model processes the images with label and find patterns in those objects(images).
+Features: The packages in Scikit-learn focus on modeling data.One of the most prominent Python libraries for machine learning:
+Contains many state-of-the-art machine learning algorithms
 
-3- **Understanding the image**
+It was designed to work seamlessly with NumPy and SciPy (both described below) for data cleaning, preparation, and calculation.
 
-The final step is the interpretative step, where an object is identified or classified.
+Builds on numpy (fast), implements advanced techniques
 
-###  Real life Example
+It has modules for loading data as well as splitting it into training and test sets.
 
-For example, If we send a million pictures of vegetable images to a model to train, it will analyze them and create an Engine (Computer Vision Model) based on patterns that are similar to all vegetables. As a result, Our Model will be able to accurately detect whether a particular image is a Vegetables every time we send it .
+It supports feature extraction for text and image data.
+
+Wide range of evaluation measures and techniques
+
+Offers comprehensive documentation about each algorithm
+
+Widely used, and a wealth of tutorials and code snippets are available
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_uhwJAFDBNBjTVmJ_6P5Zyg.png"></a>
@@ -92,6 +99,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
