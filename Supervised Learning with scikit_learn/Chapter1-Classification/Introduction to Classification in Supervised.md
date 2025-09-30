@@ -7,7 +7,7 @@ In this blog, we dive into classification techniques, a major type of supervised
 
 - [What is Machine Learning](#What-is-Machine-Learning)  
 - [Unsupervised learning](#Unsupervised-learning)  
-- [What is Computer Vision NOT?](#what-is-computer-vision-not)  
+- [Reinforcement learning](#Reinforcement-learning)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
 - [Real life Example?](#Real-life-Example)   
 - [History of Computer Vision](#history-of-computer-vision)  
@@ -26,15 +26,9 @@ For example, your computer can learn to predict whether an email is spam or not 
  
 Unsupervised learning, in essence, is the machine learning task of uncovering hidden patterns and structures from unlabeled data. For example, a business may wish to group its customers into distinct categories based on their purchasing behavior without knowing in advance what these categories may be. This is known as clustering, one branch of unsupervised learning.
 
-### **2- What is Computer Vision** 
+### **Reinforcement learning** 
 
-**Definition:** Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they “see.”
-
-**Defination1:** “Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do” 
-
-**Definition 2** :“Computer Vision is just a field of AI that enables computers or machines to see and understand the world and the things in it” 
-
-**Definition 3-GPT: Computer vision**  is a field of study in computer science and artificial intelligence that focuses on enabling computers to interpret and understand visual data from the world around us. It involves developing algorithms and techniques that allow computers to analyze and make sense of images and videos, just like humans do.
+There is also reinforcement learning, in which machines or software agents interact with an environment. Reinforcement agents are able to automatically figure out how to optimize their behavior given a system of rewards and punishments. Reinforcement learning draws inspiration from behavioral psychology and has applications in many fields, such as, economics, genetics, as well as game playing. In 2016, reinforcement learning was used to train Google DeepMind’s AlphaGo, which was the first computer program to beat the world champion in Go.
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Annotation%202021-03-31%20014715.png"></a>
@@ -94,6 +88,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
