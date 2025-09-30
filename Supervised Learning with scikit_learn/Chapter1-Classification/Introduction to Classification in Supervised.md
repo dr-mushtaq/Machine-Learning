@@ -8,7 +8,7 @@ In this blog, we dive into classification techniques, a major type of supervised
 - [What is Machine Learning](#What-is-Machine-Learning)  
 - [Unsupervised learning](#Unsupervised-learning)  
 - [Reinforcement learning](#Reinforcement-learning)  
-- [Supervised learning explanation](#Supervised learning explanation)
+- [Supervised learning explanation](#Supervised-learning-explanation)
 - [Real life Example?](#Real-life-Example)   
 - [History of Computer Vision](#history-of-computer-vision)  
 
@@ -92,6 +92,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
