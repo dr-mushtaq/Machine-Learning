@@ -5,15 +5,15 @@ In this blog, we dive into classification techniques, a major type of supervised
 
 ## 📑 Table of Contents  
 
-- [What is Machine Learning?](#What-is-Machine-Learning?)  
-- [What is Computer Vision?](#2--what-is-computer-vision)  
+- [What is Machine Learning](#What-is-Machine-Learning)  
+- [Unsupervised learning](#Unsupervised-learning)  
 - [What is Computer Vision NOT?](#what-is-computer-vision-not)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
 - [Real life Example?](#Real-life-Example)   
 - [History of Computer Vision](#history-of-computer-vision)  
 
 cvcv
-### **1- What is Machine Learning?** 
+### **What is Machine Learning** 
 
 Machine learning is the science and art of giving computers the ability to learn to make decisions from data without being explicitly programmed.
 For example, your computer can learn to predict whether an email is spam or not spam given its content and sender. Another example: your computer can learn to cluster, say, Wikipedia entries, into different categories based on the words they contain. It could then assign any new Wikipedia article to one of the existing clusters. Notice that, in the first example, we are trying to predict a particular class label, that is, spam or not spam. In the second example, there is no such label. When there are labels present, we call it **supervised learning**. When there are no labels present, we call it **unsupervised learning**.
@@ -22,11 +22,9 @@ For example, your computer can learn to predict whether an email is spam or not 
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/1.png"></a>
 </p>
 
- ## **Difference between CV and CP**
+ ## **Unsupervised learning**
  
-What is the difference between these two classes and the material covered in it? There is indeed some overlap between the classes, especially in the initial few modules where we learn about computing with images and extracting information from images.
-
-Computational photography is really about capturing a light from a scene to record a scene into a photograph or such other related novel artifact that showcases the scene. Image analysis is done to support the capture and display of the scene in novel ways. Some of it's actually about building newer forms of cameras and softwares to facilitate that process. Computer vision is really about interpreting an analysis of the scene. That is what is the content of the image of the scene, who is in there, what is in the image and what is happening.
+Unsupervised learning, in essence, is the machine learning task of uncovering hidden patterns and structures from unlabeled data. For example, a business may wish to group its customers into distinct categories based on their purchasing behavior without knowing in advance what these categories may be. This is known as clustering, one branch of unsupervised learning.
 
 ### **2- What is Computer Vision** 
 
@@ -96,6 +94,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
