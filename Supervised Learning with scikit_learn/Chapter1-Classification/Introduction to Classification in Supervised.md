@@ -5,7 +5,7 @@ In this blog, we dive into classification techniques, a major type of supervised
 
 ## 📑 Table of Contents  
 
-- [Difference between CV and CP](#Difference-between-CV-and-CP)  
+- [What is Machine Learning?](#What-is-Machine-Learning?)  
 - [What is Computer Vision?](#2--what-is-computer-vision)  
 - [What is Computer Vision NOT?](#what-is-computer-vision-not)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
@@ -13,8 +13,10 @@ In this blog, we dive into classification techniques, a major type of supervised
 - [History of Computer Vision](#history-of-computer-vision)  
 
 cvcv
-### **1- Introduction** 
-This is a course on computer vision. It's aimed at covering the foundational aspects of how to analyze images and to extract content from images. That is, how can we build a computer or a machine that can see and interpret an image. First what do I mean by foundational? I mean that we are going to cover the mathematical and computational methods to provide you with core concepts of how can a computer be built to interpret images. Notice I am using the word interpret. In Computer Vision we are interested in extracting information, knowledge from an image. Many want to go beyond processing an image to really knowing what is inside the image, what's the content of the image. So we will learn the math and the basic concepts how to compute with an image and extract information from it.
+### **1- What is Machine Learning?** 
+
+Machine learning is the science and art of giving computers the ability to learn to make decisions from data without being explicitly programmed.
+For example, your computer can learn to predict whether an email is spam or not spam given its content and sender. Another example: your computer can learn to cluster, say, Wikipedia entries, into different categories based on the words they contain. It could then assign any new Wikipedia article to one of the existing clusters. Notice that, in the first example, we are trying to predict a particular class label, that is, spam or not spam. In the second example, there is no such label. When there are labels present, we call it **supervised learning**. When there are no labels present, we call it **unsupervised learning**.
 
  ## **Difference between CV and CP**
  
@@ -90,6 +92,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
