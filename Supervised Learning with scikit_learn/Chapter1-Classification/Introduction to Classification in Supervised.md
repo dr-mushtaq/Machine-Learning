@@ -9,8 +9,7 @@ In this blog, we dive into classification techniques, a major type of supervised
 - [Unsupervised learning](#Unsupervised-learning)  
 - [Reinforcement learning](#Reinforcement-learning)  
 - [Supervised learning explanation](#Supervised-learning-explanation)
-- [Real life Example?](#Real-life-Example)   
-- [History of Computer Vision](#history-of-computer-vision)  
+- [Supervised learning in Python](#Supervised-learning-in-Python)    
 
 cvcv
 ### **What is Machine Learning** 
@@ -103,6 +102,7 @@ Widely used, and a wealth of tutorials and code snippets are available
     </button>
   </a>
 </p>
+
 
 
 
