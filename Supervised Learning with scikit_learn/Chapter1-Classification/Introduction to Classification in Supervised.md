@@ -72,18 +72,22 @@ Offers comprehensive documentation about each algorithm
 Widely used, and a wealth of tutorials and code snippets are available
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_uhwJAFDBNBjTVmJ_6P5Zyg.png"></a>
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/3.jpg"></a>
+</p>
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/4.jpg"></a>
 </p>
 
 ### References
 
-1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
+1-[Scikit Learn Tutorial](https://www.tutorialspoint.com/scikit_learn/index.htm)
 
-2-[-Introduction of Computer Vision](https://auth.udacity.com/sign-in)
+2-[Scikit-Learn: A silver bullet for basic machine learning](https://medium.com/analytics-vidhya/scikit-learn-a-silver-bullet-for-basic-machine-learning-13c7d8b248ee)
 
-4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
+4-[Machine Learning with scikit-learning (Datacamp)](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fmachine-learning-with-scikit-learn)
 
-5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
+5-[-Essential Python Libraries for Machine Learning and Data Science](https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning-and-data-science/?utm_campaign=DLAI+Blog&utm_content=248986290&utm_medium=social&utm_source=facebook&hss_channel=fbp-1027125564106325)
 
 
 <p align="center">
@@ -99,6 +103,7 @@ Widely used, and a wealth of tutorials and code snippets are available
     </button>
   </a>
 </p>
+
 
 
 
