@@ -8,7 +8,7 @@ In this blog, we dive into classification techniques, a major type of supervised
 - [What is Machine Learning](#What-is-Machine-Learning)  
 - [Unsupervised learning](#Unsupervised-learning)  
 - [Reinforcement learning](#Reinforcement-learning)  
-- [How does Computer Vision work?](#3-how-does-computer-vision-work)
+- [Supervised learning explanation](#Supervised learning explanation)
 - [Real life Example?](#Real-life-Example)   
 - [History of Computer Vision](#history-of-computer-vision)  
 
@@ -30,8 +30,12 @@ Unsupervised learning, in essence, is the machine learning task of uncovering hi
 
 There is also reinforcement learning, in which machines or software agents interact with an environment. Reinforcement agents are able to automatically figure out how to optimize their behavior given a system of rewards and punishments. Reinforcement learning draws inspiration from behavioral psychology and has applications in many fields, such as, economics, genetics, as well as game playing. In 2016, reinforcement learning was used to train Google DeepMind’s AlphaGo, which was the first computer program to beat the world champion in Go.
 
+### **Supervised learning explanation** 
+
+In supervised learning, we have several data points or samples, described using predictor variables or features and a target variable. Our data is commonly represented in a table structure such as the one you see here, in which there is a row for each data point and a column for each feature. Here, we see the iris dataset: each row represents measurements of a different flower and each column is a particular kind of measurement, like the width and length of a certain part of the flower. The aim of supervised learning is to build a model that is able to predict the target variable, here the particular species of a flower, given the predictor variables, here the physical measurements. If the target variable consists of categories, like ‘click’ or ‘no click’, ‘spam’ or ‘not spam’, or different species of flowers, we call the learning task classification. Alternatively, if the target is a continuously varying variable, for example, the price of a house, it is a regression task. In this chapter, we will focus on classification. In the following, on regression.
+
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Annotation%202021-03-31%20014715.png"></a>
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/2.png"></a>
 </p>
  
 Computer Vision is really about analyzing images and videos to extract knowledge from them. Mostly these images are of real scenes like that of a street image with cars and such where autonomous vehicle they'll have to navigate through or it could be other types of images like that of an X-ray inside a human head and we need to do image analysis to be able to extract things about of interest in medical applications.
@@ -88,6 +92,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
