@@ -303,7 +303,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
   ## 📚Chapter:1-**Classification**
 | Topic Name/Tutorial | Video | Code |Extra Learning|
 |---|---|---|---|
-|[**✅1-Classification (Supervised Learning-⭐️**](https://mushtaqmsit.substack.com/p/introduction-to-classification-in)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**-2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**-3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**-4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
+|[**✅1-Classification (Supervised Learning-⭐️**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/Introduction%20to%20Classification%20in%20Supervised.md)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**-2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**-3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**-4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
 | [**✅2-Classification using Scikit-Learn⭐️**](https://open.substack.com/pub/mushtaqmsit/p/top-supervised-learning-algorithms?r=f2squ&utm_campaign=post&utm_medium=web)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
 
 
@@ -741,6 +741,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
