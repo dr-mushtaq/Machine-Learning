@@ -37,8 +37,10 @@ In supervised learning, we have several data points or samples, described using 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/2.png"></a>
 </p>
+
+The goal of supervised learning is frequently to either automate a time-consuming or expensive manual task, such as a doctor’s diagnosis or to make predictions about the future, say whether a customer will click on an ad or not. For supervised learning, you need labeled data and there are many ways to get it: you can get historical data, which already has labels that you are interested in; you can perform experiments to get labeled data, such as A/B-testing to see how many clicks you get; or you can also crowdsourced labeling data which, like reCAPTCHA does for text recognition. In any case, the goal is to learn from data for which the right output is known, so that we can make predictions on new data for which we don’t know the output.
  
- **4. Naming conventions**
+ **Naming conventions**
 
 A note on naming conventions: out in the wild, you will find that what we call a feature, others may call a predictor variable or independent variable, and what we call the target variable, others may call dependent variable or response variable.
 
@@ -86,6 +88,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
