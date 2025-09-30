@@ -1,4 +1,6 @@
+Supervised learning, a key concept in machine learning, enables computers to make decisions based on labeled data. Whether you’re classifying emails as spam or predicting customer behavior, scikit-learn offers accessible tools to build effective models.
 
+In this blog, we dive into classification techniques, a major type of supervised learning, using Python’s powerful scikit-learn library. This guide provides a step-by-step approach, from understanding core concepts to implementing your first classification model, perfect for beginners and those looking to refine their data science skills.
 
 
 ## 📑 Table of Contents  
@@ -88,6 +90,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
