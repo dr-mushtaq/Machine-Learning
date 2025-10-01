@@ -1,7 +1,7 @@
 Artificial Intelligence (AI) has transformed from a visionary concept into an indispensable technology reshaping our world. From its philosophical roots and early computations to modern machine learning breakthroughs, AI now powers everyday tools—voice assistants, recommendation systems, and cutting-edge healthcare diagnostics. In this post, we’ll explore why humans created AI, trace its evolution from symbolic logic to neural networks, clarify what AI truly means today, and showcase real-world applications driving innovation across industries.
 ## 📑 Table of Contents  
 
-- [What is Machine Learning](#What-is-Machine-Learning)  
+- [Why we used AI](#Why-we-used-AI)  
 - [Unsupervised learning](#Unsupervised-learning)  
 - [Reinforcement learning](#Reinforcement-learning)  
 - [Supervised learning explanation](#Supervised-learning-explanation)
@@ -28,6 +28,11 @@ In traditional programming, when aiming to implement new functionalities or auto
 if you haven’t done it by yourself, requires laying out in excruciating detail every single step that you want the computer to do in order to achieve your goal. Now, if you want to do something that you don’t know how to do, then this is going to be a great challenge. Basically, regular programming is pretty limited and can’t make decisions on its own. That’s why we need generalized programming, which is more than just a programmer and can make decisions from our perspective.
 
 So, basically, this Arthur Samuel had a challenge in 1956. He wanted to teach a computer to beat him at checkers. Like, how do you even do that? Well, he came up with a plan. He had the computer play against itself over and over again, like thousands of times, until it learned how to play checkers really well. And guess what? It actually worked! By 1962, the computer had even beaten the Connecticut state champion. Pretty impressive, right?
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/1_fzqAsLGKIt3jzstwBLGsJA%20(1).png"></a>
+</p>
+
 
  ## **Unsupervised learning**
  
