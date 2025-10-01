@@ -37,8 +37,11 @@ So, basically, this Arthur Samuel had a challenge in 1956. He wanted to teach a 
  ## **Natural Intelligence (NI)**
  
 NI is the intelligence naturally evolved in living beings in response to the level of complexity in problems, challenges  etc  Natural intelligence (NI) is the inherent ability of living organisms to adapt to and interact with their environment. It encompasses a wide range of cognitive capabilities, including learning, problem-solving, reasoning, and communication.
+
 NI refers to the intelligence naturally evolved in living beings. It is the inherent ability of organisms—such as humans, animals, and birds—to adapt to their environment, solve problems, and make decisions in uncertain situations.
+
 In simple terms, NI helps us figure out “what to do when we don’t know what to do.”
+
 Helps in “What to do, when we do not know” 
 Humans, animals, birds etc 
 Thought, Vision, Speech, Hear, Feel
