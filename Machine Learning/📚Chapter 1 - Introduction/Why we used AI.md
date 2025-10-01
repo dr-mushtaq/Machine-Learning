@@ -34,9 +34,26 @@ So, basically, this Arthur Samuel had a challenge in 1956. He wanted to teach a 
 </p>
 
 
- ## **Unsupervised learning**
+ ## **Natural Intelligence (NI)**
  
-Unsupervised learning, in essence, is the machine learning task of uncovering hidden patterns and structures from unlabeled data. For example, a business may wish to group its customers into distinct categories based on their purchasing behavior without knowing in advance what these categories may be. This is known as clustering, one branch of unsupervised learning.
+NI is the intelligence naturally evolved in living beings in response to the level of complexity in problems, challenges  etc  Natural intelligence (NI) is the inherent ability of living organisms to adapt to and interact with their environment. It encompasses a wide range of cognitive capabilities, including learning, problem-solving, reasoning, and communication.
+NI refers to the intelligence naturally evolved in living beings. It is the inherent ability of organisms—such as humans, animals, and birds—to adapt to their environment, solve problems, and make decisions in uncertain situations.
+In simple terms, NI helps us figure out “what to do when we don’t know what to do.”
+Helps in “What to do, when we do not know” 
+Humans, animals, birds etc 
+Thought, Vision, Speech, Hear, Feel
+Key features of Natural Intelligence:
+Cognition: Thinking, reasoning, and learning from experiences.
+
+Perception: Vision, hearing, and touch.
+
+Communication: Speech and interaction.
+
+Adaptation: Adjusting behavior to survive and thrive.
+
+Examples: Human problem-solving, birds migrating across continents, or animals using tools in the wild.
+
+The human brain perceives things from the real world, processes the perceived information, makes rational decisions, and performs certain actions based on circumstances. This is what we called behaving intelligently. When we program a facsimile of the intelligent behavioral process to a machine, it is called artificial intelligence (AI).
 
 ## **Reinforcement learning** 
 
