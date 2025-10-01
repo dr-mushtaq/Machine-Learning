@@ -1,4 +1,4 @@
-
+Artificial Intelligence (AI) has transformed from a visionary concept into an indispensable technology reshaping our world. From its philosophical roots and early computations to modern machine learning breakthroughs, AI now powers everyday tools—voice assistants, recommendation systems, and cutting-edge healthcare diagnostics. In this post, we’ll explore why humans created AI, trace its evolution from symbolic logic to neural networks, clarify what AI truly means today, and showcase real-world applications driving innovation across industries.
 ## 📑 Table of Contents  
 
 - [What is Machine Learning](#What-is-Machine-Learning)  
