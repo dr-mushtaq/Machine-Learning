@@ -29,14 +29,6 @@ When it comes to classification, there are two main types: binary classification
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/33346d3c-afee-4069-a36e-9ccee57c783a_506x640.jpg"></a>
 </p>
 
-# **Why NLP is so important?**
-
-By now we have to work with a huge amount of data. In Machine Learning we mainly work with those numerical values. How we can get some actions on text data like news reports, social media comments and posts, and customer reviews in the online stores? We can use Natural language processing techniques to do that..Not only that, Even now we have made daily work easier by using applications made from NLP. Summarization applications, spell checker applications, and machine translations are some of them .
-
-Computers and machines are great at working with tabular data or spreadsheets. However, human beings generally communicate in words and sentences, not in the form of tables. Much information that humans speak or write is unstructured. So it is not very clear for computers to interpret such. In natural language processing (NLP), the goal is to make computers understand the unstructured text and retrieve meaningful pieces of information from it  
-
-Well NLP is cool and stuff, but how can we leverage it to improve our businesses more efficiently? How it could differ from the more traditional techniques?” [5].As we have said before, NLP allows machines to effectively understand and manipulate human languages. With that, you will be able to automate a lot of tasks and improve their rapidity and scale, like data labeling, translation, customer feedback, and text analysis. Applying NLP to real-world cases and not just for research purposes, will bring a significant competitive advantage to many businesses.
-
 # **Scikit-Learn Overview**
 
 Scikit-Learn is a powerful and easy-to-use library for machine learning in Python. It provides a wide range of algorithms and tools for various tasks, including classification. Some of the key features of Scikit-Learn include:
@@ -204,6 +196,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
