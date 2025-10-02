@@ -88,6 +88,10 @@ Suppose you have patient data and want to predict whether a person is likely to 
 - Will it rain today? (Yes or No)
 - Is this email spam? (Yes or No)
 
+ <p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/e8d6ef52-6b2b-4be2-88b9-9860266e9e3a_630x322.jp](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/5cbd4ed7-1d5a-47fd-9787-0e8d46cbf56c_630x379.jpg"></a>
+</p>
+
   The logistic regression cost function in scikit-learn is the negative log-likelihood function. This function is minimized during the training process to find the parameters of the model that best fit the data.
 
 Once we have extracted the features, we can build our logistic regression model. We will use the sci-kit-learn library in Python to implement logistic regression.
@@ -173,6 +177,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
