@@ -99,6 +99,23 @@ Once we have extracted the features, we can build our logistic regression model.
 
 This involves splitting the data into training and testing sets, fitting the model on the training data, and evaluating its performance on the testing data. In scikit-learn, logistic regression is implemented in the LogisticRegression class.
 
+To perform logistic regression with scikit-learn, you can follow these steps:
+
+Import the LogisticRegression class from the sklearn.linear_model module.
+
+- Create an instance of the LogisticRegression class and specify the parameters of the model. 
+- The most important parameter is the solver parameter, which specifies the algorithm used to train the model.
+-  Other parameters include the penalty parameter, which specifies the type of regularization to use,
+-   and the C parameter, which controls the strength of the regularization.
+
+In this example, we are using the lbfgs solver, and the default value of C. The lbfgs solver is a relatively slow but accurate solver. The C parameter controls the strength of the regularization. A higher value of C will result in a less regularized model, which may be more accurate but also more prone to overfitting.
+
+Fit the model to the training data.
+
+Use the model to predict the labels of new data.
+
+Here is an example of how to perform logistic regression with scikit-learn:
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -178,6 +195,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
