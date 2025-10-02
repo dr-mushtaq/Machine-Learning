@@ -25,6 +25,10 @@ Def: Classification is a supervised learning technique in which we train a model
 
 When it comes to classification, there are two main types: binary classification and multiclass classification. In binary classification, the target variable has only two classes, such as spam or not spam. In multiclass classification, the target variable can have more than two classes, like classifying images into different categories.
 
+<p align="center">
+<img src=" https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/33346d3c-afee-4069-a36e-9ccee57c783a_506x640.jpg"></a>
+</p>
+
 # **Why NLP is so important?**
 
 By now we have to work with a huge amount of data. In Machine Learning we mainly work with those numerical values. How we can get some actions on text data like news reports, social media comments and posts, and customer reviews in the online stores? We can use Natural language processing techniques to do that..Not only that, Even now we have made daily work easier by using applications made from NLP. Summarization applications, spell checker applications, and machine translations are some of them .
@@ -49,9 +53,7 @@ There are trillions of web pages full of natural text, so imagine the scale of d
 
  
 
-<p align="center">
-<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/image-1.png"></a>
-</p>
+
 
 Natural Language Processing (or NLP for short) consists of developing a set of algorithms and tools so that machines can make sense of data available in natural (human) languages such as English, German, French, etc. Although there are traces of NLP research since a long time ago, the concept got well defined in the 1950s, with the breakthrough research work of Alan Turing and Noam Chomsky. Natural language refers to the medium in which humans communicate with each other. This could be in the form of writings (text) for example emails, articles, news, blogs, bank documents, etc or speech, for example, lectures, speeches, audio calls, etc. There are trillions of web pages full of natural text, so imagine the scale of data available today.NLP algorithms often model the hierarchical structure of natural language i.e. characters form words, words form phrases, phrases form sentences, sentences form paragraphs, and paragraphs form documents.
 
@@ -196,6 +198,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
