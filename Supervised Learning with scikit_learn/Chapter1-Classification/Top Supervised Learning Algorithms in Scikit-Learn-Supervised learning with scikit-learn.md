@@ -81,6 +81,19 @@ Def: Logistic regression is a type of statistical model employed to examine the 
 
 The accuracy of logistic regression with scikit-learn depends on a number of factors, including the quality of the training data, the choice of parameters, and the complexity of the model. In general, logistic regression can achieve good accuracy on simple classification problems. However, it may not be as accurate on complex problems.
 
+**A Simple Example**
+
+Suppose you have patient data and want to predict whether a person is likely to be diagnosed with diabetes. The output is binary: either diagnosed (1) or healthy (0). Similarly:
+
+- Will it rain today? (Yes or No)
+- Is this email spam? (Yes or No)
+
+  The logistic regression cost function in scikit-learn is the negative log-likelihood function. This function is minimized during the training process to find the parameters of the model that best fit the data.
+
+Once we have extracted the features, we can build our logistic regression model. We will use the sci-kit-learn library in Python to implement logistic regression.
+
+This involves splitting the data into training and testing sets, fitting the model on the training data, and evaluating its performance on the testing data. In scikit-learn, logistic regression is implemented in the LogisticRegression class.
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -160,6 +173,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
