@@ -37,9 +37,15 @@ Computers and machines are great at working with tabular data or spreadsheets. H
 
 Well NLP is cool and stuff, but how can we leverage it to improve our businesses more efficiently? How it could differ from the more traditional techniques?” [5].As we have said before, NLP allows machines to effectively understand and manipulate human languages. With that, you will be able to automate a lot of tasks and improve their rapidity and scale, like data labeling, translation, customer feedback, and text analysis. Applying NLP to real-world cases and not just for research purposes, will bring a significant competitive advantage to many businesses.
 
-# **What is NLP?**
+# **Scikit-Learn Overview**
 
-NLP is primarily about developing systems that allow machines to communicate with humans in their natural language. It encompasses two key areas:
+Scikit-Learn is a powerful and easy-to-use library for machine learning in Python. It provides a wide range of algorithms and tools for various tasks, including classification. Some of the key features of Scikit-Learn include:
+
+- Easy integration with other Python libraries like NumPy and Pandas.
+- Consistent and intuitive API for all algorithms.
+- Extensive documentation and community support.
+- Efficient implementation of state-of-the-art algorithms.
+- Cross-validation and model evaluation metrics.
 
 **Natural Language Understanding (NLU):** The goal here is to make machines comprehend and interpret human language. NLU allows systems to recognize the intent behind the text or speech, extracting key information such as emotions, entities, and actions. For instance, when you ask a voice assistant “What’s the weather like?”, NLU helps the system determine that the user is asking for weather information.
 
@@ -198,6 +204,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
