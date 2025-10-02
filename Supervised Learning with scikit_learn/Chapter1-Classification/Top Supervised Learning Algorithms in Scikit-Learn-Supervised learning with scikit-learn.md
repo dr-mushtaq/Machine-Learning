@@ -72,6 +72,15 @@ The use case of this is house price prediction, Y contains the house prices and 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/e8d6ef52-6b2b-4be2-88b9-9860266e9e3a_630x322.jpg"></a>
 </p>
+
+# **Logistic regression (LR)**
+
+Def: The idea of logistic regression is to find the relationship between independent variables and the probability of dependent variables. Simply put, it is a classification algorithm used when the response variable is categorical — typically binary (e.g. 0 or 1).
+
+Def: Logistic regression is a type of statistical model employed to examine the relationship between a binary outcome variable (e., yes/no or true/false) and one or more predictor variables. It estimates the probability of a binary outcome based on the values of predictor variables The model outputs a logistic function, transforming the input into a probability range between 0 and 1.
+
+The accuracy of logistic regression with scikit-learn depends on a number of factors, including the quality of the training data, the choice of parameters, and the complexity of the model. In general, logistic regression can achieve good accuracy on simple classification problems. However, it may not be as accurate on complex problems.
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -151,6 +160,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
