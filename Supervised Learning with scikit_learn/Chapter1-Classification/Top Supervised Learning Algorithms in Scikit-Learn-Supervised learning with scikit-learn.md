@@ -63,12 +63,6 @@ Alternatively, you could also run this from the command line inside of a virtual
 
 python -m pip install --upgrade scikit-learn==0.23.0
 
-From the notebook, you can ensure this via:
-
-```python
-%pip install --upgrade scikit-learn==0.23.0
-
-
 
 ### References
 
@@ -149,6 +143,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
