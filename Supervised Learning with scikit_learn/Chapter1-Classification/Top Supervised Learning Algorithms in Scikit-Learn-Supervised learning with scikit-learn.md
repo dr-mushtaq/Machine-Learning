@@ -13,13 +13,13 @@ Whether you’re a beginner or looking to deepen your knowledge, this step-by-st
 
 ## 📑 Table of Contents  
 
-- [Introduction](#Introduction)  
+- [Understanding Classification](#Understanding-Classification)  
 - [Why NLP is so important?](#Why-NLP-is-so-important?)  
 - [What is NLP?](#What-is-NLP?)  
 - [Brief History of NLP](#Brief-History-of-NLP)
 - [*Application](#*Application)   
 
-# **Introduction** 
+# **Understanding Classification** 
 In a world where communication reigns supreme, the ability to understand and interact with human language is invaluable. Natural Language Processing (NLP) is the field of artificial intelligence (AI) dedicated to making this possible. From powering virtual assistants to analyzing vast amounts of text data, NLP plays a pivotal role in shaping the way we interact with technology and each other.
 
 # **Why NLP is so important?**
@@ -193,6 +193,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
