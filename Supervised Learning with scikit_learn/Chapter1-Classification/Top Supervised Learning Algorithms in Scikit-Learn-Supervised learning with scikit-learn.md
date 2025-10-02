@@ -70,7 +70,7 @@ X represents everything that is used for prediction and Y is the prediction in w
 The use case of this is house price prediction, Y contains the house prices and X is the information about the house, When you split data in this fashion the next thing you will do to pass it to the model. The model job to learn the pattern such that we can predict Y using X
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/e8d6ef52-6b2b-4be2-88b9-9860266e9e3a_630x322.jpg"></a>
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/5cbd4ed7-1d5a-47fd-9787-0e8d46cbf56c_630x379.jpg"></a>
 </p>
 
 # **Logistic regression (LR)**
@@ -177,6 +177,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
