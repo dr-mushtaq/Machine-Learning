@@ -20,7 +20,10 @@ Whether you’re a beginner or looking to deepen your knowledge, this step-by-st
 - [*Application](#*Application)   
 
 # **Understanding Classification** 
-In a world where communication reigns supreme, the ability to understand and interact with human language is invaluable. Natural Language Processing (NLP) is the field of artificial intelligence (AI) dedicated to making this possible. From powering virtual assistants to analyzing vast amounts of text data, NLP plays a pivotal role in shaping the way we interact with technology and each other.
+
+Def: Classification is a supervised learning technique in which we train a model on labeled data to make predictions on unseen instances. The labeled data consists of input variables (features) and output variables (labels or classes). The goal is to learn a mapping function that can accurately predict the class labels of new instances.
+
+When it comes to classification, there are two main types: binary classification and multiclass classification. In binary classification, the target variable has only two classes, such as spam or not spam. In multiclass classification, the target variable can have more than two classes, like classifying images into different categories.
 
 # **Why NLP is so important?**
 
@@ -193,6 +196,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
