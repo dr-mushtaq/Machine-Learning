@@ -26,7 +26,7 @@ Def: Classification is a supervised learning technique in which we train a model
 When it comes to classification, there are two main types: binary classification and multiclass classification. In binary classification, the target variable has only two classes, such as spam or not spam. In multiclass classification, the target variable can have more than two classes, like classifying images into different categories.
 
 <p align="center">
-<img src=" https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/33346d3c-afee-4069-a36e-9ccee57c783a_506x640.jpg"></a>
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/33346d3c-afee-4069-a36e-9ccee57c783a_506x640.jpg"></a>
 </p>
 
 # **Why NLP is so important?**
@@ -198,6 +198,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
