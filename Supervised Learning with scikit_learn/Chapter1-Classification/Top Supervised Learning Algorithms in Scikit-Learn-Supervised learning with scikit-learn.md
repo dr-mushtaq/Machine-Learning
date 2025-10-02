@@ -39,6 +39,10 @@ Scikit-Learn is a powerful and easy-to-use library for machine learning in Pytho
 - Efficient implementation of state-of-the-art algorithms.
 - Cross-validation and model evaluation metrics.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/fb4c64e3-547f-478d-be37-b27264a071a5_630x630.jpg"></a>
+</p>
+
 **Natural Language Understanding (NLU):** The goal here is to make machines comprehend and interpret human language. NLU allows systems to recognize the intent behind the text or speech, extracting key information such as emotions, entities, and actions. For instance, when you ask a voice assistant “What’s the weather like?”, NLU helps the system determine that the user is asking for weather information.
 
 **Natural Language Generation (NLG):** Once a machine understands human input, NLG takes over by generating appropriate responses. An example of this is AI writing assistants that can craft sentences or paragraphs based on the data provided.
@@ -196,6 +200,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
