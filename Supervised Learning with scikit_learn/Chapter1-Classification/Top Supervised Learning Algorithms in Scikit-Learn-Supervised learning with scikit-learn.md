@@ -58,7 +58,9 @@ Import the necessary libraries.
  
 From the notebook, you can ensure this via;
 
-python -m pip install --upgrade scikit-learn==0.23.0
+
+
+<pre> ```python -m pip install --upgrade scikit-learn==0.23.0 ``` </pre>
 
 
 Alternatively, you could also run this from the command line inside of a virtual environment;
@@ -145,6 +147,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
