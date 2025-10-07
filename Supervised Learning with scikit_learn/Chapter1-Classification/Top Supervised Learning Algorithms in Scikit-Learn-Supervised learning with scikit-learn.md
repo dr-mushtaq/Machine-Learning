@@ -147,6 +147,10 @@ print("Prediction:", prediction)
 - penalty: Regularization type (l1, l2, elasticnet, none).
 - C: Inverse of regularization strength (smaller values => stronger regularization)
 
+  1. **Default Parameters and Regularization**
+
+Scikit-learn’s LogisticRegression uses L2 regularization by default with a penalty coefficient (lambda) set to 1. This can be problematic if the data is not normalized. Without proper preprocessing, penalizing parameters may not yield sensible results, as the regularization assumes that features are on a similar scale. Users often overlook the need to standardize or normalize their data before applying the model, which can lead to suboptimal performance and misinterpretation of results
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -226,6 +230,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
