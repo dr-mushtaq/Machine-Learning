@@ -108,13 +108,33 @@ Import the LogisticRegression class from the sklearn.linear_model module.
 -  Other parameters include the penalty parameter, which specifies the type of regularization to use,
 -   and the C parameter, which controls the strength of the regularization.
 
-In this example, we are using the lbfgs solver, and the default value of C. The lbfgs solver is a relatively slow but accurate solver. The C parameter controls the strength of the regularization. A higher value of C will result in a less regularized model, which may be more accurate but also more prone to overfitting.
-
-Fit the model to the training data.
-
-Use the model to predict the labels of new data.
+- In this example, we are using the lbfgs solver, and the default value of C. The lbfgs solver is a relatively slow but accurate solver. The C parameter controls the strength of the regularization. A higher value of C will result in a less regularized model, which may be more accurate but also more prone to overfitting.
+- Fit the model to the training data.
+- Use the model to predict the labels of new data.
 
 Here is an example of how to perform logistic regression with scikit-learn:
+<pre> ```
+
+ import numpy as np
+import pandas as pd 
+from sklearn.datasets import load_iris 
+from sklearn.linear_model import LogisticRegression
+# Load the iris dataset
+iris = load_iris()
+# Split the data into a training set and a test set
+X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.25)
+clf = LogisticRegression(C=1.0, solver='lbfgs', multi_class='ovr')
+# Train the model on the training set
+clf.fit(X_train, y_train)
+# Evaluate the model on the test set
+score = clf.score(X_test, y_test)
+print("Accuracy:", score)
+# Make predictions on new data
+X_new = np.array([[5.1, 3.5, 1.4, 0.2]])
+prediction = clf.predict(X_new)
+print("Prediction:", prediction)
+ ``` 
+</pre>
 
 ### References
 
@@ -195,6 +215,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
