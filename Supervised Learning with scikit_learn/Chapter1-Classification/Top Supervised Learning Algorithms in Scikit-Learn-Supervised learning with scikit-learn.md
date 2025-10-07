@@ -151,6 +151,16 @@ print("Prediction:", prediction)
 
 Scikit-learn’s LogisticRegression uses L2 regularization by default with a penalty coefficient (lambda) set to 1. This can be problematic if the data is not normalized. Without proper preprocessing, penalizing parameters may not yield sensible results, as the regularization assumes that features are on a similar scale. Users often overlook the need to standardize or normalize their data before applying the model, which can lead to suboptimal performance and misinterpretation of results
 
+# **Artificial neural networks (ANN)**
+
+Neural networks are a type of machine learning model that can learn complex relationships between input and output variables. They are often used for classification and regression tasks. In scikit-learn, neural networks are implemented in the MLPClassifier and MLPRegressor classes.
+
+Artificial Neural Networks (ANNs) are a subset of machine learning models inspired by the structure and function of the human brain. They consist of interconnected nodes, or neurons, organized in layers.
+
+Learning Process: ANNs learn by adjusting the weights of the connections between neurons based on the error of the output. This process is called training and involves techniques like backpropagation and gradient descent.
+
+The accuracy of a neural network with scikit-learn depends on a number of factors, including the quality of the training data, the choice of parameters, and the complexity of the model. In general, neural networks can achieve good accuracy on complex problems. However, they may be more difficult to train than other machine learning models.
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -230,6 +240,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
