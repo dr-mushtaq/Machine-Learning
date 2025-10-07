@@ -115,7 +115,7 @@ Import the LogisticRegression class from the sklearn.linear_model module.
 Here is an example of how to perform logistic regression with scikit-learn:
 <pre> ```
 
- import numpy as np
+import numpy as np
 import pandas as pd 
 from sklearn.datasets import load_iris 
 from sklearn.linear_model import LogisticRegression
@@ -135,6 +135,17 @@ prediction = clf.predict(X_new)
 print("Prediction:", prediction)
  ``` 
 </pre>
+
+**Notes**
+
+- Multi-class Classification: If y contains multiple classes, LogisticRegression uses the one-vs-rest (OvR) or multinomial strategy depending on the solver.
+- Solvers:
+- liblinear: Good for small datasets; supports L1 and L2 regularization.
+- lbfgs: Optimized for multiclass problems.
+- saga: Handles large datasets; supports L1, L2, and elastic net regularization.
+- Hyperparameter Tuning:
+- penalty: Regularization type (l1, l2, elasticnet, none).
+- C: Inverse of regularization strength (smaller values => stronger regularization)
 
 ### References
 
@@ -215,6 +226,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
