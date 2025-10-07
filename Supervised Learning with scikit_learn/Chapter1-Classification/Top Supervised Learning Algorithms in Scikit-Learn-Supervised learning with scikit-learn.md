@@ -175,10 +175,39 @@ Notes
 - activation: Sets the activation function (e.g., relu, tanh, logistic).
 - solver: Optimization algorithm (e.g., adam, sgd, lbfgs).
 - max_iter: Maximum number of iterations for training.
+  
+# **Support Vector Machine (SVM)**
+Support Vector Machine (SVM) is one of the most popular supervised learning algorithms used for classification, regression, and outlier detection tasks. Known for its robustness in handling high-dimensional datasets, SVM is a go-to method for many machine learning practitioners.
+
+support vector machines (SVMs) can be used in Scikit-Learn using the SVC class. This class implements a support vector machine classifier, which is a powerful tool for classification tasks. SVMs can be used for both binary and multiclass classification.
+
+The accuracy of SVM with scikit-learn depends on a number of factors, including the quality of the training data, the choice of parameters, and the complexity of the model. In general, SVM can achieve good accuracy on a variety of classification and regression problems.
+
+The SVM cost function in scikit-learn is the hinge loss function. This function is minimized during the training process to find the parameters of the model that best fit the data.
+<pre>
+import sklearn.svm 
+# Create an instance of the SVC class 
+svm = sklearn.svm.SVC(kernel='linear', C=1.0) 
+# Fit the model to the training data 
+svm.fit(X_train, y_train) 
+# Predict the labels of new data 
+y_pred = svm.predict(X_test)
+ </pre>
+ In this example, we are using the linear kernel and the default value of C. The linear kernel is a simple kernel that is suitable for linearly separable data. The C parameter controls the trade-off between the margin and the misclassification penalty. A higher value of C will result in a less regularized model, which may be more accurate but also more prone to overfitting.
+ 
+ **Key Parameters in SVM**
+- Kernel: Defines the type of hyperplane used for decision boundaries.
+- 'linear': For linearly separable data.
+- 'rbf' (default): Radial basis function for non-linear data.
+- 'poly': Polynomial kernel.
+- C (Regularization Parameter): Controls the trade-off between maximizing the margin and minimizing classification errors. Smaller values allow more misclassifications for a wider margin.
+- Gamma: Influences the curvature of the decision boundary in non-linear kernels. Lower values mean broader influence, while higher values mean tighter influence.
 
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
+2-[sklearn-cheat](https://github.com/thegeekyb0y/sklearn-cheat?tab=readme-ov-file#logisticregression)
+
 
 
 
@@ -255,6 +284,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
