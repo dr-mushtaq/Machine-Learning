@@ -254,18 +254,23 @@ print('Accuracy:', accuracy)
 
 The DecisionTreeClassifier class has the following parameters:
 
-criterion: The splitting criterion to use. The default criterion is "gini", which minimizes the Gini impurity. Other possible criteria include "entropy" and "crossentropy".
-
-max_depth: The maximum depth of the tree.
-
-min_samples_split: The minimum number of samples required to split a node.
-
-min_samples_leaf: The minimum number of samples required to be at a leaf node.
-
-min_impurity_decrease: The minimum decrease in impurity required to split a node.
-
-random_state: The random seed used for the tree construction.
-
+- criterion: The splitting criterion to use. The default criterion is "gini", which minimizes the Gini impurity. Other possible criteria include "entropy" and "crossentropy".
+- max_depth: The maximum depth of the tree.
+- min_samples_split: The minimum number of samples required to split a node.
+- min_samples_leaf: The minimum number of samples required to be at a leaf node.
+- min_impurity_decrease: The minimum decrease in impurity required to split a node.
+- random_state: The random seed used for the tree construction.
+<pre>
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+iris = load_iris()
+X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.25)
+clf = DecisionTreeClassifier()
+clf.fit(X_train, y_train)
+y_pred = clf.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+</pre> 
+ 
  
 ### References
 
@@ -348,6 +353,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
