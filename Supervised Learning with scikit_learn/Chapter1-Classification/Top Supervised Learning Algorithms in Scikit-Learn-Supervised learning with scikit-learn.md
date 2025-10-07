@@ -170,14 +170,11 @@ neural_network.fit(X_train, y_train)
 y_pred = neural_network.predict(X_test)
 Notes
  </pre>
-
-hidden_layer_sizes: Specifies the number of neurons in each hidden layer (e.g., (100,) for one hidden layer with 100 neurons).
-
-activation: Sets the activation function (e.g., relu, tanh, logistic).
-
-solver: Optimization algorithm (e.g., adam, sgd, lbfgs).
-
-max_iter: Maximum number of iterations for training.
+**Note**
+- hidden_layer_sizes: Specifies the number of neurons in each hidden layer (e.g., (100,) for one hidden layer with 100 neurons).
+- activation: Sets the activation function (e.g., relu, tanh, logistic).
+- solver: Optimization algorithm (e.g., adam, sgd, lbfgs).
+- max_iter: Maximum number of iterations for training.
 
 ### References
 
@@ -258,6 +255,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
