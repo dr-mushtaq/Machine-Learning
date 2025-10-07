@@ -203,6 +203,30 @@ y_pred = svm.predict(X_test)
 - C (Regularization Parameter): Controls the trade-off between maximizing the margin and minimizing classification errors. Smaller values allow more misclassifications for a wider margin.
 - Gamma: Influences the curvature of the decision boundary in non-linear kernels. Lower values mean broader influence, while higher values mean tighter influence.
 
+  # **Naive Bayes (NB)**
+
+  Naive Bayes is a supervised learning algorithm that is used for classification tasks. It is based on the Bayes theorem, which states that the probability of event A occurring, given that event B has already occurred, is equal to the probability of event A occurring times the probability of event B occurring given that event A has already occurred, divided by the probability of event B occurring.
+
+In scikit-learn, there are three different implementations of the Naive Bayes classifier:
+- GaussianNB : This classifier is used for data that is distributed normally.
+- MultinomialNB : This classifier is used for data that is counts of occurrences.
+- BernoulliNB : This classifier is used for data that is binary (0 or 1).
+
+Here are some of the parameters that can be tuned for the Naive Bayes classifier:
+
+- alpha: The smoothing parameter. This parameter controls how much smoothing is applied to the estimated probabilities.
+- fit_prior: Whether to fit the prior probabilities for the classes. If this parameter is set to False, then the prior probabilities will be assumed to be equal.
+<pre>
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+iris = load_iris()
+X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.25)
+clf = GaussianNB()
+clf.fit(X_train, y_train)
+y_pred = clf.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+print('Accuracy:', accuracy)
+ </pre>
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -284,6 +308,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
