@@ -160,6 +160,24 @@ Artificial Neural Networks (ANNs) are a subset of machine learning models inspir
 Learning Process: ANNs learn by adjusting the weights of the connections between neurons based on the error of the output. This process is called training and involves techniques like backpropagation and gradient descent.
 
 The accuracy of a neural network with scikit-learn depends on a number of factors, including the quality of the training data, the choice of parameters, and the complexity of the model. In general, neural networks can achieve good accuracy on complex problems. However, they may be more difficult to train than other machine learning models.
+<pre>
+import sklearn.neural_network 
+# Create an instance of the MLPClassifier class
+ neural_network = sklearn.neural_network.MLPClassifier(hidden_layer_sizes=(10, 10), activation='relu')
+ # Fit the model to the training data 
+neural_network.fit(X_train, y_train) 
+# Predict the labels of new data 
+y_pred = neural_network.predict(X_test)
+Notes
+ </pre>
+
+hidden_layer_sizes: Specifies the number of neurons in each hidden layer (e.g., (100,) for one hidden layer with 100 neurons).
+
+activation: Sets the activation function (e.g., relu, tanh, logistic).
+
+solver: Optimization algorithm (e.g., adam, sgd, lbfgs).
+
+max_iter: Maximum number of iterations for training.
 
 ### References
 
@@ -240,6 +258,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
