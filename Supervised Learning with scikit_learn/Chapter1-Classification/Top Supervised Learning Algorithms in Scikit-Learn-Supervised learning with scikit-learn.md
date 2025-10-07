@@ -227,6 +227,26 @@ y_pred = clf.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print('Accuracy:', accuracy)
  </pre>
+ # **KNN (K-Nearest Neighbors)**
+ K-Nearest Neighbors is an algorithm for supervised learning. Where the data is ‘trained’ with data points corresponding to their classification. Once a point is to be predicted, it takes into account the ‘K’ nearest points to it to determine it’s classification. The k-nearest neighbors (KNN) algorithm is a non-parametric machine learning algorithm that can be used for both classification and regression tasks. It works by finding the k most similar instances in the training set to a new instance and then predicting the label of the new instance based on the labels of the k nearest neighbors.In scikit-learn, the KNeighborsClassifier class implements the k-nearest neighbors algorithm for classification tasks. The following code shows how to build a KNN classifier with 5 neighbors:
+
+The n_neighbors parameter specifies the number of neighbors to use for the prediction. The default value is 5.
+
+Other parameters that can be tuned for the KNN classifier include:
+- metric: The distance metric to use for calculating the distance between neighbors. The default metric is the Euclidean distance.
+- weights: The weight function to use for the prediction. The default weight function is uniform, which means that all neighbors are weighted equally.
+- algorithm: The algorithm to use for finding the nearest neighbors. The default algorithm is brute-force search.
+You can experiment with different values for these parameters to find the best model for your data.
+
+Here is an example of how to use the KNeighborsClassifier class to classify the Iris dataset:
+<pre>
+from sklearn.neighbors import KNeighborsClassifier
+knn = KNeighborsClassifier(n_neighbors=5)
+knn.fit(X_train, y_train)
+y_pred = knn.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+print('Accuracy:', accuracy)
+ </pre>
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -308,6 +328,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
