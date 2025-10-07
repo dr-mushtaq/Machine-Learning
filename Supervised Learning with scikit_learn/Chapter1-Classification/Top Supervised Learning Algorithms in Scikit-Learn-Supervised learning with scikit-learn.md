@@ -247,6 +247,26 @@ y_pred = knn.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print('Accuracy:', accuracy)
  </pre>
+
+ # **Decision Tree Classifier**
+
+ The DecisionTreeClassifier class in scikit-learn is a supervised learning algorithm that can be used for classification tasks. It works by constructing a decision tree, which is a flowchart-like structure that maps features to labels.
+
+The DecisionTreeClassifier class has the following parameters:
+
+criterion: The splitting criterion to use. The default criterion is "gini", which minimizes the Gini impurity. Other possible criteria include "entropy" and "crossentropy".
+
+max_depth: The maximum depth of the tree.
+
+min_samples_split: The minimum number of samples required to split a node.
+
+min_samples_leaf: The minimum number of samples required to be at a leaf node.
+
+min_impurity_decrease: The minimum decrease in impurity required to split a node.
+
+random_state: The random seed used for the tree construction.
+
+ 
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -328,6 +348,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
