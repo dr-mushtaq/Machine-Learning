@@ -274,8 +274,8 @@ accuracy = accuracy_score(y_test, y_pred)
  
 ### References
 
-1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
-2-[sklearn-cheat](https://github.com/thegeekyb0y/sklearn-cheat?tab=readme-ov-file#logisticregression)
+
+1-[sklearn-cheat](https://github.com/thegeekyb0y/sklearn-cheat?tab=readme-ov-file#logisticregression)
 
 
 
@@ -353,6 +353,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
