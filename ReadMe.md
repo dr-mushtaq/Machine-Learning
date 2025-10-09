@@ -52,7 +52,7 @@ Thank you for your generous support! 🌟
 ---
 
 <div align="center">
-  <h1>🔍 Python Notes for Beginners and Data Science Learners</h1>
+  <h1>🔍 Machine Learning</h1>
   <sub>Author:
   <a href="https://www.linkedin.com/in/dr-mushtaq-hussain/" target="_blank">Dr. Mushtaq Hussain</a><br>
   <small>Second Edition — October 2025</small>
@@ -788,6 +788,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
