@@ -14,6 +14,51 @@ The A-Z Guide to Machine Learning is a comprehensive resource designed to cater 
 <img src="https://github.com/hussain0048/Machine-Learning/blob/master/438058314_3872280102992838_2811757508132819156_n.jpg"></a>
 </p>
 
+<div>
+<h2>💖 Sponsors</h2>
+
+<p>Our amazing sponsors for supporting my open-source contribution and the <strong>Machine Learning</strong> series!</p>
+
+<h3>Current Sponsor</h3>
+<hr />
+<div align="center">
+  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png" />
+      <!-- Light mode (fallback) -->
+      <a href="https://innovitechs.com/" target="_blank">
+      <img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png"
+           width="400px"
+           alt="Wispr Flow Logo"
+           title="Wispr Flow" />
+      </a>
+    </picture>
+  </a>
+
+  <h3>InnoviTechs IT Services – Driving Digital Transformation and Business Growth</h3>
+  <p><em>Our mission is to lead the future of technology innovation by transforming visionary ideas into scalable digital experiences. With creativity, passion, and a commitment to excellence, we deliver tailored technology and workforce solutions that address your unique business challenges with resilience and adaptability.</em></p>
+</div>
+
+---
+
+### 🙌 Become a Sponsor
+
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+
+Every contribution — big or small — helps sustain the development of **open-source Python learning materials**, **AI-driven educational resources**, and **data science tools**.  
+Thank you for your generous support! 🌟
+
+---
+
+<div align="center">
+  <h1>🔍 Python Notes for Beginners and Data Science Learners</h1>
+  <sub>Author:
+  <a href="https://www.linkedin.com/in/dr-mushtaq-hussain/" target="_blank">Dr. Mushtaq Hussain</a><br>
+  <small>Second Edition — October 2025</small>
+  </sub>
+</div>
+
 ## 📚 Table of Contents
 
 - [What You’ll Learn](#What_you’ll_learn)
@@ -743,6 +788,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
