@@ -13,7 +13,7 @@ The A-Z Guide to Machine Learning is a comprehensive resource designed to cater 
 <div>
 <h2>💖 Sponsors</h2>
 
-<p>Our amazing sponsors for supporting my open-source contribution and the <strong>Machine Learning</strong> series!</p>
+<p>We extend our heartfelt thanks to our incredible sponsors for their generous support and commitment to our mission. Their contributions make it possible for us to continue developing open-source educational content, AI learning tools, and community-driven projects.</p>
 
 <h3>Current Sponsor</h3>
 <hr />
@@ -34,8 +34,15 @@ The A-Z Guide to Machine Learning is a comprehensive resource designed to cater 
 
   <h3>InnoviTechs IT Services – Driving Digital Transformation and Business Growth</h3>
   <p><em>Our mission is to lead the future of technology innovation by transforming visionary ideas into scalable digital experiences. With creativity, passion, and a commitment to excellence, we deliver tailored technology and workforce solutions that address your unique business challenges with resilience and adaptability.</em></p>
+
 </div>
 
+**Your support helps us:**
+
+- Create free tutorials, guides, and datasets for learners worldwide 🌍
+- Maintain research repositories and AI projects 📚
+- Host workshops, webinars, and community learning events 💬
+- Encourage students and educators to explore Data Science, Machine Learning, and Deep Learning 🚀
 ---
 
 ### 🙌 Become a Sponsor
@@ -776,6 +783,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
