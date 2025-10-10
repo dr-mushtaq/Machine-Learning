@@ -602,6 +602,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 7-scikit-learn-mooc**](https://inria.github.io/scikit-learn-mooc/toc.html) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 8-Machine Learning Resources**](https://ml-resources.vercel.app/) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 8-Made With ML**](https://madewithml.com/#course) | Visualizes Machine Learning Algorithms.| InProgress  |
+| [**✅ 8-MaTH Fun**](https://www.mathsisfun.com/) | Visualizes Machine Learning Algorithms.| InProgress  |
+
 
 ## 📚 Chapter 4: Machine Learning Algorithms (Every Data Scientist Must Know)
 
@@ -786,6 +788,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
