@@ -694,6 +694,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 3- Industry ML Skill**](https://substack.com/home/post/p-156032645)         | Substack publication sharing ML skills in industry settings      | Pending    |Substack|
 | [**✅ 4- Data School**](https://www.youtube.com/@dataschool)         | YouTube channel focused on teaching Scikit-learn and data science     | Pending    |Youtube|
 | [**✅ 5- Scikit-learn Cheatsheet**](https://github.com/thegeekyb0y/sklearn-cheat?tab=readme-ov-file#metrics)         | YouTube channel focused on teaching Scikit-learn and data science     | Pending    |Github|
+| [**✅ 6- Serrano.Academy**](https://www.youtube.com/@SerranoAcademy/playlists)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 
 
 ## 👁️ Chapter 4: Free Books
@@ -785,6 +786,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
