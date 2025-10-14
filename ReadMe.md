@@ -323,6 +323,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅2-Partition-Based Unsupervised Learning⭐️**| [1](https://www.youtube.com/watch?v=190xjQHVdrE)| Content 3 |[Note](https://coursesteach.com/mod/page/view.php?id=10461&forceview=1)|[Doc](https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models/1-introduction)[-DOC]([Doc](https://inria.github.io/scikit-learn-mooc/))[-Doc](https://inria.github.io/scikit-learn-mooc/)|
 |**✅3-K-Means Clustering**|[1](https://drive.google.com/file/d/1hpzkHnTpYp_JqTIP6BotqJx9jWxHEU3J/view)[2](https://drive.google.com/file/d/1Iz23egYg7IDLLoz2O5M6uTS4_hyTK4Kw/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=10467&forceview=1)[-2](https://www.youtube.com/watch?v=4b5d3muPQmA)|
 |**✅4-K-Medoids (PAM)**|[1](https://www.youtube.com/watch?v=8PSbi6GKXrs)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=10476&forceview=1)[-2](https://www.youtube.com/watch?v=4b5d3muPQmA)|
+|**✅5-CLARANS (Clustering Large Applications based on Randomized Search)**|[1](https://www.youtube.com/watch?v=8PSbi6GKXrs)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=10479&forceview=1)|
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
@@ -790,6 +791,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
