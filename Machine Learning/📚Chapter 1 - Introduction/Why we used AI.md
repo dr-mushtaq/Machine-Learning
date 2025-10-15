@@ -171,6 +171,9 @@ AI is an umbrella term representing a range of techniques that allow machines to
 
 This allows AI software to automatically learn from patterns or symbols in those big data sets. AI is the simulation of human intelligence by machines. It enables the machine to think like a human. It is a program that can learn, reach and sense the same as humans do or  Similar to the intelligence humans possess, artificial intelligence is the one donned by machines. The only difference remains the absence of emotionality and consciousness. The Capacity is given by humans to machines to memorize and learn from experience and to think and create, to speak, to judge, and make decisions. The brain is the most wonderful organ of the human body. The brain controls thought, memory, emotion, motor skills, vision, breathing, and touch. This complex structure of the brain became a source of inspiration for scientists and the concept of AI emerged. AI is the ability of a computer or robot to perform humanoid tasks [3].
 
+
+ ## **Weak AI vs. Strong AI**
+
 | **Weak AI** | **Strong AI** |
 |--------------|---------------|
 | Weak AI refers to AI systems that are designed and trained for a specific task or a narrow set of tasks. | Strong AI, or Artificial General Intelligence (AGI), refers to AI systems with human-level intelligence and understanding. |
