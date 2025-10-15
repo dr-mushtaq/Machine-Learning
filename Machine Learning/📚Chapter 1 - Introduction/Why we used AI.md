@@ -171,4 +171,12 @@ AI is an umbrella term representing a range of techniques that allow machines to
 
 This allows AI software to automatically learn from patterns or symbols in those big data sets. AI is the simulation of human intelligence by machines. It enables the machine to think like a human. It is a program that can learn, reach and sense the same as humans do or  Similar to the intelligence humans possess, artificial intelligence is the one donned by machines. The only difference remains the absence of emotionality and consciousness. The Capacity is given by humans to machines to memorize and learn from experience and to think and create, to speak, to judge, and make decisions. The brain is the most wonderful organ of the human body. The brain controls thought, memory, emotion, motor skills, vision, breathing, and touch. This complex structure of the brain became a source of inspiration for scientists and the concept of AI emerged. AI is the ability of a computer or robot to perform humanoid tasks [3].
 
+| **Weak AI** | **Strong AI** |
+|--------------|---------------|
+| Weak AI refers to AI systems that are designed and trained for a specific task or a narrow set of tasks. | Strong AI, or Artificial General Intelligence (AGI), refers to AI systems with human-level intelligence and understanding. |
+| These AI systems are not generally intelligent; they excel in performing a predefined task but lack true understanding or consciousness. | These AI systems have the ability to perform any intellectual task that a human being can do, adapt to different domains, and possess a form of consciousness or self-awareness. |
+| Examples of weak AI include virtual assistants like Siri or Alexa, recommendation algorithms used by streaming services, and chatbots that are designed for specific customer service tasks. | Achieving Strong AI is a long-term goal of AI research and would require the development of AI systems that can reason, learn, understand, and adapt across a wide range of tasks and contexts. |
+| Weak AI is highly specialized and does not possess human-like cognitive abilities or general problem-solving capabilities beyond its narrow domain. | Strong AI is currently a theoretical concept, and no AI system has reached this level of general intelligence. |
+
+
 
