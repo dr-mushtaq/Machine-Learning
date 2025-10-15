@@ -114,3 +114,58 @@ While AI was seen in the 60s and 70s as a computer skill that could play chess a
 **The child's brain**
 
 A child's brain and senses perceive the facts of their surroundings and gradually learn the hidden patterns of life which help the child to craft logical rules to identify learned patterns. The learning process of the human brain makes humans the most sophisticated living creature of this world. Learning continuously by discovering hidden patterns and then innovating on those patterns enables us to make ourselves better and better throughout our lifetime. This learning capacity and evolving capability is related to a concept called brain plasticity. Superficially, we can draw some motivational similarities between the learning process of the human brain and the concepts of machine learning.
+
+ ## **What is Artificial intelligence (AI)**
+
+ There are many different definitions and versions of Artificial Intelligence, WHICH IS GENUINE, TRUE AND REAL.
+
+**Def:** Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+
+Unlike NI, which naturally evolved, Artificial Intelligence (AI) is created by humans. AI refers to the simulation of human intelligence in machines that are designed to think, reason, and act in ways similar to people.
+
+The concept of AI was formally introduced in 1956 at the Dartmouth Conference by John McCarthy, who defined it as “the science and engineering of making intelligent machines.”
+
+**Multiple Definitions of AI**
+
+Because AI is such a broad and evolving field, different organizations and researchers define it in slightly different ways:
+
+**Def:** What is AI? AI is a technology that allows machines to simulate human behavior. It is a field of computer science that allows machines to execute complex tasks such as image recognition, decision-making, and conversing [4]. 
+
+**Def:** The term Artificial intelligence (AI) was first coined a decade ago in the year 1956 by John McCarthy at the Dartmouth conference. He defined “Artificial intelligence as the science and engineering of making intelligent machines”. In a sense, artificial intelligence is a technique of getting a machine to work and behave like humans. AI works best by combining a large number of data sets with fast, repetitive, and intelligent algorithms.
+
+**IBM**
+
+Def : Artificial intelligence leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind.
+
+**Oracle**
+
+Def: Artificial Intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect.
+
+**Accenture**
+
+Def :Artificial intelligence is a constellation of many different technologies working together to enable machines to sense, comprehend, act, and learn with human-like levels of intelligence
+
+**SAS**
+
+Artificial intelligence (AI) makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks.
+
+**Encyclopedia Britannica**
+
+Artificial Intelligence is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.
+Stanford University
+Artificial Intelligence is the science and engineering of making intelligent machines, especially intelligent computer programs.
+**Amazon AWS**
+
+Artificial Intelligence is the field of computer science dedicated to solving cognitive problems commonly associated with human intelligence, such as learning, problem solving, and pattern recognition.
+**European Parliament**
+
+AI is the ability of a machine to display human-like capabilities such as reasoning, learning, planning and creativity.
+**Qualcomm**
+
+AI is an umbrella term representing a range of techniques that allow machines to mimic or exceed human intelligence.
+
+**Background:**
+
+This allows AI software to automatically learn from patterns or symbols in those big data sets. AI is the simulation of human intelligence by machines. It enables the machine to think like a human. It is a program that can learn, reach and sense the same as humans do or  Similar to the intelligence humans possess, artificial intelligence is the one donned by machines. The only difference remains the absence of emotionality and consciousness. The Capacity is given by humans to machines to memorize and learn from experience and to think and create, to speak, to judge, and make decisions. The brain is the most wonderful organ of the human body. The brain controls thought, memory, emotion, motor skills, vision, breathing, and touch. This complex structure of the brain became a source of inspiration for scientists and the concept of AI emerged. AI is the ability of a computer or robot to perform humanoid tasks [3].
+
+
