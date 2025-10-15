@@ -79,37 +79,34 @@ Originally, computers were invented by Charles Babbage to operate on numbers fol
 
 Even though artificial intelligence, or AI, has only been around for less than a hundred years, the idea of machines that can think goes way back. Even in ancient Greece, people were talking about intelligent robots and artificial beings. The whole idea of AI really starts with asking if machines can think like humans.
 
-1955 
-In 1955, Allen Newell and Herbert A. Simon made the first computer program meant to act like a smart thinker. They called it the "Logic Theorist." This program tried to prove math ideas using logic symbols. It used a special way of searching for answers that imitated how humans solve problems. [7]. The Logic Theorist was like the first computer tool that could solve lots of different problems, not just one. It was a big deal in the world of smart computer programs. [7].
+**1955** 
+
+In 1955, Allen Newell and Herbert A. Simon made the first computer program meant to act like a smart thinker. They called it the "Logic Theorist." This program tried to prove math ideas using logic symbols. It used a special way of searching for answers that imitated how humans solve problems. The Logic Theorist was like the first computer tool that could solve lots of different problems, not just one. It was a big deal in the world of smart computer programs.
 
  Alan Turing, was an eminent mathematician, who is famous for breaking the Nazi Enigma code during World War II. This code gave the Allied Powers the edge they needed to win the war — it also laid the foundation for the creation of the computer.
 
-1956
-It was the year when the term “Artificial Intelligence” was first coined as an academic field by American computer scientist John McCarthy at the Dartmouth Conference. This conference was attended by some of the leading researchers in the field of AI, including Marvin Minsky, Claude Shannon, and Nathaniel Rochester [7].At the conference, McCarthy gave a talk titled “The Limitations of and Prospects for Information Processing in Problem-Solving Machines.” In this talk, he proposed the creation of a new field of study called “Artificial Intelligence” that would focus on developing intelligent machines [7].
+**1956**
 
-Dartmouth scientist, John McCarthy, expanded on Turing’s ideas and coined the term “artificial intelligence” in 1956. McCarthy assembled a team of computer scientists and mathematicians to investigate if robots could learn the same way that children do, through trial and error, to build formal reasoning. The team hoped to ascertain how they could make machines “use language, form abstractions and concepts, solve [the] kinds of problems now reserved for humans, and improve themselves.” [4]
+It was the year when the term “Artificial Intelligence” was first coined as an academic field by American computer scientist John McCarthy at the Dartmouth Conference. This conference was attended by some of the leading researchers in the field of AI, including Marvin Minsky, Claude Shannon, and Nathaniel Rochester.At the conference, McCarthy gave a talk titled “The Limitations of and Prospects for Information Processing in Problem-Solving Machines.” In this talk, he proposed the creation of a new field of study called “Artificial Intelligence” that would focus on developing intelligent machines [7].
 
+Dartmouth scientist, John McCarthy, expanded on Turing’s ideas and coined the term “artificial intelligence” in 1956. McCarthy assembled a team of computer scientists and mathematicians to investigate if robots could learn the same way that children do, through trial and error, to build formal reasoning. The team hoped to ascertain how they could make machines “use language, form abstractions and concepts, solve [the] kinds of problems now reserved for humans, and improve themselves.”
 
-
- First, Alan Turing, a founding father of AI, came up with the question that “Can machines think like humans?”. Later, John McCarthy created the term “Artificial Intelligence” and invented the programming language LISP, played computer chess via the telegraph with opponents in Russia, and invented computer time-sharing. At that time, the computer was big enough to fill a room. But the concept of AI has created great hope and enthusiasm for the world of science and technology [3].
+ First, Alan Turing, a founding father of AI, came up with the question that “Can machines think like humans?”. Later, John McCarthy created the term “Artificial Intelligence” and invented the programming language LISP, played computer chess via the telegraph with opponents in Russia, and invented computer time-sharing. At that time, the computer was big enough to fill a room. But the concept of AI has created great hope and enthusiasm for the world of science and technology.
 
 In recent years, AI has focused on tasks that only humans can do, such as image and voice recognition. Thus, the following problems that were previously unsolvable were now overcome with AI [3].
-
-Image recognition
-Object recognition
-Language-to-language translations
-Natural language comprehension
-Image and speech recognition
-Assistant assistants
-Driverless cars
+- Image recognition
+- Object recognition
+- Language-to-language translations
+- Natural language comprehension
+- Image and speech recognition
+- Assistant assistants
+- Driverless cars
 While AI was seen in the 60s and 70s as a computer skill that could play chess and checkers, perform simple calculations, and solve mathematical problems, in the 80s and 90s it was seen as a risk assessment and decision-making ability, and in the 2000s, with the development of the computational potential of computers, it was understood that learning systems could be possible [3]
 
-Thought: Facebook uses an artificial neural network for facial recognition
+- Thought: Facebook uses an artificial neural network for facial recognition
+- Speech and Hearing: Google Assistant, Siri
+- Vision: Capturing Traffic Violations                              
 
-Speech and Hearing: Google Assistant, Siri
-
-Vision: Capturing Traffic Violations                              
-
-The child's brain
+**The child's brain**
 
 A child's brain and senses perceive the facts of their surroundings and gradually learn the hidden patterns of life which help the child to craft logical rules to identify learned patterns. The learning process of the human brain makes humans the most sophisticated living creature of this world. Learning continuously by discovering hidden patterns and then innovating on those patterns enables us to make ourselves better and better throughout our lifetime. This learning capacity and evolving capability is related to a concept called brain plasticity. Superficially, we can draw some motivational similarities between the learning process of the human brain and the concepts of machine learning.
