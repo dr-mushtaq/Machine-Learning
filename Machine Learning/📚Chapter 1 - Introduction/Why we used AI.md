@@ -91,6 +91,10 @@ It was the year when the term “Artificial Intelligence” was first coined as 
 
 Dartmouth scientist, John McCarthy, expanded on Turing’s ideas and coined the term “artificial intelligence” in 1956. McCarthy assembled a team of computer scientists and mathematicians to investigate if robots could learn the same way that children do, through trial and error, to build formal reasoning. The team hoped to ascertain how they could make machines “use language, form abstractions and concepts, solve [the] kinds of problems now reserved for humans, and improve themselves.”
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/file-6016287eb5c25%20(1).jpg"></a>
+</p>
+
  First, Alan Turing, a founding father of AI, came up with the question that “Can machines think like humans?”. Later, John McCarthy created the term “Artificial Intelligence” and invented the programming language LISP, played computer chess via the telegraph with opponents in Russia, and invented computer time-sharing. At that time, the computer was big enough to fill a room. But the concept of AI has created great hope and enthusiasm for the world of science and technology.
 
 In recent years, AI has focused on tasks that only humans can do, such as image and voice recognition. Thus, the following problems that were previously unsolvable were now overcome with AI [3].
