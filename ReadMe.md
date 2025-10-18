@@ -740,8 +740,10 @@ This table provides an overview of essential machine learning algorithms, organi
 |[**🌐1- scikit-learn**](https://github.com/scikit-learn/scikit-learn)|Simple machine learning in Python for classification, regression, and clustering| Machine Leanring|---|
 |[**🌐2- Pandas**]([https://github.com/scikit-learn/scikit-learn](https://github.com/pandas-dev/pandas))|Easy data manipulation and analysis with DataFrames|Data Preprocessing|---|
 |[**🌐3- NumPy**]([https://github.com/scikit-learn/scikit-learn](https://github.com/numpy/numpy))|Fundamental array computing and linear algebra operations|Data Preprocessing|---|
-|[**🌐4- TensorFlow Recommenders**](https://github.com/tensorflow/recommenders)|TensorFlow Recommenders is a library for building recommender system models| Recommenders|---|
-|[**🌐5- RecBole**](https://github.com/RUCAIBox/RecBole)|RecBole is developed based on Python and PyTorch for reproducing and developing recommendation algorithms in a unified, comprehensive and efficient framework for research purpose.|Recommender|---|
+|[**🌐4- TensorFlow Recommenders**](https://github.com/tensorflow/recommenders)|TensorFlow Recommenders is a library for building recommender system models| Recommenders|[Doc](https://relatedrepos.com/gh/recommenders-team/recommenders)|
+|[**🌐5- RecBole**](https://github.com/RUCAIBox/RecBole)|RecBole is developed based on Python and PyTorch for reproducing and developing recommendation algorithms in a unified, comprehensive and efficient framework for research purpose.|Recommender|[Doc](https://relatedrepos.com/gh/recommenders-team/recommenders)|
+|[**🌐6-LibRecommender**](https://github.com/massquantity/LibRecommender)|LibRecommender is an easy-to-use recommender system focused on end-to-end recommendation process.|Recommender|[Doc](https://relatedrepos.com/gh/recommenders-team/recommenders)|
+|[**🌐7-Surprise**](https://surpriselib.com/)|Surprise is a Python scikit for building and analyzing recommender systems that deal with explicit rating data.|Recommende|[Doc](https://relatedrepos.com/gh/recommenders-team/recommenders)|
 
 
 </details>
@@ -794,6 +796,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
