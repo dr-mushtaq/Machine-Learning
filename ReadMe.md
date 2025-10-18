@@ -737,9 +737,12 @@ This table provides an overview of essential machine learning algorithms, organi
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title| Description | Tage| Resources |
 |---|---|---|--|
-|[**🌐1- scikit-learn**](https://github.com/scikit-learn/scikit-learn)|Simple machine learning in Python for classification, regression, and clustering|---|
-|[**🌐2- Pandas**]([https://github.com/scikit-learn/scikit-learn](https://github.com/pandas-dev/pandas))|Easy data manipulation and analysis with DataFrames|---|
-|[**🌐3- NumPy**]([https://github.com/scikit-learn/scikit-learn](https://github.com/numpy/numpy))|Fundamental array computing and linear algebra operations|---|
+|[**🌐1- scikit-learn**](https://github.com/scikit-learn/scikit-learn)|Simple machine learning in Python for classification, regression, and clustering| Machine Leanring|---|
+|[**🌐2- Pandas**]([https://github.com/scikit-learn/scikit-learn](https://github.com/pandas-dev/pandas))|Easy data manipulation and analysis with DataFrames|Data Preprocessing|---|
+|[**🌐3- NumPy**]([https://github.com/scikit-learn/scikit-learn](https://github.com/numpy/numpy))|Fundamental array computing and linear algebra operations|Data Preprocessing|---|
+|[**🌐4- TensorFlow Recommenders**](https://github.com/tensorflow/recommenders))|TensorFlow Recommenders is a library for building recommender system models| Recommenders|---|
+|[**🌐3- NumPy**]([https://github.com/scikit-learn/scikit-learn](https://github.com/numpy/numpy))|Fundamental array computing and linear algebra operations|Data Preprocessing|---|
+
 
 </details>
    
@@ -791,6 +794,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
