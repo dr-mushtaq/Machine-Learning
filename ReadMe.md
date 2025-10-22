@@ -294,6 +294,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐8-Error Analysis**|[**1**](https://drive.google.com/file/d/1PsPzxFRdPkUTAGJl9BQwLVK4ZF8Yxu5w/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|---|[Doc](https://coursesteach.com/mod/page/view.php?id=4130&forceview=1)|
 |**🌐9-Error Metrics for Skewed Classes**|[**1**](https://drive.google.com/file/d/1XuEMnPjNno_GqN0hR5mMH5W7f06BYXNt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|---|[Doc](https://coursesteach.com/mod/page/view.php?id=4150&forceview=1)|
 |**🌐10-Trading Off Precision And Recall**|[**1**](https://drive.google.com/file/d/13Z73JLV26jOVWFmieNAQ8kYAQGFT2H0H/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|---|[Doc](https://coursesteach.com/mod/page/view.php?id=4194&forceview=1)|
+|**🌐11-Data For Machine Learning**|[**1**](https://drive.google.com/file/d/12A9D9Hj9APyXoOZV5PcSIPxgq17TWFFv/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|---|[Doc](https://coursesteach.com/mod/page/view.php?id=4207&forceview=1)|
 
 </details>
 
@@ -802,6 +803,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
