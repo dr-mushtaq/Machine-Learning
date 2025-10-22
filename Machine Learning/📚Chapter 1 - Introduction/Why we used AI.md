@@ -184,8 +184,6 @@ This allows AI software to automatically learn from patterns or symbols in those
 ## **How can an algorithm be defined?** 
 
 An algorithm can be defined as a set of step-by-step instructions for solving a problem or accomplishing a task. It's essentially a roadmap for a computer or other system to follow to achieve a desired outcome.   
-An algorithm can be defined as a set of step-by-step instructions for solving a problem or accomplishing a task. It's essentially a roadmap for a computer or other system to follow to achieve a desired outcome.
-
 Here are some key characteristics of an algorithm:
 
 Unambiguous: The instructions must be clear and concise, leaving no room for interpretation.
