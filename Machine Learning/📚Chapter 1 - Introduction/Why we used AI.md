@@ -186,12 +186,12 @@ This allows AI software to automatically learn from patterns or symbols in those
 An algorithm can be defined as a set of step-by-step instructions for solving a problem or accomplishing a task. It's essentially a roadmap for a computer or other system to follow to achieve a desired outcome.   
 Here are some key characteristics of an algorithm:
 
-Unambiguous: The instructions must be clear and concise, leaving no room for interpretation.
-Finite: The algorithm must have a definite starting and ending point.
-Effective: The algorithm must be efficient and solve the problem within a reasonable amount of time and resources.
-Generalizable: The algorithm should be able to work for a variety of inputs within its intended scope.
-Example:
+- **Unambiguous:** The instructions must be clear and concise, leaving no room for interpretation.
+- **Finite:** The algorithm must have a definite starting and ending point.
+- **Effective:** The algorithm must be efficient and solve the problem within a reasonable amount of time and resources.
+- **Generalizable:** The algorithm should be able to work for a variety of inputs within its intended scope.
 
+**Example:**
 A simple example of an algorithm is the recipe for baking a cake. It provides a clear sequence of steps, starting with preheating the oven and ending with checking if the cake is done. Each step is specific and unambiguous, and the recipe can be easily followed by anyone to achieve the desired outcome of a delicious cake.
 
 
