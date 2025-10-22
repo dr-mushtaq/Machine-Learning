@@ -302,12 +302,12 @@ For the checkers playing example the experience E, will be the experience of hav
 Machine Learning is the study of computer algorithms that allow computer programs to automatically improve through experience
 
 **Definition  6:** Machine learning (ML) in the field of the scientific study of algorithms and uses various statistical models. The computer systems use these statistical models to perform a specific task effectively. Here you don’t need to provide explicit instructions; instead, it relies on patterns and inference. As shown in the above image, machine learning is a subset of artificial intelligence. Machine learning language algorithms build a mathematical model depending on sample data. This data is known as “training data.” Using these data and algorithms prepares predictions or decisions. Here you don’t need to program to perform the task explicitly.
+                                      
+**Def:** Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data [8].
 
-                                       
-
-Def: Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data [8].
-
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/1_YXiclXZdJQVJZ0tQHCv5zw.png "></a>
+</p>
 
 For example, one kind of algorithm is a classification algorithm. It can put data into different groups. The same classification algorithm used to recognize handwritten numbers could also be used to classify emails into spam and not-spam without changing a line of code. It’s the same algorithm but it’s fed different training data so it comes up with different classification logic.
 
