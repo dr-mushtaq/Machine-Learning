@@ -283,24 +283,25 @@ Although the terms can be confused, machine learning (ML) is an important subset
 
 **Definition:** 2  Machine learning is a branch of study that allows machines to learn patterns from data without the involvement of explicit programming. The learnings are based on their experiences without human interference. 
 
-Definition: 3:  Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data.
+**Definition:** 3:  Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data.
 
-MathWorks
-Def: "Machine Learning is an AI technique that teaches computers to learn from experience. Machine learning algorithms use computational methods to “learn” information directly from data without relying on a predetermined equation as a model. The algorithms adaptively improve their performance as the number of samples available for learning increases. Deep learning is a specialized form of machine learning".
+**MathWorks**
+
+**Def:** "Machine Learning is an AI technique that teaches computers to learn from experience. Machine learning algorithms use computational methods to “learn” information directly from data without relying on a predetermined equation as a model. The algorithms adaptively improve their performance as the number of samples available for learning increases. Deep learning is a specialized form of machine learning".
 
 Unlike conventional programming, in machine learning language, the computer uses a pre-written algorithm and learns how to solve the problem itself. It is a more sophisticated way of solving a problem. Machine learning language is beyond algorithmic solutions; instead, it trains a machine to solve different complex tasks by itself.
 
-Definition: 4 Arthur Samuel Definition (1954): He defined machine learning as the field of study that gives computers the ability to learn without being explicitly programmed.
+**Definition:** 4 Arthur Samuel Definition (1954): He defined machine learning as the field of study that gives computers the ability to learn without being explicitly programmed.
 
 
 
-Definition: 5 Here's a slightly more recent definition by Tom Mitchell,   So Tom defines machine learning by saying that, a well-posed learning problem is defined as follows. He says, a computer program is said to learn from experience E, with respect to some task T, and some performance measure P, if its performance on T as measured by P improves with experience E.
+**Definition:** 5 Here's a slightly more recent definition by Tom Mitchell,   So Tom defines machine learning by saying that, a well-posed learning problem is defined as follows. He says, a computer program is said to learn from experience E, with respect to some task T, and some performance measure P, if its performance on T as measured by P improves with experience E.
 
 For the checkers playing example the experience E, will be the experience of having the program play 10's of 1000's of games against itself. Task T will be the task of playing checkers. And the performance measure P will be the probability that it wins the next game of checkers against some new opponent.
 
 Machine Learning is the study of computer algorithms that allow computer programs to automatically improve through experience
 
-Definition  6: Machine learning (ML) in the field of the scientific study of algorithms and uses various statistical models. The computer systems use these statistical models to perform a specific task effectively. Here you don’t need to provide explicit instructions; instead, it relies on patterns and inference. As shown in the above image, machine learning is a subset of artificial intelligence. Machine learning language algorithms build a mathematical model depending on sample data. This data is known as “training data.” Using these data and algorithms prepares predictions or decisions. Here you don’t need to program to perform the task explicitly.
+**Definition  6:** Machine learning (ML) in the field of the scientific study of algorithms and uses various statistical models. The computer systems use these statistical models to perform a specific task effectively. Here you don’t need to provide explicit instructions; instead, it relies on patterns and inference. As shown in the above image, machine learning is a subset of artificial intelligence. Machine learning language algorithms build a mathematical model depending on sample data. This data is known as “training data.” Using these data and algorithms prepares predictions or decisions. Here you don’t need to program to perform the task explicitly.
 
                                        
 
