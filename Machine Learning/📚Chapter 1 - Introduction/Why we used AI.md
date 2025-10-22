@@ -216,16 +216,20 @@ Before machine learning became mainstream, programmers wrote rules derived from 
 
 Hand-written rules face several key challenges:
 
-Limited human capacity:
+**Limited human capacity:**
+
 As psychologist George A. Miller’s classic paper “The Magical Number Seven, Plus or Minus Two” suggests, humans can only process a limited number of variables at once. Beyond that, managing all possible edge cases becomes impossible.
 
-Data keeps changing:
+**Data keeps changing:**
+
 In our digital world, data is dynamic. A rule that worked yesterday may fail today as user behavior, trends, and threats evolve.
 
-Poor scalability:
+**Poor scalability:**
+
 Updating a large set of rules is time-consuming and error-prone, especially if the original developer leaves and a new one inherits the system.
 
-Static intelligence:
+**Static intelligence:**
+
 Once written, rules don’t learn from new data. They stay frozen in time — which is fatal in fast-changing domains like cybersecurity, healthcare, and finance.
 
 ## 💡 Why Machine Learning Wins
