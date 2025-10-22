@@ -241,13 +241,13 @@ ML algorithms automatically extract patterns from historical data and improve ov
 
 Returning to our fraud detection example:
 
-A traditional rule might check for a single suspicious pattern.
+- A traditional rule might check for a single suspicious pattern.
 
-A machine learning model can learn hundreds of subtle relationships — transaction timing, device type, spending frequency, or geographic anomalies — and detect previously unseen fraud patterns.
+- A machine learning model can learn hundreds of subtle relationships — transaction timing, device type, spending frequency, or geographic anomalies — and detect previously unseen fraud patterns.
 
 The key difference?
 
-Rule-based systems are explicitly programmed, while machine learning systems are trained.
+- Rule-based systems are explicitly programmed, while machine learning systems are trained.
 
 ## 🧠 Machine Learning: A System That Learns Like Humans
 
