@@ -198,7 +198,17 @@ A simple example of an algorithm is the recipe for baking a cake. It provides a 
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/408209845_7282561661763388_2901782783385024646_n.jpg"></a>
 </p>
 
-# Why we used Machine Learning 
+# 🤖 Why We Use Machine Learning: Moving Beyond Rule-Based Systems
+
+## 🌍 From Hand-Written Rules to Intelligent Systems
+
+Before machine learning became mainstream, programmers relied on manually written rules derived from experience and domain knowledge.
+
+For example, if you were building a fraud detection system, you might write rules like:
+
+- “If the transaction amount exceeds $10,000 and the location is X, flag it as suspicious.”
+
+This traditional approach worked — but only for a while. As data became more complex and dynamic, these hard-coded rules started to break down.
 
 Before machine learning became mainstream, programmers wrote rules derived from a function of their domain knowledge, observation of some hand-picked instances, and the business requirement to perform a particular task. But this legacy way of delivering business results suffered some evident constraints.
 
