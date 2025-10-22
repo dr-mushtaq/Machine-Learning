@@ -276,3 +276,127 @@ Although the terms can be confused, machine learning (ML) is an important subset
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/ww.jpg "></a>
 </p>
+
+Definition: 1 Machine Learning (ML) is commonly used along with AI but it is a subset of AI. ML refers to an AI system that can self-learn based on the algorithm. Systems that get smarter and smarter over time without human intervention are ML Machine learning is the study of Computer Algorithms that allow computer programs to automatically improve through experience Or In ML machines can learn by themselves without being explicitly programmed.
+
+Definition  2: Machine Learning (ML) is based on algorithms that can learn from data without relying on rule-based programming
+
+Definition: 2  Machine learning is a branch of study that allows machines to learn patterns from data without the involvement of explicit programming. The learnings are based on their experiences without human interference. 
+
+Definition: 3:  Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data.
+
+MathWorks
+Def: "Machine Learning is an AI technique that teaches computers to learn from experience. Machine learning algorithms use computational methods to “learn” information directly from data without relying on a predetermined equation as a model. The algorithms adaptively improve their performance as the number of samples available for learning increases. Deep learning is a specialized form of machine learning".
+
+Unlike conventional programming, in machine learning language, the computer uses a pre-written algorithm and learns how to solve the problem itself. It is a more sophisticated way of solving a problem. Machine learning language is beyond algorithmic solutions; instead, it trains a machine to solve different complex tasks by itself.
+
+Definition: 4 Arthur Samuel Definition (1954): He defined machine learning as the field of study that gives computers the ability to learn without being explicitly programmed.
+
+
+
+Definition: 5 Here's a slightly more recent definition by Tom Mitchell,   So Tom defines machine learning by saying that, a well-posed learning problem is defined as follows. He says, a computer program is said to learn from experience E, with respect to some task T, and some performance measure P, if its performance on T as measured by P improves with experience E.
+
+For the checkers playing example the experience E, will be the experience of having the program play 10's of 1000's of games against itself. Task T will be the task of playing checkers. And the performance measure P will be the probability that it wins the next game of checkers against some new opponent.
+
+Machine Learning is the study of computer algorithms that allow computer programs to automatically improve through experience
+
+Definition  6: Machine learning (ML) in the field of the scientific study of algorithms and uses various statistical models. The computer systems use these statistical models to perform a specific task effectively. Here you don’t need to provide explicit instructions; instead, it relies on patterns and inference. As shown in the above image, machine learning is a subset of artificial intelligence. Machine learning language algorithms build a mathematical model depending on sample data. This data is known as “training data.” Using these data and algorithms prepares predictions or decisions. Here you don’t need to program to perform the task explicitly.
+
+                                       
+
+Def: Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data [8].
+
+
+
+For example, one kind of algorithm is a classification algorithm. It can put data into different groups. The same classification algorithm used to recognize handwritten numbers could also be used to classify emails into spam and not-spam without changing a line of code. It’s the same algorithm but it’s fed different training data so it comes up with different classification logic.
+
+Example: Arthur Samuel wrote a checkers playing program. And the amazing thing about this checkers playing program was that Arthur Samuel himself wasn't a very good checkers player. But what he did was, he had to program for it to play 10's of 1000's of games against itself. And by watching what sorts of board positions tended to lead to wins, and what sort of board positions tended to lead to losses. The checkers playing program learns over time what are good board positions and what are bad board positions. And eventually, learn to play checkers better than Arthur Samuel himself was able to. This was a remarkable result.
+
+Although Samuel himself turned out not to be a very good checkers player. But because the computer has the patience to play tens of thousands of games itself. No human has the patience to play that many games. By doing this the computer was able to get so much checkers-playing experience that it eventually became a better checkers player than Arthur Samuel himself. This is the somewhat informal definition and an older one.
+
+                                        
+
+  
+
+Example
+
+let us begin by considering a couple of examples from naturally occurring animal learning.
+
+Bait Shyness — Rats Learning to Avoid Poisonous Baits: When rats encounter food items with novel look or smell, they will first eat very small amounts, and subsequent feeding will depend on the flavor of the food and its physiological effect. If the food produces an ill effect, the novel food will often be associated with the illness, and subsequently, the rats will not eat it. Clearly, there is a learning mechanism in play here.– the animal used past experience with some food to acquire expertise in detecting the safety of this food. If past experience with the food was negatively labeled, the animal predicts that it will also have a negative effect when encountered in the future.
+
+Inspired by the preceding example of successful learning, let us demonstrate a typical machine learning task. Suppose we would like to program a machine that learns how to filter spam e-mails. A naive solution would be seemingly similar to the way rats learn how to avoid poisonous baits. The machine will simply memorize all previous e-mails that had been labeled as spam e-mails by the human user. When a new e-mail arrives, the machine will search for it in the set of previous spam e-mails. If it matches one of them, it will be trashed. Otherwise, it will be moved to the user’s inbox folder.
+
+While the preceding “learning by memorization” approach is sometimes useful, it lacks an important aspect of learning systems — the ability to label unseen e-mail messages. A successful learner should be able to progress from individual examples to broader generalization. This is also referred to as inductive reasoning or inductive inference. In the bait shyness example presented previously, after the rats encounter an example of a certain type of food, they apply their attitude toward it on new, unseen examples of food of similar smell and taste. To achieve generalization in the spam filtering task, the learner can scan the previously seen e-mails, and extract a set of words whose appearance in an e-mail message is indicative of spam. Then, when a new e-mail arrives, the machine can check whether one of the suspicious words appears in it, and predict its label accordingly. Such a system would potentially be able correctly to predict the label of unseen e-mails.
+
+2.3 - Benefits of Machine Learning
+
+Powerful processing
+Better Decision making and prediction
+Quicker processing
+accurate
+affordable data management
+Inexpensive
+analyzing complex big data     
+2.4- Application of Machine Learning Algorithms
+The developed machine learning algorithms are used in various applications such as
+
+ 1- AlphaGo':- Apparently, the landmarks of publicity and publicity were AlphaGo's ingenious completion program that ended 2 500 years of humanity in May 2017 in the ancient board game GO using a machine learning algorithm called "reinforcing learning". 
+
+ Web Search
+Computational Biology 
+ Finance
+ E-Commerce
+Space exploration
+Robotics
+Information extraction
+Social Networks
+Debugging
+Data mining
+Vision processing
+Forecasting things like stock market trends, weather
+Pattern recognition
+Game
+2.5- Difference between ML and Programming.
+
+In programming, we can segregate the world into two broad categories – Conventional programming and Machine learning. Conventional or conventional programming has been around here for more than a century. The first computer programming was introduced in the mid-1800s. On the other side, machine learning programming is a new addition to this family, which has revolutionized the business for the last few decades. 
+
+In conventional programming, programs are created manually by providing input data based on the programming logic, and the computer generates the output.
+
+On the contrary, On the contrary, in machine learning programming, the input and output data are fed to the algorithm, creating the program.
+
+Conventional Programming uses conventional procedural language. It could be an assembly language or a high-level language such as C, C++, Java, JavaScript, Python, etc.
+
+Conventional programming is a manual process, which means the programmer creates the logic of the program. They need to code the rules and write lines of code manually. 
+
+They provide the input data, and based on the program’s programming logic; it produces the desired output. 
+
+The conventional programming approach is algorithm-dependent, and for a program, multiple algorithms can work. It is up to the programmer how he will design and develop the logic of the program.
+
+Machine Learning is based on the idea that analytic systems can learn to identify patterns and make decisions with minimal human involvement using statistics, linear algebra, and numerical optimization.
+
+Machine Learning as a way of writing programs whose business logic is generated from input data. We feed data to the algorithm and the result of the program execution will be the logic for processing new data. It is a new way of writing software, a step away from the traditional development process.
+
+In conventional programming, a programmer needs to hard code the logic of the program.
+
+ In machine learning, it depends a lot on the machine which learns from input data.
+
+Conventional Programming is not a very advanced level, where decision-making is based on IF-ELSE conditions. Therefore, many solutions cannot be modeled with it.
+
+On the contrary, machine learning programming solves the problem by modeling the data with train data and test data. Based on these data and statistical models, machine learning predicts the result.
+
+Also, there is a significant difference between machine learning and conventional programming based on the number of input parameters that the model can process. In machine learning, to get an accurate prediction, it is required to feed thousands of parameters. Besides, it must be done with high accuracy, because every bit can affect the final result. However, in conventional programming, a programmer cannot build an algorithm following the same patterns.
+
+
+
+
+
+
+
+2.6-- What is an ML model
+
+The output of Machine learning algorithms is called the ML model or what was learned from machine learning algorithms save after running ML algorithms on training data  and solutions that rules, numbers, and any algorithms-specific data structure 
+
+                                                    
+
+2.7- What is an ML Algorithm?
+An algorithm is a procedure that is run on data to create a machine model. These algorithms perform pattern recognition and learn from data. Or are fit on a dataset
