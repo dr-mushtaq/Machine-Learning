@@ -255,3 +255,15 @@ From a systems perspective, machine learning creates automated systems capable o
 
 This concept draws inspiration from how the human brain learns.
 Just as humans adjust behavior based on experience, ML models improve their predictions by continuously learning from new examples.
+
+# What is machine learning?
+
+There are many different definitions and versions of Artificial Intelligence, Machine Learning , WHICH IS GENUINE, TRUE AND REAL
+
+**Def**: Machine learning is a branch of artificial intelligence (AI) that focuses on developing algorithms and statistical models that enable computer systems to learn from data, identify patterns, and make predictions or decisions without being explicitly programmed. 
+
+**Def**: Artificial intelligence is an umbrella term that contains many realms like machine learning, image processing, neural networks, cognitive science, and many more. AI is an umbrella discipline that covers everything related to making machines smarter. 
+
+**Def:** The capability of Artificial Intelligence systems to learn by extracting patterns from data is known as Machine Learning is the idea to learn from examples and experiences without being explicitly programmed. Instead of writing code, you feed data to the generic algorithm and it builds logic based on the data given.
+
+Although the terms can be confused, machine learning (ML) is an important subset of artificial intelligence. ML is concerned with using specialized algorithms to uncover meaningful information and find hidden patterns from perceived data to corroborate the rational decision-making process.
