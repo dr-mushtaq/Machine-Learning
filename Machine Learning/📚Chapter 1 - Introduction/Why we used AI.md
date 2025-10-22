@@ -212,14 +212,42 @@ This traditional approach worked — but only for a while. As data became more c
 
 Before machine learning became mainstream, programmers wrote rules derived from a function of their domain knowledge, observation of some hand-picked instances, and the business requirement to perform a particular task. But this legacy way of delivering business results suffered some evident constraints.
 
-- **Hand-written rules** are limited by the knowledge of what edge cases a programmer can cover. This concept is very well explained by one of the most highly cited papers in the world of psychology titled “The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information.” Commonly cited as Miller’s law, the paper describes the limited amount of information an average brain can hold and how it becomes unmanageable with the increasing number of variables and dimensions.
-- **Data is dynamic** by nature and has become more so over the last decade with the proliferation of technology in our day-to-day lives. The varying data patterns fed to static pre-written rules are of little help to the business in taking meaningful actions. That is where the pattern mining ability of machine learning algorithms is put to the best use
-  
-- Let’s take an example of a fraud detection case. The programmer would write rules that if the transaction amount is above $10K, transaction location is X, and it is made from a particular type, i.e., wire transfer, then it is flagged as a potentially fraudulent transaction.This could work like a charm for some time until the bad actors find an intelligent way to commit fraud. The conventional hard-coded rules are no more effective in detecting fraud. As their way of operation evolves, our fraud detection system needs to become too.
-- Further, all the software development processes are highly collaborative?—?what if the developer who wrote the initial rules is no longer associated with the fraud detection project? And the new developer tasked with upgrading the logic has no understanding of the previous system and is skeptical about whether the recent changes will have backward compatibility. To summarize, updating a rule-based system is not only a cumbersome process but unscalable too.
-That’s where machine learning algorithms come to our rescue. If the metrics are well-defined and well-aligned with the business objective, it continues to learn from the new training data and evolves into a sophisticated machine learning system.
+## ⚙️ The Limitations of Rule-Based Systems
 
-Machine learning, from a systems perspective, is defined as the creation of automated systems that can learn hidden patterns from data to aid in making intelligent decisions.
+Hand-written rules face several key challenges:
 
-This motivation is loosely inspired by how the human brain learns certain things based on the data it perceives from the outside world.
+Limited human capacity:
+As psychologist George A. Miller’s classic paper “The Magical Number Seven, Plus or Minus Two” suggests, humans can only process a limited number of variables at once. Beyond that, managing all possible edge cases becomes impossible.
 
+Data keeps changing:
+In our digital world, data is dynamic. A rule that worked yesterday may fail today as user behavior, trends, and threats evolve.
+
+Poor scalability:
+Updating a large set of rules is time-consuming and error-prone, especially if the original developer leaves and a new one inherits the system.
+
+Static intelligence:
+Once written, rules don’t learn from new data. They stay frozen in time — which is fatal in fast-changing domains like cybersecurity, healthcare, and finance.
+
+💡 Why Machine Learning Wins
+
+Machine learning (ML) flips the script.
+Instead of telling the system what to do, we teach it how to learn.
+
+ML algorithms automatically extract patterns from historical data and improve over time as new data arrives.
+
+Returning to our fraud detection example:
+
+A traditional rule might check for a single suspicious pattern.
+
+A machine learning model can learn hundreds of subtle relationships — transaction timing, device type, spending frequency, or geographic anomalies — and detect previously unseen fraud patterns.
+
+The key difference?
+
+Rule-based systems are explicitly programmed, while machine learning systems are trained.
+
+🧠 Machine Learning: A System That Learns Like Humans
+
+From a systems perspective, machine learning creates automated systems capable of discovering hidden patterns in data to make intelligent decisions.
+
+This concept draws inspiration from how the human brain learns.
+Just as humans adjust behavior based on experience, ML models improve their predictions by continuously learning from new examples.
