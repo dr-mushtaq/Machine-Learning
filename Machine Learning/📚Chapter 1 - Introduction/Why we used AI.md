@@ -267,3 +267,12 @@ There are many different definitions and versions of Artificial Intelligence, Ma
 **Def:** The capability of Artificial Intelligence systems to learn by extracting patterns from data is known as Machine Learning is the idea to learn from examples and experiences without being explicitly programmed. Instead of writing code, you feed data to the generic algorithm and it builds logic based on the data given.
 
 Although the terms can be confused, machine learning (ML) is an important subset of artificial intelligence. ML is concerned with using specialized algorithms to uncover meaningful information and find hidden patterns from perceived data to corroborate the rational decision-making process.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/394577986_345138894702935_4471456550713557158_n.jpg"></a>
+</p>
+
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/ww.jpg "></a>
+</p>
