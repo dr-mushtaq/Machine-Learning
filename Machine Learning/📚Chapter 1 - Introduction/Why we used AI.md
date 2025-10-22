@@ -314,12 +314,9 @@ For example, one kind of algorithm is a classification algorithm. It can put dat
 **Example: Arthur Samuel** wrote a checkers playing program. And the amazing thing about this checkers playing program was that Arthur Samuel himself wasn't a very good checkers player. But what he did was, he had to program for it to play 10's of 1000's of games against itself. And by watching what sorts of board positions tended to lead to wins, and what sort of board positions tended to lead to losses. The checkers playing program learns over time what are good board positions and what are bad board positions. And eventually, learn to play checkers better than Arthur Samuel himself was able to. This was a remarkable result.
 
 Although Samuel himself turned out not to be a very good checkers player. But because the computer has the patience to play tens of thousands of games itself. No human has the patience to play that many games. By doing this the computer was able to get so much checkers-playing experience that it eventually became a better checkers player than Arthur Samuel himself. This is the somewhat informal definition and an older one.
+                                
 
-                                        
-
-  
-
-Example
+**Example**
 
 let us begin by considering a couple of examples from naturally occurring animal learning.
 
