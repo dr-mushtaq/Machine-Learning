@@ -277,11 +277,11 @@ Although the terms can be confused, machine learning (ML) is an important subset
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/ww.jpg "></a>
 </p>
 
-Definition: 1 Machine Learning (ML) is commonly used along with AI but it is a subset of AI. ML refers to an AI system that can self-learn based on the algorithm. Systems that get smarter and smarter over time without human intervention are ML Machine learning is the study of Computer Algorithms that allow computer programs to automatically improve through experience Or In ML machines can learn by themselves without being explicitly programmed.
+**Definition:** 1 Machine Learning (ML) is commonly used along with AI but it is a subset of AI. ML refers to an AI system that can self-learn based on the algorithm. Systems that get smarter and smarter over time without human intervention are ML Machine learning is the study of Computer Algorithms that allow computer programs to automatically improve through experience Or In ML machines can learn by themselves without being explicitly programmed.
 
-Definition  2: Machine Learning (ML) is based on algorithms that can learn from data without relying on rule-based programming
+**Definition  2**: Machine Learning (ML) is based on algorithms that can learn from data without relying on rule-based programming
 
-Definition: 2  Machine learning is a branch of study that allows machines to learn patterns from data without the involvement of explicit programming. The learnings are based on their experiences without human interference. 
+**Definition:** 2  Machine learning is a branch of study that allows machines to learn patterns from data without the involvement of explicit programming. The learnings are based on their experiences without human interference. 
 
 Definition: 3:  Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data.
 
