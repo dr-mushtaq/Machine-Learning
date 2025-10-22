@@ -228,7 +228,7 @@ Updating a large set of rules is time-consuming and error-prone, especially if t
 Static intelligence:
 Once written, rules don’t learn from new data. They stay frozen in time — which is fatal in fast-changing domains like cybersecurity, healthcare, and finance.
 
-💡 Why Machine Learning Wins
+## 💡 Why Machine Learning Wins
 
 Machine learning (ML) flips the script.
 Instead of telling the system what to do, we teach it how to learn.
@@ -245,7 +245,7 @@ The key difference?
 
 Rule-based systems are explicitly programmed, while machine learning systems are trained.
 
-🧠 Machine Learning: A System That Learns Like Humans
+## 🧠 Machine Learning: A System That Learns Like Humans
 
 From a systems perspective, machine learning creates automated systems capable of discovering hidden patterns in data to make intelligent decisions.
 
