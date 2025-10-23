@@ -292,6 +292,9 @@ Although the terms can be confused, machine learning (ML) is an important subset
 Unlike conventional programming, in machine learning language, the computer uses a pre-written algorithm and learns how to solve the problem itself. It is a more sophisticated way of solving a problem. Machine learning language is beyond algorithmic solutions; instead, it trains a machine to solve different complex tasks by itself.
 
 **Definition:** 4 Arthur Samuel Definition (1954): He defined machine learning as the field of study that gives computers the ability to learn without being explicitly programmed.
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/image.jpg "></a>
+</p>
 
 
 
