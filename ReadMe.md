@@ -733,6 +733,8 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 11- Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python) |This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning | Pending    |
 | [**✅ 12-Hyperparameter Optimization of Machine Learning Algorithms**](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
 | [**✅ 13-ML-For-Beginners by miscrosoft**](https://github.com/microsoft/ML-For-Beginners/tree/main) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
+| [**✅ 14-Machine Learning Road Map**](https://github.com/loganthorneloe/ml-road-map/tree/main?tab=readme-ov-file#prerequisites) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
+
 
 
 
@@ -803,6 +805,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
