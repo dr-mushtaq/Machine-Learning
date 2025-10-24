@@ -171,6 +171,10 @@ AI is an umbrella term representing a range of techniques that allow machines to
 
 This allows AI software to automatically learn from patterns or symbols in those big data sets. AI is the simulation of human intelligence by machines. It enables the machine to think like a human. It is a program that can learn, reach and sense the same as humans do or  Similar to the intelligence humans possess, artificial intelligence is the one donned by machines. The only difference remains the absence of emotionality and consciousness. The Capacity is given by humans to machines to memorize and learn from experience and to think and create, to speak, to judge, and make decisions. The brain is the most wonderful organ of the human body. The brain controls thought, memory, emotion, motor skills, vision, breathing, and touch. This complex structure of the brain became a source of inspiration for scientists and the concept of AI emerged. AI is the ability of a computer or robot to perform humanoid tasks [3].
 
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/276064110_1797989270395173_8295042156672995883_n.jpg"></a>
+
+
 
  ## **Weak AI vs. Strong AI**
 
@@ -305,6 +309,11 @@ For the checkers playing example the experience E, will be the experience of hav
 Machine Learning is the study of computer algorithms that allow computer programs to automatically improve through experience
 
 **Definition  6:** Machine learning (ML) in the field of the scientific study of algorithms and uses various statistical models. The computer systems use these statistical models to perform a specific task effectively. Here you don’t need to provide explicit instructions; instead, it relies on patterns and inference. As shown in the above image, machine learning is a subset of artificial intelligence. Machine learning language algorithms build a mathematical model depending on sample data. This data is known as “training data.” Using these data and algorithms prepares predictions or decisions. Here you don’t need to program to perform the task explicitly.
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/download%20(1).png"></a>
+</p>
+
                                       
 **Def:** Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data [8].
 
@@ -317,8 +326,13 @@ For example, one kind of algorithm is a classification algorithm. It can put dat
 **Example: Arthur Samuel** wrote a checkers playing program. And the amazing thing about this checkers playing program was that Arthur Samuel himself wasn't a very good checkers player. But what he did was, he had to program for it to play 10's of 1000's of games against itself. And by watching what sorts of board positions tended to lead to wins, and what sort of board positions tended to lead to losses. The checkers playing program learns over time what are good board positions and what are bad board positions. And eventually, learn to play checkers better than Arthur Samuel himself was able to. This was a remarkable result.
 
 Although Samuel himself turned out not to be a very good checkers player. But because the computer has the patience to play tens of thousands of games itself. No human has the patience to play that many games. By doing this the computer was able to get so much checkers-playing experience that it eventually became a better checkers player than Arthur Samuel himself. This is the somewhat informal definition and an older one.
-                                
 
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/1_YXiclXZdJQVJZ0tQHCv5zw.png "></a>
+</p> "></a>
+
+                               
 **Example**
 
 let us begin by considering a couple of examples from naturally occurring animal learning.
@@ -387,15 +401,36 @@ On the contrary, machine learning programming solves the problem by modeling the
 
 Also, there is a significant difference between machine learning and conventional programming based on the number of input parameters that the model can process. In machine learning, to get an accurate prediction, it is required to feed thousands of parameters. Besides, it must be done with high accuracy, because every bit can affect the final result. However, in conventional programming, a programmer cannot build an algorithm following the same patterns.
 
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/12.jpg "></a>
+</p> "></a>
 
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/45.jpg "></a>
+</p> "></a>
 
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/99.png "></a>
+</p> "></a>
 
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/10.jpeg"></a>
+</p> "></a>
 
 
 
 2.6-- What is an ML model
 
 The output of Machine learning algorithms is called the ML model or what was learned from machine learning algorithms save after running ML algorithms on training data  and solutions that rules, numbers, and any algorithms-specific data structure 
+
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/000.jpg"></a>
+</p> "></a>
 
                                                     
 
