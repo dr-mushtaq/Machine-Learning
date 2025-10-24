@@ -329,8 +329,8 @@ Although Samuel himself turned out not to be a very good checkers player. But be
 
 <p align="center">
 <img src="<p align="center">
-<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/1_YXiclXZdJQVJZ0tQHCv5zw.png "></a>
-</p> "></a>
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/download%20(2).png"></a>
+</p> </a>
 
                                
 **Example**
@@ -401,25 +401,24 @@ On the contrary, machine learning programming solves the problem by modeling the
 
 Also, there is a significant difference between machine learning and conventional programming based on the number of input parameters that the model can process. In machine learning, to get an accurate prediction, it is required to feed thousands of parameters. Besides, it must be done with high accuracy, because every bit can affect the final result. However, in conventional programming, a programmer cannot build an algorithm following the same patterns.
 
-<p align="center">
-<img src="<p align="center">
+<p>
 <img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/12.jpg "></a>
-</p> "></a>
+</p> 
 
-<p align="center">
-<img src="<p align="center">
+<p>
 <img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/45.jpg "></a>
-</p> "></a>
+</p>
 
-<p align="center">
-<img src="<p align="center">
+<p >
 <img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/99.png "></a>
-</p> "></a>
+</p>
 
-<p align="center">
-<img src="<p align="center">
+<p>
 <img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/10.jpeg"></a>
-</p> "></a>
+</p> 
+
+
+
 
 
 
@@ -427,12 +426,36 @@ Also, there is a significant difference between machine learning and conventiona
 
 The output of Machine learning algorithms is called the ML model or what was learned from machine learning algorithms save after running ML algorithms on training data  and solutions that rules, numbers, and any algorithms-specific data structure 
 
+
+
 <p align="center">
-<img src="<p align="center">
 <img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/000.jpg"></a>
-</p> "></a>
+</p>
 
                                                     
 
 2.7- What is an ML Algorithm?
+
+
 An algorithm is a procedure that is run on data to create a machine model. These algorithms perform pattern recognition and learn from data. Or are fit on a dataset
+
+## References
+
+[1] [How different are Conventional Programming and Machine Learning?](https://contenteratechspace.com/how-different-are-conventional-programming-and-machine-learning/)
+
+[2] [AI vs ML vs DL](https://insideaiml.com/blog/AI-vs-ML-vs-DL-1041)
+
+[3] [6 Best Programming Languages ​​for AI](https://pub.towardsai.net/6-best-programming-languages-for-ai-8ef01eb70445?gi=90a4b35a54ad)
+
+[4] [Artificial Intelligence Chapter 0: What It Is & Why You Should Care](https://pub.towardsai.net/artificial-intelligence-chapter-0-what-it-is-why-you-should-care-59b5318b4ebf)
+
+[5] [Machine Learning Algorithms – What, Why, and How?](https://www.kdnuggets.com/2022/09/machine-learning-algorithms.html?fbclid=IwAR2AV-FwGtZK454iwW4MRR5mUoMKVUM69epdBpqBxN_Jf_uTDhqGbIyNNgs)
+
+[6] [Machine Learning — Andrew Ng](https://www.youtube.com/@ArtificialIntelligenceAllinOne)
+
+[7] [History of AI: The Birth of Artificial Intelligence (1952–1956)](https://pub.towardsai.net/history-of-ai-the-birth-of-artificial-intelligence-1952-1956-f5fbdbfff08f) *(Unread)*
+
+[8] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
+
+
+
