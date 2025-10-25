@@ -174,6 +174,10 @@ This allows AI software to automatically learn from patterns or symbols in those
 <p align="center">
 <img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/276064110_1797989270395173_8295042156672995883_n.jpg"></a>
 
+<p>
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/888.jpg"></a>
+</p> 
+
 
 
  ## **Weak AI vs. Strong AI**
@@ -453,7 +457,7 @@ An algorithm is a procedure that is run on data to create a machine model. These
 
 [6] [Machine Learning — Andrew Ng](https://www.youtube.com/@ArtificialIntelligenceAllinOne)
 
-[7] [History of AI: The Birth of Artificial Intelligence (1952–1956)](https://pub.towardsai.net/history-of-ai-the-birth-of-artificial-intelligence-1952-1956-f5fbdbfff08f) *(Unread)*
+[7] [History of AI: The Birth of Artificial Intelligence (1952–1956)](https://pub.towardsai.net/history-of-ai-the-birth-of-artificial-intelligence-1952-1956-f5fbdbfff08f) 
 
 [8] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
 
