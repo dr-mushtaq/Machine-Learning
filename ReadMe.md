@@ -327,6 +327,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅5-CLARANS (Clustering Large Applications based on Randomized Search)**|[1](https://www.youtube.com/watch?v=8PSbi6GKXrs)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=10479&forceview=1)|
 |**✅6-Measuring Performance of Clusters)**|[1](https://www.youtube.com/watch?v=5f_yihQFoJM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5671&forceview=1)|
 
+## 📚Chapter: 2  - **Hierarchical methods**
+ 
+| Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
+|---|---|---|----|---|
+|**✅1-Introduction of Hierarchical Clustering⭐️**| [1](https://www.youtube.com/watch?v=VOfzeUKUA48)| Content 3 |[Doc](https://coursesteach.com/mod/page/view.php?id=10483)|
+
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
   - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
@@ -808,6 +814,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
