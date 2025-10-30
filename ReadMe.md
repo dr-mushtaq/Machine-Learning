@@ -4,6 +4,15 @@ Welcome to the **Machine Learning with Python** repository — a hands-on, begin
 
                                         👉 [💬 Join the Discussion](https://github.com/dr-mushtaq/Machine-Learning/discussions)
 
+                                        <p align="center">
+  <a href="https://github.com/dr-mushtaq/Machine-Learning/discussions" target="_blank">
+    <button style="background-color:#0366d6; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:6px; cursor:pointer;">
+      💬 Join the Discussion
+    </button>
+  </a>
+</p>
+
+
 
 ## **Overview👋🛒**
 
@@ -823,6 +832,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
