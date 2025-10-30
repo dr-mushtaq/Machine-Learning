@@ -297,7 +297,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐11-Data For Machine Learning**|[**1**](https://drive.google.com/file/d/12A9D9Hj9APyXoOZV5PcSIPxgq17TWFFv/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|---|[Doc](https://coursesteach.com/mod/page/view.php?id=4207&forceview=1)|
 
 ## 📚Chapter: 9 -**SVM**
- |Topic Name/Tutorial | Video | Code |Podcast|Note|
+ |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
 |**🌐1-Optimization Objective**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|
 
@@ -820,6 +820,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
