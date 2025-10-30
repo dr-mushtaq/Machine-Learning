@@ -594,7 +594,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 11 | [**CS294-158 Deep Unsupervised Learning SP19**](https://www.mrdbourke.com/2020-machine-learning-roadmap/) | Covers deep learning and generative models | Pending | UC Berkeley |  |
 | 12 | [**Introduction to Machine Learning**](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) | By Dmitry (University of Tübingen) | Pending | University of Tübingen |  |
 | 13 | [**Statistical Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) | By Ulrike von Luxburg | Pending | University of Tübingen |  |
-| 14 | [**Probabilistic Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd) | By Philipp Hennig | Pending | University of Tübingen |  |
+| 14 | [**Probabilistic Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)[-2025](https://www.youtube.com/playlist?list=PL05umP7R6ij0hPfU7Yuz8J9WXjlb3MFjm) | By Philipp Hennig | Pending | University of Tübingen |  |
 | 15 | [**Machine Learning Concepts**](https://inria.github.io/scikit-learn-mooc/toc.html) |github websit it implement all concept in sklearn| Pending | Github |⭐️⭐️⭐️  |
 | 16 | [**Singular Value Decomposition**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) |Steve Brunton| Pending | Youtub | |
 | 17 | [**Linear Algebra for Machine Learning**](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) |Jon Krohn| Pending | Youtub |⭐️⭐️⭐️ |
@@ -830,6 +830,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
