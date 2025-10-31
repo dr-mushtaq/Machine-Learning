@@ -170,7 +170,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**Bloger Blogs**](https://coursesteach.blogspot.com/)
+🔗 [**Dev.to**](https://dev.to/mushtaq_hussain_6678b0b0e/understanding-artificial-intelligence-history-definitions-and-modern-applications-125l)
 
 🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
 
@@ -830,6 +830,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
