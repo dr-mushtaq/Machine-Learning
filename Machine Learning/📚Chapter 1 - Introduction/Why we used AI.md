@@ -2,10 +2,24 @@ Artificial Intelligence (AI) has transformed from a visionary concept into an in
 ## 📑 Table of Contents  
 
 - [Why we used AI](#Why-we-used-AI)  
+- [Natural Intelligence](#Natural-Intelligence)
 - [Unsupervised learning](#Unsupervised-learning)  
 - [Reinforcement learning](#Reinforcement-learning)  
 - [Supervised learning explanation](#Supervised-learning-explanation)
-- [Supervised learning in Python](#Supervised-learning-in-Python)    
+- [Supervised learning in Python](#Supervised-learning-in-Python)
+- [History of Artificial Intelligence](#History-of-Artificial-Intelligence)
+- [Weak AI vs. Strong AI](#Weak-AI-vs-Strong-AI)
+- [How can an algorithm be defined?](#How-can-an-algorithm-be-defined)
+- [What is machine learning?](#What-is-machine-learning)
+- [Benefits of Machine Learning](#Benefits-of-Machine-Learning)
+- [What is an ML model?](#What-is-an-ML-model)
+- [What is an ML Algorithm?](#What-is-an-ML-Algorithm)
+- [References](#References)
+
+
+
+
+
 
 
 ## **Why we used AI** 
@@ -347,7 +361,7 @@ Inspired by the preceding example of successful learning, let us demonstrate a t
 
 While the preceding “learning by memorization” approach is sometimes useful, it lacks an important aspect of learning systems — the ability to label unseen e-mail messages. A successful learner should be able to progress from individual examples to broader generalization. This is also referred to as inductive reasoning or inductive inference. In the bait shyness example presented previously, after the rats encounter an example of a certain type of food, they apply their attitude toward it on new, unseen examples of food of similar smell and taste. To achieve generalization in the spam filtering task, the learner can scan the previously seen e-mails, and extract a set of words whose appearance in an e-mail message is indicative of spam. Then, when a new e-mail arrives, the machine can check whether one of the suspicious words appears in it, and predict its label accordingly. Such a system would potentially be able correctly to predict the label of unseen e-mails.
 
-2.3 - Benefits of Machine Learning
+**2.3 - Benefits of Machine Learning**
 
 Powerful processing
 Better Decision making and prediction
@@ -426,7 +440,7 @@ Also, there is a significant difference between machine learning and conventiona
 
 
 
-2.6-- What is an ML model
+**2.6-- What is an ML model**
 
 The output of Machine learning algorithms is called the ML model or what was learned from machine learning algorithms save after running ML algorithms on training data  and solutions that rules, numbers, and any algorithms-specific data structure 
 
@@ -438,7 +452,8 @@ The output of Machine learning algorithms is called the ML model or what was lea
 
                                                     
 
-2.7- What is an ML Algorithm?
+**2.7- What is an ML Algorithm?**
+
 
 
 An algorithm is a procedure that is run on data to create a machine model. These algorithms perform pattern recognition and learn from data. Or are fit on a dataset
