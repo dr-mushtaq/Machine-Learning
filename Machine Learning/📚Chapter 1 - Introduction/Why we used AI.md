@@ -2,10 +2,24 @@ Artificial Intelligence (AI) has transformed from a visionary concept into an in
 ## 📑 Table of Contents  
 
 - [Why we used AI](#Why-we-used-AI)  
+- [Natural Intelligence](#Natural-Intelligence)
 - [Unsupervised learning](#Unsupervised-learning)  
 - [Reinforcement learning](#Reinforcement-learning)  
 - [Supervised learning explanation](#Supervised-learning-explanation)
-- [Supervised learning in Python](#Supervised-learning-in-Python)    
+- [Supervised learning in Python](#Supervised-learning-in-Python)
+- [History of Artificial Intelligence](#History-of-Artificial-Intelligence)
+- [Weak AI vs. Strong AI](#Weak-AI-vs-Strong-AI)
+- [How can an algorithm be defined?](#How-can-an-algorithm-be-defined)
+- [What is machine learning?](#What-is-machine-learning)
+- [Benefits of Machine Learning](#Benefits-of-Machine-Learning)
+- [What is an ML model?](#What-is-an-ML-model)
+- [What is an ML Algorithm?](#What-is-an-ML-Algorithm)
+- [References](#References)
+
+
+
+
+
 
 
 ## **Why we used AI** 
@@ -171,6 +185,14 @@ AI is an umbrella term representing a range of techniques that allow machines to
 
 This allows AI software to automatically learn from patterns or symbols in those big data sets. AI is the simulation of human intelligence by machines. It enables the machine to think like a human. It is a program that can learn, reach and sense the same as humans do or  Similar to the intelligence humans possess, artificial intelligence is the one donned by machines. The only difference remains the absence of emotionality and consciousness. The Capacity is given by humans to machines to memorize and learn from experience and to think and create, to speak, to judge, and make decisions. The brain is the most wonderful organ of the human body. The brain controls thought, memory, emotion, motor skills, vision, breathing, and touch. This complex structure of the brain became a source of inspiration for scientists and the concept of AI emerged. AI is the ability of a computer or robot to perform humanoid tasks [3].
 
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/276064110_1797989270395173_8295042156672995883_n.jpg"></a>
+
+<p>
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/888.jpg"></a>
+</p> 
+
+
 
  ## **Weak AI vs. Strong AI**
 
@@ -292,6 +314,9 @@ Although the terms can be confused, machine learning (ML) is an important subset
 Unlike conventional programming, in machine learning language, the computer uses a pre-written algorithm and learns how to solve the problem itself. It is a more sophisticated way of solving a problem. Machine learning language is beyond algorithmic solutions; instead, it trains a machine to solve different complex tasks by itself.
 
 **Definition:** 4 Arthur Samuel Definition (1954): He defined machine learning as the field of study that gives computers the ability to learn without being explicitly programmed.
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/image.jpg "></a>
+</p>
 
 
 
@@ -302,6 +327,11 @@ For the checkers playing example the experience E, will be the experience of hav
 Machine Learning is the study of computer algorithms that allow computer programs to automatically improve through experience
 
 **Definition  6:** Machine learning (ML) in the field of the scientific study of algorithms and uses various statistical models. The computer systems use these statistical models to perform a specific task effectively. Here you don’t need to provide explicit instructions; instead, it relies on patterns and inference. As shown in the above image, machine learning is a subset of artificial intelligence. Machine learning language algorithms build a mathematical model depending on sample data. This data is known as “training data.” Using these data and algorithms prepares predictions or decisions. Here you don’t need to program to perform the task explicitly.
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/download%20(1).png"></a>
+</p>
+
                                       
 **Def:** Machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data [8].
 
@@ -314,8 +344,13 @@ For example, one kind of algorithm is a classification algorithm. It can put dat
 **Example: Arthur Samuel** wrote a checkers playing program. And the amazing thing about this checkers playing program was that Arthur Samuel himself wasn't a very good checkers player. But what he did was, he had to program for it to play 10's of 1000's of games against itself. And by watching what sorts of board positions tended to lead to wins, and what sort of board positions tended to lead to losses. The checkers playing program learns over time what are good board positions and what are bad board positions. And eventually, learn to play checkers better than Arthur Samuel himself was able to. This was a remarkable result.
 
 Although Samuel himself turned out not to be a very good checkers player. But because the computer has the patience to play tens of thousands of games itself. No human has the patience to play that many games. By doing this the computer was able to get so much checkers-playing experience that it eventually became a better checkers player than Arthur Samuel himself. This is the somewhat informal definition and an older one.
-                                
 
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/download%20(2).png"></a>
+</p> </a>
+
+                               
 **Example**
 
 let us begin by considering a couple of examples from naturally occurring animal learning.
@@ -326,7 +361,7 @@ Inspired by the preceding example of successful learning, let us demonstrate a t
 
 While the preceding “learning by memorization” approach is sometimes useful, it lacks an important aspect of learning systems — the ability to label unseen e-mail messages. A successful learner should be able to progress from individual examples to broader generalization. This is also referred to as inductive reasoning or inductive inference. In the bait shyness example presented previously, after the rats encounter an example of a certain type of food, they apply their attitude toward it on new, unseen examples of food of similar smell and taste. To achieve generalization in the spam filtering task, the learner can scan the previously seen e-mails, and extract a set of words whose appearance in an e-mail message is indicative of spam. Then, when a new e-mail arrives, the machine can check whether one of the suspicious words appears in it, and predict its label accordingly. Such a system would potentially be able correctly to predict the label of unseen e-mails.
 
-2.3 - Benefits of Machine Learning
+**2.3 - Benefits of Machine Learning**
 
 Powerful processing
 Better Decision making and prediction
@@ -384,17 +419,62 @@ On the contrary, machine learning programming solves the problem by modeling the
 
 Also, there is a significant difference between machine learning and conventional programming based on the number of input parameters that the model can process. In machine learning, to get an accurate prediction, it is required to feed thousands of parameters. Besides, it must be done with high accuracy, because every bit can affect the final result. However, in conventional programming, a programmer cannot build an algorithm following the same patterns.
 
+<p>
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/12.jpg "></a>
+</p> 
+
+<p>
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/45.jpg "></a>
+</p>
+
+<p >
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/99.png "></a>
+</p>
+
+<p>
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/10.jpeg"></a>
+</p> 
 
 
 
 
 
 
-2.6-- What is an ML model
+**2.6-- What is an ML model**
 
 The output of Machine learning algorithms is called the ML model or what was learned from machine learning algorithms save after running ML algorithms on training data  and solutions that rules, numbers, and any algorithms-specific data structure 
 
+
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/000.jpg"></a>
+</p>
+
                                                     
 
-2.7- What is an ML Algorithm?
+**2.7- What is an ML Algorithm?**
+
+
+
 An algorithm is a procedure that is run on data to create a machine model. These algorithms perform pattern recognition and learn from data. Or are fit on a dataset
+
+## References
+
+[1] [How different are Conventional Programming and Machine Learning?](https://contenteratechspace.com/how-different-are-conventional-programming-and-machine-learning/)
+
+[2] [AI vs ML vs DL](https://insideaiml.com/blog/AI-vs-ML-vs-DL-1041)
+
+[3] [6 Best Programming Languages ​​for AI](https://pub.towardsai.net/6-best-programming-languages-for-ai-8ef01eb70445?gi=90a4b35a54ad)
+
+[4] [Artificial Intelligence Chapter 0: What It Is & Why You Should Care](https://pub.towardsai.net/artificial-intelligence-chapter-0-what-it-is-why-you-should-care-59b5318b4ebf)
+
+[5] [Machine Learning Algorithms – What, Why, and How?](https://www.kdnuggets.com/2022/09/machine-learning-algorithms.html?fbclid=IwAR2AV-FwGtZK454iwW4MRR5mUoMKVUM69epdBpqBxN_Jf_uTDhqGbIyNNgs)
+
+[6] [Machine Learning — Andrew Ng](https://www.youtube.com/@ArtificialIntelligenceAllinOne)
+
+[7] [History of AI: The Birth of Artificial Intelligence (1952–1956)](https://pub.towardsai.net/history-of-ai-the-birth-of-artificial-intelligence-1952-1956-f5fbdbfff08f) 
+
+[8] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
+
+
+

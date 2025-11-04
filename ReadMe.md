@@ -613,6 +613,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 28 | [**Probability & Statistics for Machine Learning and Data Science**](https://www.youtube.com/watch?v=DCZSkoVvkQI) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 28 | [**Python in Data Science for Intermediate**](https://www.youtube.com/playlist?list=PLXovS_5EZGh4_ThQVgO2boGf31Dqs5vzm) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 28 | [**Machine Learning Specialization by**](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 28 | [**TinyML and Efficient Deep Learning Computing by MIT**](https://hanlab.mit.edu/courses/2023-fall-65940) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 
 ## 👁️ Chapter 2: Important Websites
 
