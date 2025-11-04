@@ -18,10 +18,6 @@ Artificial Intelligence (AI) has transformed from a visionary concept into an in
 
 
 
-
-
-
-
 ## **Why we used AI** 
 
 Artificial Intelligence is an exciting scientific discipline that studies how we can make computers exhibit intelligent behavior, e.g. do those things that human beings are good at doing.
@@ -361,7 +357,7 @@ Inspired by the preceding example of successful learning, let us demonstrate a t
 
 While the preceding “learning by memorization” approach is sometimes useful, it lacks an important aspect of learning systems — the ability to label unseen e-mail messages. A successful learner should be able to progress from individual examples to broader generalization. This is also referred to as inductive reasoning or inductive inference. In the bait shyness example presented previously, after the rats encounter an example of a certain type of food, they apply their attitude toward it on new, unseen examples of food of similar smell and taste. To achieve generalization in the spam filtering task, the learner can scan the previously seen e-mails, and extract a set of words whose appearance in an e-mail message is indicative of spam. Then, when a new e-mail arrives, the machine can check whether one of the suspicious words appears in it, and predict its label accordingly. Such a system would potentially be able correctly to predict the label of unseen e-mails.
 
-**2.3 - Benefits of Machine Learning**
+##  Benefits of Machine Learning**
 
 Powerful processing
 Better Decision making and prediction
@@ -389,7 +385,8 @@ Vision processing
 Forecasting things like stock market trends, weather
 Pattern recognition
 Game
-2.5- Difference between ML and Programming.
+
+## Difference between ML and Programming.
 
 In programming, we can segregate the world into two broad categories – Conventional programming and Machine learning. Conventional or conventional programming has been around here for more than a century. The first computer programming was introduced in the mid-1800s. On the other side, machine learning programming is a new addition to this family, which has revolutionized the business for the last few decades. 
 
@@ -436,11 +433,7 @@ Also, there is a significant difference between machine learning and conventiona
 </p> 
 
 
-
-
-
-
-**2.6-- What is an ML model**
+##  What is an ML model**
 
 The output of Machine learning algorithms is called the ML model or what was learned from machine learning algorithms save after running ML algorithms on training data  and solutions that rules, numbers, and any algorithms-specific data structure 
 
@@ -452,9 +445,7 @@ The output of Machine learning algorithms is called the ML model or what was lea
 
                                                     
 
-**2.7- What is an ML Algorithm?**
-
-
+## What is an ML Algorithm?**
 
 An algorithm is a procedure that is run on data to create a machine model. These algorithms perform pattern recognition and learn from data. Or are fit on a dataset
 
