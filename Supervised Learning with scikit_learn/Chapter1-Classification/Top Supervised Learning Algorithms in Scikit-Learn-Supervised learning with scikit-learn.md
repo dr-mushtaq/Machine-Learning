@@ -339,6 +339,43 @@ y_pred = clf.predict(X_test)
 # Print the predicted class labels
 print(y_pred)
   </pre> 
+  
+# Gradient Boosting Trees (GBT)
+  
+To perform classification using Gradient Boosting Trees (GBT) using scikit-learn, you can follow these steps:
+<pre>
+import numpy as np
+import pandas as pd
+from sklearn.ensemble import GradientBoostingClassifier
+# Load the training data 
+X_train = pd.read_csv("train_data.csv")
+y_train = X_train["target"]
+# Load the test data
+ X_test = pd.read_csv("test_data.csv")
+# Create a GradientBoostingClassifier object
+ clf = GradientBoostingClassifier(n_estimators=100)
+# Fit the model to the training data 
+clf.fit(X_train, y_train)
+# Make predictions on the test data 
+y_pred = clf.predict(X_test)
+# Evaluate the model's performance 
+from sklearn.metrics import accuracy_score
+accuracy = accuracy_score(y_test, y_pred) 
+print("Accuracy:", accuracy)
+  </pre> 
+Here are some additional tips for using GradientBoostingClassifier:
+
+Use the n_estimators parameter to control the number of trees in the forest. A higher value of n_estimators will generally improve the model's performance, but it will also increase the training time.
+
+Use the max_depth parameter to control the depth of each tree in the forest. A higher value of max_depth will generally improve the model's performance, but it will also increase the risk of overfitting.
+
+Use the learning_rate parameter to control the amount of weight given to each tree in the forest. A higher value of learning_rate will cause the model to learn more quickly, but it will also make it more prone to overfitting.
+
+Use the subsample parameter to control the fraction of the training data used to train each tree in the forest. A lower value of subsample will reduce the model's overfitting, but it will also increase the training time.
+
+You can also use the feature_importances_ attribute of the GradientBoostingClassifier object to identify the most important features for the model. This can be useful for feature selection and for understanding how the model works.
+
+Gradient Boosting Trees is a powerful machine learning algorithm that can be used to solve a wide variety of classification problems. It is relatively easy to use and tune, and it is often quite effective.
  
 ### References
 
@@ -421,6 +458,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
