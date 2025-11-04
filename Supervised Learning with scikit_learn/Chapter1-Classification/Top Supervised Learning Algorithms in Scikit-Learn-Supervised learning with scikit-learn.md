@@ -273,7 +273,8 @@ accuracy = accuracy_score(y_test, y_pred)
 
 # RandomForestClassifier
 
-An ensemble method that builds multiple decision trees and merges them together to improve accuracy and control overfitting. It is robust and effective for a variety of classification tasks.
+An ensemble method that builds multiple decision trees and merges them together to improve accuracy and control overfitting. It is robust and effective for a variety of classification tasks.The RandomForestClassifier class in scikit-learn is an ensemble learning algorithm that can be used for both classification and regression tasks. It works by constructing a set of decision trees, each of which is trained on a random subset of the training data. The predictions of the individual trees are then combined to make a final prediction.
+
 <pre>
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
@@ -284,6 +285,17 @@ X_train, X_test, y_train, y_test = train_test_split(data.data, data.target, test
 model = RandomForestClassifier()
 model.fit(X_train, y_train)
  </pre> 
+
+ The RandomForestClassifier class has the following parameters:
+
+- n_estimators: The number of trees in the forest.
+- max_depth: The maximum depth of each tree.
+- min_samples_split: The minimum number of samples required to split a node.
+- min_samples_leaf: The minimum number of samples required to be at a leaf node.
+- min_impurity_decrease: The minimum decrease in impurity required to split a node.
+- bootstrap: Whether to use bootstrap sampling.
+- oob_score: Whether to calculate the out-of-bag score.
+- random_state: The random seed used for the tree construction.
  
 ### References
 
@@ -366,6 +378,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
