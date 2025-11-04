@@ -313,7 +313,32 @@ ExtraTreesClassifier is a good choice for classification tasks where accuracy is
 - Fraud detection
 - Medical diagnosis
 - Customer segmentation
-- To build an ExtraTreesClassifier us
+
+The n_estimators parameter specifies the number of trees in the forest. You can tune this parameter to improve the performance of the model. Once the model is trained, you can use it to make predictions on new data by calling the predict() method. The predict() method returns an array of predicted class labels.
+This is a basic example of how to use ExtraTreesClassifier using scikit-learn. You can tune the model’s parameters to improve its performance, and you can also use it for other classification tasks, such as multiclass classification and regression.
+
+Here are some additional tips for using ExtraTreesClassifier:
+
+- Use the n_estimators parameter to control the number of trees in the forest. A higher value of n_estimators will generally improve the model's performance, but it will also increase the training time.
+- Use the max_depth parameter to control the depth of each tree in the forest. A higher value of max_depth will generally improve the model's performance, but it will also increase the risk of overfitting.
+- Use the min_samples_split parameter to control the minimum number of samples required to split a node in a tree. A higher value of min_samples_split will make the model more robust to noise, but it will also make it more difficult to learn complex relationships in the data.
+- Use the min_samples_leaf parameter to control the minimum number of samples required in a leaf node of a tree. A higher value of min_samples_leaf will make the model more robust to noise, but it will also make it more difficult to learn complex relationships in the data.
+- You can also use the feature_importances_ attribute of the ExtraTreesClassifier object to identify the most important features for the model. This can be useful for feature selection and for understanding how the model works.
+
+Here is an example of how to build an ExtraTreesClassifier using scikit-learn:
+<pre>
+from sklearn.ensemble import ExtraTreesClassifier
+# Create an instance of the ExtraTreesClassifier class
+clf = ExtraTreesClassifier(n_estimators=100)
+# Fit the model to the training data
+clf.fit(X_train, y_train)
+# Make predictions on the test data
+y_pred = clf.predict(X_test)
+# Make predictions on the test data
+y_pred = clf.predict(X_test)
+# Print the predicted class labels
+print(y_pred)
+  </pre> 
  
 ### References
 
@@ -396,6 +421,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
