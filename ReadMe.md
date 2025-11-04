@@ -2,6 +2,16 @@
 
 Welcome to the **Machine Learning with Python** repository — a hands-on, beginner-to-advanced level guide designed for students, educators, and self-learners. This open-source collection of **Jupyter Notebooks**, exercises, and datasets walks you through real-world machine learning workflows using Python, NumPy, Pandas, and Scikit-learn.
 
+<p align="center">
+  <a href="https://github.com/dr-mushtaq/Machine-Learning/discussions" target="_blank">
+    <button style="background-color:#0366d6; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:6px; cursor:pointer;">
+      💬 Join the Discussion
+    </button>
+  </a>
+</p>
+
+
+
 ## **Overview👋🛒**
 
 The A-Z Guide to Machine Learning is a comprehensive resource designed to cater to both beginners and experienced practitioners in the field of Machine Learning. Whether you're just starting your journey into ML or seeking to deepen your understanding and refine your skills, this repository has something for everyone.
@@ -160,7 +170,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**Bloger Blogs**](https://coursesteach.blogspot.com/)
+🔗 [**Dev.to**](https://dev.to/mushtaq_hussain_6678b0b0e/understanding-artificial-intelligence-history-definitions-and-modern-applications-125l)
 
 🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
 
@@ -296,6 +306,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐10-Trading Off Precision And Recall**|[**1**](https://drive.google.com/file/d/13Z73JLV26jOVWFmieNAQ8kYAQGFT2H0H/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|---|[Doc](https://coursesteach.com/mod/page/view.php?id=4194&forceview=1)|
 |**🌐11-Data For Machine Learning**|[**1**](https://drive.google.com/file/d/12A9D9Hj9APyXoOZV5PcSIPxgq17TWFFv/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|---|[Doc](https://coursesteach.com/mod/page/view.php?id=4207&forceview=1)|
 
+## 📚Chapter: 9 -**SVM**
+ |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+|---|---|---|---|---|
+|**🌐1-Optimization Objective**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|
+
 </details>
 
 <details> 
@@ -326,6 +341,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅4-K-Medoids (PAM)**|[1](https://www.youtube.com/watch?v=8PSbi6GKXrs)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=10476&forceview=1)[-2](https://www.youtube.com/watch?v=4b5d3muPQmA)|
 |**✅5-CLARANS (Clustering Large Applications based on Randomized Search)**|[1](https://www.youtube.com/watch?v=8PSbi6GKXrs)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=10479&forceview=1)|
 |**✅6-Measuring Performance of Clusters)**|[1](https://www.youtube.com/watch?v=5f_yihQFoJM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5671&forceview=1)|
+
+## 📚Chapter: 2  - **Hierarchical methods**
+ 
+| Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
+|---|---|---|----|---|
+|**✅1-Introduction of Hierarchical Clustering⭐️**| [1](https://www.youtube.com/watch?v=VOfzeUKUA48)| Content 3 |[Doc](https://coursesteach.com/mod/page/view.php?id=10483)|
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
@@ -573,7 +594,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 11 | [**CS294-158 Deep Unsupervised Learning SP19**](https://www.mrdbourke.com/2020-machine-learning-roadmap/) | Covers deep learning and generative models | Pending | UC Berkeley |  |
 | 12 | [**Introduction to Machine Learning**](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) | By Dmitry (University of Tübingen) | Pending | University of Tübingen |  |
 | 13 | [**Statistical Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) | By Ulrike von Luxburg | Pending | University of Tübingen |  |
-| 14 | [**Probabilistic Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd) | By Philipp Hennig | Pending | University of Tübingen |  |
+| 14 | [**Probabilistic Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)[-2025](https://www.youtube.com/playlist?list=PL05umP7R6ij0hPfU7Yuz8J9WXjlb3MFjm) | By Philipp Hennig | Pending | University of Tübingen |  |
 | 15 | [**Machine Learning Concepts**](https://inria.github.io/scikit-learn-mooc/toc.html) |github websit it implement all concept in sklearn| Pending | Github |⭐️⭐️⭐️  |
 | 16 | [**Singular Value Decomposition**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) |Steve Brunton| Pending | Youtub | |
 | 17 | [**Linear Algebra for Machine Learning**](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) |Jon Krohn| Pending | Youtub |⭐️⭐️⭐️ |
@@ -609,6 +630,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 8-Made With ML**](https://madewithml.com/#course) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 8-MaTH Fun**](https://www.mathsisfun.com/) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 9-Relatedrepos**](https://relatedrepos.com/) |Discover related open source projects. Updated daily.| InProgress  |
+| [**✅ 10-MLU-EXPLAIN**](https://mlu-explain.github.io/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 
 
 
@@ -735,6 +757,9 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 12-Hyperparameter Optimization of Machine Learning Algorithms**](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
 | [**✅ 13-ML-For-Beginners by miscrosoft**](https://github.com/microsoft/ML-For-Beginners/tree/main) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
 | [**✅ 14-Machine Learning Road Map**](https://github.com/loganthorneloe/ml-road-map/tree/main?tab=readme-ov-file#prerequisites) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
+| [**✅ 15-Made With ML**](https://github.com/GokuMohandas/Made-With-ML) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
+
+
 
 
 
@@ -806,6 +831,16 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
+
+
+
+
+
+
+
+
+
 
 
 
