@@ -55,7 +55,9 @@ One thing a learning algorithm might be able to do is put a straight line throug
 But maybe this isn't the only learning algorithm you can use. There might be a better one. For example, instead of sending a straight line to the data, we might decide that it's better to fit a quadratic function or a second-order polynomial to this data. ...
 
 (continues like this — content unchanged)
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/1746996482895.jfif"></a>
+</p>
 ---
 
 ### Type of Supervised Learning
