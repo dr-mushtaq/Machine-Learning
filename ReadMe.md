@@ -731,6 +731,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 6- Serrano.Academy**](https://www.youtube.com/@SerranoAcademy/playlists)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 7- Data Science with Onur**](https://www.youtube.com/@onurdatascience)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 8- All-in-One AI&ML Resources (God Level Files) by reddit**](https://www.reddit.com/r/learnmachinelearning/comments/1i8n712/allinone_aiml_resources_god_level_files/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
+| [**✅ 9- HELP ME CROWD-SOURCE A MACHINE LEARNING ROADMAP - 2025**](https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsource_a_machine_learning_roadmap/) |  have seen too many roadmaps on youtube, medium and roadmaps.sh. None of them have the integrity and checks that actual machine learners can incorporate.  | Pending    |Reddit|
 
 
 ## 👁️ Chapter 4: Free Books
@@ -834,6 +835,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
