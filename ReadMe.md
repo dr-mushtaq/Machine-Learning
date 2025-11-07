@@ -687,19 +687,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | 27 | Learn the Model                    | Model-based planning                         | Learns transition dynamics                  | Reinforcement    | Model-Based                | Robotics, simulations                  | Requires accurate environment model  |
 | 28 | Given the Model                    | Uses known environment                       | Faster training with known rules            | Reinforcement    | Model-Based                | Chess AI, dynamic programming          | Limited to environments with known models |
 
-### Deep Learning / Foundation Models
-
-| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category               | Use Cases                              | Main Limitation / Note               |
-|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------------|----------------------------------------|--------------------------------------|
-| 29 | Convolutional Neural Network (CNN) | Image/video processing & recognition         | Captures spatial features, excellent for images | Deep Learning  | Supervised/Unsupervised    | Image classification, object detection | Needs large data, computationally heavy |
-| 30 | Recurrent Neural Network (RNN), LSTM, GRU | Sequence modeling, time series                 | Remembers temporal information              | Deep Learning    | Supervised/Unsupervised    | Speech recognition, time series        | Vanishing gradients, slow training   |
-| 31 | Transformer (Attention) Models     | Sequence-to-sequence, context-rich learning  | Handles long data dependencies, parallelizable | Deep Learning  | Supervised/Unsupervised    | NLP, translation, summarization        | Data hungry, requires large compute  |
-| 32 | BERT, RoBERTa, DistilBERT          | Pre-trained language representations         | Powerful for transfer learning in NLP       | Foundation Model | NLP                        | Text classification, Q&A, embeddings   | Large models, inference cost         |
-| 33 | GPT, LLaMA, Falcon, Mistral        | Generative language models                   | Few-shot, zero-shot, strong generative ability | Foundation Model | NLP                        | Text generation, code completion       | Very large, costly to train/infer    |
-| 34 | Vision Transformer (ViT)           | Image understanding with transformer         | Handles large-scale images, robust          | Foundation Model | Vision                     | Image classification, segmentation     | Needs huge data, slow to train       |
-| 35 | Stable Diffusion, DALL-E           | Text-to-image synthesis                      | Generates realistic images from text prompts| Generative Model | Vision                     | Art generation, design, creative apps  | May produce unrealistic images       |
-| 36 | CLIP, BLIP, Flamingo               | Cross-modal (vision+language) representation | Links text and images, multi-modal learning | Foundation Model | Multi-modal                 | Image search, captioning               | Needs large pre-training datasets    |
-
 ---
 
 ## 👁️ Chapter 2: Important Youtube Channel,News letter.Blog
@@ -731,7 +718,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 6- Serrano.Academy**](https://www.youtube.com/@SerranoAcademy/playlists)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 7- Data Science with Onur**](https://www.youtube.com/@onurdatascience)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 8- All-in-One AI&ML Resources (God Level Files) by reddit**](https://www.reddit.com/r/learnmachinelearning/comments/1i8n712/allinone_aiml_resources_god_level_files/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
-| [**✅ 9- HELP ME CROWD-SOURCE A MACHINE LEARNING ROADMAP - 2025**](https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsource_a_machine_learning_roadmap/) |  have seen too many roadmaps on youtube, medium and roadmaps.sh. None of them have the integrity and checks that actual machine learners can incorporate.  | Pending    |Reddit|
+
 
 
 ## 👁️ Chapter 4: Free Books
@@ -835,6 +822,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
