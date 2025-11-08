@@ -718,6 +718,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 6- Serrano.Academy**](https://www.youtube.com/@SerranoAcademy/playlists)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 7- Data Science with Onur**](https://www.youtube.com/@onurdatascience)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 8- All-in-One AI&ML Resources (God Level Files) by reddit**](https://www.reddit.com/r/learnmachinelearning/comments/1i8n712/allinone_aiml_resources_god_level_files/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
+| [**✅ 9-5 playlists that can help you to build strong AI foundation**](https://www.reddit.com/r/learnmachinelearning/comments/1ori585/15_playlists_that_can_help_you_to_build_strong_ai/)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Reddit|
 
 
 
@@ -822,6 +823,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
