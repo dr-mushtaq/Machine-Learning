@@ -211,8 +211,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Video |collaboration doc|Extra Resources|
 |---|---|---|----|---|
-|[**✅1- Introduction to Artificial Intelligence (AI)-g⭐️**](https://coursesteach.blogspot.com/2025/08/understanding-artificial-intelligence.html)| [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |[Link](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing)|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)|
-|[**✅2- What is machine learning-g?**](https://mushtaqmsit.substack.com/p/why-machine-learning-a-comprehensive)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-6](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing)[-7](https://www.youtube.com/watch?v=Gv9_4yMHFhI) |---|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)|
+|[**✅1- Introduction to Artificial Intelligence (AI)-g⭐️**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/Why%20we%20used%20AI.md#Benefits-of-Machine-Learning)| [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |[Link](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing)|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)|
+|[**✅2- What is machine learning-g?**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/Why%20we%20used%20AI.md#Benefits-of-Machine-Learning)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-6](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing)[-7](https://www.youtube.com/watch?v=Gv9_4yMHFhI) |---|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)|
 |[**✅3-Types of Machine Learning-g?⭐️**](https://mushtaqmsit.substack.com/p/supervised-vs-unsupervised-learning)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
 |[**✅4-Steps involved in Building a Machine Learning Model⭐️**](https://substack.com/home/post/p-155992007)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)[-2](https://www.youtube.com/watch?v=Ynb6X0KZKxY)|---|
 |[**✅5-Best Free Resources to Learn Machine Learning⭐️**](https://mushtaqmsit.substack.com/p/top-free-resources-to-learn-machine)|---|---|
@@ -309,7 +309,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## 📚Chapter: 9 -**SVM**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
-|**🌐1-Optimization Objective**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|
+|**🌐1-Optimization Objective**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
+|**🌐2-Large Margin Intuition**|[**1**](https://drive.google.com/file/d/1hSkEL8-pG5HmsZUXXMfJ0vNCpV61szc7/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4356&forceview=1)|
 
 </details>
 
@@ -346,7 +347,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
 |---|---|---|----|---|
-|**✅1-Introduction of Hierarchical Clustering⭐️**| [1](https://www.youtube.com/watch?v=VOfzeUKUA48)| Content 3 |[Doc](https://coursesteach.com/mod/page/view.php?id=10483)|
+|**✅1-Introduction of Hierarchical Clustering⭐️**| [1](https://www.youtube.com/watch?v=VOfzeUKUA48)[-2](https://drive.google.com/file/d/1ELZJztmx3MZDorDKa_C_y5SfHrT4_rO1/view)| Content 3 |[Doc](https://coursesteach.com/mod/page/view.php?id=10483)|
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
@@ -369,8 +370,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
   ## 📚Chapter:1-**Classification**
 | Topic Name/Tutorial | Video | Code |Extra Learning|
 |---|---|---|---|
-|[**✅1-Classification (Supervised Learning-⭐️**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/Introduction%20to%20Classification%20in%20Supervised.md)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**-2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**-3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**-4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|[DOC](https://scikit-learn.org/stable/user_guide.html)[-DOC](https://inria.github.io/scikit-learn-mooc/)|
-| [**✅2-Classification using Scikit-Learn⭐️**](https://open.substack.com/pub/mushtaqmsit/p/top-supervised-learning-algorithms?r=f2squ&utm_campaign=post&utm_medium=web)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |[Doc](https://inria.github.io/scikit-learn-mooc/)|
+|[**✅1-Classification (Supervised Learning-⭐️**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/Introduction%20to%20Classification%20in%20Supervised.md)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**-2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**-3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**-4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)[-5](https://www.youtube.com/watch?v=rZgP4b4u1Hc&list=PLLC7bmONapvA0MDdIhgt94VXLcFl1yxUJ&index=2)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|[DOC](https://scikit-learn.org/stable/user_guide.html)[-DOC](https://inria.github.io/scikit-learn-mooc/)|
+| [**✅2-Classification using Scikit-Learn⭐️**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/Top%20Supervised%20Learning%20Algorithms%20in%20Scikit-Learn-Supervised%20learning%20with%20scikit-learn.md)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[-2](https://youtu.be/_LRKHEs71oY?si=GP1JUxGWCq3-EBGU) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |[Doc](https://inria.github.io/scikit-learn-mooc/)|
 
 
 ## 📚Chapter:2-**Regression**
@@ -609,11 +610,13 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 26 | [**AI For Beginners by Microsoft**](https://microsoft.github.io/AI-For-Beginners/) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 27 | [**Introduction to Robotics**](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_XM9cvjLLO_Azt1FkgPhpH) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 28 | [**Notes for: Machine Learning in Computational Biology, Fall 2024**]([https://www.youtube.com/playlist?list=PLyqSpQzTE6M_XM9cvjLLO_Azt1FkgPhpH](https://docs.google.com/document/d/17eG2nS0kM3RyxDZsxpLiSKaNjFLCsXvRXX3CisZvyjY/edit?tab=t.0#heading=h.1q7ssuiiix85)) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
-| 28 | [**CORNELL CS4780 "Machine Learning by Kilian Weinberger**](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
-| 28 | [**Probability & Statistics for Machine Learning and Data Science**](https://www.youtube.com/watch?v=DCZSkoVvkQI) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
-| 28 | [**Python in Data Science for Intermediate**](https://www.youtube.com/playlist?list=PLXovS_5EZGh4_ThQVgO2boGf31Dqs5vzm) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
-| 28 | [**Machine Learning Specialization by**](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
-| 28 | [**TinyML and Efficient Deep Learning Computing by MIT**](https://hanlab.mit.edu/courses/2023-fall-65940) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 29 | [**CORNELL CS4780 "Machine Learning by Kilian Weinberger**](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 30 | [**Probability & Statistics for Machine Learning and Data Science**](https://www.youtube.com/watch?v=DCZSkoVvkQI) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 31 | [**Python in Data Science for Intermediate**](https://www.youtube.com/playlist?list=PLXovS_5EZGh4_ThQVgO2boGf31Dqs5vzm) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 32 | [**Machine Learning Specialization by**](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 33 | [**TinyML and Efficient Deep Learning Computing by MIT**](https://hanlab.mit.edu/courses/2023-fall-65940) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 34 | [**MLSys Seminars**](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+
 
 ## 👁️ Chapter 2: Important Websites
 
@@ -684,19 +687,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | 27 | Learn the Model                    | Model-based planning                         | Learns transition dynamics                  | Reinforcement    | Model-Based                | Robotics, simulations                  | Requires accurate environment model  |
 | 28 | Given the Model                    | Uses known environment                       | Faster training with known rules            | Reinforcement    | Model-Based                | Chess AI, dynamic programming          | Limited to environments with known models |
 
-### Deep Learning / Foundation Models
-
-| #  | Name                               | Purpose / Description                        | Strengths                                   | Category         | Sub-Category               | Use Cases                              | Main Limitation / Note               |
-|----|------------------------------------|----------------------------------------------|---------------------------------------------|------------------|----------------------------|----------------------------------------|--------------------------------------|
-| 29 | Convolutional Neural Network (CNN) | Image/video processing & recognition         | Captures spatial features, excellent for images | Deep Learning  | Supervised/Unsupervised    | Image classification, object detection | Needs large data, computationally heavy |
-| 30 | Recurrent Neural Network (RNN), LSTM, GRU | Sequence modeling, time series                 | Remembers temporal information              | Deep Learning    | Supervised/Unsupervised    | Speech recognition, time series        | Vanishing gradients, slow training   |
-| 31 | Transformer (Attention) Models     | Sequence-to-sequence, context-rich learning  | Handles long data dependencies, parallelizable | Deep Learning  | Supervised/Unsupervised    | NLP, translation, summarization        | Data hungry, requires large compute  |
-| 32 | BERT, RoBERTa, DistilBERT          | Pre-trained language representations         | Powerful for transfer learning in NLP       | Foundation Model | NLP                        | Text classification, Q&A, embeddings   | Large models, inference cost         |
-| 33 | GPT, LLaMA, Falcon, Mistral        | Generative language models                   | Few-shot, zero-shot, strong generative ability | Foundation Model | NLP                        | Text generation, code completion       | Very large, costly to train/infer    |
-| 34 | Vision Transformer (ViT)           | Image understanding with transformer         | Handles large-scale images, robust          | Foundation Model | Vision                     | Image classification, segmentation     | Needs huge data, slow to train       |
-| 35 | Stable Diffusion, DALL-E           | Text-to-image synthesis                      | Generates realistic images from text prompts| Generative Model | Vision                     | Art generation, design, creative apps  | May produce unrealistic images       |
-| 36 | CLIP, BLIP, Flamingo               | Cross-modal (vision+language) representation | Links text and images, multi-modal learning | Foundation Model | Multi-modal                 | Image search, captioning               | Needs large pre-training datasets    |
-
 ---
 
 ## 👁️ Chapter 2: Important Youtube Channel,News letter.Blog
@@ -728,6 +718,8 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 6- Serrano.Academy**](https://www.youtube.com/@SerranoAcademy/playlists)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 7- Data Science with Onur**](https://www.youtube.com/@onurdatascience)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 8- All-in-One AI&ML Resources (God Level Files) by reddit**](https://www.reddit.com/r/learnmachinelearning/comments/1i8n712/allinone_aiml_resources_god_level_files/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
+| [**✅ 9-5 playlists that can help you to build strong AI foundation**](https://www.reddit.com/r/learnmachinelearning/comments/1ori585/15_playlists_that_can_help_you_to_build_strong_ai/)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Reddit|
+
 
 
 ## 👁️ Chapter 4: Free Books
@@ -828,9 +820,20 @@ We would love your help in making this repository even better! If you know of an
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
-<a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
+<a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
