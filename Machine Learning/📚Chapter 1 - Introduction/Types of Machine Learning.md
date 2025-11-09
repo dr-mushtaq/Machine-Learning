@@ -1,3 +1,25 @@
+# Types of Machine Learning
+
+## Introduction
+Supervised learning and unsupervised learning are two fundamental concepts in machine learning. In supervised learning, we teach a machine learning model to make predictions based on labeled data, while in unsupervised learning, the model discovers patterns and relationships in unlabeled data without any guidance. This blog will explore the key differences between supervised and unsupervised learning algorithms and their applications.
+
+## Sections
+- [Supervised Learning](#supervised-learning)
+- [Type of Supervised Learning](#type-of-supervised-learning)
+- [Semi-supervised learning](#semi-supervised-learning)
+- [Unsupervised Learning](#unsupervised-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Comparison](#comparison)
+- [Conclusion](#conclusion)
+
+
+There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning.
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/1.jpg"></a>
+</p>
+
+# 1. Supervised Learning
 ## Introduction
 Supervised learning and unsupervised learning are two fundamental concepts in machine learning. In supervised learning, we teach a machine learning model to make predictions based on labeled data, while in unsupervised learning, the model discovers patterns and relationships in unlabeled data without any guidance. This blog will explore the key differences between supervised and unsupervised learning algorithms and their applications.
 
@@ -28,6 +50,14 @@ There are three main types of machine learning: supervised learning, unsupervise
 
 **Def5:** Supervised learning algorithms make predictions based on a set of examples. For example, historical sales can be used to estimate future prices. With supervised learning, you have an input variable that consists of labeled training data and a desired output variable. You use an algorithm to analyze the training data to learn the function that maps the input to the output. This inferred function maps new, unknown examples by generalizing from the training data to anticipate results in unseen situations. Some of its examples are: Linear Regression, Logistic Regression, KNN, etc.
 
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/2.jpg"></a>
+</p>
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/3.png"></a>
+</p>
+
 ---
 
 ### Example
@@ -41,6 +71,18 @@ Where X is the input, Y is the prediction, and `f(X) + b` is the model learned b
 
 Imagine you are teaching a kid to differentiate dogs from cats: at first, you show him many images of both animals, identifying each of them. With these examples, he can associate each animal with its name and then classify new images correctly. Supervised learning has exactly the same idea: from a big train dataset, the algorithm "learns" the relationship between data and label and, therefore, it can predict the result of any other input.
 
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/4.png"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/5.png"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/6.png"></a>
+</p>
+
+
+
 ---
 
 ### The supervised learning problem
@@ -51,6 +93,11 @@ Imagine you are teaching a kid to differentiate dogs from cats: at first, you sh
 Given this data, let's say you have a friend who owns a house that is, say 750 square feet, and hoping to sell the house and they want to know how much they can get for the house. So how can the learning algorithm help you?
 
 One thing a learning algorithm might be able to do is put a straight line through the data or to fit a straight line to the data and, based on that, it looks like maybe the house can be sold for maybe about $150,000.
+
+But maybe this isn't the only learning algorithm you can use. There might be a better one. For example, instead of sending a straight line to the data, we might decide that it's better to fit a quadratic function or a second-order polynomial to this data.
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/7.jpg"></a>
+</p>
 
 But maybe this isn't the only learning algorithm you can use. There might be a better one. For example, instead of sending a straight line to the data, we might decide that it's better to fit a quadratic function or a second-order polynomial to this data. ...
 
@@ -63,10 +110,17 @@ But maybe this isn't the only learning algorithm you can use. There might be a b
 ### Type of Supervised Learning
 The two main tasks supervised learning aims to solve are classification, regression, and forecasting. The three main tasks supervised learning aims to solve are: classification, regression and forcasting. The former, as the name says, is related to assign a label to the data, such as classify images in dog, cat or bird. The latter aims to predict a continuous value given some conditions, for example, estimate a house price given its size, location and number of rooms [4].
 
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/8.jpg"></a>
+</p>
+
 ---
 
 ## Regression Problem
 When predicting continuous values, the problems become a regression problem.
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/9.png"></a>
+</p>
 
 **What it is:** Def: To define with a bit more terminology this is also called a regression problem and by regression problem I mean we're trying to predict a continuous value output. ...
 
@@ -74,6 +128,21 @@ When predicting continuous values, the problems become a regression problem.
 
 ## Classification Problem
 Here's another supervised learning example, some friends and I were actually working on this earlier.
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/10.png"></a>
+</p>
+...
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/11.jpg"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/12.jpg"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/13.jpg"></a>
+</p>
 ...
 (unchanged content – already markdown applied to structure)
 ...
@@ -100,6 +169,20 @@ Def:When performing unsupervised learning, the machine is presented with totally
 
 Applications in various fields
 ...
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/14.PNG"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/15.PNG"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/16.PNG"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/17.PNG"></a>
+</p>
+
 (unchanged — markdown sections added above)
 
 ---
@@ -126,6 +209,31 @@ Reinforcement learning algorithms can be broadly categorized into two types [6]:
 **Model-based algorithms:** These algorithms explicitly learn a model of the environment, including transition probabilities and rewards. They use this learned model to plan and make decisions. Examples include Monte Carlo methods, Temporal Difference (TD) learning, and Q-learning.
 
 **Model-free algorithms:** These algorithms directly learn the optimal policy or value function without building an explicit model of the environment. They rely on trial-and-error learning through repeated interactions. Examples include Q-learning, SARSA, Deep Q-Networks (DQN), and Proximal Policy Optimization (PPO).
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/18.jpg"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/19.jpg"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/20.png"></a>
+</p>
+
+
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/21.jpg"></a>
+</p>
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/22.jpg"></a>
+</p>
+
+
+
+
+
+
+
 
 ---
 
