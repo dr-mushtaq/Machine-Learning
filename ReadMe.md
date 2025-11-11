@@ -213,7 +213,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|----|---|
 |[**✅1- Introduction to Artificial Intelligence (AI)-g⭐️**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/Why%20we%20used%20AI.md#Benefits-of-Machine-Learning)| [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |[Link](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing)|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)|
 |[**✅2- What is machine learning-g?**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/Why%20we%20used%20AI.md#Benefits-of-Machine-Learning)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-6](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing)[-7](https://www.youtube.com/watch?v=Gv9_4yMHFhI) |---|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)|
-|[**✅3-Types of Machine Learning-g?⭐️**](https://mushtaqmsit.substack.com/p/supervised-vs-unsupervised-learning)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
+|[**✅3-Types of Machine Learning-g?⭐️**](https://mushtaqmsit.substack.com/p/supervised-vs-unsupervised-learning)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|[1](https://www.youtube.com/watch?v=Zz7FjfeREEw&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)|
 |[**✅4-Steps involved in Building a Machine Learning Model⭐️**](https://substack.com/home/post/p-155992007)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)[-2](https://www.youtube.com/watch?v=Ynb6X0KZKxY)|---|
 |[**✅5-Best Free Resources to Learn Machine Learning⭐️**](https://mushtaqmsit.substack.com/p/top-free-resources-to-learn-machine)|---|---|
    
@@ -825,6 +825,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
