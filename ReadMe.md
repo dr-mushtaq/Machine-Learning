@@ -311,6 +311,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|---|---|
 |**🌐1-Optimization Objective**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 |**🌐2-Large Margin Intuition**|[**1**](https://drive.google.com/file/d/1hSkEL8-pG5HmsZUXXMfJ0vNCpV61szc7/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4356&forceview=1)|
+|**🌐3-Mathematics Behind Large Margin Classification**|[**1**](https://drive.google.com/file/d/1qhtLXlpuIHvkizthQLL47Weey-4IVzO-/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4369&forceview=1)|
 
 </details>
 
@@ -826,6 +827,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
