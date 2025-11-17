@@ -9,6 +9,10 @@ The goal of machine learning is to discover patterns and relationships in data a
 - Hyperparameter Tuning  
 
 # 1- Data Preparation or Preprocessing
+<p align="center">
+<img src="https://github.com/aminasaeed223/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/1.jpg"></a>
+</p>
+
 
 A crucial component of machine learning is the availability of large and labeled datasets. These datasets serve as the training data for ML algorithms, allowing them to learn patterns and make accurate predictions. Datasets can vary based on the problem domain, such as images, text, audio, or a combination of different data types.
 
