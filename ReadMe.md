@@ -707,6 +707,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 1-Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python/tree/master) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 2-Machine Learning Notebooks**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=EfgADZppbwy-) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 3-Machine Learning with Python: Concepts and Applications**](https://notebooklm.google.com/notebook/a03782dc-4de9-4df6-b0b2-10e39f01898f?pli=1) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 4-DataMListic**](https://www.youtube.com/@datamlistic) | Comprehensive roadmap for AI courses               | Completed  |
 
 
 
@@ -828,6 +829,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
