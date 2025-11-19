@@ -16,6 +16,11 @@ The goal of machine learning is to discover patterns and relationships in data a
 - Validation  
 - Hyperparameter Tuning  
 
+# Steps 1- Problem Definition
+
+Defining the problem is the first and most critical step in any machine learning project. It involves identifying the specific task to be solved, such as classification, regression, or clustering, and clearly articulating the desired outcome, like predicting customer churn or estimating house prices. Equally important is selecting an appropriate performance metric — such as accuracy, precision, or mean squared error — that aligns with the project goals and ensures the model’s success can be quantified effectively. A well-defined problem sets the stage for every subsequent step, ensuring focus and alignment with real-world objectives.
+
+
 # 1- Data Preparation or Preprocessing
 
 
