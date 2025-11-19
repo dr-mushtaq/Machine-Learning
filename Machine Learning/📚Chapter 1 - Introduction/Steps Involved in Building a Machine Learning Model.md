@@ -21,7 +21,7 @@ The goal of machine learning is to discover patterns and relationships in data a
 Defining the problem is the first and most critical step in any machine learning project. It involves identifying the specific task to be solved, such as classification, regression, or clustering, and clearly articulating the desired outcome, like predicting customer churn or estimating house prices. Equally important is selecting an appropriate performance metric — such as accuracy, precision, or mean squared error — that aligns with the project goals and ensures the model’s success can be quantified effectively. A well-defined problem sets the stage for every subsequent step, ensuring focus and alignment with real-world objectives.
 
 
-# 1- Data Preparation or Preprocessing
+# Steps 2 Data Preparation or Preprocessing
 
 
 A crucial component of machine learning is the availability of large and labeled datasets. These datasets serve as the training data for ML algorithms, allowing them to learn patterns and make accurate predictions. Datasets can vary based on the problem domain, such as images, text, audio, or a combination of different data types.
