@@ -283,4 +283,5 @@ Follow data privacy and security guidelines
 2. [The Ultimate Guide to Machine Learning: Feature Engineering — Part 2](https://medium.com/@simranjeetsingh1497/the-ultimate-guide-to-machine-learning-from-eda-to-model-deployment-part-2-e56ac58785f8)
 3. [How to Split the Dataset into Training and Test Sets](https://amanxai.com/2020/07/09/training-and-test-sets/)
 4. [Which Machine Learning Algorithm Should I Use?](https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/)
+5. [Essential Steps for Building a Machine Learning Model: A Beginner’s Guide?](https://mushtaqmsit.substack.com/p/essential-steps-for-building-a-machine)
 
