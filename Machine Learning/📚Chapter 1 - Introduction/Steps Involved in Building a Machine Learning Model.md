@@ -211,6 +211,10 @@ Scaling and Normalization are important steps in feature engineering to ensure t
 
 ## 1.8- Data Splitting  
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/5f43295c-979a-41e8-a233-722c0a05bc11_630x150.png"></a>
+</p>
+
 **What is Training Data?**
 
 All the machine learning algorithms learn from data by finding relationships, developing understanding, making decisions, and building its confidence by using the training data we provide to a machine learning model. And this is to be noted that a machine learning model will perform based on what training data we have given to a model. The more training data we will provide, the better the model will perform.
