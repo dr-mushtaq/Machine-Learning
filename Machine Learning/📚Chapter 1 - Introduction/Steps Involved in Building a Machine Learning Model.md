@@ -177,11 +177,14 @@ Box-Cox transformation: The Box-Cox transformation can also be used to handle ku
 ---
 
 ## 1.6- Handling Rare Categories  
-Rare categories may lack representation. Techniques include [2]:
 
-- Grouping rare categories together  
-- Replacing rare categories with the most common one  
-- One-hot encoding with a rare-category flag  
+Handling rare categories refers to the process of dealing with categories in categorical variables that occur infrequently in the data. Rare categories can cause problems in machine learning models, as they may not have enough representation in the data to be accurately modeled. Some techniques for handling rare categories are [2]:
+
+Grouping the rare categories: This involves grouping rare categories into a single category or a few categories. This reduces the number of categories in the variable and increases the representation of the rare categories.
+
+Replacing the rare categories with a more common category: This involves replacing the rare categories with the most common category in the variable. This can be effective if the rare categories are not important for the analysis.
+
+One-hot encoding with a flag: This involves creating a new category for rare categories and flagging them as rare. This allows the model to treat rare categories differently from other categories.
 
 ---
 
