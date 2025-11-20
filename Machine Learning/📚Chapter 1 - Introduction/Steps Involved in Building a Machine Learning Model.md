@@ -151,6 +151,9 @@ Dealing with imbalanced data is an important aspect of machine learning. Imbalan
 
 ---
 
+## Anomaly Dection
+5. Anomaly Detection: Anomaly detection involves identifying the outliers in the data and removing them. This can be done using the IsolationForest function from the sklearn.ensemble module. Anomaly detection identifies rare events or observations in a dataset that deviate significantly from the expected or normal behavior. In the case of imbalanced data, where the number of observations in one class is much lower than the other, anomaly detection can be used to identify and label the rare observations in the minority class as anomalies. This can help balance the dataset and improve the performance of machine learning models.
+
 ## 1.5- Skewness and Kurtosis Handling  
 Skewness and kurtosis are statistical measures that can help in understanding the distribution of data. Skewness measures the degree of asymmetry in the data, while kurtosis measures the degree of peakedness or flatness of the distribution[2]
 
