@@ -82,8 +82,44 @@ Encoding categorical variables is a crucial step in feature engineering that inv
 ### One-Hot Encoding  
 One-hot encoding converts categorical variables into a set of binary features, where each feature corresponds to a unique category in the original variable. In this technique, a new binary column is created for each category, with 1 representing presence and 0 otherwise [2].
 
+Def: One-hot encoding is a technique that converts categorical variables into a set of binary features, where each feature corresponds to a unique category in the original variable.
+
+Def: This technique creates a new feature for every unique categorical value.
+
+In this technique, a new binary column is created for each category, and the value is set to 1 if the category is present and 0 if not [2].
+
+If we have a dataset with 3 colors, one hot encoding will create a new dataset with 3 new features. Which is show in Figure 1.
+
+**Advantage**
+
+1- For that reason, One-Hot encoding is better for data, where the number of categories is not large.
+
+**Disadvantage**
+
+1- That can lead to issues as well because for too many categories the dimensionality will increase rapidly.
+
+2-Use One-Hot encoding for not ordinal categories and less features.
+
+2-By default, One-Hot encoding usually uses K dummies for K categories. But that is not effective and can lead to issues. K-1 variable is enough, but more on this in another post.
+
 ### Label Encoding  
 Label encoding assigns a unique numerical value to each category. Labels are assigned based on the order of categories in the variable [2].
+
+Def: Label encoding is a technique that assigns a unique numerical value to each category in the original variable. In this technique, each category is assigned a numerical label, where the labels are assigned based on the order of the categories in the variable [2].
+
+Def: This technique replaces each unique categorical value with a consecutive number.
+
+For the same example dataset we will not have 3 new features, only 1.
+
+Advantage
+
+1- So computationally it is more effective,
+
+2-Use Label encoding with ordinal data, or where the number of categories is large.
+
+Disadvantage
+
+1- For example, the consecutive numbers can lead to a false impression about ranks between the values.
 
 ### Ordinal Encoding  
 Ordinal encoding assigns a numerical value to each category based on their order or rank. Categories are arranged according to a specific criterion, and values are assigned based on their position [2].
