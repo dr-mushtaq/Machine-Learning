@@ -75,6 +75,10 @@ Creating new features is an important step in feature engineering that involves 
 ## 1.3- Encoding Categorical Variables  
 Encoding categorical variables is a crucial step in feature engineering that involves converting categorical variables into a numerical form that machine learning algorithms can understand. Here are some common techniques used for encoding categorical variables [2]:
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/encoding.jpeg"></a>
+</p>
+
 ### One-Hot Encoding  
 One-hot encoding converts categorical variables into a set of binary features, where each feature corresponds to a unique category in the original variable. In this technique, a new binary column is created for each category, with 1 representing presence and 0 otherwise [2].
 
