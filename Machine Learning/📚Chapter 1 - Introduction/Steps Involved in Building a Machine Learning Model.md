@@ -90,6 +90,10 @@ Ordinal encoding assigns a numerical value to each category based on their order
 
 ---
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/encod2.jpg"></a>
+</p>
+
 ## 1.4- Handling Imbalanced Data  
 Dealing with imbalanced data is an important aspect of machine learning. Imbalanced data is a situation where the distribution of the target variable is not uniform, and one class is underrepresented compared to the other. This can lead to a bias in the model toward the majority class, and the model may perform poorly on the minority class. Some of the techniques to handle imbalanced data are[2].
 
