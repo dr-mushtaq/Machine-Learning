@@ -155,18 +155,24 @@ Dealing with imbalanced data is an important aspect of machine learning. Imbalan
 5. Anomaly Detection: Anomaly detection involves identifying the outliers in the data and removing them. This can be done using the IsolationForest function from the sklearn.ensemble module. Anomaly detection identifies rare events or observations in a dataset that deviate significantly from the expected or normal behavior. In the case of imbalanced data, where the number of observations in one class is much lower than the other, anomaly detection can be used to identify and label the rare observations in the minority class as anomalies. This can help balance the dataset and improve the performance of machine learning models.
 
 ## 1.5- Skewness and Kurtosis Handling  
+
 Skewness and kurtosis are statistical measures that can help in understanding the distribution of data. Skewness measures the degree of asymmetry in the data, while kurtosis measures the degree of peakedness or flatness of the distribution[2]
 
 Skewed data can negatively affect the performance of machine learning models. Therefore, it is important to handle skewness in the data. Here are some techniques to handle skewness in the data:
 
 Log transformation: Logarithmic transformation can be used to reduce the skewness of data. It can be applied to both positively and negatively skewed data.
+
 Square root transformation: The square root transformation can be used to reduce the skewness of data. It can be applied to positively skewed data.
+
 Box-Cox transformation: The Box-Cox transformation is a more general transformation method that can handle both positively and negatively skewed data. It uses a parameter lambda to determine the type of transformation to be applied to the data.
+
 Handling kurtosis can be done by applying a transformation similar to that used for handling skewness. Some techniques for handling kurtosis include:
 
-**Log transformation**: Logarithmic transformation can also be used to handle kurtosis in the data.
-**Square transformation**: The square transformation can also be used to handle kurtosis in the data.
-**Box-Cox transformation**: The Box-Cox transformation can also be used to handle kurtosis in the data.
+Log transformation: Logarithmic transformation can also be used to handle kurtosis in the data.
+
+Square transformation: The square transformation can also be used to handle kurtosis in the data.
+
+Box-Cox transformation: The Box-Cox transformation can also be used to handle kurtosis in the data.
 
 ---
 
