@@ -45,6 +45,8 @@ Def: Linear regression is one of the simplest and most widely used regression al
 ## 2.1- Math detail of Linear Regression
 The equation of linear regression line can be represented by:
 
+![Uploading image.png…]()
+
 
 We want to fit a line to the data and a line in two dimensions is always of the form y = ax + b, where
 
@@ -145,6 +147,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
