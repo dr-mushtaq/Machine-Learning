@@ -16,8 +16,15 @@ Whether you’re a beginner or looking to deepen your knowledge, this step-by-st
 - [Understanding Classification](#Understanding-Classification)  
 - [Scikit-Learn Overview](#Scikit-Learn_Overview)  
 - [Common steps of Scikit-Learn for classification](#Common_steps_of_Scikit-Learn_for_classification)  
-- [Brief History of NLP](#Brief-History-of-NLP)
-- [*Application](#*Application)   
+- Logistic regression (LR)
+- Artificial neural networks (ANN)
+- Support Vector Machine (SVM)
+- Naive Bayes (NB)
+- KNN (K-Nearest Neighbors)
+- Decision Tree Classifier
+- RandomForestClassifier
+- ExtraTreesClassifier
+- Gradient Boosting Trees (GBT)
 
 # **Understanding Classification** 
 
@@ -458,6 +465,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
