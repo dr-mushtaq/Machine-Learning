@@ -16,11 +16,19 @@ In this blog post, we will explore the concept of regression and its implementat
 - ExtraTreesClassifier
 - Gradient Boosting Trees (GBT)
 
-# **Understanding Classification** 
+# Section 1. Introduction to regression
 
-Def: Classification is a supervised learning technique in which we train a model on labeled data to make predictions on unseen instances. The labeled data consists of input variables (features) and output variables (labels or classes). The goal is to learn a mapping function that can accurately predict the class labels of new instances.
+Now, we’re going to check out the other type of supervised learning problem: regression. In regression tasks, the target value is a continuously varying variable, such as a country’s GDP or the price of a house.
 
-When it comes to classification, there are two main types: binary classification and multiclass classification. In binary classification, the target variable has only two classes, such as spam or not spam. In multiclass classification, the target variable can have more than two classes, like classifying images into different categories.
+Def: Predicts continuous target variables based on input features, modeling the relationship as a linear equation.
+
+Def :Linear regression is the fundamental supervised machine learning algorithm for predicting the continuous target variables based on the input features. As the name suggests it assumes that the relationship between the dependant and independent variable is linear. In simpler words, input features from the dataset are fed into the machine learning regression algorithm, which predicts the output values [1]
+
+Application. It is widely used for various applications such as sales forecasting, stock market analysis, and medical research.
+
+In scikit-learn, the linear_model module provides several regression algorithms, including linear regression, ridge regression, and lasso regression.
+
+Regression models have many types which show below:
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/33346d3c-afee-4069-a36e-9ccee57c783a_506x640.jpg"></a>
@@ -455,6 +463,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
