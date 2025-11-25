@@ -39,7 +39,7 @@ Regression models have many types which show below:
 Def: Linear regression is one of the simplest and most widely used regression algorithms. It assumes a linear relationship between the input variables and the target variable. The goal is to find the best fit line that minimizes the sum of the squared differences between the predicted and actual values.
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/%F0%9F%93%9AChapter%202%20Regression/image%20(5).jpg"></a>
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/%F0%9F%93%9AChapter%202%20Regression/915ac2aa-d48a-4c58-894c-883d661b11c7_630x189.jpg"></a>
 </p>
 
 ## 2.1- Math detail of Linear Regression
@@ -148,6 +148,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
