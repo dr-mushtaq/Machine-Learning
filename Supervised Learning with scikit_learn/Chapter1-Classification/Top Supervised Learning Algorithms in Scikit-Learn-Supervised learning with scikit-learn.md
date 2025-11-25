@@ -14,8 +14,8 @@ Whether you’re a beginner or looking to deepen your knowledge, this step-by-st
 ## 📑 Table of Contents  
 
 - [Understanding Classification](#Understanding-Classification)  
-- [Why NLP is so important?](#Why-NLP-is-so-important?)  
-- [What is NLP?](#What-is-NLP?)  
+- [Scikit-Learn Overview](#Scikit-Learn_Overview)  
+- [Common steps of Scikit-Learn for classification](#Common_steps_of_Scikit-Learn_for_classification)  
 - [Brief History of NLP](#Brief-History-of-NLP)
 - [*Application](#*Application)   
 
@@ -458,6 +458,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
