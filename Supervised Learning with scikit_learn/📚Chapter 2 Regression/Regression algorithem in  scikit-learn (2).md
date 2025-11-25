@@ -41,6 +41,28 @@ Def: Linear regression is one of the simplest and most widely used regression al
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/%F0%9F%93%9AChapter%202%20Regression/image%20(5).jpg"></a>
 </p>
+
+## 2.1- Math detail of Linear Regression
+The equation of linear regression line can be represented by:
+
+
+We want to fit a line to the data and a line in two dimensions is always of the form y = ax + b, where
+
+- X = Input feature or feature matrix in multiple linear regression
+
+- Y Predicted output (Target)
+
+- b0 = Intercept (where the line crosses the Y-axis).
+
+- b1 = Slope or coefficient that determines the line’s steepness.
+
+The central idea in linear regression revolves around finding the best-fit line for our data points so that the error between the actual and predicted values is minimal. It does so by estimating the values of b0 and b1. We then utilize this line for making predictions.
+
+a and b are the parameters of the model that we want to learn. So the question of the fitting is reduced to: how do we choose a and b? A common method is to define an error function for any given line and then to choose the line that minimizes the error function. Such an error function is also called a loss or a cost function.
+
+The regression coefficient (m) denotes how much we expect y to change as x increases or decreases. The regression model finds the optimal values of intercept © and regression coefficient (m) such that the error (e) is minimized.
+
+In machine learning, we use the ordinary least square method, a type of linear regression that can handle multiple input variables by minimizing the error between the actual value of y and the predicted value of y [1].
  
 ### References
 
@@ -123,6 +145,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
