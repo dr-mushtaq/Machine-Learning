@@ -1,9 +1,9 @@
 # 1- Overview of the Cost Function  
-Def: In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a function that maps an event or values of one or more variables onto a real number intuitively representing some “cost” associated with the event.
+**Def:** In mathematical optimization and decision theory, a **loss function** or **cost function** (sometimes also called an **error function**) is a function that maps an event or values of one or more variables onto a real number intuitively representing some “cost” associated with the event.
 
-Def:  Also known as lost function or objective function, it measures the unhappiness with the job being done, that is, if the algorithm is very bad, its value will be high. Basically, it compares the correct category score with the other ones to say how satisfied it is. In machine learning, a cost function is a measure of how well a model performs. It is used to evaluate the model's predictions and to guide the learning process. The goal of the learning process is to minimize the cost function, which means finding the set of parameters that produces the best predictions.The cost function is typically a mathematical function that takes the model's predictions and the ground truth labels as input and outputs a single number. The lower the cost function value, the better the model's predictions.
+**Def:**  Also known as lost function or objective function, it measures the unhappiness with the job being done, that is, if the algorithm is very bad, its value will be high. Basically, it compares the correct category score with the other ones to say how satisfied it is. In machine learning, a cost function is a measure of how well a model performs. It is used to evaluate the model's predictions and to guide the learning process. The goal of the learning process is to minimize the cost function, which means finding the set of parameters that produces the best predictions.The cost function is typically a mathematical function that takes the model's predictions and the ground truth labels as input and outputs a single number. The lower the cost function value, the better the model's predictions.
 
-Def: In machine learning, a “cost function” quantifies the difference between predicted and actual values. It measures how well a model performs by assigning a penalty for prediction errors. The goal during training is to minimize this cost function, adjusting model parameters to achieve accurate predictions. Common cost functions include mean squared error for regression and cross-entropy for classification tasks. A well-designed cost function guides the learning process, steering the model towards optimal performance.
+**Def:** In machine learning, a “cost function” quantifies the difference between predicted and actual values. It measures how well a model performs by assigning a penalty for prediction errors. The goal during training is to minimize this cost function, adjusting model parameters to achieve accurate predictions. Common cost functions include mean squared error for regression and cross-entropy for classification tasks. A well-designed cost function guides the learning process, steering the model towards optimal performance.
 
 The cost function is an important part of machine learning. It is used to evaluate the model's predictions and to guide the learning process. By choosing the right cost function, you can improve the performance of your machine learning models.
 
@@ -462,6 +462,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
