@@ -1,4 +1,4 @@
-## **🧠 Machine Learning with Python – Step-by-Step Hands-on Tutorials👋🛒**
+                                               ## **🧠 Machine Learning with Python – Step-by-Step Hands-on Tutorials👋🛒**
 
 Welcome to the **Machine Learning with Python** repository — a hands-on, beginner-to-advanced level guide designed for students, educators, and self-learners. This open-source collection of **Jupyter Notebooks**, exercises, and datasets walks you through real-world machine learning workflows using Python, NumPy, Pandas, and Scikit-learn.
 
@@ -621,6 +621,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 32 | [**Machine Learning Specialization by**](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 33 | [**TinyML and Efficient Deep Learning Computing by MIT**](https://hanlab.mit.edu/courses/2023-fall-65940) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 34 | [**MLSys Seminars**](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 35 | [**Machine Learning Zoomcamp**](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 
 
 ## 👁️ Chapter 2: Important Websites
@@ -831,6 +832,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
