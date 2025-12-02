@@ -204,7 +204,7 @@ L1 regularization shrinks the values of regression coefficients for input featur
 
 Lasso regression in scikit-learn
 To use LassoCV regression in sklearn, you can import the LassoCV class from the linear_model module. The following code shows how to fit a LassoCV model to a dataset of house prices:
-
+<pre> 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -223,6 +223,8 @@ cross_val_score(lasso, X, y, cv=10,
 scoring='neg_mean_squared_error')).mean())
 #Results
 Root Mean Squared Error (Lasso):       203421.22072610114
+</pre>
+ 
 This code will fit a lasso regression model to the data using 5-fold cross-validation. The model coefficients will then be printed to the console.
 
 The LassoCV class has a number of parameters that can be used to control the behavior of the model. Some of the most important parameters include:
@@ -234,7 +236,7 @@ alphas: An array of regularization parameters to try.
 max_iter: The maximum number of iterations to run the solver.
 
 tol: The convergence tolerance.
-
+<pre> 
 import pandas as pd 
 from sklearn.linear_model import LassoCV 
 # Load the data data = pd.read_csv("house_prices.csv") 
@@ -248,6 +250,7 @@ model = LassoCV(cv=5).fit(features, target)
 new_house = {"square_feet": 1500, "bedrooms": 3, "bathrooms": 2} 
 # Convert the new house object to a numpy array
  new_house_array = np.array([new_house]) 
+ </pre>
 # Make a prediction 
 prediction = model.predict(new_house_array) # Print the prediction print(prediction)
 Section 5- ElasticNet
@@ -441,6 +444,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
