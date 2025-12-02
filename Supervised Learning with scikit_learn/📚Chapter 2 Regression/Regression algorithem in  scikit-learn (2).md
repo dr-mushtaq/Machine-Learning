@@ -67,6 +67,8 @@ The regression coefficient (m) denotes how much we expect y to change as x incre
 
 In machine learning, we use the ordinary least square method, a type of linear regression that can handle multiple input variables by minimizing the error between the actual value of y and the predicted value of y [1].
 
+##  Implementation Using Scikit-Learn
+
 Our first regression task will be using the Boston housing dataset! Let’s check out the data. First, we load it from a comma-separated values file, also known as a csv file, using pandas’ read csv function. Note that you can also load this data from scikit-learn’s built-in datasets. We then view the head of the data frame using the head method. The documentation tells us the feature ‘CRIM’ is per capita crime rate, ‘NX’ is nitric oxides concentration, and ‘RM’ average number of rooms per dwelling, for example. The target variable, ‘MEDV’, is the median value of owner occupied homes in thousands of dollars.
 
  boston = pd.read_csv('boston.csv')
@@ -419,6 +421,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
