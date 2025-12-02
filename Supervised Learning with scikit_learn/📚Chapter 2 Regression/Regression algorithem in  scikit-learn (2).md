@@ -251,9 +251,11 @@ new_house = {"square_feet": 1500, "bedrooms": 3, "bathrooms": 2}
 # Convert the new house object to a numpy array
  new_house_array = np.array([new_house]) 
  </pre>
-# Make a prediction 
+ 
+Make a prediction 
 prediction = model.predict(new_house_array) # Print the prediction print(prediction)
-Section 5- ElasticNet
+
+# Section 5- ElasticNet
 What is ElasticNet Regression
 Elastic Net Regression is a powerful machine learning algorithm that combines the features of both Lasso and Ridge Regression. It is a regularized regression technique that is used to deal with the problems of multicollinearity and overfitting, which are common in high-dimensional datasets. This algorithm works by adding a penalty term to the standard least-squares objective function [7].
 
@@ -444,6 +446,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
