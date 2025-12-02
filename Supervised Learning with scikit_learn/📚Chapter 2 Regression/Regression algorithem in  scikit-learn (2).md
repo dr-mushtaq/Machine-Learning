@@ -74,6 +74,7 @@ Our first regression task will be using the Boston housing dataset! Let’s chec
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/%F0%9F%93%9AChapter%202%20Regression/8455a0fb-f6ce-4893-bb72-1de0732ab70c_630x630.jpg"></a>
 </p>
 
+<pre> 
  boston = pd.read_csv('boston.csv')
 print(boston.head())
 
@@ -86,21 +87,30 @@ CRIM ZN INDUS CHAS NX RM AGE DIS RAD TAX \
  PTRATIO B LSTAT MEDV
 0 15.3 396.90 4.98 24.0
 1 17.8 396.90 9.14 21.6
-Creating feature and target arrays
+ </pre>
+ 
+**Creating feature and target arrays**
 
 Now, given data as such, recall that scikit-learn wants ‘features’ and target’ values in distinct arrays, X and y,. Thus, we split our DataFrame: in the first line here, we drop the target; in the second, we keep only the target. Using the values attributes returns the NumPy arrays that we will use.
 
+<pre> 
  X = boston.drop('MEDV', axis=1).values
  y = boston['MEDV'].values
-Predicting house value from a single feature
+ </pre>
+
+ 
+**Predicting house value from a single feature**
 
 As a first task, let’s try to predict the price from a single feature: the average number of rooms in a block. To do this, we slice out the number of rooms column of the DataFrame X, which is the fifth column into the variable X rooms. Checking the type of X rooms and y, we see that both are NumPy arrays. To turn them into NumPy arrays of the desired shape, we apply the reshape method to keep the first dimension, but add another dimension of size one to X.
 
+<pre> 
 X_rooms = X[:,5]
 type(X_rooms), type(y)
 (numpy.ndarray, numpy.ndarray)
 y = y.reshape(-1, 1)
 X_rooms = X_rooms.reshape(-1, 1)
+</pre>
+
 Plotting house value vs. number of rooms
 
 Now, let’s plot house value as a function of number of rooms using matplotlib’s plt dot scatter. We’ll also label our axes using x label and y label.
@@ -424,6 +434,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
