@@ -70,6 +70,9 @@ In machine learning, we use the ordinary least square method, a type of linear r
 ##  Implementation Using Scikit-Learn
 
 Our first regression task will be using the Boston housing dataset! Let’s check out the data. First, we load it from a comma-separated values file, also known as a csv file, using pandas’ read csv function. Note that you can also load this data from scikit-learn’s built-in datasets. We then view the head of the data frame using the head method. The documentation tells us the feature ‘CRIM’ is per capita crime rate, ‘NX’ is nitric oxides concentration, and ‘RM’ average number of rooms per dwelling, for example. The target variable, ‘MEDV’, is the median value of owner occupied homes in thousands of dollars.
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/%F0%9F%93%9AChapter%202%20Regression/8455a0fb-f6ce-4893-bb72-1de0732ab70c_630x630.jpg"></a>
+</p>
 
  boston = pd.read_csv('boston.csv')
 print(boston.head())
@@ -421,6 +424,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
