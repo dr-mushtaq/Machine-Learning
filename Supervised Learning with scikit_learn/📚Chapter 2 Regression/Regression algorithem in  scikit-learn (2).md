@@ -111,22 +111,23 @@ y = y.reshape(-1, 1)
 X_rooms = X_rooms.reshape(-1, 1)
 </pre>
 
-Plotting house value vs. number of rooms
+**Plotting house value vs. number of rooms**
 
 Now, let’s plot house value as a function of number of rooms using matplotlib’s plt dot scatter. We’ll also label our axes using x label and y label.
-
 Plotting house value vs. number of rooms
-
 We can immediately see that, as one might expect, more rooms lead to higher prices.
-
+<pre> 
 plt.scatter(X_rooms, y)
 plt.ylabel('Value of house /1000 ($)')
 plt.xlabel('Number of rooms')
 plt.show();
+</pre>
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/%F0%9F%93%9AChapter%202%20Regression/plot.jpg"></a>
+</p>
 
-
-Fitting a regression model
+**Fitting a regression model**
 
 It’s time to fit a regression model to our data. We’re going to use a model called linear regression, , I’m going to show you how to fit it and to plot its predictions. We import numpy as np, linear model from sklearn, and instantiate LinearRegression as regr. We then fit the regression to the data using regr dot fit and passing in the data, the number of rooms, and the target variable, the house price, as we did with the classification problems. After this, we want to check out the regressor’s predictions over the range of the data. We can achieve that by using np linspace between the maximum and minimum number of rooms and make a prediction for this data.
 
@@ -434,6 +435,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
