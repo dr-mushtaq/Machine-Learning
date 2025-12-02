@@ -151,12 +151,16 @@ plt.plot(prediction_space, reg.predict(prediction_space),
 plt.show()
 </pre>
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/%F0%9F%93%9AChapter%202%20Regression/Fit.jpg"></a>
+</p>
 
 ## The loss function
 
 What will our loss function be? Intuitively, we want the line to be as close to the. actual data points as possible. For this reason, we wish to minimize the vertical distance between the fit and the data. So for each data point. we calculate the vertical distance between it and the line. This distance is called a residual. Now, we could try to minimize the sum of the residuals, but then a large positive residual would cancel out.a large negative residual. For this reason we minimize the sum of the squares of the residuals! This will be our loss function and using this loss function is commonly called ordinary least squares, or OLS for short. Note that this is the same as minimizing the mean squared error of the predictions on the training set. See our statistics curriculum for more detail. When you call fit on a linear regression model in scikit-learn, it performs this OLS under the hood.
 
-Section 3: Stepwise Regression
+# Section 3: Stepwise Regression
+
 The stepwise regression technique is used while dealing with more than one independent variable. These variables get chosen using an automatic process without any human intervention. This is easily achievable by being observant on statistical values such as R-square, AIC metrics, and t-stats to recognize significant variables.
 
 Scikit-learn does not have a specific implementation of stepwise regression. However, there are a few ways to perform stepwise regression in sklearn using other modules.
@@ -166,7 +170,7 @@ One way is to use the SelectKBest selector. This selector takes a scoring functi
 Another way to perform stepwise regression in sklearn is to use the RFE selector. This selector recursively eliminates features until the specified number of features remain. To perform stepwise regression, you can start with a large number of features and then iteratively eliminate features using RFE and re-fit your model until you reach a satisfactory level of performance.
 
 Here is an example of how to perform stepwise regression in sklearn using the SelectKBest selector:
-
+<pre> 
 import numpy as np
 import pandas as pd 
 from sklearn.feature_selection import SelectKBest 
@@ -188,7 +192,9 @@ elected_features = selector.get_support(indices=True)
 # Instantiate and fit the linear regression model 
 model = LinearRegression() 
 model.fit(X_selected, y)
-Section4- LassoCV
+ </pre>
+ 
+# Section4- LassoCV
 What is meant by LassoCV (short for “Least Absolute Shrinkage and Selection Operator”)
 LassoCV regression is a supervised learning algorithm that uses cross-validation to select the optimal regularization parameter for lasso regression. LassoCV regression is a powerful tool that can be used for a variety of tasks, including feature selection, overfitting prevention, and regression. It is a good choice for situations where these factors are important.
 
@@ -435,6 +441,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
