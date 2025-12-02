@@ -134,7 +134,7 @@ It’s time to fit a regression model to our data. We’re going to use a model 
 Fitting a regression model
 
 Plotting this line with the scatter plot results in the figure you see here.
-
+<pre> 
 import numpy as np
 from sklearn import linear_model
 reg = linear_model.LinearRegression()
@@ -149,10 +149,10 @@ plt.scatter(X_rooms, y, color='blue')
 plt.plot(prediction_space, reg.predict(prediction_space),
  ...: color='black', linewidth=3)
 plt.show()
+</pre>
 
 
-
-The loss function
+## The loss function
 
 What will our loss function be? Intuitively, we want the line to be as close to the. actual data points as possible. For this reason, we wish to minimize the vertical distance between the fit and the data. So for each data point. we calculate the vertical distance between it and the line. This distance is called a residual. Now, we could try to minimize the sum of the residuals, but then a large positive residual would cancel out.a large negative residual. For this reason we minimize the sum of the squares of the residuals! This will be our loss function and using this loss function is commonly called ordinary least squares, or OLS for short. Note that this is the same as minimizing the mean squared error of the predictions on the training set. See our statistics curriculum for more detail. When you call fit on a linear regression model in scikit-learn, it performs this OLS under the hood.
 
@@ -435,6 +435,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
