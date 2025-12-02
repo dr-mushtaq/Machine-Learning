@@ -354,6 +354,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅1-Introduction of Hierarchical Clustering⭐️**| [1](https://www.youtube.com/watch?v=VOfzeUKUA48)[-2](https://drive.google.com/file/d/1ELZJztmx3MZDorDKa_C_y5SfHrT4_rO1/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10483)|
 |**✅2-Clustering Lablel⭐️**| [1](https://drive.google.com/file/d/1KqtSQjx8Kv-kNHkK4Z8elWfCdJiGWIBq/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5205)|
 |**✅3-Hierarchical Clustering-Agglomerative method**| [1](https://www.youtube.com/watch?v=VOfzeUKUA48)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5699)|
+|**✅4-Hierarchical Clustering-Divisive method**| [1](https://www.youtube.com/watch?v=rJnEGW0QHSs&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=2)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10494&forceview=1)|
+
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
@@ -834,6 +836,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
