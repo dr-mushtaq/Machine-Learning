@@ -316,7 +316,6 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐3-Mathematics Behind Large Margin Classification**|[**1**](https://drive.google.com/file/d/1qhtLXlpuIHvkizthQLL47Weey-4IVzO-/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4369&forceview=1)|
 |**🌐4-Kernels I**|[**1**](https://drive.google.com/file/d/1jZ8_fvOMBJdJ0kGtYSfXVQ9tA08fcRs_/view)[-2](https://www.youtube.com/watch?v=wFuCr51jbtE&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=14)[-3](https://www.youtube.com/watch?v=N_RQj4OL1mg)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4391)|
 |**🌐5-Kernels I1**|[**1**](https://drive.google.com/file/d/1HBoFW8V_Fy86FviFP7uv42N1yMFtTuAv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HbuTHjIaCTs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=14)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4551)|
-</details>
 |**🌐6-Using An SVM**|[**1**](https://drive.google.com/file/d/1HBoFW8V_Fy86FviFP7uv42N1yMFtTuAv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEm6hsbUhLU&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=15)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4586&forceview=1)|
 
 ## 📚Chapter: 13 -**Recommender Systems**
@@ -844,6 +843,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
