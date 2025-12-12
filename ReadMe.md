@@ -216,6 +216,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅4-Matrix-Matrix Multiplication-s**](https://mushtaqmsit.substack.com/p/matrix-matrix-multiplication)| [**1**](https://drive.google.com/file/d/1TNBDxXUvkxOiIlUEdlieb2Teuaoi0RnU/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**✅5-Matrix multiplication Properties-S**](https://mushtaqmsit.substack.com/p/why-matrix-multiplication-is-not)|[**1**](https://drive.google.com/file/d/1mUe1koBOu90luI8j1Sj-oJSR1xuQJIIj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**✅6-Inverse and Transpose-s**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://drive.google.com/file/d/1CmeQYER6X4yLwwmUEwn7-Upfgz3TQqy1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
+|[**✅-Eigenvalues and Eigenvectors**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://www.youtube.com/watch?v=1_q8CBP1whs)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
  | Topic Name/Tutorial | Video | Code |
@@ -820,6 +821,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
