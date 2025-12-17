@@ -295,6 +295,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐5-Kernels I1**|[**1**](https://drive.google.com/file/d/1HBoFW8V_Fy86FviFP7uv42N1yMFtTuAv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HbuTHjIaCTs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=14)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4551)|
 |**🌐6-Using An SVM**|[**1**](https://drive.google.com/file/d/1HBoFW8V_Fy86FviFP7uv42N1yMFtTuAv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEm6hsbUhLU&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=15)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4586&forceview=1)|
 
+
+## 📚Chapter: 12 -**Anomaly Detection**
+ |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+|---|---|---|---|---|
+|**🌐1-Problem Motivation**|[**1**](https://drive.google.com/file/d/1cNwS-bbBjF6sALS1koz5EMgjfjR7pePu/view?usp=sharing)[-2](https://www.youtube.com/watch?v=7FjapNRy5YA&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=21)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5210)|---|
+|**🌐2-Gaussian Distribution**|[**1**](https://drive.google.com/file/d/1MF0zc1vEcEVtTk9mMG-gDbomSdxMSDxk/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Eh5rEPhcsTM&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=22)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5241)|---|
+|**🌐3-Algorithm**|[**1**](https://drive.google.com/file/d/1MF0zc1vEcEVtTk9mMG-gDbomSdxMSDxk/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Eh5rEPhcsTM&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=22)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5269)|---|
+
 ## 📚Chapter: 13 -**Recommender Systems**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
@@ -823,6 +831,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
