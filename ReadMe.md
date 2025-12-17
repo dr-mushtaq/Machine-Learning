@@ -310,6 +310,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐2-Content-Based Recommendations**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)[-2](https://www.youtube.com/watch?v=FhGnVAbEEho&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=17)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 |**🌐3-Collaborative Filtering Basic**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)[-2](https://www.youtube.com/watch?v=rizwooaTNEA&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=18)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 |**🌐4-Collaborative Filtering Algorithem**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)[-2](https://www.youtube.com/watch?v=FxiLoaJrseo&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=19)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=6458&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
+
+## 📚Chapter: 14 -**Probability in Machine Learning**
+ |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+|---|---|---|---|---|
+|**🌐1-Random variables and probability distribution**|[**1**](https://drive.google.com/file/d/1cNwS-bbBjF6sALS1koz5EMgjfjR7pePu/view?usp=sharing)[-2](https://www.youtube.com/watch?v=mDRFXGS54Gg&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=25)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
 </details>
 
 <details> 
@@ -831,6 +836,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
