@@ -217,6 +217,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅5-Matrix multiplication Properties-S**](https://mushtaqmsit.substack.com/p/why-matrix-multiplication-is-not)|[**1**](https://drive.google.com/file/d/1mUe1koBOu90luI8j1Sj-oJSR1xuQJIIj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**✅6-Inverse and Transpose-s**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://drive.google.com/file/d/1CmeQYER6X4yLwwmUEwn7-Upfgz3TQqy1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**✅-Eigenvalues and Eigenvectors**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://www.youtube.com/watch?v=1_q8CBP1whs)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
+|[**✅-Derivative of a Matrix**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://www.youtube.com/watch?v=eCkF08_5vVM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
  | Topic Name/Tutorial | Video | Code |
@@ -304,7 +305,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐3-Algorithm**|[**1**](https://drive.google.com/file/d/1MF0zc1vEcEVtTk9mMG-gDbomSdxMSDxk/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Eh5rEPhcsTM&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=22)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5269)|---|
 |**🌐5-Developing and Evaluating an Anomaly Detection System**|[**1**](https://drive.google.com/file/d/1M0aU7SWTvClFGbPR7Wdds82nx8OVYv2U/view?usp=sharing)[-2](https://www.youtube.com/watch?v=W4QYlhI_LcU&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=26)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5361)|--|
 |**🌐6-Anomaly Detection Vs Supervised Learning**|[**1**](https://drive.google.com/file/d/10Y4G4sZZsludN6YV9E58tErw-xdpmR0D/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Lqaj7T92_-U&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=27)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5456)|---|
-|**🌐7-Choosing What Features to Use**|[**1**](https://drive.google.com/file/d/1ZStTLl29CSGRg8fcvIMtGjyN2M07YCDp/view?usp=sharing)[-2](https://www.youtube.com/watch?v=FxiLoaJrseo&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=19)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5558)|---|
+|**🌐7-Choosing What Features to Use**|[**1**](https://drive.google.com/file/d/1ZStTLl29CSGRg8fcvIMtGjyN2M07YCDp/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HgX3UdvFTag&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=28)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5558)|---|
 
 ## 📚Chapter: 13 -**Recommender Systems**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
@@ -841,6 +842,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
