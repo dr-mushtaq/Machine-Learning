@@ -649,6 +649,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 9-Relatedrepos**](https://relatedrepos.com/) |Discover related open source projects. Updated daily.| InProgress  |
 | [**✅ 10-MLU-EXPLAIN**](https://mlu-explain.github.io/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 11-mlcourse**](https://mlcourse.ai/book/extra/tutorials.html) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
+| [**✅ 12-Google Course by google doc**](https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?tab=t.6i7dosjbo1jv) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 
 
 
@@ -842,6 +843,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
