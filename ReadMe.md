@@ -321,6 +321,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|---|---|
 |**🌐1-Learning with Large Datasets**|[**1**](https://drive.google.com/file/d/1gd9SH2Y_9u-wYd4tChnNdVhTuE2O--KN/view?usp=sharing)[-2](https://www.youtube.com/watch?v=jD-uj5TtzuE&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=16)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=6911&forceview=1)|---|
 |**🌐2-Stochastic Gradient Descent**|[**1**](https://drive.google.com/file/d/1vn1GUTdFFcqrOajnwbLPc8dWhF4krUym/view?usp=sharing)[-2](https://www.youtube.com/watch?v=A5gAAVGCVS0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=33)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=6983&forceview=1)|---|
+|**🌐3-Mini Batch Gradient Descent**|[**1**](https://drive.google.com/file/d/1vn1GUTdFFcqrOajnwbLPc8dWhF4krUym/view?usp=sharing)[-2](https://www.youtube.com/watch?v=56gCmNJuy5g&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=32)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=6983&forceview=1)|---|
+|**🌐4-stochastic Gradient Descent Convergence**|[**1**](https://drive.google.com/file/d/1vn1GUTdFFcqrOajnwbLPc8dWhF4krUym/view?usp=sharing)[-2](https://www.youtube.com/watch?v=BYfIldFz6j8&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=33)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=6983&forceview=1)|---|
+|**🌐5-Online Learning**|[**1**](https://drive.google.com/file/d/1vn1GUTdFFcqrOajnwbLPc8dWhF4krUym/view?usp=sharing)[-2](https://www.youtube.com/watch?v=i4WtPv0UBCI&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=34)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=6983&forceview=1)|---|
+|**🌐6-Map Reduce And Data Parallelism**|[**1**](https://drive.google.com/file/d/1vn1GUTdFFcqrOajnwbLPc8dWhF4krUym/view?usp=sharing)[-2](https://www.youtube.com/watch?v=A5gAAVGCVS0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=33)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=6983&forceview=1)|---|
 
 
 
@@ -856,6 +860,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
