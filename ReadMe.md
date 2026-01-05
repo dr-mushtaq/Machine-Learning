@@ -786,6 +786,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 15-Made With ML**](https://github.com/GokuMohandas/Made-With-ML) |This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper | Pending    |
 | [**✅ 16-Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 | [**✅ 17-AI-ML-Roadmap-from-scratch**](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
+| [**✅ 18-machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes/tree/master?tab=readme-ov-file) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 
 
 
@@ -860,6 +861,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
