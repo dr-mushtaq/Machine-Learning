@@ -296,6 +296,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐5-Kernels I1**|[**1**](https://drive.google.com/file/d/1HBoFW8V_Fy86FviFP7uv42N1yMFtTuAv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HbuTHjIaCTs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=14)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4551)|
 |**🌐6-Using An SVM**|[**1**](https://drive.google.com/file/d/1HBoFW8V_Fy86FviFP7uv42N1yMFtTuAv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEm6hsbUhLU&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=15)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4586&forceview=1)|
 
+## 📚Chapter: 10 -**Unsupervised Learning**
+ |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+|---|---|---|---|---|
+|**🌐1-Unsupervised Learning: Introduction**|[**1**](https://drive.google.com/file/d/1FjqEdx0bfMUoxeRhCzXevr0jwEJZvYNt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
+
 
 ## 📚Chapter: 12 -**Anomaly Detection**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
@@ -861,6 +866,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
