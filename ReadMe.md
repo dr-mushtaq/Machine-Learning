@@ -301,6 +301,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|---|---|
 |**🌐1-Unsupervised Learning: Introduction**|[**1**](https://drive.google.com/file/d/12Qhx7P2ZLikyddrXMDe1QjTOQbb3Qt37/view?usp=sharing)[-2](https://www.youtube.com/watch?v=6NueyX_Jcb0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=18)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4666)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 |**🌐2-KMeans Algorithm**|[**1**](https://drive.google.com/file/d/1kC9nL7OpQOlsuyqHoLnklfy-1Ri6N3jh/view?usp=sharing)[-2](https://www.youtube.com/watch?v=6NueyX_Jcb0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=18)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4695)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
+|**🌐3-Optimization Objective**|[**1**](https://drive.google.com/file/d/1LpR1jbn9_hi_a2SvUeRltB5hRHkCNZd_/view?usp=sharing)[-2](https://www.youtube.com/watch?v=6NueyX_Jcb0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=18)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4789)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 
 
 ## 📚Chapter: 12 -**Anomaly Detection**
@@ -873,6 +874,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
