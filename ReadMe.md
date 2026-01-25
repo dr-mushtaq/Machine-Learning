@@ -776,6 +776,8 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 1- Linear Algebra and Optimization for Machine Learning**](https://macro.com/app/pdf/d885fcad-84b5-4ba4-a03e-6f931d746dc5) | Videos and GitHub resources for learning         | Not provided |
 | [**✅ 2- The-Art-of-Linear-Algebra**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/The-Art-of-Linear-Algebra.pdf) | Videos and GitHub resources for learning         | Not provided |
 | [**✅ 3- Mathematics of Neural Networks**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Books/Mathematics%20of%20Neural%20Networks.pdf) | Videos and GitHub resources for learning         | Not provided |
+| [**✅ 4-AI_Books**](https://github.com/aridiosilva/AI_Books/tree/master) | Artifical Intelligence & Machine Learning & Deep Learning & Neural Networks Books| Not provided |
+
 
 
 ## 👁️ Chapter 5: Github Repositories
@@ -874,6 +876,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
