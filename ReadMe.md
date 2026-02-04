@@ -218,6 +218,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅6-Inverse and Transpose-s**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://drive.google.com/file/d/1CmeQYER6X4yLwwmUEwn7-Upfgz3TQqy1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**✅-Eigenvalues and Eigenvectors**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://www.youtube.com/watch?v=1_q8CBP1whs)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**✅-Derivative of a Matrix**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://www.youtube.com/watch?v=eCkF08_5vVM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
+|[**✅-Metric Spaces**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://www.youtube.com/watch?v=6fj7QVg7dSo)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
+
 
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
  | Topic Name/Tutorial | Video | Code |
@@ -881,6 +883,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
