@@ -364,7 +364,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>Course 02 - 📚Unsupervised Learning with scikit_learning </h2> </summary>
 
-## 📚Chapter: 1  - **Chapter:1: Partitioning methods**
+## 📚**Chapter:1: Partitioning methods**
  
 | Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
 |---|---|---|----|---|
@@ -385,7 +385,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅4-Hierarchical Clustering-Divisive method**| [1](https://www.youtube.com/watch?v=rJnEGW0QHSs&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=2)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10494&forceview=1)|
 |**✅5-t-SNE for 2- dimensional maps**| [1](https://www.youtube.com/watch?v=uG1QcYpSBCo&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=4)[-2](https://drive.google.com/file/d/1Umlgfz3tm0E5pWp-rLG-Q8QS-ywshg4m/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10494&forceview=1)|
 
-## 📚Chapter: 3  - **Chapter 3: Density-based methods**
+## 📚**Chapter 3: Density-based methods**
  
 | Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
 |---|---|---|----|---|
@@ -890,6 +890,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
