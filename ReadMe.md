@@ -393,6 +393,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅2-How DBSCAN Work?⭐️**| [1](https://www.youtube.com/watch?v=DgHnPHDXLzA&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=7)[-2](https://www.youtube.com/watch?v=TFAK9g1fYps&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=8)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5541&forceview=1)|
 |**✅3-DBSCAN in Python?⭐️**| [1](https://www.youtube.com/watch?v=DgHnPHDXLzA&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=7)[-2](https://www.youtube.com/watch?v=TFAK9g1fYps&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=8)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5541&forceview=1)|
 
+## 📚Chapter: 3  - **Chapter 4: Decorrelating your data and dimension reduction**
+ 
+| Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
+|---|---|---|----|---|
+|**✅1-Visualizing the PCA transformation⭐️**| [1](https://www.youtube.com/watch?v=DgHnPHDXLzA&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=7)[-2](https://www.youtube.com/watch?v=OhDAnYapbGY)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5341&forceview=1)|
+
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
@@ -884,6 +890,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
