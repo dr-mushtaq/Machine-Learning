@@ -306,6 +306,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐3-Optimization Objective**|[**1**](https://drive.google.com/file/d/1LpR1jbn9_hi_a2SvUeRltB5hRHkCNZd_/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sXwZBCdcVfM&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=20)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4789)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 |**🌐4-Random Initialization**|[**1**](https://drive.google.com/file/d/1AKnUlMGT30WcIYCzCkBBIOAWASx6LqIN/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Y19_k5WoXQU&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=19)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4837)|---|
 |**🌐5-Choosing the Number of Clusters**|[**1**](https://drive.google.com/file/d/1riLLLI5BpKlhFV0c5ZW09J1DqOWdJ5Hp/view?usp=sharing)[-2](https://www.youtube.com/watch?v=mZ7-zGP7qig&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=21)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4858)|---|
+|**🌐6-Motivation I Data Compression**|[**1**](https://drive.google.com/file/d/1riLLLI5BpKlhFV0c5ZW09J1DqOWdJ5Hp/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Iqpppnz9RTM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4904)|---|
 
 
 ## 📚Chapter: 12 -**Anomaly Detection**
@@ -890,6 +891,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
