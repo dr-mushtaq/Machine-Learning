@@ -308,7 +308,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐5-Choosing the Number of Clusters**|[**1**](https://drive.google.com/file/d/1riLLLI5BpKlhFV0c5ZW09J1DqOWdJ5Hp/view?usp=sharing)[-2](https://www.youtube.com/watch?v=mZ7-zGP7qig&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=21)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4858)|---|
 |**🌐6-Motivation I Data Compression**|[**1**](https://drive.google.com/file/d/1cCjghVaSW_ubNuXg9ynVUZV2Z6fyYw4V/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Iqpppnz9RTM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4904)|---|
 |**🌐7-Motivation II: Visualization**|[**1**](https://drive.google.com/file/d/12Df-LqFj8GnSS195wFFAZ4ToHvzSY8yi/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Qtt9BcPWOTM&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=24)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4941)|---|
-|**🌐8-84-Principal Component Analysis Problem Formulation**|[**1**](https://drive.google.com/file/d/1vFXYmzl7b7NCFZyc0WKc90bNyWMV8K6T/view?usp=sharing)[-2](https://www.youtube.com/watch?v=IFlTmhBVWxw&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=26)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4982)|---|
+|**🌐8-Principal Component Analysis Problem Formulation**|[**1**](https://drive.google.com/file/d/1vFXYmzl7b7NCFZyc0WKc90bNyWMV8K6T/view?usp=sharing)[-2](https://www.youtube.com/watch?v=IFlTmhBVWxw&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=26)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4982)|---|
+|**🌐9-Principal Component Analysis Algorithm**|[**1**](https://drive.google.com/file/d/13Ekm8SUa4rAZog8S5l9XqkrZeHebnWJ6/view?usp=sharing)[-2](https://www.youtube.com/watch?v=hyoWFNDcR4Q&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=48)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5013)|---|
 
 
 
@@ -896,6 +897,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
