@@ -312,9 +312,6 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐9-Principal Component Analysis Algorithm**|[**1**](https://drive.google.com/file/d/13Ekm8SUa4rAZog8S5l9XqkrZeHebnWJ6/view?usp=sharing)[-2](https://www.youtube.com/watch?v=hyoWFNDcR4Q&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=48)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5013)|---|
 |**🌐10-Choosing the Number of Principal Components**|[**1**](https://drive.google.com/file/d/1J45Ttvk14f0RJuRS_aj2ML40XM_R_UZn/view?usp=sharing)[-2](https://youtu.be/RIlmGLRSnRE?si=0_FcfxdZ9VbRKENy)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5076)|---|
 
-
-
-
 ## 📚Chapter: 12 -**Anomaly Detection**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
@@ -405,7 +402,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
 |---|---|---|----|---|
 |**✅1-Visualizing the PCA transformation⭐️**| [1](https://www.youtube.com/watch?v=DgHnPHDXLzA&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9&index=7)[-2](https://www.youtube.com/watch?v=OhDAnYapbGY)[-3](https://drive.google.com/file/d/1qzXH8cg9H2aclpx91-qyqieOquQvJL0N/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5341&forceview=1)|
-|**✅2-Intrinsic dimension**| [1](https://drive.google.com/file/d/184RtgWHEn9ghshUcAadzWQbJllMK3sCP/view)[-2](https://www.youtube.com/watch?v=OhDAnYapbGY)[-3](https://drive.google.com/file/d/1qzXH8cg9H2aclpx91-qyqieOquQvJL0N/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5388&forceview=1)|
+|**✅2-Intrinsic dimension**| [1](https://drive.google.com/file/d/184RtgWHEn9ghshUcAadzWQbJllMK3sCP/view)[-2](https://youtu.be/_Zp9rDBHg6s?si=ZHFm-qXnJ0WVmYE3)[-3](https://drive.google.com/file/d/1qzXH8cg9H2aclpx91-qyqieOquQvJL0N/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5388&forceview=1)|
 
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
@@ -899,6 +896,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
