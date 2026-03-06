@@ -368,11 +368,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
-|**✅1- Decision trees**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**✅2- Random Forest**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅1-Working principle of decision trees**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅2-Advantages: Interpretability and Non-Linearity**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**✅3- Gradient boosting (XGBoost)**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**✅4- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**✅5- Hyperparameter tuning**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅4- Disadvantages: Overfitting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅5- Gini Impurity vs Entropy**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅6- How to split nodes**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅7- Pruning Techniques**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 
 ## 📚Chapter: 2  - **Decision Tree**
  
@@ -948,6 +950,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
