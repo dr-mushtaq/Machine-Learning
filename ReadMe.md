@@ -399,7 +399,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**6-Handling Overfitting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 
 
-## 📚Chapter: 2  - **Gradient Boosted Trees**
+## 📚Chapter: 2  - **XGBoost (Extreme Gradient Boosting)**
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
@@ -953,6 +953,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
