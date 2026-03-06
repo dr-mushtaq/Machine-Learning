@@ -387,15 +387,17 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**5- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**6- Pros and Cons**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 
-## 📚Chapter: 2  - **Random Forest**
+## 📚Chapter: 2  - **Gradient Boosting**
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
-|**✅1- Decision trees**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
-|**2- Random Forest**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**3- Gradient boosting (XGBoost)**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**4- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**5- Hyperparameter tuning**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅1-What is Gradient Boosting?**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
+|**2- Concept of boosting and why it works**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**3-Loss functions in boosting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**4- Implementing Gradient Boosting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**5- Steps to build gradient boosting models**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**6-Handling Overfitting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+
 
 ## 📚Chapter: 2  - **Gradient Boosted Trees**
  
@@ -951,6 +953,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
