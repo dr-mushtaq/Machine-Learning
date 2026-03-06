@@ -376,15 +376,16 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅6- How to split nodes**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**✅7- Pruning Techniques**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 
-## 📚Chapter: 2  - **Decision Tree**
+## 📚Chapter: 2  - **Ensemble Methods**
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
-|**✅1- Decision trees**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
-|**2- Random Forest**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**3- Gradient boosting (XGBoost)**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**4- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**5- Hyperparameter tuning**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅1-Introduction to Ensemble Learning**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
+|**2- Bagging vs Boosting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**3- How ensemble methods improve model performance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**4- Building Random Forest models**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**5- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**6- Pros and Cons**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 
 ## 📚Chapter: 2  - **Random Forest**
  
@@ -950,6 +951,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
