@@ -829,8 +829,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 6-The big list of AI YouTube channels**](https://www.reddit.com/r/PromptEngineering/comments/1r21lyg/the_big_list_of_ai_youtube_channels/) | Comprehensive roadmap for AI courses               | Completed  |
 
 
-
-
 ## ➕ Additional Social Media Groups
 
 | **Title/Link**                                                                 | **Description**                                    | **Status** | Platform|
@@ -846,7 +844,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 9-5 playlists that can help you to build strong AI foundation**](https://www.reddit.com/r/learnmachinelearning/comments/1ori585/15_playlists_that_can_help_you_to_build_strong_ai/)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Reddit|
 
 
-
 ## 👁️ Chapter 4: Free Books
 
 | **Title/Link**                                                                 | **Description**                                   | **Code** |
@@ -855,6 +852,8 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 2- The-Art-of-Linear-Algebra**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/The-Art-of-Linear-Algebra.pdf) | Videos and GitHub resources for learning         | Not provided |
 | [**✅ 3- Mathematics of Neural Networks**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Books/Mathematics%20of%20Neural%20Networks.pdf) | Videos and GitHub resources for learning         | Not provided |
 | [**✅ 4-AI_Books**](https://github.com/aridiosilva/AI_Books/tree/master) | Artifical Intelligence & Machine Learning & Deep Learning & Neural Networks Books| Not provided |
+| [**✅ 5-Machine Learning Systems**](https://mlsysbook.ai/book/) | Principles and Practices of Engineering Artificially Intelligent Systems| Not provided |
+
 
 
 
@@ -954,6 +953,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
