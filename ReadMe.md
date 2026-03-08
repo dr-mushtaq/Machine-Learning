@@ -349,6 +349,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
 |**🌐1-Random variables and probability distribution**|[**1**](https://drive.google.com/file/d/1cNwS-bbBjF6sALS1koz5EMgjfjR7pePu/view?usp=sharing)[-2](https://www.youtube.com/watch?v=2DxzJa3b6Bs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=30)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
+|**🌐2-Maximum Likelihood**|[**1**](https://www.youtube.com/watch?v=Pk7kDdWuG1Q)[-2](https://www.youtube.com/watch?v=2DxzJa3b6Bs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=30)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
 </details>
 
 <details> 
@@ -953,6 +954,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
