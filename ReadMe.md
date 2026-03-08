@@ -404,13 +404,15 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
-|**✅1- Decision trees**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
-|**2- Random Forest**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**3- Gradient boosting (XGBoost)**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**4- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
-|**5- Hyperparameter tuning**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅1- Introduction to XGBoost**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
+|**2- Features and advantages**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**3- How XGBoost differs from traditional gradient boosting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**4- Hyperparameters and Configuration**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**5- Key hyperparameters and their impact**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**6- Regularization techniques**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**7- Applications in various domains**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 
-## 📚Chapter: 2  - **XGBoost**
+## 📚Chapter: 2  - **LightGBM**
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
@@ -953,6 +955,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
