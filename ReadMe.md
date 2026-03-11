@@ -312,6 +312,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐9-Principal Component Analysis Algorithm**|[**1**](https://drive.google.com/file/d/13Ekm8SUa4rAZog8S5l9XqkrZeHebnWJ6/view?usp=sharing)[-2](https://www.youtube.com/watch?v=hyoWFNDcR4Q&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=48)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5013)|---|
 |**🌐10-Choosing the Number of Principal Components**|[**1**](https://drive.google.com/file/d/1J45Ttvk14f0RJuRS_aj2ML40XM_R_UZn/view?usp=sharing)[-2](https://youtu.be/RIlmGLRSnRE?si=0_FcfxdZ9VbRKENy)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5076)|---|
 |**🌐11-Reconstruction from Compressed Representation**|[**1**](https://drive.google.com/file/d/1guMZka2uCXS7A-NjJLxaQpFVKcgT_dcH/view?usp=sharing)[-2](https://www.youtube.com/watchv=FAZLWmGkVEc&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=50)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5074)|---|
+**🌐12-Advice for Applying PCA**|[**1**](https://drive.google.com/file/d/1aEcTQZyb6ZSdPCyk99mlu9Zd66pv0348/view?usp=sharing)[-2](https://youtu.be/-JT5eRnd3aw?si=dXS7WR5vvFbKOxAp)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5184)|---|
+
 
 ## 📚Chapter: 12 -**Anomaly Detection**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
@@ -959,6 +961,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
