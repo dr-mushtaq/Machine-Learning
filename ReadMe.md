@@ -762,6 +762,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 12-Google Course by google doc**](https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?tab=t.6i7dosjbo1jv) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 13-Tensortonic**](https://www.tensortonic.com/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 14-LearnHub**](https://learn-hub-esi.tech/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
+| [**✅ 15-Master Machine Learning & Generative AI**](https://yyimachinelearning-deeplearning.lovable.app/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 
 
 
@@ -864,9 +865,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 6-Master Machine Learning with scikit-learn**](https://mlbook.dataschool.io/) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
 
 
-
-
-
 ## 👁️ Chapter 5: Github Repositories
 
 | **Title/Link**                                                                 | **Description**                                  | **Status** |
@@ -889,16 +887,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 16-Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 | [**✅ 17-AI-ML-Roadmap-from-scratch**](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 | [**✅ 18-machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes/tree/master?tab=readme-ov-file) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
-
-
-
-
-
-
-
-
-
-
 
 
 ## 👁️ Chapter1: - **Important Library and Packages**
@@ -963,6 +951,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
