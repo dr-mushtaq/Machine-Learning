@@ -861,6 +861,8 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 3- Mathematics of Neural Networks**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Books/Mathematics%20of%20Neural%20Networks.pdf) | Videos and GitHub resources for learning         | Not provided |
 | [**✅ 4-AI_Books**](https://github.com/aridiosilva/AI_Books/tree/master) | Artifical Intelligence & Machine Learning & Deep Learning & Neural Networks Books| Not provided |
 | [**✅ 5-Machine Learning Systems**](https://mlsysbook.ai/book/) | Principles and Practices of Engineering Artificially Intelligent Systems| Not provided |
+| [**✅ 6-Master Machine Learning with scikit-learn**](https://mlbook.dataschool.io/) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
+
 
 
 
@@ -961,6 +963,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
