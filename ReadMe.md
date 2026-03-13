@@ -325,6 +325,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐6-Anomaly Detection Vs Supervised Learning**|[**1**](https://drive.google.com/file/d/10Y4G4sZZsludN6YV9E58tErw-xdpmR0D/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Lqaj7T92_-U&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=27)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5456)|---|
 |**🌐7-Choosing What Features to Use**|[**1**](https://drive.google.com/file/d/1ZStTLl29CSGRg8fcvIMtGjyN2M07YCDp/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HgX3UdvFTag&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=28)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5558)|---|
 |**🌐8-Multivariate Gaussian Distribution**|[**1**](https://drive.google.com/file/d/1ZStTLl29CSGRg8fcvIMtGjyN2M07YCDp/view?usp=sharing)[-2](https://www.youtube.com/watch?v=-nhitvewIcc&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=29)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5558)|---|
+|**🌐9-Anomaly Detection using the Multivariate Gaussian Distribution**|[**1**](https://drive.google.com/file/d/17kGSskErF63Tbs2AxUhuGFjNcRG6aFVo/view?usp=sharing)[-2](https://www.youtube.com/watch?v=-nhitvewIcc&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=29)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5721)|---|
 
 ## 📚Chapter: 13 -**Recommender Systems**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
@@ -951,6 +952,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Machine-Learning" />
 </a>
+
 
 
 
