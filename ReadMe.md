@@ -469,6 +469,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅2-Intrinsic dimension**| [1](https://drive.google.com/file/d/184RtgWHEn9ghshUcAadzWQbJllMK3sCP/view)[-2](https://youtu.be/_Zp9rDBHg6s?si=T26jY9g_lpvnjK7k)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5388&forceview=1)|
 |**✅3-Dimension reduction with PCA**| [1](https://drive.google.com/file/d/1-JusMo_TrNnaZTB21y2EGa4I5Wj4ALwC/view)[-2](https://youtu.be/_Zp9rDBHg6s?si=T26jY9g_lpvnjK7k)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5425)|
 
+## 📚**Chapter:5: Clustering Algorithms (Advanced)**
+ 
+| Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
+|---|---|---|----|---|
+|**✅1-Gaussian Mixture Models (GMM)⭐️**| [1](https://youtu.be/wT2yLNUfyoM?si=FPUmQDLvHRDu2a1X)[-2](https://www.youtube.com/watch?v=uGuA-3dZADE&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9)| Content 3 |[Doc](https://coursesteach.com/course/modedit.php?update=4804&return=1)|
+
 
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
