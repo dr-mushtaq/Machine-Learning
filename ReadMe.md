@@ -473,7 +473,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
 |---|---|---|----|---|
-|**✅1-Gaussian Mixture Models (GMM)⭐️**| [1](https://youtu.be/wT2yLNUfyoM?si=FPUmQDLvHRDu2a1X)[-2](https://www.youtube.com/watch?v=uGuA-3dZADE&list=PLLC7bmONapvA1bH_JpcBy4ojvjySzYTj9)| Content 3 |[Doc](https://coursesteach.com/course/modedit.php?update=4804&return=1)|
+|**✅1-Gaussian Mixture Models (GMM)⭐️**| [1](https://youtu.be/wT2yLNUfyoM?si=FPUmQDLvHRDu2a1X)[-2](https://youtu.be/s9bRJMsCzrQ?si=i5avznw6DWFON9PL)| Content 3 |[Doc](https://coursesteach.com/course/modedit.php?update=4804&return=1)|
 
 
 
