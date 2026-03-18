@@ -909,6 +909,12 @@ This table provides an overview of essential machine learning algorithms, organi
 |[**🌐6-LibRecommender**](https://github.com/massquantity/LibRecommender)|LibRecommender is an easy-to-use recommender system focused on end-to-end recommendation process.|Recommender|[Doc](https://relatedrepos.com/gh/recommenders-team/recommenders)|
 |[**🌐7-Surprise**](https://surpriselib.com/)|Surprise is a Python scikit for building and analyzing recommender systems that deal with explicit rating data.|Recommende|[Doc](https://relatedrepos.com/gh/recommenders-team/recommenders)|
 
+## 👁️ Chapter 5: Important Tutorial and Blog
+
+| **Title/Link**                                                                 | **Description**                                   | **Code** |
+|---------------------------------------------------------------------------------|---------------------------------------------------|----------|
+| [**✅ 1-I Tried 25+ AI Coding Assistants — These 10 Are Worth Using**](https://javarevisited.substack.com/p/i-tried-30-ai-developer-tools-these) | Videos and GitHub resources for learning         | Not provided |
+
 
 </details>
    
