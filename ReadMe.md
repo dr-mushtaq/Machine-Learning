@@ -748,6 +748,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 35 | [**Machine Learning Zoomcamp**](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 36 | [**complete Roadmap / Guide for AI & ML (Beginner to Advanced – Free Resources) BY Good doc**](https://docs.google.com/document/d/13KCX4qekuXawWWQiMCK0iOFvIAiCkymPH6E80ZbmDTI/edit?tab=t.0) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
 | 37 | [**CS221: Artificial Intelligence**](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 38 | [**Introduction to Machine Learning**](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 
 
 ## 👁️ Chapter 2: Important Websites
