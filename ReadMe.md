@@ -350,8 +350,6 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐6-Map Reduce And Data Parallelism**|[**1**](https://drive.google.com/file/d/1vn1GUTdFFcqrOajnwbLPc8dWhF4krUym/view?usp=sharing)[-2](https://www.youtube.com/watch?v=A5gAAVGCVS0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=33)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=6983&forceview=1)|---|
 
 
-
-
 ## 📚Chapter: 14 -**Probability in Machine Learning**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
@@ -478,6 +476,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
 |---|---|---|----|---|
 |**✅1-Gaussian Mixture Models (GMM)⭐️**| [1](https://youtu.be/wT2yLNUfyoM?si=FPUmQDLvHRDu2a1X)[-2](https://youtu.be/s9bRJMsCzrQ?si=i5avznw6DWFON9PL)| Content 3 |[Doc](https://coursesteach.com/course/modedit.php?update=4804&return=1)|[1](https://youtu.be/C7jhwN6H9LU?si=ALzhDWI3dMY-pRpc)|[1](https://youtu.be/q71Niz856KE?si=6uMz6u7rO0hI3_ND)|
+|**✅2-Spectral Clustering⭐️**| [1](https://youtu.be/9xZRFvWwywQ?si=AEecrsw2JhMKZ2Ik)[-2](https://youtu.be/s9bRJMsCzrQ?si=i5avznw6DWFON9PL)| Content 3 |[Doc](https://coursesteach.com/mod/page/view.php?id=10542)|[1](https://youtu.be/C7jhwN6H9LU?si=ALzhDWI3dMY-pRpc)|---|
 
 
 
