@@ -781,10 +781,6 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 14-LearnHub**](https://learn-hub-esi.tech/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 15-Master Machine Learning & Generative AI**](https://yyimachinelearning-deeplearning.lovable.app/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 
-
-
-
-
 ## 📚 Chapter 4: Machine Learning Algorithms (Every Data Scientist Must Know)
 
 This table provides an overview of essential machine learning algorithms, organized by learning paradigm (Supervised, Unsupervised, Semi-Supervised, Reinforcement, Deep Learning), with their key strengths, main limitations, and common use cases.
@@ -843,7 +839,7 @@ This table provides an overview of essential machine learning algorithms, organi
 |-----------------------------------|-----------------------------------------------------|------------|
 | [**✅ 1-ProjectPro Podcast**](https://www.projectpro.io/podcast?utm_source=pawan&utm_medium=reddit) | Comprehensive roadmap for AI courses               | Completed  |
 
-## 👁️ Chapter 2: Notbok
+## 👁️ Chapter 2: Notebooks
 
 | **Title**                         | **Description**                                     | **Status** |
 |-----------------------------------|-----------------------------------------------------|------------|
@@ -853,7 +849,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 4-DataMListic**](https://www.youtube.com/@datamlistic) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 5-Mathematics**](https://www.youtube.com/playlist?list=PL8hTotro6aVGKQ9j-_QTZ4vcpsS7LYikl) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 6-The big list of AI YouTube channels**](https://www.reddit.com/r/PromptEngineering/comments/1r21lyg/the_big_list_of_ai_youtube_channels/) | Comprehensive roadmap for AI courses               | Completed  |
-
+| [**✅ 7-Machine Learning Notebooks, 3rd edition**](https://github.com/ageron/handson-ml3) | Comprehensive roadmap for AI courses               | Completed  |
 
 ## ➕ Additional Social Media Groups
 
@@ -869,7 +865,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 8- All-in-One AI&ML Resources (God Level Files) by reddit**](https://www.reddit.com/r/learnmachinelearning/comments/1i8n712/allinone_aiml_resources_god_level_files/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Github|
 | [**✅ 9-5 playlists that can help you to build strong AI foundation**](https://www.reddit.com/r/learnmachinelearning/comments/1ori585/15_playlists_that_can_help_you_to_build_strong_ai/)         | YouTube channel focused on teaching Scikit-learn and data science and GAN and Advance AI    | Pending    |Reddit|
 
-
 ## 👁️ Chapter 4: Free Books
 
 | **Title/Link**                                                                 | **Description**                                   | **Code** |
@@ -880,7 +875,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 4-AI_Books**](https://github.com/aridiosilva/AI_Books/tree/master) | Artifical Intelligence & Machine Learning & Deep Learning & Neural Networks Books| Not provided |
 | [**✅ 5-Machine Learning Systems**](https://mlsysbook.ai/book/) | Principles and Practices of Engineering Artificially Intelligent Systems| Not provided |
 | [**✅ 6-Master Machine Learning with scikit-learn**](https://mlbook.dataschool.io/) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
-
 
 ## 👁️ Chapter 5: Github Repositories
 
