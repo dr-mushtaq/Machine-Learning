@@ -208,6 +208,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**Newton Raphson method**](https://substack.com/home/post/p-143041522)|[1](https://www.youtube.com/watch?v=si1geFmH60s)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
  
  ## 📚Chapter: 3 -**Linear Algebra**
+#### Books
+- **[Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)** - FREE
  | Topic Name/Tutorial | Video | Code |Extra Resources|
 |---|---|---|---|
 | [**✅1-Understanding Matrices and Vectors in Linear Algebra**](https://mushtaqmsit.substack.com/p/understanding-matrices-and-vectors) | [**1**](https://drive.google.com/file/d/1Dn6rxY22AQ5869wSa0J99BlGsYFWQ2Wp/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb) |[1](https://www.youtube.com/watch?v=M0njiz15HMM)[-2](https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/?fbclid=IwAR1hOPVwGwAMSoHhMpopVrE-zUWHidJdld9EElGgXkBvYLe0nnxJTQ8GaHc)|
@@ -221,6 +223,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅-Metric Spaces**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://www.youtube.com/watch?v=6fj7QVg7dSo)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**✅-Why Vectors Are EVERYTHING in Machine Learning**](https://mushtaqmsit.substack.com/p/inverse-and-transpose)|[**1**](https://youtu.be/QR6d8QWjook?si=UjPVBBz214Cc5SSV)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
 |[**✅-Learn Linear Algebra for AI (Beginner Guide)**](https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/?fbclid=IwAR1hOPVwGwAMSoHhMpopVrE-zUWHidJdld9EElGgXkBvYLe0nnxJTQ8GaH)|[**1**](https://youtu.be/PoFF3RWzRx0?si=4kRXPBtkFiMGPCS7)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
+
+
 
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
  | Topic Name/Tutorial | Video | Code |
