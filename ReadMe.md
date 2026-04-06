@@ -784,6 +784,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 14-LearnHub**](https://learn-hub-esi.tech/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 15-Master Machine Learning & Generative AI**](https://yyimachinelearning-deeplearning.lovable.app/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 15-AI from Scratch**](https://aiengineeringfromscratch.com/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
+| [**✅ 16-ML Academy**](https://gussibedi.github.io/ML-Study/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 
 ## 📚 Chapter 4: Machine Learning Algorithms (Every Data Scientist Must Know)
 
