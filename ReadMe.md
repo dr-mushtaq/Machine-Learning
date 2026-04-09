@@ -923,6 +923,13 @@ This table provides an overview of essential machine learning algorithms, organi
 |---------------------------------------------------------------------------------|---------------------------------------------------|----------|
 | [**✅ 1-I Tried 25+ AI Coding Assistants — These 10 Are Worth Using**](https://javarevisited.substack.com/p/i-tried-30-ai-developer-tools-these) | Videos and GitHub resources for learning         | Not provided |
 
+## 👁️ Chapter 5: Notebooks
+
+| **Title/Link**                                                                 | **Description**                                   | **Code** |
+|---------------------------------------------------------------------------------|---------------------------------------------------|----------|
+| [**✅ 1-Machine Learning Notebooks**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=oWaVAsoAKTBA) | Videos and GitHub resources for learning         | Not provided |
+
+
 
 </details>
    
