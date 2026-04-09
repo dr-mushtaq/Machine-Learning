@@ -856,9 +856,9 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 5-Mathematics**](https://www.youtube.com/playlist?list=PL8hTotro6aVGKQ9j-_QTZ4vcpsS7LYikl) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 6-The big list of AI YouTube channels**](https://www.reddit.com/r/PromptEngineering/comments/1r21lyg/the_big_list_of_ai_youtube_channels/) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 7-Machine Learning Notebooks, 3rd edition**](https://github.com/ageron/handson-ml3) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 8-Machine Leanring Notbooks**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=oWaVAsoAKTBA) | Comprehensive roadmap for AI courses               | Completed  |
 
 ## ➕ Additional Social Media Groups
-
 | **Title/Link**                                                                 | **Description**                                    | **Status** | Platform|
 |---------------------------------------------------------------------------------|----------------------------------------------------|------------|---|
 | [**✅ 1- HELP ME CROWD-SOURCE A MACHINE LEARNING ROADMAP - 2025**](https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsource_a_machine_learning_roadmap/?share_id=Vhs4ll7wCPbA32yvSAOnj&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
@@ -905,7 +905,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 17-AI-ML-Roadmap-from-scratch**](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 | [**✅ 18-machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes/tree/master?tab=readme-ov-file) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 
-
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title| Description | Tage| Resources |
 |---|---|---|--|
@@ -922,14 +921,6 @@ This table provides an overview of essential machine learning algorithms, organi
 | **Title/Link**                                                                 | **Description**                                   | **Code** |
 |---------------------------------------------------------------------------------|---------------------------------------------------|----------|
 | [**✅ 1-I Tried 25+ AI Coding Assistants — These 10 Are Worth Using**](https://javarevisited.substack.com/p/i-tried-30-ai-developer-tools-these) | Videos and GitHub resources for learning         | Not provided |
-
-## 👁️ Chapter 5: Notebooks
-
-| **Title/Link**                                                                 | **Description**                                   | **Code** |
-|---------------------------------------------------------------------------------|---------------------------------------------------|----------|
-| [**✅ 1-Machine Learning Notebooks**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=oWaVAsoAKTBA) | Videos and GitHub resources for learning         | Not provided |
-
-
 
 </details>
    
