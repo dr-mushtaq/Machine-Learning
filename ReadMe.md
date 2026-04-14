@@ -226,6 +226,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 #### Books
 - **[Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)** - FREE
 
+ ## 📚Chapter:3 -**Statistical analysis and Probability in Machine Learning**
+ |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+|---|---|---|---|---|
+|**🌐1-Random variables and probability distribution**|[**1**](https://drive.google.com/file/d/1cNwS-bbBjF6sALS1koz5EMgjfjR7pePu/view?usp=sharing)[-2](https://www.youtube.com/watch?v=2DxzJa3b6Bs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=30)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
+|**🌐2-Maximum Likelihood**|[**1**](https://www.youtube.com/watch?v=Pk7kDdWuG1Q)[-2](https://www.youtube.com/watch?v=2DxzJa3b6Bs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=30)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
+|**🌐3-Central Tendency**|[**1**](https://www.youtube.com/watch?v=Pk7kDdWuG1Q)[-2](https://youtu.be/QxkMUc_El9k?si=VBHsTLGy-OefEPK0)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
+ 
+ 
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
  | Topic Name/Tutorial | Video | Code |
 |---|---|---|
@@ -359,11 +367,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐3-Getting Lots Of Data Artificial Data Synthesis**|[**1**](https://drive.google.com/file/d/1hH7as74sUTrvlxwZc57IAj4R6tB-3spv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=YimAarz-66s&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=59)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 |**🌐4-Ceiling Analysis - What Part of the Pipeline to Work on Next**|[**1**](https://drive.google.com/file/d/1ASn9rs9RK-4LVLwm2S3oJPMuRxEiRJBy/view?usp=sharing)[-2](https://www.youtube.com/watch?v=jD-uj5TtzuE&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=16)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=7399&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 
-## 📚Chapter: 14 -**Probability in Machine Learning**
- |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
-|---|---|---|---|---|
-|**🌐1-Random variables and probability distribution**|[**1**](https://drive.google.com/file/d/1cNwS-bbBjF6sALS1koz5EMgjfjR7pePu/view?usp=sharing)[-2](https://www.youtube.com/watch?v=2DxzJa3b6Bs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=30)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
-|**🌐2-Maximum Likelihood**|[**1**](https://www.youtube.com/watch?v=Pk7kDdWuG1Q)[-2](https://www.youtube.com/watch?v=2DxzJa3b6Bs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=30)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
+
 </details>
 
 <details> 
