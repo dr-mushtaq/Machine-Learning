@@ -492,7 +492,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅2-Spectral Clustering⭐️**| [1](https://youtu.be/9xZRFvWwywQ?si=AEecrsw2JhMKZ2Ik)[-2](https://youtu.be/s9bRJMsCzrQ?si=i5avznw6DWFON9PL)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10542)|[1](https://youtu.be/C7jhwN6H9LU?si=ALzhDWI3dMY-pRpc)|---|
 |**✅3-BIRCH Clustering⭐️**| [1](https://youtu.be/w7GZJWIFB9k?si=PFHoIxOpfhrhHb9C)[-2](https://youtu.be/s9bRJMsCzrQ?si=i5avznw6DWFON9PL)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10542)|[1](https://www.geeksforgeeks.org/machine-learning/ml-birch-clustering/)[-2](https://amanxai.com/2021/03/15/birch-clustering-in-machine-learning/)[-3](https://medium.com/@noel.cs21/balanced-iterative-reducing-and-clustering-using-heirachies-birch-5680adffaa58)[-4](https://www.tutorialspoint.com/machine_learning/machine_learning_birch_clustering.htm)|---|
 
-
+## 📚**Chapter:6: Discovering interpretable feature**
+ 
+| Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
+|---|---|---|----|---|
+|**✅1-Non-negative matrix factorization (NMF)⭐️**| [1](https://drive.google.com/file/d/11Vv7XRc-xVorp-wu0O9LkSpSiv0bnDul/view)[-2](https://youtu.be/UJpAb8lCy14?si=LdpxPnE2FGWJ4SwN)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5493)|[1](https://youtu.be/C7jhwN6H9LU?si=ALzhDWI3dMY-pRpc)|[1](https://youtu.be/q71Niz856KE?si=6uMz6u7rO0hI3_ND)|
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
