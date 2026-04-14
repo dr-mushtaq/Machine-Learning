@@ -791,6 +791,18 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 15-AI from Scratch**](https://aiengineeringfromscratch.com/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 16-ML Academy**](https://gussibedi.github.io/ML-Study/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 
+## 👁️ Chapter 2: ML Road Map
+
+| **Title**                         | **Description**                                     | **Status** |
+|-----------------------------------|-----------------------------------------------------|------------|
+| [**✅ 1-Roadmap.sh**](https://roadmap.sh/r/llm-engineer-ay1q6) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 2-ai-learning-kit**](https://roadmap.sh/r/llm-engineer-ay1q6) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 3-cs-video-courses**](https://roadmap.sh/r/llm-engineer-ay1q6) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 4-ai-learning-roadmaps**](https://github.com/bishwaghimire/ai-learning-roadmaps) | Comprehensive roadmap for AI courses               | Completed  |
+
+
+
+
 ## 📚 Chapter 4: Machine Learning Algorithms (Every Data Scientist Must Know)
 
 This table provides an overview of essential machine learning algorithms, organized by learning paradigm (Supervised, Unsupervised, Semi-Supervised, Reinforcement, Deep Learning), with their key strengths, main limitations, and common use cases.
