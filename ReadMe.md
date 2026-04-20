@@ -378,7 +378,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
-|**✅1- Decision trees**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅1- Decision trees**|[1](https://youtu.be/-fTT0qLLV5Y?si=unfKUnXux9H74BZp)|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**✅2- Random Forest**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**✅3- Gradient boosting (XGBoost)**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**✅4- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
