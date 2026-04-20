@@ -233,6 +233,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐2-Maximum Likelihood**|[**1**](https://www.youtube.com/watch?v=Pk7kDdWuG1Q)[-2](https://www.youtube.com/watch?v=2DxzJa3b6Bs&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=30)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
 |**🌐3-Central Tendency**|[**1**](https://www.youtube.com/watch?v=Pk7kDdWuG1Q)[-2](https://youtu.be/QxkMUc_El9k?si=VBHsTLGy-OefEPK0)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
 |**🌐4-How to Calculate Similarity in Data**|[**1**](https://youtu.be/jFWp_I3Hd9A?si=3-I-ORzWAtsj4B7)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
+
+ ## 📚Chapter:4 -**Calculus**
+ |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+|---|---|---|---|---|
+|**🌐1-Understand abouTslope**|[**1**](https://youtu.be/NzDSIw4WeqQ?si=FEuH97xxIR08re3q)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|--|
  
  
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
