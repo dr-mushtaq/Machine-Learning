@@ -503,6 +503,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
 |---|---|---|----|---|
 |**✅1-Non-negative matrix factorization (NMF)⭐️**| [1](https://drive.google.com/file/d/11Vv7XRc-xVorp-wu0O9LkSpSiv0bnDul/view)[-2](https://youtu.be/UJpAb8lCy14?si=LdpxPnE2FGWJ4SwN)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5493)|[1](https://youtu.be/C7jhwN6H9LU?si=ALzhDWI3dMY-pRpc)|[1](https://youtu.be/q71Niz856KE?si=6uMz6u7rO0hI3_ND)|
+|**✅2-NMF learns interpretable parts**| [1](https://drive.google.com/file/d/1gTb1mVxPIBehyWO05E3i_wzy7e5-MyWR/view)[-2](https://youtu.be/UJpAb8lCy14?si=LdpxPnE2FGWJ4SwN)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=5511)|[1](https://youtu.be/C7jhwN6H9LU?si=ALzhDWI3dMY-pRpc)|[1](https://youtu.be/q71Niz856KE?si=6uMz6u7rO0hI3_ND)|
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
