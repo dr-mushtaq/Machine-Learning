@@ -907,6 +907,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 4-AI_Books**](https://github.com/aridiosilva/AI_Books/tree/master) | Artifical Intelligence & Machine Learning & Deep Learning & Neural Networks Books| Not provided |
 | [**✅ 5-Machine Learning Systems**](https://mlsysbook.ai/book/) | Principles and Practices of Engineering Artificially Intelligent Systems| Not provided |
 | [**✅ 6-Master Machine Learning with scikit-learn**](https://mlbook.dataschool.io/) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
+| [**✅ 7-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
 
 ## 👁️ Chapter 5: Github Repositories
 
