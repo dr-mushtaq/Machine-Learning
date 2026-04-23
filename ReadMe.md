@@ -373,6 +373,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐3-Getting Lots Of Data Artificial Data Synthesis**|[**1**](https://drive.google.com/file/d/1hH7as74sUTrvlxwZc57IAj4R6tB-3spv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=YimAarz-66s&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=59)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4114&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 |**🌐4-Ceiling Analysis - What Part of the Pipeline to Work on Next**|[**1**](https://drive.google.com/file/d/1ASn9rs9RK-4LVLwm2S3oJPMuRxEiRJBy/view?usp=sharing)[-2](https://www.youtube.com/watch?v=jD-uj5TtzuE&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=16)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=7399&forceview=1)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
 
+## 📚Chapter: 16 -** Other Algorithems**
+ |Topic Name/Tutorial | Video | Code |Extra Learning|
+|---|---|---|---|
+|[**🌐1-K-Nearest Neighbours⭐️**](https://medium.com/@Coursesteach/cost-functions-in-neural-networks-a-beginners-guide-to-binary-and-multiclass-9c4f7a280c48)|[**1**](https://www.youtube.com/watch?v=A1tUp2UynJY)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+
 
 </details>
 
