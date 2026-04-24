@@ -225,6 +225,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 #### Books
 - **[Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)** - FREE
+#### Github
+- **[Learn Linear Algebra](https://github.com/prashantkul/learn-linear-algebra)** - FREE
 
  ## 📚Chapter:3 -**Statistical and Probability**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
