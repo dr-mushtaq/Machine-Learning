@@ -4,6 +4,23 @@ Welcome to the **Machine Learning with Python** repository — a hands-on, begin
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
+ <p align="center">
+  <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing">
+    <img 
+      src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA" 
+      alt="AI Code Gen"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/imresizer-Media%20(1).jpg?raw=true"
+    alt="Natural Language Processing Banner"
+    width="850"
+  />
+</p>
+
 <p align="center">
   <a href="https://github.com/dr-mushtaq/Machine-Learning/discussions" target="_blank">
     <button style="background-color:#0366d6; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:6px; cursor:pointer;">
