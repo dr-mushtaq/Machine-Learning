@@ -385,7 +385,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 01 - ⚙️ Tree Base Machine Learning </h2> </summary>
-##
+## Youtube Playlist
+  
 - [Decision Trees by Shaw Talebi](https://www.youtube.com/playlist?list=PLz-ep5RbHosUZTQsnTiqn45BrQ8WaTm9M)
 
 ## 📚Chapter: 1  - **Introduction**
