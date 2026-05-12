@@ -436,7 +436,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
-|**✅1-Introduction to Ensemble Learning**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
+|**✅1-Introduction to Ensemble Learning**|[1](https://www.youtube.com/watch?v=KIOeZ5cFZ50)[-2](https://youtu.be/LPtnbR2yyWQ?si=_wDcjTLN6yf15gUF)|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
 |**2- Bagging vs Boosting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**3- How ensemble methods improve model performance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**4- Building Random Forest models**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
