@@ -415,7 +415,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|----|
 |**✅1- Decision trees basics**|[1](https://youtu.be/-fTT0qLLV5Y?si=unfKUnXux9H74BZp)[-2](https://drive.google.com/file/d/12kQp763ihjhS8NoPJ32a_hKrvVl3UIxF/view?usp=sharing)[-3](https://youtu.be/l9xGfIs7uAw?si=J9LF71CVHF1YX31M)|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)[-2](https://www.geeksforgeeks.org/machine-learning/decision-tree-introduction-example/)|
 |**✅2- How Does a Decision Tree construct**|[1](https://youtu.be/-fTT0qLLV5Y?si=unfKUnXux9H74BZp)[-2](https://youtu.be/SN0ZDm1ImG8)|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)[-2](https://www.geeksforgeeks.org/machine-learning/decision-tree-introduction-example/)|
-|**✅2- Random Forest**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
+|**✅2- Random Forest**|[1](https://youtu.be/J4Wdy0Wc_xQ?si=VVfYblTERFK6Qdvu)|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**✅3- Gradient boosting (XGBoost)**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**✅4- Feature importance**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**✅5- Hyperparameter tuning**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
