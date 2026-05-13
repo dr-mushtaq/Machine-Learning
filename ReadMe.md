@@ -402,11 +402,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 01 - ⚙️ Tree Base Machine Learning </h2> </summary>
-##Youtube Playlist
+## Youtube Playlist
   
 - [Decision Trees by Shaw Talebi](https://www.youtube.com/playlist?list=PLz-ep5RbHosUZTQsnTiqn45BrQ8WaTm9M)
 
-##Github
+## Github
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master)
 
 ## 📚Chapter: 1  - **Introduction**
@@ -542,6 +542,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial  | Video | Code | Note|Extra Reading|
 |---|---|---|----|---|
 |**✅1-The Basics of Association Rules⭐️**| [1](https://drive.google.com/drive/u/0/folders/1Zhk1nebnelQE4RQsy_HaSqIdjbxlkwIJ)[-2](https://www.youtube.com/watch?v=OhDAnYapbGY)[-3](https://drive.google.com/file/d/1qzXH8cg9H2aclpx91-qyqieOquQvJL0N/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10562)|
+|**✅2-Apriori Algorithm**| [1](https://drive.google.com/file/d/1C3dqsQMY3CAwhP3r0Q-W3b7-QR-AierQ/view?usp=sharing)[-2](https://youtu.be/x2jMT9z-apc?si=alKbJ67haPLaNIHc)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Unsupervised_learning.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10563)|
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
