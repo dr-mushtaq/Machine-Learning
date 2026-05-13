@@ -447,7 +447,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Code |Extra Reading|
 |---|---|---|----|
-|**✅1-What is Gradient Boosting?**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)|
+|**✅1-What is Gradient Boosting?**|---|---|[Link](https://github.com/PlayingNumbers/ML_Algorithms_Course/tree/main)[-2](https://www.geeksforgeeks.org/machine-learning/ml-gradient-boosting/)[-3](https://www.datacamp.com/tutorial/guide-to-the-gradient-boosting-algorithm)|
 |**2- Concept of boosting and why it works**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**3-Loss functions in boosting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
 |**4- Implementing Gradient Boosting**|---|---|[Link](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)|
