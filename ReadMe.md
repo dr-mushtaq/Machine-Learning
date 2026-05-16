@@ -402,13 +402,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 01 - ⚙️ Tree Base Machine Learning </h2> </summary>
-## Youtube Playlist
   
-- [Decision Trees by Shaw Talebi](https://www.youtube.com/playlist?list=PLz-ep5RbHosUZTQsnTiqn45BrQ8WaTm9M)
+#### Youtube Playlist  
+- **[Decision Trees by Shaw Talebi](https://www.youtube.com/playlist?list=PLz-ep5RbHosUZTQsnTiqn45BrQ8WaTm9M)**
 
-## Github
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master)
-- [Owner avatarHands-on-Exploratory-Data-Analysis-with-Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)
+#### Github
+- **[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master)** - Free
+- **[Owner avatarHands-on-Exploratory-Data-Analysis-with-Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)** - Free
 
 ## 📚Chapter: 1  - **Introduction**
  
@@ -484,8 +484,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 02 - 📚Unsupervised Learning with scikit_learning </h2> </summary>
-## Github
-- [Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)
+  
+  #### Books
+- **[Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)** - FREE
 
 ## 📚**Chapter:1: Partitioning methods**
  
@@ -562,9 +563,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 03 - 📚Supervised Learning with scikit_learn </h2> </summary>
-## Github
-  
-- [Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)
+
+#### Books
+- **[Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)** - FREE
 
  ## 🗃️ Lessons
  
