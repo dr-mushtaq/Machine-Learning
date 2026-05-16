@@ -485,7 +485,6 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>Course 02 - 📚Unsupervised Learning with scikit_learning </h2> </summary>
 ## Github
-  
 - [Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)
 
 ## 📚**Chapter:1: Partitioning methods**
@@ -564,6 +563,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>Course 03 - 📚Supervised Learning with scikit_learn </h2> </summary>
 ## Github
+  
 - [Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)
 
  ## 🗃️ Lessons
