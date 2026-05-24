@@ -337,6 +337,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐6-Using An SVM**|[**1**](https://drive.google.com/file/d/1HBoFW8V_Fy86FviFP7uv42N1yMFtTuAv/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEm6hsbUhLU&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=15)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4586&forceview=1)|
 
 ## 📚Chapter: 10 -**Unsupervised Learning**
+#### Youtube 
+- **[Dimensionality Reduction]([https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master](https://www.youtube.com/playlist?list=PLV8yxwGOxvvoJ87mFL27k7XSDq_lF3pD5))** - FREE
+  
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
 |**🌐1-Unsupervised Learning: Introduction**|[**1**](https://drive.google.com/file/d/12Qhx7P2ZLikyddrXMDe1QjTOQbb3Qt37/view?usp=sharing)[-2](https://www.youtube.com/watch?v=6NueyX_Jcb0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=18)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=4666)|[1](https://www.youtube.com/watch?v=iAZpXTUJdvc)|
@@ -643,7 +646,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 04 - 📚Machine Learning in Production </h2> </summary>
-### Youtube
+#### Youtube
+  
 - [Machine Learning Deployment](https://www.youtube.com/playlist?list=PLV8yxwGOxvvrGSOqaPdxIpQKdPXJnZb17)
 
 ## 📚Chapter: 1  - **Serverless Deep Learning**
