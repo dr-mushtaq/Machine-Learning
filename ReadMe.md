@@ -643,6 +643,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 04 - 📚Machine Learning in Production </h2> </summary>
+### Youtube
+- [Machine Learning Deployment](https://www.youtube.com/playlist?list=PLV8yxwGOxvvrGSOqaPdxIpQKdPXJnZb17)
 
 ## 📚Chapter: 1  - **Serverless Deep Learning**
 Deploy deep learning models using serverless technologies like AWS Lambda.
