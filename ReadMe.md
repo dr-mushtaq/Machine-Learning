@@ -338,7 +338,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 ## 📚Chapter: 10 -**Unsupervised Learning**
 #### Youtube 
-- **[Dimensionality Reduction]([https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master](https://www.youtube.com/playlist?list=PLV8yxwGOxvvoJ87mFL27k7XSDq_lF3pD5))** - FREE
+- **[Dimensionality Reduction](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master](https://www.youtube.com/playlist?list=PLV8yxwGOxvvoJ87mFL27k7XSDq_lF3pD5)** - FREE
   
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
