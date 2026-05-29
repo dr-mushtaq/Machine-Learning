@@ -987,6 +987,8 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 17-AI-ML-Roadmap-from-scratch**](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 | [**✅ 18-machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes/tree/master?tab=readme-ov-file) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 | [**✅ 19-100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
+| [**✅ 20-Machine Learning Course Notes**](https://github.com/dair-ai/ML-Course-Notes) |A place to collaborate and share lecture notes on all topics related to machine learning, NLP, and AI. | Pending    |
+
 
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title| Description | Tage| Resources |
