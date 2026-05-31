@@ -57,21 +57,6 @@ You can support this project by becoming a sponsor on **[GitHub Sponsors](https:
 Every contribution — big or small — helps sustain the development of **open-source Python learning materials**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
 
----
-
-## 📚 Table of Contents
-
-- [What You’ll Learn](#What_you’ll_learn)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Prerequisites](#prerequisites)
-- [Contributing](#Contributing)
-- [Contact](#Contact)
-- [Getting Started-Course 01](#Getting-Started-Course-01)
-- [Useful Python Resources](#useful-python-resources)
-
-
-
 ## What You’ll Learn
 
 - 📊 **Data Preprocessing**: Cleaning, encoding, scaling, handling missing values
@@ -412,6 +397,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 #### Github
 - **[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master)** - Free
 - **[Owner avatarHands-on-Exploratory-Data-Analysis-with-Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)** - Free
+#### Blog website  
+- **[coderzcolumn](https://coderzcolumn.com/tutorials/python/)**
+
 
 ## 📚Chapter: 1  - **Introduction**
  
@@ -490,6 +478,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
   
   #### Books
 - **[Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)** - FREE
+
+ #### Blog website  
+  - **[coderzcolumn](https://coderzcolumn.com/tutorials/python/)**
 
 ## 📚**Chapter:1: Partitioning methods**
  
@@ -571,6 +562,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 #### Books
 - **[Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)** - FREE
+#### Blog website  
+- **[coderzcolumn](https://coderzcolumn.com/tutorials/python/)**
 
  ## 🗃️ Lessons
  
