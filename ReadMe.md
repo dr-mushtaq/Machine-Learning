@@ -4,23 +4,6 @@ Welcome to the **Machine Learning with Python** repository — a hands-on, begin
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
- <p align="center">
-  <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing">
-    <img 
-      src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA" 
-      alt="AI Code Gen"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/imresizer-Media%20(1).jpg?raw=true"
-    alt="Natural Language Processing Banner"
-    width="850"
-  />
-</p>
-
 <p align="center">
   <a href="https://github.com/dr-mushtaq/Machine-Learning/discussions" target="_blank">
     <button style="background-color:#0366d6; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:6px; cursor:pointer;">
@@ -543,6 +526,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅2-Apriori Algorithm**| [1](https://drive.google.com/file/d/1C3dqsQMY3CAwhP3r0Q-W3b7-QR-AierQ/view?usp=sharing)[-2](https://youtu.be/x2jMT9z-apc?si=alKbJ67haPLaNIHc)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](****) |[Doc](https://coursesteach.com/mod/page/view.php?id=10563)|
 |**✅4-Apriori Algorithm with simple example**| [1](https://drive.google.com/file/d/1GnmleWoUCToDXuCGwq8G0MycNBFMhNkp/view?usp=sharing)[-2](https://youtu.be/pPTKf5qfWIw?si=LzdonIm-ELUHmu9m)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Association_rule_Mining.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10573)|
 |**✅5-FP-growth Algorithm**| [1](https://drive.google.com/file/d/1GnmleWoUCToDXuCGwq8G0MycNBFMhNkp/view?usp=sharing)[-2](https://youtu.be/pPTKf5qfWIw?si=LzdonIm-ELUHmu9m)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Association_rule_Mining.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10573)|
+|**✅6-Association Rule, Example**| [1](https://drive.google.com/file/d/1GnmleWoUCToDXuCGwq8G0MycNBFMhNkp/view?usp=sharing)[-2](https://youtu.be/pPTKf5qfWIw?si=LzdonIm-ELUHmu9m)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Association_rule_Mining.ipynb) |[Doc](https://coursesteach.com/mod/page/view.php?id=10573)|[1](https://www.geeksforgeeks.org/machine-learning/association-rule/)|
+
 
 ## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
    - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
