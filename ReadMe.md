@@ -170,6 +170,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>Course 01 - ⚙️Machine Learning </h2> </summary>
 
+#### Course
+- **[Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)** - FREE
+
 ## 📚Chapter: 1  - **Introduction**
  
 | Topic Name/Tutorial  | Video | Video |collaboration doc|Extra Resources|
