@@ -1,4 +1,4 @@
-                                               ## Complete Machine Learning & Data Science A-Z Guide | Algorithms, Feature Selection & Implementation in Python
+## Complete Machine Learning & Data Science A-Z Guide | Algorithms, Feature Selection & Implementation in Python
 
 Welcome to the **Machine Learning with Python** repository — a hands-on, beginner-to-advanced level guide designed for students, educators, and self-learners. This open-source collection of **Jupyter Notebooks**, exercises, and datasets walks you through real-world machine learning workflows using Python, NumPy, Pandas, and Scikit-learn.
 
