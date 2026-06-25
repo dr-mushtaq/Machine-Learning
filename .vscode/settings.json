@@ -1,0 +1,34 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd '/Users/mayanksanghi/Documents/IIT Bombay/Semester 2/Deep Learning/Assignment-1/GIT_MayankSanghi_Assignment2/machineLearningDrMushtaq/Machine-Learning' && python3 - <<'PY'\nfrom itertools import islice\npath='Sklearn/supervised algorithm/Supervised_\\(Classification\\)_ML_Model_Training_and_Evulation_\\.ipynb'\nwith open\\(path,'r',encoding='utf-8'\\) as f:\n    lines=f\\.readlines\\(\\)\nfor i in range\\(52220-5,52280\\):\n    print\\(i\\+1, lines\\[i\\]\\.rstrip\\(\\)\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd '/Users/mayanksanghi/Documents/IIT Bombay/Semester 2/Deep Learning/Assignment-1/GIT_MayankSanghi_Assignment2/machineLearningDrMushtaq/Machine-Learning' && python3 - <<'PY'\nimport json, re\npath='Sklearn/supervised algorithm/Supervised_\\(Classification\\)_ML_Model_Training_and_Evulation_\\.ipynb'\nwith open\\(path,'r',encoding='utf-8'\\) as f:\n    data=json\\.load\\(f\\)\nfor idx,cell in enumerate\\(data\\.get\\('cells',\\[\\]\\)\\):\n    src=''\\.join\\(cell\\.get\\('source',\\[\\]\\)\\)\n    if 'Framwork and Tools' in src or 'Table of Content' in src or 'Table of contents' in src or 'Table of Content' in src:\n        print\\('CELL', idx, 'TYPE', cell\\.get\\('cell_type'\\)\\)\n        print\\(src\\[:400\\]\\)\n        print\\('---'\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd '/Users/mayanksanghi/Documents/IIT Bombay/Semester 2/Deep Learning/Assignment-1/GIT_MayankSanghi_Assignment2/machineLearningDrMushtaq/Machine-Learning/Sklearn/supervised algorithm' && python3 - <<'PY'\nimport json\npath='Supervised_\\(Classification\\)_ML_Model_Training_and_Evulation_\\.ipynb'\nwith open\\(path,'r',encoding='utf-8'\\) as f:\n    data=json\\.load\\(f\\)\nfor idx, cell in enumerate\\(data\\['cells'\\]\\):\n    if cell\\['cell_type'\\] == 'markdown':\n        src=''\\.join\\(cell\\['source'\\]\\)\n        if 'framework' in src\\.lower\\(\\) or 'table of content' in src\\.lower\\(\\) or 'table of contents' in src\\.lower\\(\\):\n            print\\('CELL', idx\\)\n            print\\(src\\)\n            print\\('---'\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd '/Users/mayanksanghi/Documents/IIT Bombay/Semester 2/Deep Learning/Assignment-1/GIT_MayankSanghi_Assignment2/machineLearningDrMushtaq/Machine-Learning/Sklearn/supervised algorithm' && python3 - <<'PY'\nimport json\npath='Supervised_\\(Classification\\)_ML_Model_Training_and_Evulation_\\.ipynb'\nwith open\\(path,'r',encoding='utf-8'\\) as f:\n    data=json\\.load\\(f\\)\nfor idx, cell in enumerate\\(data\\['cells'\\]\\):\n    src=''\\.join\\(cell\\.get\\('source',\\[\\]\\)\\)\n    if 'Framwork' in src or 'Table of Content' in src or 'Table of contents' in src or 'Table of Content' in src:\n        print\\('CELL', idx, 'TYPE', cell\\['cell_type'\\]\\)\n        print\\(repr\\(src\\[:500\\]\\)\\)\n        print\\('---'\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "Classification": true,
+        "_ML_Model_Training_and_Evulation_.ipynb": true,
+        "/^cd '/Users/mayanksanghi/Documents/IIT Bombay/Semester 2/Deep Learning/Assignment-1/GIT_MayankSanghi_Assignment2/machineLearningDrMushtaq/Machine-Learning' && python3 - <<'PY'\nimport json, os\nids=\\[\\('current','Data_Processing_in_Python_\\.ipynb'\\),\\('reference','Sklearn/supervised algorithm/Supervised_\\(Classification\\)_ML_Model_Training_and_Evulation_\\.ipynb'\\)\\]\nfor name,path in ids:\n    print\\('---',name,path,'---'\\)\n    with open\\(path,'r',encoding='utf-8'\\) as f:\n        data=json\\.load\\(f\\)\n    for idx,cell in enumerate\\(data\\['cells'\\]\\):\n        if cell\\['cell_type'\\]!='markdown':\n            continue\n        src=''\\.join\\(cell\\['source'\\]\\)\n        if any\\(term in src for term in \\['Framwork and Tools','Framework and Tools','Table of Content','Table of contents','Table of Content','Table of contents'\\]\\):\n            print\\('CELL',idx\\)\n            print\\(src\\)\n            print\\('---'\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd '/Users/mayanksanghi/Documents/IIT Bombay/Semester 2/Deep Learning/Assignment-1/GIT_MayankSanghi_Assignment2/machineLearningDrMushtaq/Machine-Learning/Sklearn/supervised algorithm' && python3 - <<'PY'\nimport json\npath='Supervised_\\(Classification\\)_ML_Model_Training_and_Evulation_\\.ipynb'\nwith open\\(path,'r',encoding='utf-8'\\) as f:\n    text=f\\.read\\(\\)\nfor term in \\['Framwork and Tools','Framework and Tools','Table of Content','Table of contents','Table of contents'\\]:\n    idx=text\\.find\\(term\\)\n    print\\(term, idx\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd '/Users/mayanksanghi/Documents/IIT Bombay/Semester 2/Deep Learning/Assignment-1/GIT_MayankSanghi_Assignment2/machineLearningDrMushtaq/Machine-Learning/Sklearn/supervised algorithm' && python3 - <<'PY'\nimport json,re\npath='Supervised_\\(Classification\\)_ML_Model_Training_and_Evulation_\\.ipynb'\nwith open\\(path,'r',encoding='utf-8'\\) as f:\n    data=json\\.load\\(f\\)\n\nfor idx,cell in enumerate\\(data\\.get\\('cells',\\[\\]\\)\\):\n    if cell\\.get\\('cell_type'\\)!='markdown':\n        continue\n    src=''\\.join\\(cell\\.get\\('source',\\[\\]\\)\\)\n    if re\\.search\\(r'fram\\|table\\|contents\\|content\\|tool', src, re\\.IGNORECASE\\):\n        print\\('CELL', idx, 'len', len\\(src\\)\\)\n        print\\(src\\[:800\\]\\)\n        print\\('---'\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
