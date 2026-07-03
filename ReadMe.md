@@ -154,6 +154,8 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - **[Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)** - FREE
 #### Github
 - **[Machine Learning Crash Course by Miscrofot](**https://github.com/microsoft/ML-For-Beginners**)** - FREE
+#### Blog Webite 
+- **[MLAcademy](**https://www.learnmlacademy.com/**)** - FREE
 
 ## 📚Chapter: 1  - **Introduction**
  
