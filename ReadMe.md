@@ -614,7 +614,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 ## 📚Chapter:2-**LLM**
 | Topic Name/Tutorial | Video | Code |Extra Learning|
 |---|---|---|---|
-| [**✅1-Scikit-Ollama Integration for Local Zero-Shot Text Classification⭐️**](https://mushtaqmsit.substack.com/p/regression-analysis-using-scikit) | [1](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[-2](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/6_21_26_Supervised_(Classification)_ML_Model_Training_and_Evulation.ipynb) |[Doc](https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/?fbclid=IwY2xjawTFOXBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEewTv1k1Qnhii3iQU92660xb4zFtnw079Fmmn1LUA0sZk_CK7yfPG7W-llJ6g_aem_qZW-OWqRjsMdosddBEkDNA)|
+| [**✅1-Scikit-Ollama Integration for Local Zero-Shot Text Classification⭐️**](https://mushtaqmsit.substack.com/p/regression-analysis-using-scikit) | [1](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Machine-Learning/blob/master/6_21_26_Supervised_(Classification)_ML_Model_Training_and_Evulation.ipynb) |[Doc](https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/?fbclid=IwY2xjawTFOXBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEewTv1k1Qnhii3iQU92660xb4zFtnw079Fmmn1LUA0sZk_CK7yfPG7W-llJ6g_aem_qZW-OWqRjsMdosddBEkDNA)|
 
 
 </details>
