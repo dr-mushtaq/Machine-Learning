@@ -208,7 +208,13 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 |**🌐3-Central Tendency**|[**1**](https://www.youtube.com/watch?v=Pk7kDdWuG1Q)[-2](https://youtu.be/QxkMUc_El9k?si=VBHsTLGy-OefEPK0)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
 |**🌐4-How to Calculate Similarity in Data**|[**1**](https://youtu.be/jFWp_I3Hd9A?si=3-I-ORzWAtsj4B7)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|---|
 
- ## 📚Chapter:4 -**Calculus**
+ ## 📚Chapter:4 -**Optimization**
+ |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+|---|---|---|---|---|
+|**✅1-Machine Learning Optimization Explained Simply**|[**1**](https://youtu.be/z9oJCDORHvs?si=29z_i8DNwjkf2qHF)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|--|
+|**✅2-Gradients, Minima & Optimality Made Easy**|[**1**](https://youtu.be/fWl9ITccsRA?si=qd6Gt1k6oDm783Or)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|--|
+
+## 📚Chapter:5 -**Calculus**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
 |**🌐1-Understand abouTslope**|[**1**](https://youtu.be/NzDSIw4WeqQ?si=FEuH97xxIR08re3q)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|--|
