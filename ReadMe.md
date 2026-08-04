@@ -919,6 +919,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 6-The big list of AI YouTube channels**](https://www.reddit.com/r/PromptEngineering/comments/1r21lyg/the_big_list_of_ai_youtube_channels/) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 7-Machine Learning Notebooks, 3rd edition**](https://github.com/ageron/handson-ml3) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 8-Machine Leanring Notbooks**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=oWaVAsoAKTBA) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 9-AI Engineer Roadmap**](https://github.com/zazencodes/ai-engineer-roadmap-notebooks/tree/main) | Comprehensive roadmap for AI courses               | Completed  |
 
 ## ➕ Additional Social Media Groups
 | **Title/Link**                                                                 | **Description**                                    | **Status** | Platform|
@@ -987,6 +988,12 @@ This table provides an overview of essential machine learning algorithms, organi
 | **Title/Link**                                                                 | **Description**                                   | **Code** |
 |---------------------------------------------------------------------------------|---------------------------------------------------|----------|
 | [**✅ 1-I Tried 25+ AI Coding Assistants — These 10 Are Worth Using**](https://javarevisited.substack.com/p/i-tried-30-ai-developer-tools-these) | Videos and GitHub resources for learning         | Not provided |
+
+## 👁️ Chapter 5: Machine Learning Notes
+
+| **Title/Link**                                                                 | **Description**                                   | **Code** |
+|---------------------------------------------------------------------------------|---------------------------------------------------|----------|
+| [**✅awesome Free University AI/ML Course Notes**](https://github.com/MarcosSete/awesome-free-ai-course-notes) | Videos and GitHub resources for learning| Not provided |
 
 </details>
    
