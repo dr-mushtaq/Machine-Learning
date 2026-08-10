@@ -920,6 +920,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 7-Machine Learning Notebooks, 3rd edition**](https://github.com/ageron/handson-ml3) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 8-Machine Leanring Notbooks**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=oWaVAsoAKTBA) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 9-AI Engineer Roadmap**](https://github.com/zazencodes/ai-engineer-roadmap-notebooks/tree/main) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 10-SELENE**](https://github.com/chrisvdweth/selene/tree/master) | Comprehensive roadmap for AI courses               | Completed  |
 
 ## ➕ Additional Social Media Groups
 | **Title/Link**                                                                 | **Description**                                    | **Status** | Platform|
