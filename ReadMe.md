@@ -214,6 +214,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 |---|---|---|---|---|
 |**✅1-Machine Learning Optimization Explained Simply**|[**1**](https://youtu.be/z9oJCDORHvs?si=29z_i8DNwjkf2qHF)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|--|
 |**✅2-Gradients, Minima & Optimality Made Easy**|[**1**](https://youtu.be/fWl9ITccsRA?si=qd6Gt1k6oDm783Or)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|--|
+|**✅3-Foundations of Unconstrained Optimization: Theory and Conditions**|[**1**](https://youtu.be/VoyAT2dA_3s?si=oiv54MJFE-JFS992)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5342&forceview=1)|--|
 
 ## 📚Chapter:5 -**Calculus**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
