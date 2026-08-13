@@ -156,6 +156,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - **[Machine Learning Crash Course by Miscrofot](**https://github.com/microsoft/ML-For-Beginners**)** - FREE
 #### Blog Webite 
 - **[MLAcademy](https://www.learnmlacademy.com)** - FREE
+- **[From Zero to Machine Learning Engineer by miscroft](https://learn.microsoft.com/en-us/collections/86w0cztk0gjpm4?wt.mc_id=studentamb_523020)** - FREE
 
 ## 📚Chapter: 1  - **Introduction**
  
