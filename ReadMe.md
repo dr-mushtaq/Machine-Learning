@@ -850,9 +850,6 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 3-cs-video-courses**](https://roadmap.sh/r/llm-engineer-ay1q6) | Comprehensive roadmap for AI courses               | Completed  |
 | [**✅ 4-ai-learning-roadmaps**](https://github.com/bishwaghimire/ai-learning-roadmaps) | Comprehensive roadmap for AI courses               | Completed  |
 
-
-
-
 ## 📚 Chapter 4: Machine Learning Algorithms (Every Data Scientist Must Know)
 
 This table provides an overview of essential machine learning algorithms, organized by learning paradigm (Supervised, Unsupervised, Semi-Supervised, Reinforcement, Deep Learning), with their key strengths, main limitations, and common use cases.
@@ -950,6 +947,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 5-Machine Learning Systems**](https://mlsysbook.ai/book/) | Principles and Practices of Engineering Artificially Intelligent Systems| Not provided |
 | [**✅ 6-Master Machine Learning with scikit-learn**](https://mlbook.dataschool.io/) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
 | [**✅ 7-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
+| [**✅ 8-bookshelf**](https://github.com/zhang-jian/bookshelf/tree/master) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
 
 ## 👁️ Chapter 5: Github Repositories
 
