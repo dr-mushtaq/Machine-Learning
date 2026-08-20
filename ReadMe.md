@@ -547,6 +547,8 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - **[Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/tree/master)** - FREE
 #### Blog website  
 - **[coderzcolumn](https://coderzcolumn.com/tutorials/python/)**
+#### Github  
+- **[100 Days of Machine Learning Challenge](https://100daysofml.github.io/Week_07/Lesson_31.html)**
 
  ## 🗃️ Lessons
  
