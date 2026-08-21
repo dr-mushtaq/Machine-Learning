@@ -152,6 +152,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 #### Course
 - **[Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)** - FREE
+- **[Production Machine Learning Systems Course by Coursera](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr08QQ873AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=4838646&utm_content=b2c&utm_campaignid=clcoding&utm_term=14726_SI_1164545_#modules)** - FREE
 #### Github
 - **[Machine Learning Crash Course by Miscrofot](**https://github.com/microsoft/ML-For-Beginners**)** - FREE
 #### Blog Webite 
