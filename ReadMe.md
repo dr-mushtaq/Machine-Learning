@@ -818,6 +818,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 38 | [**Introduction to Machine Learning**](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 | 39 | [**CS50's Introduction to Artificial Intelligence with Python**](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 | 40 | [**Machine Learning and AI with Python**](https://pll.harvard.edu/course/machine-learning-and-ai-python) | MIT ML course | Youtub |⭐️⭐️⭐️ |
+| 41 | [** Linear Algebra — MIT, Gilbert Strang**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | MIT ML course | Youtub |⭐️⭐️⭐️ |
+| 42 | [**Single Variable Calculus — MIT**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 
 
 
