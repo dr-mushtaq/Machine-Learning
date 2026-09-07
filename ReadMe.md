@@ -820,6 +820,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 40 | [**Machine Learning and AI with Python**](https://pll.harvard.edu/course/machine-learning-and-ai-python) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 | 41 | [** Linear Algebra — MIT, Gilbert Strang**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 | 42 | [**Single Variable Calculus — MIT**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | MIT ML course | Youtub |⭐️⭐️⭐️ |
+| 43 | [**Complete Machine Learning & Data Science Bootcamp 2021**](https://archive.org/details/complete-machine-learning-data-science-bootcamp-2021/%5BTutsNode.com%5D+-+Complete+Machine+Learning+%26+Data+Science+Bootcamp+2021/1.+Introduction/4.+Your+First+Day.mp4) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 
 
 
