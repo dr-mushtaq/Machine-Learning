@@ -332,6 +332,8 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 |**🌐8-Multivariate Gaussian Distribution**|[**1**](https://drive.google.com/file/d/1ZStTLl29CSGRg8fcvIMtGjyN2M07YCDp/view?usp=sharing)[-2](https://www.youtube.com/watch?v=-nhitvewIcc&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=29)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5558)|---|
 |**🌐9-Anomaly Detection using the Multivariate Gaussian Distribution**|[**1**](https://drive.google.com/file/d/17kGSskErF63Tbs2AxUhuGFjNcRG6aFVo/view?usp=sharing)[-2](https://youtu.be/NfJGyQU1EMo?si=GPgL7exHhy409btw)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5721)|---|
 
+|**🌐10-Anomaly Detection with Isolation Forest and Kernel Density Estimation**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[Doc](https://coursesteach.com/mod/page/view.php?id=5721)|[1](https://machinelearningmastery.com/anomaly-detection-with-isolation-forest-and-kernel-density-estimation/?fbclid=IwY2xjawUdlTpwZG9mAWV4dG4DYWVtAjExAGJyaWQRMXFEVWpKbW1jNXltd1JVY2tzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLx6eoc_c4oFjs-exf1C1ABUjd5eV4wMaEVpbeublrz77ysfWKZqgSsP-ELU_aem_VUmSsBLhSScFJAC85bZbRw)|
+
 ## 📚Chapter: 13 -**Recommender Systems**
  |Topic Name/Tutorial | Video | Code |Note|Extra Resources|
 |---|---|---|---|---|
