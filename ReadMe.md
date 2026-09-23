@@ -990,6 +990,13 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 19-100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master) |A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. | Pending    |
 | [**✅ 20-Machine Learning Course Notes**](https://github.com/dair-ai/ML-Course-Notes) |A place to collaborate and share lecture notes on all topics related to machine learning, NLP, and AI. | Pending    |
 
+## 👁️ Chapter 5: Bootcamp
+
+| **Title/Link** | **Description**| **Status** |
+|---|---|---|
+
+| [**✅ 1- Complete Machine Learning & Data Science Bootcamp 2021**](https://archive.org/details/complete-machine-learning-data-science-bootcamp-2021) | GitHub repository for machine learning roadmap | Pending    |
+
 
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title| Description | Tage| Resources |
