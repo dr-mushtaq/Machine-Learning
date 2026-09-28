@@ -855,6 +855,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 15-AI from Scratch**](https://aiengineeringfromscratch.com/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 16-ML Academy**](https://gussibedi.github.io/ML-Study/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 17-ML Visualization**](https://www.mlvisualization.com/) |Machine learning, made visual and playable. Drag the dots, move the sliders, and watch the math come alive — then dive into 40+ interactive explainers.| ---  |
+| [**✅ 18-AI Engineering from Scratch**](https://aiengineeringfromscratch.com/index.html) |523 lessons. 20 phases. Every algorithm built from raw math before a single framework gets imported.| ---  |
+
 
 
 ## 👁️ Chapter 2: ML Road Map
