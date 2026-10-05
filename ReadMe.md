@@ -155,7 +155,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - **[Production Machine Learning Systems Course by Coursera](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr08QQ873AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=4838646&utm_content=b2c&utm_campaignid=clcoding&utm_term=14726_SI_1164545_#modules)** - FREE
 #### Github
 - **[Machine Learning Crash Course by Miscrofot](**https://github.com/microsoft/ML-For-Beginners**)** - FREE
-- **[zero-to-ai](**https://zero-to-ai.dev/14-local-llms/02_open_source_models_overview**)** - FREE
+- **[zero-to-ai](**https://github.com/PavanMudigonda/zero-to-ai**)** - FREE
 #### Blog Webite 
 - **[MLAcademy](https://www.learnmlacademy.com)** - FREE
 - **[From Zero to Machine Learning Engineer by miscroft](https://learn.microsoft.com/en-us/collections/86w0cztk0gjpm4?wt.mc_id=studentamb_523020)** - FREE
