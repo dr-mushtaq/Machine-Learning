@@ -655,6 +655,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 <summary> <h2>Course 04 - 📚Machine Learning in Production </h2> </summary>
 #### Youtube 
 - [Machine Learning Deployment](https://www.youtube.com/playlist?list=PLV8yxwGOxvvrGSOqaPdxIpQKdPXJnZb17)
+ 
 #### Coureses
 - [Track and Evaluate ML Model Experiments](https://www.coursera.org/organizations/pakistan/learn/track-and-evaluate-ml-model-experiments utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1X-0g73AAU80&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_)** - FREE
 - [LLM Optimization & Evaluation Specialization](https://www.coursera.org/organizations/pakistan/specializations/llm-optimization-evaluation#courses)
