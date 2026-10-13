@@ -657,10 +657,10 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - [Machine Learning Deployment](https://www.youtube.com/playlist?list=PLV8yxwGOxvvrGSOqaPdxIpQKdPXJnZb17)
  
 #### Coureses
-- [Track and Evaluate ML Model Experiments](https://www.coursera.org/organizations/pakistan/learn/track-and-evaluate-ml-model-experiments utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1X-0g73AAU80&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_)** - FREE
-- [LLM Optimization & Evaluation Specialization](https://www.coursera.org/organizations/pakistan/specializations/llm-optimization-evaluation#courses)
+- [Track and Evaluate ML Model Experiments](https://www.coursera.org/organizations/pakistan/learn/track-and-evaluate-ml-model-experiments utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1X-0g73AAU80&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_) - FREE
+- [LLM Optimization & Evaluation Specialization](https://www.coursera.org/organizations/pakistan/specializations/llm-optimization-evaluation#courses)- FREE
 - [Machine Learning Operations Specialization]( https://www.coursera.org/organizations/pakistan/specializations/mlops-machine-learning-duke?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1X-WU73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_#courses)
-- [DevOps for Machine Learning]([https://www.youtube.com/playlist?list=PLV8yxwGOxvvrGSOqaPdxIpQKdPXJnZb17](https://www.coursera.org/organizations/pakistan/learn/devops-for-machine-learning-ci-cd-apis-and-deployment?utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1X6zg73AAU80&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_))
+- [DevOps for Machine Learning]([https://www.youtube.com/playlist?list=PLV8yxwGOxvvrGSOqaPdxIpQKdPXJnZb17](https://www.coursera.org/organizations/pakistan/learn/devops-for-machine-learning-ci-cd-apis-and-deployment?utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1X6zg73AAU80&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_))- FREE
 
 ## 📚Chapter: 1  - **Serverless Deep Learning**
 Deploy deep learning models using serverless technologies like AWS Lambda.
