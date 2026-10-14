@@ -562,6 +562,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 #### Blog website  
 - **[coderzcolumn](https://coderzcolumn.com/tutorials/python/)**
 - **[Zero to AI](https://zero-to-ai.dev/14-local-llms/02_open_source_models_overview)** - FREE
+- **[Building a RAG Pipeline with LLM Embeddings and Scikit-learn](https://machinelearningmastery.com/building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn/?fbclid=IwY2xjawU75khleHRuA2FlbQIxMABwZG9mAWJyaWQRMUZQNElPSDB4VGJXQlZIaWNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeqVhMO8Csyti3iDn4yGJj01_etK4SH-3D8LpZ2USYPpAfw75bv8YHkK2EDDU_aem_aE9gAWQxdCkFZK9KTyO6mw)** - FREE
 #### Github  
 - **[100 Days of Machine Learning Challenge](https://100daysofml.github.io/Week_07/Lesson_31.html)**
 - **[zero-to-ai](**https://zero-to-ai.dev/14-local-llms/02_open_source_models_overview**)** - FREE
@@ -663,6 +664,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - [Machine Learning Operations Specialization]( https://www.coursera.org/organizations/pakistan/specializations/mlops-machine-learning-duke?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1X-WU73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_#courses)
 - [DevOps for Machine Learning](https://www.coursera.org/organizations/pakistan/learn/devops-for-machine-learning-ci-cd-apis-and-deployment?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1Slw873AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_)- FREE
 - [ML Model Deployment](https://www.coursera.org/organizations/pakistan/learn/ml-model-deployment-build-a-production-api-with-fastapi?utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1SgSQ73AAU80&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_)
+- [MLOps for AI Engineers Roadmap]([https://www.coursera.org/organizations/pakistan/learn/ml-model-deployment-build-a-production-api-with-fastapi?utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr1SgSQ73AAU80&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545](https://amanxai.com/2026/10/12/mlops-for-ai-engineers-roadmap/?fbclid=IwY2xjawU75q1leHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7GeTNCeMYcTMPTPXjDvecapVIUGSE5Bhwy1BxEu7a5NeTZq132Oj34tE-d3w_aem_uLWakhbLkoHsLAzsv2IhJA)_)
 
 ## 📚Chapter: 1  - **Serverless Deep Learning**
 Deploy deep learning models using serverless technologies like AWS Lambda.
