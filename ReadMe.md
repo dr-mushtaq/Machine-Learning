@@ -880,6 +880,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 16-ML Academy**](https://gussibedi.github.io/ML-Study/) |Visual explanations of core machine learning concepts.| [Github](https://github.com/themanoftalent/ml-course-offline)  |
 | [**✅ 17-ML Visualization**](https://www.mlvisualization.com/) |Machine learning, made visual and playable. Drag the dots, move the sliders, and watch the math come alive — then dive into 40+ interactive explainers.| ---  |
 | [**✅ 18-AI Engineering from Scratch**](https://aiengineeringfromscratch.com/index.html) |523 lessons. 20 phases. Every algorithm built from raw math before a single framework gets imported.| ---  |
+| [**✅ 19-GroundUp Lab**](https://lab.groundup.workers.dev/theory/#home) |A rigorous, self-paced route from mathematical language to LLM systems. Every idea is derived, drawn as a figure you can drag, and implemented in Python that runs right in your browser.| ---  |
+
 
 
 
