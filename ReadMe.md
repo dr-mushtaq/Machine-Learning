@@ -566,6 +566,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 #### Github  
 - **[100 Days of Machine Learning Challenge](https://100daysofml.github.io/Week_07/Lesson_31.html)**
 - **[zero-to-ai](**https://zero-to-ai.dev/14-local-llms/02_open_source_models_overview**)** - FREE
+- **[Machine Learning Concepts](**[https://zero-to-ai.dev/14-local-llms/02_open_source_models_overview](https://inria.github.io/scikit-learn-mooc/)**)** - FREE
 
 
  ## 🗃️ Lessons
