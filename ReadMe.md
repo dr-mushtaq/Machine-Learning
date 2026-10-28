@@ -866,6 +866,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | [**✅ 4-Deep-ML**](https://www.deep-ml.com/) | Interactive learning of ML, solve ML problems       | Completed  |
 | [**✅ 5-LeetGPU**](https://leetgpu.com/challenges) | It offers real-time execution and GPU simulation for learning and performance analysis.| InProgress  |
 | [**✅ 6-Machine Learning Visualized**](https://ml-visualized.com/index.html) | Visualizes Machine Learning Algorithms.| InProgress  |
+| [**✅ 6-Learn to build with AI**]([https://ml-visualized.com/index.html](https://learning.nextia-ai.com/)) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 7-scikit-learn-mooc**](https://inria.github.io/scikit-learn-mooc/toc.html) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 8-Machine Learning Resources**](https://ml-resources.vercel.app/) | Visualizes Machine Learning Algorithms.| InProgress  |
 | [**✅ 8-Made With ML**](https://madewithml.com/#course) | Visualizes Machine Learning Algorithms.| InProgress  |
