@@ -855,6 +855,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 42 | [**Single Variable Calculus — MIT**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 | 43 | [**Complete Machine Learning & Data Science Bootcamp 2021**](https://archive.org/details/complete-machine-learning-data-science-bootcamp-2021/%5BTutsNode.com%5D+-+Complete+Machine+Learning+%26+Data+Science+Bootcamp+2021/1.+Introduction/4.+Your+First+Day.mp4) | MIT ML course | Youtub |⭐️⭐️⭐️ |
 | 44 | [**Practical Machine Learning by coursera**](https://www.coursera.org/learn/practical-machine-learning) | MIT ML course | Youtub |⭐️⭐️⭐️ |
+| 45 | [**AI for Education**](https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:unit-teaching-with-ai/x68ea37461197a514:ai-101-for-teachers-lesson/v/ai-101-for-teachers-fireside-chat-with-sal-khan-and-hadi-partovi) | KhanAcademy | Youtub |⭐️⭐️⭐️ |
+
 
 
 
