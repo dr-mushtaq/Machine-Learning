@@ -999,6 +999,7 @@ This table provides an overview of essential machine learning algorithms, organi
 | [**✅ 7-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
 | [**✅ 8-bookshelf**](https://github.com/zhang-jian/bookshelf/tree/master) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
 | [**✅ 9-Data Scientist Toolbox-Google Drive**](https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD) | This is a practical guide to help you transform from Machine Learning novice to skilled Machine Learning practitioner.s| Not provided |
+|[**✅8- Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 
 ## 👁️ Chapter 5: Github Repositories
 
