@@ -858,6 +858,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | 45 | [**AI for Education**](https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:unit-teaching-with-ai/x68ea37461197a514:ai-101-for-teachers-lesson/v/ai-101-for-teachers-fireside-chat-with-sal-khan-and-hadi-partovi) | KhanAcademy | Youtub |⭐️⭐️⭐️ |
 | 45 | [**⭐️Machine Learning and Deep Learning for Software Engineers Specialization**](https://www.coursera.org/organizations/pakistan/specializations/machine-learning-deep-learning?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4UkrUUg0w73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_#courses) | KhanAcademy | Youtub |⭐️⭐️⭐️ |
 | 46 | [**⭐️IBM AI Developer Professional Certificate**](https://www.coursera.org/organizations/pakistan/professional-certificates/applied-artifical-intelligence-ibm-watson-ai?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4UkrUUa0Y73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_#courses) | KhanAcademy | Youtub |⭐️⭐️⭐️ |
+| 47 | [**⭐️CMU Machine Learning with Large Datasets by Griffin School of Computer Science**](https://www.youtube.com/playlist?list=PLOz411Ejgqdw) |Griffin School of Computer Science | Youtub |⭐️⭐️⭐️ |
+| 47 | [**⭐️CMU Machine Learning in Production by Griffin School of Computer Science**](https://www.youtube.com/playlist?list=PLDOc_XHH9ABE) |Griffin School of Computer Science | Youtub |[1](https://www.cs.cmu.edu/learn/) |
 
 
 
