@@ -44,7 +44,7 @@ Thank you for your generous support! 🌟
 - Subscribe to [Couresesteach on YouTube](https://www.youtube.com/watch?v=A6KWIhgiyKc) and review the [course playlist](https://www.youtube.com/watch?v=A6KWIhgiyKc).
 - Read and Contribute in Machine Learning Notes [ Machine Learning Notes](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing).
 - Enroll in Complete Machine Learning Courese [Machine Learning!](https://coursesteach.com/course/view.php?id=6) to Solve quiz and find extr resources
-- Machine Leanring Diagram [Diagram!](https://coursesteach.com/course/view.php?id=6) to Solve quiz and find extr resources
+- Machine Leanring Diagram [Diagram!](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Diagram.md) 
 
 ## **Contributing🙌**
 We believe that the most effective learning and growth happen when people come together to exchange knowledge and ideas. Whether you're an experienced professional or just beginning your machine learning journey, your input can be valuable to the community.
