@@ -39,6 +39,13 @@ You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [G
 Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
 
+## Quick Start Checklist with Links
+
+- Subscribe to [Couresesteach on YouTube](https://www.youtube.com/watch?v=A6KWIhgiyKc) and review the [course playlist](https://www.youtube.com/watch?v=A6KWIhgiyKc).
+- Read and Contribute in Machine Learning Notes [ Machine Learning Notes](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing).
+- Enroll in Complete Machine Learning Courese [Machine Learning!](https://coursesteach.com/course/view.php?id=6) to Solve quiz and find extr resources
+- Machine Leanring Diagram [Diagram!](https://coursesteach.com/course/view.php?id=6) to Solve quiz and find extr resources
+
 ## **Contributing🙌**
 We believe that the most effective learning and growth happen when people come together to exchange knowledge and ideas. Whether you're an experienced professional or just beginning your machine learning journey, your input can be valuable to the community.
 We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please contact on my **skype ID: themushtaq48** for guidelines on how to contribute.
