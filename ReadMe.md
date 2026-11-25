@@ -20,10 +20,6 @@ Machine Learning Algorithms in Python, Complete ML Guide Tutoria, Data Science I
 
 The A-Z Guide to Machine Learning is a comprehensive resource designed to cater to both beginners and experienced practitioners in the field of Machine Learning. Whether you're just starting your journey into ML or seeking to deepen your understanding and refine your skills, this repository has something for everyone.
 
-<p align="center">
-<img src="https://github.com/hussain0048/Machine-Learning/blob/master/438058314_3872280102992838_2811757508132819156_n.jpg"></a>
-</p>
-
 <div>
 <h2>💖 Sponsors</h2>
 
@@ -42,32 +38,6 @@ You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [G
 
 Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
-
-
-## What You’ll Learn
-
-- 📊 **Data Preprocessing**: Cleaning, encoding, scaling, handling missing values
-- 📈 **Supervised Learning**: Linear regression, logistic regression, SVMs, decision trees
-- 🧠 **Unsupervised Learning**: Clustering with K-Means, PCA, hierarchical clustering
-- 🧪 **Model Evaluation**: Confusion matrix, cross-validation, precision, recall
-- ⚙️ **Scikit-Learn Pipeline**: Automating ML workflows
-- 🧹 **Feature Engineering**: Selection, extraction, and transformation
-- 🛠️ **Project-based learning**: Mini-projects to apply ML to real-world datasets
-
-## **Features👋🛒**
-
-Extensive Algorithm Coverage: Explore a wide range of ML algorithms, including but not limited to linear regression, decision trees, support vector machines, neural networks, clustering techniques, and more.
-
-**1- Hands-On Implementations:** Dive into practical implementations of these algorithms in Python, alongside explanations and insights into their workings.
-
-**2- Code Examples and Jupyter Notebooks**: Access code examples and Jupyter notebooks that provide step-by-step guidance, making it easier to grasp complex concepts and experiment with different techniques.
-
-**3- Supplementary Resources**: Discover additional resources, such as articles, tutorials, and datasets, to supplement your learning and enhance your understanding of Machine Learning principles and applications.
-
-**4- Contents**
-Algorithms: Implementation examples of various ML algorithms, organized for easy navigation and reference.
-
-**5- Techniques:** Practical demonstrations of ML techniques, such as feature engineering, model evaluation, hyperparameter tuning, and more.
 
 ## **Contributing🙌**
 We believe that the most effective learning and growth happen when people come together to exchange knowledge and ideas. Whether you're an experienced professional or just beginning your machine learning journey, your input can be valuable to the community.
